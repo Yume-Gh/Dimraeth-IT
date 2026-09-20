@@ -58,6 +58,8 @@ i dubbi rimasti e le incoerenze trovate **nell'originale inglese**.
 
 ## Per chi vuole guardarci dentro
 
+*Da qui in poi è roba per chi sviluppa: per giocare basta la release.*
+
 ```
 it/           la traduzione: 16 CSV, uno per categoria
 tools/        estrazione, dizionari, cornici, validatore, patcher
@@ -80,11 +82,20 @@ python tools/patch.py install --game "<cartella del gioco>" --label
 python tools/validate.py --game "<cartella del gioco>"
 ```
 
-### Cosa non c'è in questo repository
+### Se vuoi lavorare alla traduzione
 
-Lo **script originale del gioco** — `source/`, con i testi in inglese, tedesco,
-spagnolo, portoghese e russo, e `glossary/names.csv` con le rese ufficiali — non
-è pubblicato: è materiale di Mudtek. Si rigenera dalla propria copia del gioco:
+> **Se stai solo giocando, niente di questa sezione ti serve.** Per tornare al
+> gioco originale basta il tasto **«Rimuovi»** dell'installer: rimette i file
+> come erano, byte per byte.
+
+Lo **script originale del gioco** non è in questo repository: `source/`, con i
+testi in inglese, tedesco, spagnolo, portoghese e russo, e `glossary/names.csv`
+con le rese ufficiali, sono materiale di Mudtek.
+
+Servono per **produrre** la traduzione, non per usarla: sono il testo di
+partenza da cui si traduce e con cui il validatore confronta le chiavi. Si
+rigenerano dalla propria copia del gioco, con una lettura che non modifica
+nulla:
 
 ```bash
 python tools/extract.py --game "<cartella del gioco>"
