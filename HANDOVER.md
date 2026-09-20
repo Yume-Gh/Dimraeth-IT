@@ -4,10 +4,10 @@ Documento di passaggio fra sessioni. Aggiornato al 2026-09-20.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata.
 
-**Cartella del progetto:** `E:\Dimraeth-IT`
+**Cartella del progetto:** `E:\Dimraeth Traduzione IT`
 **Cartella del gioco:** `E:\Games\Steam\steamapps\common\Dimraeth`
 
-Aprire `E:\Dimraeth-IT` come cartella di lavoro: i percorsi relativi di questo
+Aprire `E:\Dimraeth Traduzione IT` come cartella di lavoro: i percorsi relativi di questo
 documento e dei brief si risolvono da lì.
 
 ---
@@ -106,11 +106,11 @@ gh release create v1.1 installer/release/*/Dimraeth-IT-Setup.exe --notes-file <n
 
 ### Dov'è il lavoro, e cosa lo minaccia
 
-Il progetto vive in `E:\Dimraeth-IT`, **fuori dalla cartella del gioco**: un
+Il progetto vive in `E:\Dimraeth Traduzione IT`, **fuori dalla cartella del gioco**: un
 aggiornamento Steam non lo tocca. Sono 20,8 MB, 240 file.
 
 **Copie di sicurezza:** GitHub (tutto tranne `source/` e `glossary/`) e
-`D:- Games\Dimraeth-IT-backup6-09-20\` (tutto, compresi gli originali)
+`D:\10- Games\Dimraeth Traduzione IT - backup\2026-09-20\` (tutto, compresi gli originali)
 verificata con SHA256 file per file, zero differenze. È su un **disco fisico
 diverso** (D: è il SATA da 4 TB, E: un NVMe), quindi regge anche a un guasto
 del disco di lavoro. Rifarla dopo ogni sessione di modifiche, con la data nuova.
@@ -153,7 +153,7 @@ python tools/patch.py status --game "<gioco>"     # dira' se il backup e' obsole
 # se lo e':
 #   1. spostare altrove il .bak vecchio, senza cancellarlo
 #   2. python tools/extract.py --game "<gioco>"
-#   3. confrontare i nuovi source/English con la copia in D:\...\Dimraeth-IT-backup
+#   3. confrontare i nuovi source/English con la copia in D:\...\Dimraeth Traduzione IT - backup
 ```
 
 Se il testo inglese è **invariato**, basta reinstallare: il nuovo backup viene
