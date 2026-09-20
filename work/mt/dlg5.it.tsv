@@ -1,0 +1,787 @@
+NPC_AELWYNOR_GREETING_19b8a76b-35e3-496b-99ca-6fdd00dc8f3e	*Il titano di corteccia e corna giace esausto sotto l'albero antico, le membra abbandonate, le radici sciolte. I rami che si dibattevano furiosi ora pendono immobili. Quando la presenza del Re della Foresta ti sfiora ancora la mente, la tempesta è passata; resta soltanto il peso delle conseguenze.*<x1/><x2/>"La mia volontà… Credevo di sottrarla alle catene della Madre. Ora vedo soltanto una scia di cenere alle mie spalle. Questo… è ciò che ho fatto."
+NPC_AELWYNOR_GREETING_d75cc77a-cc85-4a0b-8c00-63a37612046f	*Wildwood si apre su un'immensa radura alberata. Al centro si erge un albero di altezza inconcepibile, la cui chioma si perde tra le fronde sovrastanti. Alle sue radici si staglia un cervo grande quanto una fortezza, i fianchi avvolti da corteccia viva e radici attorcigliate. I suoi occhi incontrano i tuoi, antichi e insondabili, e una voce preme nella tua mente.*<x1/><x2/>"Mortale. Ti trovi dove la tua stirpe ha da tempo perduto il diritto di posare il piede. Ho sigillato questo sentiero, rivolto radici e pietra contro di voi, e ancora ti apri un varco con gli artigli nel cuore più sacro della nostra dimora. Creature tanto ostinate… per vite tanto brevi. Perché sei qui?"
+NPC_AELWYNOR_PLAYER_17702b29-d31e-4867-8d5b-3f87bfa28c7b_HEROIC	Senti anche tu che è ingiusto. Gli abitanti sono stati costretti a erigere difese contro i Goblin.
+NPC_AELWYNOR_PLAYER_17702b29-d31e-4867-8d5b-3f87bfa28c7b_JOKER	Persino tu sai che non torna. Delle mura contro i Goblin non sono certo un insulto.
+NPC_AELWYNOR_PLAYER_17702b29-d31e-4867-8d5b-3f87bfa28c7b_SCHOLAR	Ne riconosci l'ingiustizia. Gli abitanti hanno costruito le mura perché i Goblin li hanno costretti.
+NPC_AELWYNOR_PLAYER_17702b29-d31e-4867-8d5b-3f87bfa28c7b_STOIC	Sai che non è giusto. Gli abitanti dovevano difendersi dai Goblin.
+NPC_AELWYNOR_PLAYER_19cdd6b7-199a-492b-ba94-d8ff8add6348_HEROIC	La lotta è finita. Riposa, ora: col tempo ritroverai le forze.
+NPC_AELWYNOR_PLAYER_19cdd6b7-199a-492b-ba94-d8ff8add6348_JOKER	Questione chiusa. Riposa bene e ricresci più verde di prima.
+NPC_AELWYNOR_PLAYER_19cdd6b7-199a-492b-ba94-d8ff8add6348_SCHOLAR	Finisce qui. Riposa. Il tempo ricostituirà ciò che la rabbia ha consumato.
+NPC_AELWYNOR_PLAYER_19cdd6b7-199a-492b-ba94-d8ff8add6348_STOIC	È finita. Riposa. Col tempo ti riprenderai.
+NPC_AELWYNOR_PLAYER_3126f93f-4f50-4eed-b54e-18d89d31c3aa_HEROIC	Ognuno ha il diritto di difendere ciò che è suo. È la forza a decidere chi ci riesce. La tua non è bastata.
+NPC_AELWYNOR_PLAYER_3126f93f-4f50-4eed-b54e-18d89d31c3aa_JOKER	Tutti possiamo difendere quel che è nostro. Ci riesce solo chi è forte. Tu no.
+NPC_AELWYNOR_PLAYER_3126f93f-4f50-4eed-b54e-18d89d31c3aa_SCHOLAR	Tutti hanno il diritto di difendere ciò che possiedono. Solo i forti vi riescono. Tu sei stato debole.
+NPC_AELWYNOR_PLAYER_3126f93f-4f50-4eed-b54e-18d89d31c3aa_STOIC	Tutti abbiamo diritto a difendere ciò che è nostro. Solo i forti ci riescono. Tu sei stato debole.
+NPC_AELWYNOR_PLAYER_348a62c9-f6cb-46f9-93c2-0c49890a91f4_HEROIC	Ora vedi la verità, ma il male fatto non si può cancellare. Il tuo tempo è finito.
+NPC_AELWYNOR_PLAYER_348a62c9-f6cb-46f9-93c2-0c49890a91f4_JOKER	Ora ci arrivi, giusto in tempo per la fine.
+NPC_AELWYNOR_PLAYER_348a62c9-f6cb-46f9-93c2-0c49890a91f4_SCHOLAR	Ora comprendi. Troppo tardi per la foresta, e per te.
+NPC_AELWYNOR_PLAYER_348a62c9-f6cb-46f9-93c2-0c49890a91f4_STOIC	Ora capisci, ma il danno è fatto. Il tuo tempo è finito.
+NPC_AELWYNOR_PLAYER_4f1a3ba5-f3e8-4394-8932-368101d8bb77_BASE	Chi erano questi emissari?
+NPC_AELWYNOR_PLAYER_61655042-ec73-4fde-950b-05a0d4878670_HEROIC	Sei stato uno sciocco. Riposa, e al risveglio sii più saggio.
+NPC_AELWYNOR_PLAYER_61655042-ec73-4fde-950b-05a0d4878670_JOKER	Uno sciocco, e adesso pure stanco. Riposa, e la prossima volta punta più in alto.
+NPC_AELWYNOR_PLAYER_61655042-ec73-4fde-950b-05a0d4878670_SCHOLAR	Sei stato uno sciocco, palesemente. Riposa, e la prossima volta ragiona meglio.
+NPC_AELWYNOR_PLAYER_61655042-ec73-4fde-950b-05a0d4878670_STOIC	Sei stato uno sciocco. Riposa. Fa' meglio la prossima volta.
+NPC_AELWYNOR_PLAYER_67461c84-066d-40e0-a5d1-4ede27194041_HEROIC	Forse avresti dovuto cercare di capire, invece di lasciarti guidare dalla rabbia?
+NPC_AELWYNOR_PLAYER_67461c84-066d-40e0-a5d1-4ede27194041_JOKER	La rabbia, dunque. Capire richiedeva troppo sforzo, immagino?
+NPC_AELWYNOR_PLAYER_67461c84-066d-40e0-a5d1-4ede27194041_SCHOLAR	Forse comprendere ti sarebbe stato più utile che cedere alla rabbia?
+NPC_AELWYNOR_PLAYER_67461c84-066d-40e0-a5d1-4ede27194041_STOIC	Forse dovevi cercare di capire, anziché infuriarti?
+NPC_AELWYNOR_PLAYER_6ae6e663-237c-4963-9786-cdd076bc083e_HEROIC	Ho sentito abbastanza. Sei una bestia folle. È una ragione sufficiente.
+NPC_AELWYNOR_PLAYER_6ae6e663-237c-4963-9786-cdd076bc083e_JOKER	Sentito abbastanza. Una bestia folle: a chi serve un altro motivo?
+NPC_AELWYNOR_PLAYER_6ae6e663-237c-4963-9786-cdd076bc083e_SCHOLAR	Ho sentito abbastanza. La tua follia bestiale è una ragione sufficiente; non ne occorrono altre.
+NPC_AELWYNOR_PLAYER_6ae6e663-237c-4963-9786-cdd076bc083e_STOIC	Ho sentito abbastanza. Sei una bestia folle. Non mi serve altro per ucciderti.
+NPC_AELWYNOR_PLAYER_6c0939b2-9869-4188-9feb-19a0a2129a84_HEROIC	Sono qui per porre fine al tuo regno, bestia spregevole.
+NPC_AELWYNOR_PLAYER_6c0939b2-9869-4188-9feb-19a0a2129a84_JOKER	È scaduto il tuo tempo, bestia. Non si accettano ricorsi.
+NPC_AELWYNOR_PLAYER_6c0939b2-9869-4188-9feb-19a0a2129a84_SCHOLAR	Sono qui per porre fine alla tua esistenza, bestia. Le ragioni sono ormai chiare.
+NPC_AELWYNOR_PLAYER_6c0939b2-9869-4188-9feb-19a0a2129a84_STOIC	Sono qui per ucciderti, bestia.
+NPC_AELWYNOR_PLAYER_7b245b0b-45e2-4415-87dd-4548653ee03e_HEROIC	La violenza genera soltanto altra violenza. Non posso permettere che continui.
+NPC_AELWYNOR_PLAYER_7b245b0b-45e2-4415-87dd-4548653ee03e_JOKER	La violenza continua a invitare altra violenza. Sono qui per rifiutare l'invito.
+NPC_AELWYNOR_PLAYER_7b245b0b-45e2-4415-87dd-4548653ee03e_SCHOLAR	La violenza genera chi la perpetua. Non ti lascerò allungare la catena.
+NPC_AELWYNOR_PLAYER_7b245b0b-45e2-4415-87dd-4548653ee03e_STOIC	La violenza genera violenza. Non posso lasciartelo fare.
+NPC_AELWYNOR_PLAYER_a6ad3f93-f2c7-4075-806e-f6fd0bb64563_HEROIC	Sono qui per chiederti perché hai lasciato che la Corruzione prendesse la foresta senza opporti.
+NPC_AELWYNOR_PLAYER_a6ad3f93-f2c7-4075-806e-f6fd0bb64563_JOKER	Cos'è che ti ha fatto lasciare la foresta alla Corruzione? Curiosità o resa?
+NPC_AELWYNOR_PLAYER_a6ad3f93-f2c7-4075-806e-f6fd0bb64563_SCHOLAR	Perché lasciare che la Corruzione prendesse la foresta? Consenso o sfinimento?
+NPC_AELWYNOR_PLAYER_a6ad3f93-f2c7-4075-806e-f6fd0bb64563_STOIC	Sono qui per chiederti: perché lasciare la foresta alla Corruzione?
+NPC_AELWYNOR_PLAYER_aa311ea1-e4dc-4b11-bc41-4b2a47c47d2f_HEROIC	Hai lasciato che la Corruzione spezzasse la tua forza. Questa è l'unica verità.
+NPC_AELWYNOR_PLAYER_aa311ea1-e4dc-4b11-bc41-4b2a47c47d2f_JOKER	La Corruzione ti ha steso e ti ha lasciato solo la debolezza. Direi che il succo è questo.
+NPC_AELWYNOR_PLAYER_aa311ea1-e4dc-4b11-bc41-4b2a47c47d2f_SCHOLAR	Prima la debolezza, poi la Corruzione. L'ordine conta, e ti condanna.
+NPC_AELWYNOR_PLAYER_aa311ea1-e4dc-4b11-bc41-4b2a47c47d2f_STOIC	Sei debole e hai ceduto alla Corruzione. Non c'è altro da dire.
+NPC_AELWYNOR_PLAYER_c14a43c6-7d62-47c0-b319-04ab67d57aff_HEROIC	È finita. Lascia andare.
+NPC_AELWYNOR_PLAYER_c14a43c6-7d62-47c0-b319-04ab67d57aff_JOKER	Quel che è fatto è fatto. È ora di lasciar andare.
+NPC_AELWYNOR_PLAYER_c14a43c6-7d62-47c0-b319-04ab67d57aff_SCHOLAR	È finita. Aggrapparvisi non serve più a nulla.
+NPC_AELWYNOR_PLAYER_c14a43c6-7d62-47c0-b319-04ab67d57aff_STOIC	Ora è finita. Lascia perdere.
+NPC_AELWYNOR_PLAYER_cfa397ae-01b0-4ae4-a846-9ee04d2eb478_HEROIC	Gli abitanti hanno scelto. Tu ti sei difeso. Io ti ho fermato. Chi decide dove finisce?
+NPC_AELWYNOR_PLAYER_cfa397ae-01b0-4ae4-a846-9ee04d2eb478_JOKER	Tutti avevano le loro ragioni, me compreso. Chi dice basta?
+NPC_AELWYNOR_PLAYER_cfa397ae-01b0-4ae4-a846-9ee04d2eb478_SCHOLAR	Ciascuno di voi ha agito secondo il proprio diritto. Che cosa stabilisce dove quel diritto finisce?
+NPC_AELWYNOR_PLAYER_cfa397ae-01b0-4ae4-a846-9ee04d2eb478_STOIC	Gli abitanti hanno agito come credevano, tu ti sei difeso, io sono intervenuto. Dove ci si ferma?
+NPC_AELWYNOR_PLAYER_d0e5ae23-be85-429e-bd94-1448d26c7b79_HEROIC	Gli agenti di Sylbos hanno distorto la tua rabbia, e in quella tempesta hai smarrito la via.
+NPC_AELWYNOR_PLAYER_d0e5ae23-be85-429e-bd94-1448d26c7b79_JOKER	Gli agenti di Sylbos sapevano proprio come stuzzicare la tua rabbia, finché ci sei sparito dietro.
+NPC_AELWYNOR_PLAYER_d0e5ae23-be85-429e-bd94-1448d26c7b79_SCHOLAR	Gli agenti di Sylbos hanno alimentato la tua rabbia finché ha preso il tuo posto.
+NPC_AELWYNOR_PLAYER_d0e5ae23-be85-429e-bd94-1448d26c7b79_STOIC	Gli agenti di Sylbos hanno fatto leva sulla tua rabbia. Hai perso te stesso.
+NPC_AELWYNOR_PLAYER_edea8b98-53ac-471b-b403-1611b2411c63_BASE	Non vedi il dolore che tu stesso hai inflitto alla foresta, il male che hai lasciato entrare?
+NPC_AELWYNOR_PLAYER_fb0ab588-38c4-4e48-95e9-0610bf7bf8e6_BASE	Come hai potuto rinnegare Ceres?
+NPC_AELWYNOR_RESPONSE_05eb7fe7-80e9-42fc-8e32-351f3ea51ae9	"La volontà della Madre riteneva giuste le azioni degli umani… lei vedeva più lontano di me. Era la mia cecità a non tollerare quella verità. Ma lascia che ti riveli un segreto, mortale."<x1/><x2/><x3/><x4/>*La forma immensa del Re della Foresta ora sembra più piccola, come se il potere avesse già iniziato a ritirarsi dalla corteccia e dalle ossa. La sua voce nella tua mente è fioca ma salda, gravata dal peso di un'ammissione a lungo rimandata.*<x5/><x6/>"A noi che serviamo la Madre è concessa la sua volontà, non la sua mente. Questo è il «segreto». Fui creato per sentire il richiamo della sua legge: quando il cacciatore può prendere il cervo, quando i lupi possono cacciare il cacciatore, quando i mortali possono abbattere alberi e scacciare le bestie dalle tane e restare comunque entro i confini della sua giustizia. Ma la ragione che vi sta dietro, perché questa perdita sia concessa e quella no, perché la tua stirpe dovesse essere protetta anche a così caro prezzo per noi… questo non mi fu mai dato vedere. Scambiai quell'assenza per crudeltà. Quando gli umani presero tanta parte della foresta e lei disse ancora «lasciateli vivere», decisi che ci aveva abbandonati. Da quella decisione scaturì tutta la mia rabbia."
+NPC_AELWYNOR_RESPONSE_1e93ba26-7d73-4040-b5c9-a52303051d4c	"Hai ragione. Vedo con chiarezza soltanto alla fine, quando nulla può più essere risparmiato. Il mio tempo è finito, e questa rovina porta il mio nome."<x1/><x2/><x3/><x4/>*Incontri lo sguardo del Re della Foresta. Dove un tempo ardevano intere costellazioni, ora vedi quelle luci affievolirsi, spegnersi una a una.*<x5/><x6/>"Mi sono avvolto nella rabbia. Non comprendevo perché la Madre lo tollerasse: gli abbattimenti, gli incendi, quel prendere senza fine. Mi sembrava un abbandono. Poi giunsero loro… emissari degli Dei Oscuri. Non ululavano né minacciavano. Parlavano con dolcezza del nostro diritto a una volontà nostra, del nostro diritto a difenderci, del nostro diritto a provare quella rabbia… e ad agire in suo nome."
+NPC_AELWYNOR_RESPONSE_321426a3-c384-44a6-be72-9f8064585ef6	"Esseri di spirito resi manifesti, come noi figli della Madre. Giunsero senza ostilità, ammantati di cortesia. Non celarono la propria natura… soltanto il prezzo dei loro «doni». Diedero parole alla mia rabbia, e la chiamarono libertà."
+NPC_AELWYNOR_RESPONSE_3f7c526e-8ec5-4eb5-8638-04dee1696d5c	"Ceres parla di cicli e di ere, di un arazzo in cui le città mortali e le radici della foresta formano insieme un'armonia nella quale dovrei confidare, senza mai vederla. Ci chiede di sanguinare in silenzio per quel canto lontano. Ho guardato ciò che è, e ho voltato le spalle a ciò che lei promette potrà essere. Ho scelto le voci che parlano alla ferita che sento, anziché un sogno in cui mi si ordina di credere. Se questo significa rinnegarla, allora mi ha perduto quando ha scelto voi al nostro posto."
+NPC_AELWYNOR_RESPONSE_5558e408-b7f5-403c-bfe3-ede7c7ff05dd	"Cerchi di interrogarmi ora, alla fine. Vorresti soppesare la mia volontà con una mente che non sa vedere oltre una sola era di questo Bosco?"<x1/><x2/><x3/><x4/>*La radura sembra ripiegarsi verso il centro. Il peso nel tuo cranio cresce fino a farsi dolore lancinante, mentre la voce del cervo si avvolge sempre più stretta intorno ai tuoi pensieri.*<x5/><x6/>"Quando le vostre prime pietre sorsero su queste rupi, colpiste i nostri tronchi e strappaste le bestie alle loro tane per tenere in vita i vostri piccoli. La Madre disse: lasciateli fare. Quando cresceste di numero e le vostre covate tremarono d'inverno, ammucchiaste altri di noi sui vostri fuochi. La Madre disse: sopportate. Quando la progenie di Akolasis calò per pascersi di voi, la dilaniammo al vostro fianco: bestie, spiriti, radici e tempeste spezzati in vostra difesa, perché la Madre lo comandava.<x7/><x8/><x9/><x10/>Lo chiamava «equilibrio». Diceva che da qualche parte, oltre il mio sguardo, in ere che non avrei mai visto, tutte le ferite sarebbero state intessute in un bene più grande. La sua legge esigeva che, ogni volta che occorreva sangue, fosse il nostro.<x11/><x12/><x13/><x14/>Equilibrio? Io vedevo soltanto questo: ogni volta che qualcuno doveva soffrire perché voi poteste vivere, non eravate mai voi.<x15/><x16/><x17/><x18/>Per secoli soffocai la mia rabbia sotto quel mite comando. Vi guardai fortificare le mura, estendere i confini, prendere di più ogni volta che il pericolo passava, e ancora mi veniva detto: concedi, perdona, confida.<x19/><x20/><x21/><x22/>Poi giunsero altre voci: attraverso il marciume, attraverso l'ombra, attraverso le crepe nella presa della Madre. Chiamarono menzogna la sua misericordia. Mi mostrarono ciò che già sapevo fin nelle radici: che non vi fermerete mai, che la sua legge è una catena imposta soltanto a noi.<x23/><x24/><x25/><x26/>Così spezzai quella catena. Ho preso un'altra mano, accolto un'altra legge. Sotto di essa, non siamo il vostro scudo. Siamo la tempesta che vi annienta."
+NPC_AELWYNOR_RESPONSE_5cc24c7a-3570-41b0-87c4-732183ca7e35	"La violenza è sempre stata la vostra lingua. Acciaio, fuoco, fame: così avete parlato a noi, come avete parlato ai Goblin e al mondo intero. La Madre ci chiedeva di rispondere con pazienza e fiducia in un equilibrio lontano. Io rispondo con l'unica lingua che ci avete insegnato. Se mi stai dinanzi, intralci quella risposta. Fatti da parte, o nutri la terra."
+NPC_AELWYNOR_RESPONSE_60d4aa41-71ec-43a4-9962-ff9d84b64f57	"Uno sciocco, sì, che non vide le catene finché non si furono già serrate. Riposerò e ricorderò quella stoltezza finché la Madre non mi concederà di nuovo una forma. Va', mortale. Dove io ho aperto la via ai servi di Sylbos, tu dovrai scacciarli."
+NPC_AELWYNOR_RESPONSE_6cdc5f01-82d6-4a6f-bb07-282cd7024d1a	"Se rifiutare di inchinarsi a una legge che ci dà in pasto a voi per l'eternità è «Corruzione», allora io sono la Corruzione fatta carne. La chiami debolezza perché non ti serve. Io la chiamo la prima vera forza che questa foresta abbia mai conosciuto."<x1/><x2/><x3/><x4/>*Il contegno del cervo si infrange. I rami si dibattono, le radici lacerano il terreno e la sua voce irrompe nella tua mente come un tuono che rimbombi nel tronco del mondo.*<x5/><x6/>"Ci siamo guadagnati questa furia. Vi abbiamo guardati corazzare le mura con legno strappato ai nostri corpi e chiamarlo necessità. Vi abbiamo guardati svuotare tane e fiumi e chiamarlo sopravvivenza. Ogni volta, la Madre ci zittiva: così vanno le cose, diceva. Che vivano loro. Che viviate voi. Che paghiamo noi.<x7/><x8/><x9/><x10/>Ho scacciato la sua voce.<x11/><x12/><x13/><x14/>Basta «equilibrio». Basta sofferenza paziente avvolta in belle parole. Risponderemo alla storia per come l'abbiamo vissuta: voi avete preso senza fine, protetti dalla sua legge. Ora noi prendiamo senza chiedere perdono, sotto una legge diversa.<x15/><x16/><x17/><x18/>Abbatteremo ogni muro che la vostra paura ha innalzato, spaccheremo ogni pietra posata su di noi e sommergeremo di radici i vostri villaggi finché di voi non resterà altro che terra. La foresta si nutrirà delle vostre ossa come voi vi siete nutriti della sua carne. I vostri dèi potranno chiamarlo peccato. Io lo chiamo il mondo che infine vi trasforma in ciò che avete fatto di noi."
+NPC_AELWYNOR_RESPONSE_6e11aff5-c0ea-41a7-8f90-6aa4558c611d	"Credi che non ricordi la loro paura sulle mura? Ricordo ogni grido. Ricordo ogni albero abbattuto per sostenere quelle pietre, ogni bestia scacciata perché i vostri figli potessero dormire. Le vostre ragioni per me sono cenere. Tu parli di ciò che dovevate fare; io parlo di quanto è costato a noi, ancora e ancora, mentre la Madre sussurrava che avrei dovuto esserne grato. Ho finito di ascoltare."<x1/><x2/><x3/><x4/>*Il contegno del cervo si infrange. I rami si dibattono, le radici lacerano il terreno e la sua voce irrompe nella tua mente come un tuono che rimbombi nel tronco del mondo.*<x5/><x6/>"Ci siamo guadagnati questa furia. Vi abbiamo guardati corazzare le mura con legno strappato ai nostri corpi e chiamarlo necessità. Vi abbiamo guardati svuotare tane e fiumi e chiamarlo sopravvivenza. Ogni volta, la Madre ci zittiva: così vanno le cose, diceva. Che vivano loro. Che viviate voi. Che paghiamo noi.<x7/><x8/><x9/><x10/>Ho scacciato la sua voce.<x11/><x12/><x13/><x14/>Basta «equilibrio». Basta sofferenza paziente avvolta in belle parole. Risponderemo alla storia per come l'abbiamo vissuta: voi avete preso senza fine, protetti dalla sua legge. Ora noi prendiamo senza chiedere perdono, sotto una legge diversa.<x15/><x16/><x17/><x18/>Abbatteremo ogni muro che la vostra paura ha innalzato, spaccheremo ogni pietra posata su di noi e sommergeremo di radici i vostri villaggi finché di voi non resterà altro che terra. La foresta si nutrirà delle vostre ossa come voi vi siete nutriti della sua carne. I vostri dèi potranno chiamarlo peccato. Io lo chiamo il mondo che infine vi trasforma in ciò che avete fatto di noi."
+NPC_AELWYNOR_RESPONSE_7107949c-9a19-4ba2-a64f-8ddd61027340	"Chiamala follia, se ti occorre una parola per benedire la tua lama. Ho visto chiaramente lo schema: voi vivete, altri pagano, e lo chiamate ordine. Spezzerò quello schema con il tuo sangue. Se non ti occorre altra ragione per colpire, colpisci. A me non occorre altra ragione per schiacciarti."
+NPC_AELWYNOR_RESPONSE_739ee8f1-8cbe-46ba-8f8f-bc212d8b63d7	"Sì. I servi di Sylbos mi trovarono quando già le avevo voltato le spalle. Non mi insegnarono la rabbia; si limitarono a incoronarla di belle parole e a chiamarla verità. Li accolsi perché mi dissero che avevo sempre avuto ragione."<x1/><x2/><x3/><x4/>*Il petto del grande cervo si alza e si abbassa in respiri lenti e superficiali. Ogni parola sembra costargli fatica, eppure le sospinge nella tua mente con le ultime forze.*<x5/><x6/>"Mi promisero forza, una volontà che non si inchinasse più a nessun'altra. Dissero che sarei stato libero di giudicare, libero di colpire, libero di rispondere a ogni ferita con la mia legge. Ma la rabbia sottrae più potere di quanto ne conceda. Ti brucia dentro, ti svuota, proprio mentre ti fa sentire più forte che mai. La rabbia ci rende tutti schiavi mentre ci fa credere di essere liberi. Ora vedo quanto interamente io stesso mi sia incatenato."
+NPC_AELWYNOR_RESPONSE_8154698f-53d5-47b1-b8c3-921cf3393243	"Ammanti la tua paura di insulti e minacce e la chiami forza. Sei una scintilla che grida alla tempesta, illudendosi di esserne padrona."<x1/><x2/><x3/><x4/>*La radura sembra ripiegarsi verso il centro. Il peso nel tuo cranio cresce fino a farsi dolore lancinante, mentre la voce del cervo si avvolge sempre più stretta intorno ai tuoi pensieri.*<x5/><x6/>"Quando le vostre prime pietre sorsero su queste rupi, colpiste i nostri tronchi e strappaste le bestie alle loro tane per tenere in vita i vostri piccoli. La Madre disse: lasciateli fare. Quando cresceste di numero e le vostre covate tremarono d'inverno, ammucchiaste altri di noi sui vostri fuochi. La Madre disse: sopportate. Quando la progenie di Akolasis calò per pascersi di voi, la dilaniammo al vostro fianco: bestie, spiriti, radici e tempeste spezzati in vostra difesa, perché la Madre lo comandava.<x7/><x8/><x9/><x10/>Lo chiamava «equilibrio». Diceva che da qualche parte, oltre il mio sguardo, in ere che non avrei mai visto, tutte le ferite sarebbero state intessute in un bene più grande. La sua legge esigeva che, ogni volta che occorreva sangue, fosse il nostro.<x11/><x12/><x13/><x14/>Equilibrio? Io vedevo soltanto questo: ogni volta che qualcuno doveva soffrire perché voi poteste vivere, non eravate mai voi.<x15/><x16/><x17/><x18/>Per secoli soffocai la mia rabbia sotto quel mite comando. Vi guardai fortificare le mura, estendere i confini, prendere di più ogni volta che il pericolo passava, e ancora mi veniva detto: concedi, perdona, confida.<x19/><x20/><x21/><x22/>Poi giunsero altre voci: attraverso il marciume, attraverso l'ombra, attraverso le crepe nella presa della Madre. Chiamarono menzogna la sua misericordia. Mi mostrarono ciò che già sapevo fin nelle radici: che non vi fermerete mai, che la sua legge è una catena imposta soltanto a noi.<x23/><x24/><x25/><x26/>Così spezzai quella catena. Ho preso un'altra mano, accolto un'altra legge. Sotto di essa, non siamo il vostro scudo. Siamo la tempesta che vi annienta."
+NPC_AELWYNOR_RESPONSE_a749eb8b-f8e5-46ca-a53b-70b6dc837f4f	"Vedo soltanto che, per una volta, il dolore colpisce entrambe le parti. Il male era in un mondo in cui ci si ordinava di soffrire in silenzio perché voi poteste credervi giusti. Ciò che ora chiami male è soltanto questo: il prezzo che infine ricade su di voi. Se ciò offende i vostri dèi, che discendano a fermarmi."
+NPC_AELWYNOR_RESPONSE_c8713ebe-73aa-41b4-ba32-7a87be4b066b	"Debole… sì. Troppo debole per confidare in ciò che non vedevo, troppo debole per sopportarne il prezzo senza odiarlo. La volontà della Madre riteneva giuste le azioni degli umani… ma lascia che ti riveli un segreto, mortale."<x1/><x2/><x3/><x4/>*La forma immensa del Re della Foresta ora sembra più piccola, come se il potere avesse già iniziato a ritirarsi dalla corteccia e dalle ossa. La sua voce nella tua mente è fioca ma salda, gravata dal peso di un'ammissione a lungo rimandata.*<x5/><x6/>"A noi che serviamo la Madre è concessa la sua volontà, non la sua mente. Questo è il «segreto». Fui creato per sentire il richiamo della sua legge: quando il cacciatore può prendere il cervo, quando i lupi possono cacciare il cacciatore, quando i mortali possono abbattere alberi e scacciare le bestie dalle tane e restare comunque entro i confini della sua giustizia. Ma la ragione che vi sta dietro, perché questa perdita sia concessa e quella no, perché la tua stirpe dovesse essere protetta anche a così caro prezzo per noi… questo non mi fu mai dato vedere. Scambiai quell'assenza per crudeltà. Quando gli umani presero tanta parte della foresta e lei disse ancora «lasciateli vivere», decisi che ci aveva abbandonati. Da quella decisione scaturì tutta la mia rabbia."
+NPC_AELWYNOR_RESPONSE_ec7d382d-3c28-41db-8cae-8c91288e0716	"No, mortale. Non attenuare tutto questo con parole gentili. È finita, ma ciò che ci lasciamo alle spalle è reale. Devo guardare quella verità mentre svanisco."<x1/><x2/><x3/><x4/>*Incontri lo sguardo del Re della Foresta. Dove un tempo ardevano intere costellazioni, ora vedi quelle luci affievolirsi, spegnersi una a una.*<x5/><x6/>"Mi sono avvolto nella rabbia. Non comprendevo perché la Madre lo tollerasse: gli abbattimenti, gli incendi, quel prendere senza fine. Mi sembrava un abbandono. Poi giunsero loro… emissari degli Dei Oscuri. Non ululavano né minacciavano. Parlavano con dolcezza del nostro diritto a una volontà nostra, del nostro diritto a difenderci, del nostro diritto a provare quella rabbia… e ad agire in suo nome."
+NPC_AELWYNOR_RESPONSE_fcadb20f-98dc-415b-80f8-ce1a07cbe1ef	"Avrei dovuto cercare di confidare in ciò che non comprendevo, come un tempo mi esortò a fare il grande mago. Scelsi invece la via più semplice: chiamare ingiusto ciò che non afferravo. In questo, la tua saggezza supera quella che ebbi io, mortale."<x1/><x2/><x3/><x4/>*Il petto del grande cervo si alza e si abbassa in respiri lenti e superficiali. Ogni parola sembra costargli fatica, eppure le sospinge nella tua mente con le ultime forze.*<x5/><x6/>"Mi promisero forza, una volontà che non si inchinasse più a nessun'altra. Dissero che sarei stato libero di giudicare, libero di colpire, libero di rispondere a ogni ferita con la mia legge. Ma la rabbia sottrae più potere di quanto ne conceda. Ti brucia dentro, ti svuota, proprio mentre ti fa sentire più forte che mai. La rabbia ci rende tutti schiavi mentre ci fa credere di essere liberi. Ora vedo quanto interamente io stesso mi sia incatenato."
+NPC_AELWYNOR_RESPONSE_fe198474-b978-424a-bda5-a1d2b2579324	"È finita… per ora. Sprofonderò nel lungo sonno della Madre e risorgerò soltanto quando mi chiamerà. In quelle tenebre soppeserò la sua volontà e il cammino che ho scelto. Fino ad allora, mortale, veglia su questa foresta. Non lasciare che gli Dei Oscuri se ne nutrano come si sono nutriti di me."
+NPC_AELWYNOR_TITLE	Il Padre delle Radici Selvatiche
+NPC_BASILTONSNOTE_NAME	Nota di Basilton
+NPC_CORIN_GREETING_4be66cde-e2c8-4311-9ff4-a433db3f4bb5	*Davanti a te c'è un giovane dai capelli neri, da cui emana un'intensità trattenuta.*<x1/><x2/>"Pare che siano finalmente riusciti ad attraversare il ponte. Te però non ti ho mai visto."
+NPC_CORIN_GREETING_55a82a29-086a-4ebe-944c-b969de5115d4	*Corin non si volta quando ti avvicini; muove soltanto gli occhi.*<x1/><x2/>"Di nuovo qui. Che c'è?"
+NPC_CORIN_GREETING_ea809f13-8b0c-4241-a7e3-40b18c367f7b	*Corin ti lancia un'occhiata fredda, valutandoti, prima di voltarsi del tutto verso di te.*<x1/><x2/>"Ce l’hai fatta. E hai portato a termine tutto. Mh. Non me l'aspettavo da te così presto."
+NPC_CORIN_GREETING_fc7ba3c5-03fd-4e4a-84ba-c4b2704744c2	*Corin ti osserva con la coda dell'occhio mentre ti avvicini.*<x1/><x2/>"Hmpf. Guarda chi si rivede."
+NPC_CORIN_PLAYER_044bccdd-7e7a-43df-bc9a-e24bed064b50_HEROIC	Tu devi essere Corin. Sono qui per gli avventurieri.
+NPC_CORIN_PLAYER_044bccdd-7e7a-43df-bc9a-e24bed064b50_JOKER	Corin, immagino. Sono qui per i tuoi avventurieri.
+NPC_CORIN_PLAYER_044bccdd-7e7a-43df-bc9a-e24bed064b50_SCHOLAR	Dunque sei Corin. È per gli avventurieri che mi trovo qui.
+NPC_CORIN_PLAYER_044bccdd-7e7a-43df-bc9a-e24bed064b50_STOIC	Sono qui per recuperare gli avventurieri. Tu devi essere Corin.
+NPC_CORIN_PLAYER_069ff844-33e7-4570-8d40-3a6b2d8eadc7_HEROIC	La tua opinione conta ben poco per me.
+NPC_CORIN_PLAYER_069ff844-33e7-4570-8d40-3a6b2d8eadc7_JOKER	Quel che pensi non mi farà perdere il sonno.
+NPC_CORIN_PLAYER_069ff844-33e7-4570-8d40-3a6b2d8eadc7_SCHOLAR	La tua opinione non è una moneta a cui attribuisca valore.
+NPC_CORIN_PLAYER_069ff844-33e7-4570-8d40-3a6b2d8eadc7_STOIC	Quel che pensi non mi riguarda.
+NPC_CORIN_PLAYER_0782e644-0041-41b8-90dd-4228468434ef_HEROIC	Hai agito in fretta. Cos'è accaduto dopo il tuo rapido intervento?
+NPC_CORIN_PLAYER_0782e644-0041-41b8-90dd-4228468434ef_JOKER	Ti sei mosso in fretta. E poi il mondo è riuscito a starti dietro?
+NPC_CORIN_PLAYER_0782e644-0041-41b8-90dd-4228468434ef_SCHOLAR	Hai reagito rapidamente. E dopo? L'ordine degli eventi conta.
+NPC_CORIN_PLAYER_0782e644-0041-41b8-90dd-4228468434ef_STOIC	Hai reagito in fretta. Cos'è successo dopo?
+NPC_CORIN_PLAYER_0b0415d5-6e63-4bad-a662-7eafb062e819_HEROIC	Hai dimostrato vero coraggio salvando i tuoi.
+NPC_CORIN_PLAYER_0b0415d5-6e63-4bad-a662-7eafb062e819_JOKER	Hai proprio tirato fuori i tuoi dal fuoco.
+NPC_CORIN_PLAYER_0b0415d5-6e63-4bad-a662-7eafb062e819_SCHOLAR	I tuoi sono vivi perché sei intervenuto. Questo dicono i fatti.
+NPC_CORIN_PLAYER_0b0415d5-6e63-4bad-a662-7eafb062e819_STOIC	Hai fatto bene a salvare i tuoi.
+NPC_CORIN_PLAYER_0b914387-763a-466b-af60-4e526905ed61_BASE	E dopo?
+NPC_CORIN_PLAYER_0dd3412a-5740-4d70-9317-5f7860d1ee1e_BASE	«Come stanno gli altri avventurieri?»
+NPC_CORIN_PLAYER_0e0f8db9-f014-4ed5-86d7-29a2e2a07d03_HEROIC	È stato un ostacolo da poco. La bestia non aveva alcuna speranza di vincere.
+NPC_CORIN_PLAYER_0e0f8db9-f014-4ed5-86d7-29a2e2a07d03_JOKER	La bestia ha scelto il giorno sbagliato per farsi vedere.
+NPC_CORIN_PLAYER_0e0f8db9-f014-4ed5-86d7-29a2e2a07d03_SCHOLAR	Nulla di difficile. La bestia era in svantaggio fin dal primo colpo.
+NPC_CORIN_PLAYER_0e0f8db9-f014-4ed5-86d7-29a2e2a07d03_STOIC	Niente di che. La bestia non aveva speranze.
+NPC_CORIN_PLAYER_0ea353a6-91af-4764-aa91-abbcb95b788c_HEROIC	Hai affrontato quel momento con la guardia abbassata.
+NPC_CORIN_PLAYER_0ea353a6-91af-4764-aa91-abbcb95b788c_JOKER	Ti hanno beccato a dormire proprio sul più bello.
+NPC_CORIN_PLAYER_0ea353a6-91af-4764-aa91-abbcb95b788c_SCHOLAR	Impreparato. Questa è la lettura più semplice.
+NPC_CORIN_PLAYER_0ea353a6-91af-4764-aa91-abbcb95b788c_STOIC	Ti hanno colto impreparato.
+NPC_CORIN_PLAYER_11d596a4-1158-40c4-953c-a4920ef905a9_HEROIC	Bada al tuo cammino, Corin. Solo chi manca di forza rischia la morte.
+NPC_CORIN_PLAYER_11d596a4-1158-40c4-953c-a4920ef905a9_JOKER	Tieni gli occhi sui tuoi guai, Corin. A incontrare la morte ci finiscono solo i deboli.
+NPC_CORIN_PLAYER_11d596a4-1158-40c4-953c-a4920ef905a9_SCHOLAR	Bada a te stesso, Corin. La morte predilige i deboli, e io non rientro nella categoria.
+NPC_CORIN_PLAYER_11d596a4-1158-40c4-953c-a4920ef905a9_STOIC	Preoccupati per te, Corin. Solo i deboli rischiano di morire.
+NPC_CORIN_PLAYER_18fb8e85-a4d0-4a94-916a-9d664d2a6ef9_HEROIC	Sei vivo. Bene. Alaric ti vuole di nuovo alla Gilda.
+NPC_CORIN_PLAYER_18fb8e85-a4d0-4a94-916a-9d664d2a6ef9_JOKER	Tutto intero, vedo. Alaric ti vuole di nuovo alla Gilda.
+NPC_CORIN_PLAYER_18fb8e85-a4d0-4a94-916a-9d664d2a6ef9_SCHOLAR	È una fortuna che tu sia illeso. Alaric vorrebbe che tornassi alla Gilda a fare rapporto.
+NPC_CORIN_PLAYER_18fb8e85-a4d0-4a94-916a-9d664d2a6ef9_STOIC	Bene che tu sia illeso. Alaric ti vuole alla Gilda per il rapporto.
+NPC_CORIN_PLAYER_1f634bcf-401b-4c28-a085-1b4737d71a07_HEROIC	Che cosa li ha condotti a quella sorte?
+NPC_CORIN_PLAYER_1f634bcf-401b-4c28-a085-1b4737d71a07_JOKER	E loro che storia hanno, allora?
+NPC_CORIN_PLAYER_1f634bcf-401b-4c28-a085-1b4737d71a07_SCHOLAR	Che cosa è accaduto loro, alla fine?
+NPC_CORIN_PLAYER_1f634bcf-401b-4c28-a085-1b4737d71a07_STOIC	Cos'è successo a loro?
+NPC_CORIN_PLAYER_239bb83a-6810-454e-be46-008e7b1424f9_HEROIC	Un compito semplice. È stato un piacere dare il mio sostegno.
+NPC_CORIN_PLAYER_239bb83a-6810-454e-be46-008e7b1424f9_JOKER	Facile. Dare una mano fa sempre piacere.
+NPC_CORIN_PLAYER_239bb83a-6810-454e-be46-008e7b1424f9_SCHOLAR	Un lavoro semplice. La soddisfazione sta nell'averlo concluso con ordine.
+NPC_CORIN_PLAYER_239bb83a-6810-454e-be46-008e7b1424f9_STOIC	Compito semplice. Un piacere aiutare.
+NPC_CORIN_PLAYER_2ad1b7d9-0817-4b5c-92d7-d38b8650f81d_BASE	Cosa puoi dirmi del Re?
+NPC_CORIN_PLAYER_2d68e74f-06a6-41bf-a654-39660ad5ea27_HEROIC	Là fuori avresti potuto morire. Una parola di ringraziamento non guasterebbe.
+NPC_CORIN_PLAYER_2d68e74f-06a6-41bf-a654-39660ad5ea27_JOKER	Un po' di gratitudine ti starebbe bene. Senza di me forse non ce l'avresti fatta.
+NPC_CORIN_PLAYER_2d68e74f-06a6-41bf-a654-39660ad5ea27_SCHOLAR	Stando ai miei calcoli, mi devi un ringraziamento e forse la vita.
+NPC_CORIN_PLAYER_2d68e74f-06a6-41bf-a654-39660ad5ea27_STOIC	Dovresti ringraziarmi. Senza di me forse non ce l'avresti fatta.
+NPC_CORIN_PLAYER_356575fb-dbb5-410f-9d7f-72e07a9707ae_BASE	Tamsin ci ha dato una bomba?
+NPC_CORIN_PLAYER_3b90fefd-584c-4a7c-8924-5620d7f5e31a_BASE	A cosa servono questi segnalatori?
+NPC_CORIN_PLAYER_4b4a199a-0bb8-4de0-a50e-62728f4ffdd1_HEROIC	È peggio di quanto dici. Alaric deve saperlo.
+NPC_CORIN_PLAYER_4b4a199a-0bb8-4de0-a50e-62728f4ffdd1_JOKER	Qui va peggio di come la racconti. Alaric dovrebbe sentirlo.
+NPC_CORIN_PLAYER_4b4a199a-0bb8-4de0-a50e-62728f4ffdd1_SCHOLAR	La situazione è peggiore di quanto ammetti. Alaric dovrebbe esserne informato chiaramente.
+NPC_CORIN_PLAYER_4b4a199a-0bb8-4de0-a50e-62728f4ffdd1_STOIC	Sembra peggio di quanto ammetti. Fa' rapporto ad Alaric.
+NPC_CORIN_PLAYER_570e10a5-2949-45d3-9434-da96fd2a4406_HEROIC	Sei troppo stanco per occupartene da solo?
+NPC_CORIN_PLAYER_570e10a5-2949-45d3-9434-da96fd2a4406_JOKER	Troppo stanco per muovere un dito di persona?
+NPC_CORIN_PLAYER_570e10a5-2949-45d3-9434-da96fd2a4406_SCHOLAR	Delegare è una scelta tattica, qui, o semplice stanchezza?
+NPC_CORIN_PLAYER_570e10a5-2949-45d3-9434-da96fd2a4406_STOIC	Troppo pigro per farlo da solo?
+NPC_CORIN_PLAYER_57207d8f-8ec4-402a-9629-9bc065c7f8d1_BASE	Devi essere un grande combattente per agire da solo.
+NPC_CORIN_PLAYER_597724eb-0d2a-4a25-bd7a-fa88c219d673_HEROIC	È stato facile, e mi fa piacere aver dato una mano.
+NPC_CORIN_PLAYER_597724eb-0d2a-4a25-bd7a-fa88c219d673_JOKER	Facile come promesso. Dare una mano fa piacere.
+NPC_CORIN_PLAYER_597724eb-0d2a-4a25-bd7a-fa88c219d673_SCHOLAR	Facile, per gli standard di queste imprese, e svolto volentieri.
+NPC_CORIN_PLAYER_597724eb-0d2a-4a25-bd7a-fa88c219d673_STOIC	Facile. Un piacere essere d'aiuto.
+NPC_CORIN_PLAYER_5d01bef9-d923-4427-9004-2a8573ad83ed_BASE	Hai mai affrontato un Re Goblin?
+NPC_CORIN_PLAYER_5f1a9c3d-7b2e-8d4a-0c6f-1e7b9a2c4d3f_BASE	Alaric mi ha mandato a dare una mano con…
+NPC_CORIN_PLAYER_5fe5094c-e4ba-4fa7-94d4-a73744c2651b_BASE	"Puoi dirmi di più sugli avamposti?"
+NPC_CORIN_PLAYER_60bdfd50-2607-4bd6-a0e0-5bfec1d48dcb_HEROIC	Sembra davvero promettente. Continua, ti prego.
+NPC_CORIN_PLAYER_60bdfd50-2607-4bd6-a0e0-5bfec1d48dcb_JOKER	Direi che hai la mia attenzione. E poi?
+NPC_CORIN_PLAYER_60bdfd50-2607-4bd6-a0e0-5bfec1d48dcb_SCHOLAR	Interessante. Potresti approfondire?
+NPC_CORIN_PLAYER_60bdfd50-2607-4bd6-a0e0-5bfec1d48dcb_STOIC	Interessante. Continua.
+NPC_CORIN_PLAYER_64a23dca-c542-4aa0-bf28-e5fd0fcc2b1e_BASE	Cosa sai delle fattorie qui vicino?
+NPC_CORIN_PLAYER_6baf1303-e144-459d-b229-fa9cf55ed8b5_HEROIC	Confido che la guerra finisca presto.
+NPC_CORIN_PLAYER_6baf1303-e144-459d-b229-fa9cf55ed8b5_JOKER	Speriamo che la guerra finisca prima che mi si consumino gli stivali.
+NPC_CORIN_PLAYER_6baf1303-e144-459d-b229-fa9cf55ed8b5_SCHOLAR	Che la guerra finisca presto. Qui il logoramento non giova a nessuno dei due schieramenti.
+NPC_CORIN_PLAYER_6baf1303-e144-459d-b229-fa9cf55ed8b5_STOIC	Spero che la guerra finisca presto.
+NPC_CORIN_PLAYER_6f14226d-44df-4a5b-b192-5a974479001b_HEROIC	Ucciderò il re, come impone il mio dovere. Non devi preoccuparti.
+NPC_CORIN_PLAYER_6f14226d-44df-4a5b-b192-5a974479001b_JOKER	Ammazzare il re tocca a me, allora. Tu non preoccuparti.
+NPC_CORIN_PLAYER_6f14226d-44df-4a5b-b192-5a974479001b_SCHOLAR	Mi occuperò del re. Preoccuparsi, qui, è uno spreco di energie.
+NPC_CORIN_PLAYER_6f14226d-44df-4a5b-b192-5a974479001b_STOIC	Ucciderò il re. Non preoccuparti.
+NPC_CORIN_PLAYER_6f8b3b1b-6005-489c-88d5-2c4b1ac0509f_HEROIC	Sono infiniti. Persino la mia lama dubita che tutto questo abbia una fine.
+NPC_CORIN_PLAYER_6f8b3b1b-6005-489c-88d5-2c4b1ac0509f_JOKER	Sono così tanti che sembra si moltiplichino solo per farci dispetto.
+NPC_CORIN_PLAYER_6f8b3b1b-6005-489c-88d5-2c4b1ac0509f_SCHOLAR	Il loro numero sfugge a ogni calcolo. Non riesco a scorgerne il limite.
+NPC_CORIN_PLAYER_6f8b3b1b-6005-489c-88d5-2c4b1ac0509f_STOIC	Sono infiniti. Fermarli sembra improbabile.
+NPC_CORIN_PLAYER_71e4b097-a149-4b79-9722-8cdc5fbd2087_HEROIC	La prossima mossa, dunque, è colpire la tana?
+NPC_CORIN_PLAYER_71e4b097-a149-4b79-9722-8cdc5fbd2087_JOKER	Allora è ora di fare una visitina alla tana?
+NPC_CORIN_PLAYER_71e4b097-a149-4b79-9722-8cdc5fbd2087_SCHOLAR	Dunque la tana è il prossimo obiettivo. Assalto frontale o c'è un modo più ingegnoso?
+NPC_CORIN_PLAYER_71e4b097-a149-4b79-9722-8cdc5fbd2087_STOIC	Il prossimo passo è assaltare la tana?
+NPC_CORIN_PLAYER_749902b1-20e7-49e3-bbbc-cce9e5c481ce_HEROIC	Vuoi raccontarmi cos'è accaduto il giorno in cui è crollato il ponte?
+NPC_CORIN_PLAYER_749902b1-20e7-49e3-bbbc-cce9e5c481ce_JOKER	Qual è la storia del giorno in cui è venuto giù il ponte?
+NPC_CORIN_PLAYER_749902b1-20e7-49e3-bbbc-cce9e5c481ce_SCHOLAR	Potresti ricostruire gli eventi del giorno in cui è crollato il ponte?
+NPC_CORIN_PLAYER_749902b1-20e7-49e3-bbbc-cce9e5c481ce_STOIC	Puoi raccontarmi del giorno in cui è crollato il ponte?
+NPC_CORIN_PLAYER_7a6807d7-4bf9-41ca-9e53-dc8a4e0b32a4_HEROIC	Sono morti molti combattenti. Si poteva fare di più per loro.
+NPC_CORIN_PLAYER_7a6807d7-4bf9-41ca-9e53-dc8a4e0b32a4_JOKER	Un bel po' di combattenti persi. A conti fatti, si poteva fare di più.
+NPC_CORIN_PLAYER_7a6807d7-4bf9-41ca-9e53-dc8a4e0b32a4_SCHOLAR	Le perdite sono state pesanti. Più di quanto la situazione imponesse, sospetto.
+NPC_CORIN_PLAYER_7a6807d7-4bf9-41ca-9e53-dc8a4e0b32a4_STOIC	Hai perso molti combattenti. Si poteva fare di più.
+NPC_CORIN_PLAYER_8597530b-2822-4662-bd65-060e836995f8_HEROIC	Cosa spinge un capitano ad accollarsi il lavoro di fatica?
+NPC_CORIN_PLAYER_8597530b-2822-4662-bd65-060e836995f8_JOKER	Il lavoro di fatica tocca anche al capitano, allora?
+NPC_CORIN_PLAYER_8597530b-2822-4662-bd65-060e836995f8_SCHOLAR	Perché il ruolo di capitano comprende anche i lavori di fatica?
+NPC_CORIN_PLAYER_8597530b-2822-4662-bd65-060e836995f8_STOIC	Perché un capitano fa il lavoro di fatica?
+NPC_CORIN_PLAYER_89dbb9d6-b672-45f7-8c7c-065a6e35d9b8_HEROIC	Volevo vedere come stai, per assicurarmi che fosse tutto a posto.
+NPC_CORIN_PLAYER_89dbb9d6-b672-45f7-8c7c-065a6e35d9b8_JOKER	Volevo vedere come stai. Premura puramente professionale, ovvio.
+NPC_CORIN_PLAYER_89dbb9d6-b672-45f7-8c7c-065a6e35d9b8_SCHOLAR	Ho ritenuto prudente accertarmi delle tue condizioni.
+NPC_CORIN_PLAYER_89dbb9d6-b672-45f7-8c7c-065a6e35d9b8_STOIC	Volevo vedere come stai.
+NPC_CORIN_PLAYER_8abd44f5-9c5f-40ea-b19b-8d91b531c928_HEROIC	Grazie, piazzerò i segnalatori. Che la fortuna ti accompagni.
+NPC_CORIN_PLAYER_8abd44f5-9c5f-40ea-b19b-8d91b531c928_JOKER	Grazie, sistemo io quei segnalatori. La fortuna è dalla tua, usala bene.
+NPC_CORIN_PLAYER_8abd44f5-9c5f-40ea-b19b-8d91b531c928_SCHOLAR	Ti ringrazio. I segnalatori saranno collocati esattamente dove occorrono. Buona fortuna.
+NPC_CORIN_PLAYER_8abd44f5-9c5f-40ea-b19b-8d91b531c928_STOIC	Grazie. Piazzerò i segnalatori. Buona fortuna.
+NPC_CORIN_PLAYER_91a1d5c2-4bca-4394-bc38-fad3fa6a7cfb_HEROIC	E la tana spetta a me, suppongo.
+NPC_CORIN_PLAYER_91a1d5c2-4bca-4394-bc38-fad3fa6a7cfb_JOKER	E immagino che la fortuna di assaltare la tana tocchi a me.
+NPC_CORIN_PLAYER_91a1d5c2-4bca-4394-bc38-fad3fa6a7cfb_SCHOLAR	Dunque la tana spetta a me. Presumo che fosse il piano fin dall'inizio.
+NPC_CORIN_PLAYER_91a1d5c2-4bca-4394-bc38-fad3fa6a7cfb_STOIC	E suppongo che vi serva qualcuno che assalti la tana. Io.
+NPC_CORIN_PLAYER_960a68f1-cee1-4cd8-a141-1977ebf927e5_HEROIC	Ora non c'è più nessuno di loro, vero?
+NPC_CORIN_PLAYER_960a68f1-cee1-4cd8-a141-1977ebf927e5_JOKER	Sono arrivati tutti al capolinea, vero?
+NPC_CORIN_PLAYER_960a68f1-cee1-4cd8-a141-1977ebf927e5_SCHOLAR	Dunque nessuno di loro è sopravvissuto?
+NPC_CORIN_PLAYER_960a68f1-cee1-4cd8-a141-1977ebf927e5_STOIC	Sono tutti morti, vero?
+NPC_CORIN_PLAYER_968e80c3-3d13-4ab2-ad5c-0e68dfb6c1ab_BASE	Combatti ancora i Goblin dopo che abbiamo ucciso il re?
+NPC_CORIN_PLAYER_9f397329-071d-4394-aa8b-6c35d340b4e5_HEROIC	Solo assumendo il pieno controllo della foresta potremo porre fine a questa guerra.
+NPC_CORIN_PLAYER_9f397329-071d-4394-aa8b-6c35d340b4e5_JOKER	La guerra tira avanti finché la foresta non sarà tutta sotto il nostro tallone.
+NPC_CORIN_PLAYER_9f397329-071d-4394-aa8b-6c35d340b4e5_SCHOLAR	Questa guerra finirà quando avremo il controllo dell'intera foresta. Non prima.
+NPC_CORIN_PLAYER_9f397329-071d-4394-aa8b-6c35d340b4e5_STOIC	Per finire questa guerra serve il dominio completo della foresta.
+NPC_CORIN_PLAYER_a2b88750-d25c-4a4a-9310-c89497952a3a_HEROIC	Gli edifici hanno chiaramente visto giorni migliori, ma si può rimediare.
+NPC_CORIN_PLAYER_a2b88750-d25c-4a4a-9310-c89497952a3a_JOKER	Gli edifici si sono saltati le ultime riparazioni.
+NPC_CORIN_PLAYER_a2b88750-d25c-4a4a-9310-c89497952a3a_SCHOLAR	Gli edifici stanno cedendo. Incuria o qualcosa di più rapido?
+NPC_CORIN_PLAYER_a2b88750-d25c-4a4a-9310-c89497952a3a_STOIC	Gli edifici ormai sono malridotti.
+NPC_CORIN_PLAYER_a37a97d7-79df-43d4-8e5f-9842344c427d_BASE	Ho sconfitto il Re Goblin.
+NPC_CORIN_PLAYER_a7a26a2f-76e1-4d8d-acd0-3e218d1acd4e_HEROIC	Cosa li ha spinti a costruirsi una vita qui fuori?
+NPC_CORIN_PLAYER_a7a26a2f-76e1-4d8d-acd0-3e218d1acd4e_JOKER	Come gli è venuto in mente di vivere proprio qui?
+NPC_CORIN_PLAYER_a7a26a2f-76e1-4d8d-acd0-3e218d1acd4e_SCHOLAR	Perché proprio qui? Le fattorie hanno bisogno di sicurezza ancor più che di terra.
+NPC_CORIN_PLAYER_a7a26a2f-76e1-4d8d-acd0-3e218d1acd4e_STOIC	Perché si sono stabiliti qui fuori?
+NPC_CORIN_PLAYER_a901d226-4158-422e-b208-0712e3dbd295_HEROIC	Le tue parole contano davvero molto per me.
+NPC_CORIN_PLAYER_a901d226-4158-422e-b208-0712e3dbd295_JOKER	Conta più di quanto sarò disposto ad ammettere una seconda volta.
+NPC_CORIN_PLAYER_a901d226-4158-422e-b208-0712e3dbd295_SCHOLAR	Ha un peso per me maggiore di quanto tu possa pensare.
+NPC_CORIN_PLAYER_a901d226-4158-422e-b208-0712e3dbd295_STOIC	Per me conta.
+NPC_CORIN_PLAYER_a9dc3dec-7cbd-49c7-8412-72cac4cb0cf1_HEROIC	Dimmi cosa ti serve e farò in modo che sia fatto.
+NPC_CORIN_PLAYER_a9dc3dec-7cbd-49c7-8412-72cac4cb0cf1_JOKER	Dimmi cosa ti serve e cerca di non complicarla troppo.
+NPC_CORIN_PLAYER_a9dc3dec-7cbd-49c7-8412-72cac4cb0cf1_SCHOLAR	Dimmi cosa ti occorre, e in quale ordine di priorità.
+NPC_CORIN_PLAYER_a9dc3dec-7cbd-49c7-8412-72cac4cb0cf1_STOIC	Dimmi cosa ti serve.
+NPC_CORIN_PLAYER_b1c1086a-1f6b-4f18-a3d1-f0798349b144_HEROIC	Un altro mostro per Earlwood. Lo farò. Ricordati che l'ho fatto.
+NPC_CORIN_PLAYER_b1c1086a-1f6b-4f18-a3d1-f0798349b144_JOKER	Un altro mostro per Earlwood. Ma che sorpresa. Ci penso io, ma cerca di ricordartelo.
+NPC_CORIN_PLAYER_b1c1086a-1f6b-4f18-a3d1-f0798349b144_SCHOLAR	Un altro mostro sul conto di Earlwood. Andrò, ma il conto lo tengo.
+NPC_CORIN_PLAYER_b1c1086a-1f6b-4f18-a3d1-f0798349b144_STOIC	Un altro mostro per Earlwood. Lo farò. Non dimenticarlo.
+NPC_CORIN_PLAYER_b4ca01f7-47c5-4288-a19f-531b73e53f19_HEROIC	È un elogio che accetto volentieri.
+NPC_CORIN_PLAYER_b4ca01f7-47c5-4288-a19f-531b73e53f19_JOKER	L'adulazione mi sta benissimo.
+NPC_CORIN_PLAYER_b4ca01f7-47c5-4288-a19f-531b73e53f19_SCHOLAR	Lo interpreto come un encomio.
+NPC_CORIN_PLAYER_b4ca01f7-47c5-4288-a19f-531b73e53f19_STOIC	Un complimento, dunque.
+NPC_CORIN_PLAYER_b6ca0482-8359-4eb2-bf9b-00c15e5d6437_HEROIC	Capito. Porterò a termine l'incarico.
+NPC_CORIN_PLAYER_b6ca0482-8359-4eb2-bf9b-00c15e5d6437_JOKER	Capito. Faccio in modo di sistemare tutto.
+NPC_CORIN_PLAYER_b6ca0482-8359-4eb2-bf9b-00c15e5d6437_SCHOLAR	Capito. Sarà fatto, e fatto a dovere.
+NPC_CORIN_PLAYER_b6ca0482-8359-4eb2-bf9b-00c15e5d6437_STOIC	Capito. Sarà fatto.
+NPC_CORIN_PLAYER_c3ae5a0d-ca61-4dd6-bdf1-e780ab55e28b_HEROIC	È questo che ci si guadagna a salvare qualcuno, qui?
+NPC_CORIN_PLAYER_c3ae5a0d-ca61-4dd6-bdf1-e780ab55e28b_JOKER	È questa la grande accoglienza riservata a un salvatore?
+NPC_CORIN_PLAYER_c3ae5a0d-ca61-4dd6-bdf1-e780ab55e28b_SCHOLAR	È questo il saluto consueto per un salvatore?
+NPC_CORIN_PLAYER_c3ae5a0d-ca61-4dd6-bdf1-e780ab55e28b_STOIC	È così che saluti il tuo salvatore?
+NPC_CORIN_PLAYER_c53118df-32e8-4c7e-8a97-17651507378e_HEROIC	Solo la fortuna vi ha tenuti in vita qui fuori.
+NPC_CORIN_PLAYER_c53118df-32e8-4c7e-8a97-17651507378e_JOKER	La sorte deve avervi in simpatia. Bloccati qui fuori, di solito non si dura molto.
+NPC_CORIN_PLAYER_c53118df-32e8-4c7e-8a97-17651507378e_SCHOLAR	È soprattutto la fortuna a tenervi in vita qui fuori.
+NPC_CORIN_PLAYER_c53118df-32e8-4c7e-8a97-17651507378e_STOIC	Siete tutti fortunati a essere vivi, bloccati qui fuori.
+NPC_CORIN_PLAYER_c8d8eb57-81b7-469b-a014-6f9fa8b31ffc_HEROIC	Capito. Porterò a termine il compito e tornerò.
+NPC_CORIN_PLAYER_c8d8eb57-81b7-469b-a014-6f9fa8b31ffc_JOKER	Capito. Mi rivedrai quando sarà tutto sistemato.
+NPC_CORIN_PLAYER_c8d8eb57-81b7-469b-a014-6f9fa8b31ffc_SCHOLAR	Capito. Mi vedrai al termine dell'incarico.
+NPC_CORIN_PLAYER_c8d8eb57-81b7-469b-a014-6f9fa8b31ffc_STOIC	Capito. Torno a lavoro finito.
+NPC_CORIN_PLAYER_ccd995c6-a39f-4ac0-9490-f74c5759b96e_HEROIC	È stato avventato da parte loro stabilirsi là fuori.
+NPC_CORIN_PLAYER_ccd995c6-a39f-4ac0-9490-f74c5759b96e_JOKER	Coraggiosi, o poco a posto con la testa, a farsi una casa là fuori.
+NPC_CORIN_PLAYER_ccd995c6-a39f-4ac0-9490-f74c5759b96e_SCHOLAR	Vivere là fuori era una scommessa con scarse probabilità di successo.
+NPC_CORIN_PLAYER_ccd995c6-a39f-4ac0-9490-f74c5759b96e_STOIC	Imprudente restare là fuori.
+NPC_CORIN_PLAYER_cfd7e260-e784-470c-8232-f51d9bd787d5_HEROIC	Sono solo di passaggio, niente di più.
+NPC_CORIN_PLAYER_cfd7e260-e784-470c-8232-f51d9bd787d5_JOKER	Passavo di qui, non volevo fare scena.
+NPC_CORIN_PLAYER_cfd7e260-e784-470c-8232-f51d9bd787d5_SCHOLAR	Soltanto di passaggio, senza altri intenti.
+NPC_CORIN_PLAYER_cfd7e260-e784-470c-8232-f51d9bd787d5_STOIC	Solo di passaggio.
+NPC_CORIN_PLAYER_d9c3e56c-1a58-4fc2-aabd-f86b94bce0c5_BASE	"Con chi dovrei parlare per le scorte?"
+NPC_CORIN_PLAYER_dd2bcdb9-c28e-4f7a-84fd-c13b0ddd0da5_HEROIC	Valuterò la tua richiesta. Descrivimi la situazione, così potrò agire.
+NPC_CORIN_PLAYER_dd2bcdb9-c28e-4f7a-84fd-c13b0ddd0da5_JOKER	Lasciami rimuginare. Raccontami la situazione, se proprio insisti.
+NPC_CORIN_PLAYER_dd2bcdb9-c28e-4f7a-84fd-c13b0ddd0da5_SCHOLAR	Deciderò dopo aver esaminato i fatti. Esponimi la situazione, per intero.
+NPC_CORIN_PLAYER_dd2bcdb9-c28e-4f7a-84fd-c13b0ddd0da5_STOIC	Ci penserò. Dimmi la situazione.
+NPC_CORIN_PLAYER_df670ce0-946a-482f-995e-5c3989f3694c_HEROIC	Valuterò il compito, ma non posso garantire nulla.
+NPC_CORIN_PLAYER_df670ce0-946a-482f-995e-5c3989f3694c_JOKER	Ci penserò, ma non trattenere il fiato.
+NPC_CORIN_PLAYER_df670ce0-946a-482f-995e-5c3989f3694c_SCHOLAR	Rifletterò sulla questione, benché al momento non abbia certezze.
+NPC_CORIN_PLAYER_df670ce0-946a-482f-995e-5c3989f3694c_STOIC	Valuterò. Non prometto nulla.
+NPC_CORIN_PLAYER_e0cffee3-fdb2-497c-8c4d-3444a8ca8dba_HEROIC	Non è stata una battaglia facile. Quella bestia era davvero mostruosa.
+NPC_CORIN_PLAYER_e0cffee3-fdb2-497c-8c4d-3444a8ca8dba_JOKER	Facile. Quello scontro era tutto tranne che facile. Una bestia mostruosa.
+NPC_CORIN_PLAYER_e0cffee3-fdb2-497c-8c4d-3444a8ca8dba_SCHOLAR	Uno scontro tutt'altro che semplice. Le dimensioni della bestia superavano ogni descrizione.
+NPC_CORIN_PLAYER_e0cffee3-fdb2-497c-8c4d-3444a8ca8dba_STOIC	Non uno scontro facile. Bestia mostruosa.
+NPC_CORIN_PLAYER_e4k9m2q7-a5c1-r8d3-b6f0-z1x7n4p2v9t5_BASE	La rete è stabile.
+NPC_CORIN_PLAYER_e5516d55-cf3e-4694-abf3-fb3d5b977b4a_HEROIC	Dove sono andati ora?
+NPC_CORIN_PLAYER_e5516d55-cf3e-4694-abf3-fb3d5b977b4a_JOKER	Dove sono andati a cacciarsi stavolta?
+NPC_CORIN_PLAYER_e5516d55-cf3e-4694-abf3-fb3d5b977b4a_SCHOLAR	E ora dove si trovano? Qualcuno dovrà pur saperlo.
+NPC_CORIN_PLAYER_e5516d55-cf3e-4694-abf3-fb3d5b977b4a_STOIC	Dove sono ora?
+NPC_CORIN_PLAYER_f30f29db-d6c2-436d-8c38-27a807d729ba_BASE	Cosa puoi dirmi del campo avanzato?
+NPC_CORIN_PLAYER_fb4107b1-72f3-4ba2-9b60-30941f11c459_BASE	"Come trovo la base dei Goblin?"
+NPC_CORIN_PLAYER_febbbc53-febb-4535-b022-c13da7d03f30_HEROIC	Che cosa viene dopo?
+NPC_CORIN_PLAYER_febbbc53-febb-4535-b022-c13da7d03f30_JOKER	E dopo? O l'avventura finisce lì?
+NPC_CORIN_PLAYER_febbbc53-febb-4535-b022-c13da7d03f30_SCHOLAR	Che cosa occorre fare in seguito?
+NPC_CORIN_PLAYER_febbbc53-febb-4535-b022-c13da7d03f30_STOIC	E poi?
+NPC_CORIN_RESPONSE_044535cc-02fa-43ff-8722-eeb5cf2fd7a1	"Se è necessario, lo facciamo. Ma non confondiamo la necessità con la brama."
+NPC_CORIN_RESPONSE_099179e1-ba0a-4e05-bc4c-9ddebc009eea	"Bene. Al lavoro."
+NPC_CORIN_RESPONSE_0a5b29b0-51f6-4e11-b04e-29e29fa7b137	"Fortuna è il nome che la gente dà alla disciplina dopo esserne uscita viva."<x1/><x2/><x3/><x4/>"Quando il ponte crollò, lo sentimmo dall'altra parte di Wildwood. Sapevo cos'era prima che gli esploratori lo confermassero.<x5/><x6/>Da quel momento era una corsa contro il tempo. Qualcosa sarebbe venuto a prenderci. Prima la gente della foresta, forse. I Goblin dopo il tramonto, una volta preso coraggio.<x7/><x8/>Ordinai agli esploratori di raccogliere legna per le barricate, mentre io andavo a prendere gli altri. Ero il più veloce. Nessun mistero."<x9/><x10/>*L'espressione resta impassibile, ma il ricordo gli tende la pelle intorno agli occhi.*<x11/><x12/>"Gli esploratori divennero costruttori. I cacciatori divennero guardie. Gli avventurieri divennero qualunque cosa servisse a tenere la linea."
+NPC_CORIN_RESPONSE_0a5cbdcd-634a-4dbf-a9b8-864b8bd631b8	"Facile dirlo, da fuori la tomba."<x1/><x2/><x3/><x4/>"Scelsero la distanza. Alcuni volevano la foresta. Alcuni gli Antichi Dei. Altri volevano soltanto meno occhi sulle proprie vite.<x5/><x6/>Questo posso rispettarlo."<x7/><x8/>*Fa una pausa, quasi riluttante a concedere altro spazio a quel pensiero.*<x9/><x10/>"Quando esploravo questi sentieri, prima che cominciassero i guai, era un posto tranquillo. Non sicuro. Tranquillo. C'è differenza.<x11/><x12/>Avevano vite più dure degli abitanti del villaggio. E mani più dure."
+NPC_CORIN_RESPONSE_17ea46ea-c257-4ea7-b421-de401202c98f	"Fai collezione di brutte storie, eh?"<x1/><x2/><x3/><x4/>"Quando il ponte crollò, lo sentimmo dall'altra parte di Wildwood. Sapevo cos'era prima che gli esploratori lo confermassero.<x5/><x6/>Da quel momento era una corsa contro il tempo. Qualcosa sarebbe venuto a prenderci. Prima la gente della foresta, forse. I Goblin dopo il tramonto, una volta preso coraggio.<x7/><x8/>Ordinai agli esploratori di raccogliere legna per le barricate, mentre io andavo a prendere gli altri. Ero il più veloce. Nessun mistero."<x9/><x10/>*L'espressione resta impassibile, ma il ricordo gli tende la pelle intorno agli occhi.*<x11/><x12/>"Gli esploratori divennero costruttori. I cacciatori divennero guardie. Gli avventurieri divennero qualunque cosa servisse a tenere la linea."
+NPC_CORIN_RESPONSE_1b9d4f7a-6c2e-8f3a-5d0b-7e1c9a4f2d6a	"Se faccio tutto io, i miei uomini muoiono. Se non lo capisci, sei più un rischio che un aiuto. Fa' la tua parte e tieni a freno la lingua."<x1/><x2/><x3/><x4/>*Corin rimette le mani sotto il mantello e si incammina, parlando senza voltarsi.*<x5/><x6/>"Torno al campo avanzato. Quel punto regge o l'incursione fallisce, e serve qualcuno di competente per tenerlo in piedi. Forse arriverai fin lì, se prima non muori per il sangue perso."
+NPC_CORIN_RESPONSE_1dc95c89-f80e-4406-9975-a0a002a12f23	"Salvatore? Un punto di vista interessante."<x1/><x2/><x3/><x4/>*Il giovane accoglie la tua osservazione con uno sbuffo sprezzante, poi prosegue.*<x5/><x6/>"Mi chiamo Corin e non abbiamo bisogno di essere salvati. Le scorte scarseggiano un po', ma sappiamo cavarcela. Dev'essere stato Alaric a mandarti oltre il ponte, il che significa che è stato ricostruito. Bene riavere le linee di rifornimento. Accelererà le cose."
+NPC_CORIN_RESPONSE_2141ed76-d838-48be-978d-fd2b7f984b88	"Dovresti. È costato caro."
+NPC_CORIN_RESPONSE_3be2d1aa-b2af-40fe-9372-0c97eb17677a	"Preferirei una linea di esploratori al completo. Non ce l'ho. Quindi ho te."<x1/><x2/><x3/><x4/>*Questa volta Corin si volta completamente verso di te, gli occhi freddi, la voce piatta.*<x5/><x6/>"Il tuo lavoro agli avamposti ha aperto una breccia. I Goblin non l'hanno ancora richiusa. I nostri esploratori sono tutti morti, quindi a dare la caccia al Re ci vai tu. Ho sentito che hai ucciso un Treant corrotto. Notevole. Questa creatura te lo farà sembrare un riscaldamento."
+NPC_CORIN_RESPONSE_3c0ccfbb-60bf-4812-92da-9ef8e34cb8c9	*Corin sembra irritato per un istante, poi l'espressione torna impassibile e controllata.*<x1/><x2/>"Sono tutti morti."
+NPC_CORIN_RESPONSE_3e7a1c9f-5d2b-8a4e-0c6f-9b1d7a3c2e4f	"Dopo? Aspetti che ci muoviamo. Il tuo compito è semplice: segna il percorso e non morire prima che lo usiamo."<x1/><x2/><x3/><x4/>*Corin rimette le mani sotto il mantello e si incammina, parlando senza voltarsi.*<x5/><x6/>"Torno al campo avanzato. Quel punto regge o l'incursione fallisce, e serve qualcuno di competente per tenerlo in piedi. Forse arriverai fin lì, se prima non muori per il sangue perso."
+NPC_CORIN_RESPONSE_41cd2cd6-261c-476f-bdc2-da4bba888d9d	*La sua espressione si immobilizza.*<x1/><x2/>"Si poteva sempre fare di più. Non significa che tu l'avresti fatto."<x3/><x4/><x5/><x6/>"Questo campo regge perché i miei combattenti sapevano cosa fare quando le comodità sono finite.<x7/><x8/>Questa è capacità di resistere. Non discorsi. Non fortuna. Lavoro."<x9/><x10/>*Lancia uno sguardo al limitare degli alberi.*<x11/><x12/>"Reggerà come base operativa finché ogni Goblin non sarà scacciato da questi sentieri e la foresta non ricorderà come si fa a tacere."
+NPC_CORIN_RESPONSE_424eadc9-dcf9-4739-9281-6125e01aaaef	*Un'ombra appena percettibile di divertimento gli sfiora gli occhi.*<x1/><x2/>"Bada. La curiosità fa ammazzare la gente."<x3/><x4/>"Comunque. Ti aggiorno."<x5/><x6/><x7/><x8/>*Corin si raddrizza e si volta verso di te, dedicandoti tutta la sua attenzione. Estrae una mappa con un gesto esperto.*<x9/><x10/>"Troppo terreno e troppo poche braccia. Quindi tocca a me, e ora a te.<x11/><x12/>Bivio del Sentiero. Passaggio sul Fiume. Vecchio Ceppo.<x13/><x14/>Prendi questi kit per i segnalatori. Elimina i Goblin. Piazza i segnalatori di protezione. Un lavoro semplice."<x15/><x16/>*Ripiega la mappa e ti fissa con lo sguardo valutativo di un capitano.*<x17/><x18/>"Finché non lo facciamo, le carovane restano a rischio. Niente attraversa i sentieri principali senza incidenti.<x19/><x20/>Occupatene. Poi ci ritroviamo qui."
+NPC_CORIN_RESPONSE_43427000-8722-4798-b48a-53e87cf0ca12	"Capisci in fretta. Sì. Colpiamo la tana."<x1/><x2/><x3/><x4/>*Questa volta Corin si volta completamente verso di te, gli occhi freddi, la voce piatta.*<x5/><x6/>"Il tuo lavoro agli avamposti ha aperto una breccia. I Goblin non l'hanno ancora richiusa. I nostri esploratori sono tutti morti, quindi a dare la caccia al Re ci vai tu. Ho sentito che hai ucciso un Treant corrotto. Notevole. Questa creatura te lo farà sembrare un riscaldamento."
+NPC_CORIN_RESPONSE_4e7a1c9d-6b2f-8a3e-5c0d-7f1b9a2c4d6e	"Parli come chi non ha mai visto cedere una linea. Ai morti non importa quanto ti vantavi prima. Muoviti."
+NPC_CORIN_RESPONSE_50e54b4f-15e4-47ab-8ccd-234e8c34c63c	"Se avessi bisogno di te per restare vivo, sarei già morto. Hai reso le cose più agevoli, non possibili. Impara la differenza."<x1/><x2/><x3/><x4/>*Corin estrae dal mantello una mappa ripiegata e la apre con disinvoltura esperta.*<x5/><x6/>"Hai trovato l'ingresso della tana dei Goblin. Bene. Ho tracciato un percorso per attraversarla. Tamsin ha mandato cariche esplosive per aprire la via."
+NPC_CORIN_RESPONSE_52147e5c-d1c4-49fc-899c-da21618101f0	"Bada. Le rovine restano tombe."<x1/><x2/><x3/><x4/>"Non è la prima volta che quelle fattorie vengono distrutte.<x5/><x6/>Settant'anni fa, durante l'ultima Crisi dei Goblin, furono date alle fiamme. Quella volta i più sopravvissero. Ricostruirono. Tornarono. Gli stessi campi. Gli stessi tetti, o quasi."<x7/><x8/>*Le labbra di Corin si serrano appena.*<x9/><x10/>"Erano sempre stati in pace con la foresta. O credevano di esserlo.<x11/><x12/>Coraggiosi. Testardi. Scegli tu. Ormai non conta."
+NPC_CORIN_RESPONSE_5d83266a-216c-4b5d-8be8-9bec4590baa3	"No. Mi hanno privato di quel piacere."
+NPC_CORIN_RESPONSE_61d7d606-15fc-4b1c-9aeb-7ab42d421f67	"Di passaggio."<x1/><x2/>*Un'occhiata appena accennata, inespressiva.*<x3/><x4/>"Certo. Riprova, senza la storiella."<x5/><x6/><x7/><x8/>"Hai scelto un momento opportuno."<x9/><x10/>*Corin sposta il peso, già pronto ad andarsene.*<x11/><x12/>"Vado a ripulire quel che resta dei covi dei Goblin e a tracciare percorsi dei Cercavia. Vieni, oppure no. Il lavoro si fa comunque."
+NPC_CORIN_RESPONSE_6a2c9e1d-4f7b-8c3e-0d5a-1f9b4c7e2d3a	"Segnano una linea attraverso la foresta, dal campo avanzato all'accesso. Wildwood mente. Muta e si richiude, soprattutto attorno ai gruppi numerosi. Con questi imponiamo un unico percorso certo. Anche se i Tessiradici torcono di nuovo i sentieri, avremo ancora una spina dorsale da seguire. Eldorian è già là fuori a sfoltire qualunque cosa creda di essere furba."
+NPC_CORIN_RESPONSE_6b58da2d-cd15-43e7-8370-9e150f37c922	"Se vivi, me ne ricorderò. Se muori per metterti in mostra, sarai soltanto un altro nome su una pietra. Decidi cosa preferisci."
+NPC_CORIN_RESPONSE_7130cc8d-a96d-43c7-8d76-afce1a567ec8	*Corin sembra vagamente divertito, anche se la cosa arriva a malapena agli occhi.*<x1/><x2/>"Lo so. Mezzo campo lo sa.<x3/><x4/><x5/><x6/>Le storie stanno già diventando stupide. Lame più grandi. Più sangue. Ormai qualcuno probabilmente racconta che l'hai ucciso con una mano sola."<x7/><x8/>*Ti studia per un istante.*<x9/><x10/>"Eppure. Togli il rumore, e la verità è peggio delle storie. Hai affrontato un Re Goblin e hai vissuto abbastanza a lungo da ucciderlo.<x11/><x12/><x13/><x14/>Gli uomini cercano di farla sembrare un'impresa impossibile. Non capiscono che lo era già."
+NPC_CORIN_RESPONSE_75eb0d6f-c30b-43d0-b017-595b9e5290c5	*Corin ti guarda di sbieco, per nulla colpito dall'ampiezza della domanda.*<x1/><x2/>"Il campo avanzato?"<x3/><x4/>*Lascia quel nome sospeso, come se dovesse spiegarsi da sé.*<x5/><x6/>"L'abbiamo costruito dopo il crollo del ponte. Braccia avanzate, legname avanzato, tempo avanzato. Niente a sufficienza.<x7/><x8/>Ma è ancora in piedi. Questo conta."
+NPC_CORIN_RESPONSE_7c0dbb58-7aee-47de-a4cb-35a602fd4cda	"Bada. L'orgoglio fa più rumore del buon senso, e di solito serve meno."<x1/><x2/><x3/><x4/>"Ti ho giudicato male al tuo arrivo.<x5/><x6/><x7/><x8/>Sembravi un altro avventuriero troppo sicuro di sé. Grandi promesse, vita breve. Ne passano."<x9/><x10/>*Il suo sguardo torna su di te, fermo e valutativo.*<x11/><x12/>"Poi hai ucciso un Re Goblin.<x13/><x14/><x15/><x16/>Quindi. Considera corretto il mio giudizio. Per ora."
+NPC_CORIN_RESPONSE_7c2a9f1e-5d6b-8c4a-0f3e-1b7d9c2a4e6f	"La fortuna servirà più a te che a me. Cerca di non sprecare il lavoro che ho già fatto."
+NPC_CORIN_RESPONSE_7ed1e2bc-47a0-4868-b2d8-a1ac9490d41f	*Gli occhi di Corin tornano su di te, asciutti e indecifrabili.*<x1/><x2/>"Le lodi rendono la gente trascurata."<x3/><x4/><x5/><x6/>"Questo campo regge perché i miei combattenti sapevano cosa fare quando le comodità sono finite.<x7/><x8/>Questa è capacità di resistere. Non discorsi. Non fortuna. Lavoro."<x9/><x10/>*Lancia uno sguardo al limitare degli alberi.*<x11/><x12/>"Reggerà come base operativa finché ogni Goblin non sarà scacciato da questi sentieri e la foresta non ricorderà come si fa a tacere."
+NPC_CORIN_RESPONSE_8c1f4a7d-2b9e-6d3a-5f0c-1e7b9a2d4c6f	*Corin estrae dal mantello un fascio di segnalatori ben legati e te li preme tra le mani senza cerimonie.*<x1/><x2/>"Ti è toccato il servizio dei Cercavia. Bene. Prendi questi. Li piazzerai nelle zone indicate e ci illuminerai il percorso. Ti segno la mappa. Non conosci i tragitti come me."
+NPC_CORIN_RESPONSE_8eeb26b1-6118-4686-8b7d-82ddc893b35c	"Non fa solo stendardi e libri degli incantesimi. Strumenti incantati, esplosivi, qualunque cosa ci serva costruire. Sono pericolosi. Li usiamo solo quando non c'è un'alternativa meno rischiosa."
+NPC_CORIN_RESPONSE_908c2857-b990-45b7-9166-71dcab143ba4	"Come previsto, non ci si può fidare di chi viene da fuori. Ma al momento ho solo te, quindi mi arrangio."<x1/><x2/><x3/><x4/>"Per prima cosa puoi tornare da Alaric a fare rapporto per me e spiegargli la situazione. Digli che possiamo proseguire e che nessuno di noi vuole tornare indietro adesso. Andremo fino in fondo e proteggeremo il villaggio.<x5/><x6/>Per continuare ci servono altre scorte da Earlwood. Fa' in modo che la Gilda le consegni.<x7/><x8/><x9/><x10/>Quanto agli obiettivi, credo che abbiamo trovato la fonte della Corruzione. Non possiamo intervenire finché i Goblin qui non saranno sottomessi. Quassù ci sono meno spiriti e più Goblin. Può significare solo che il covo della loro orda è da qualche parte in questa regione. Seguili. Trova la loro base.<x11/><x12/><x13/><x14/>Infine, abbiamo allestito diversi avamposti nella regione. Nessuna notizia da una settimana. Controlla e torna a riferire: vivi o morti."
+NPC_CORIN_RESPONSE_936ffa99-6ded-4ae1-b769-cfc3c45ed6f9	*Corin espira una volta dal naso.*<x1/><x2/>"Ovvio."<x3/><x4/>"Uccidere il re è il primo passo. Poi si disperdono in branchi e mordono qualunque cosa si muova."<x5/><x6/>"Li eliminiamo prima che si trincerino di nuovo."
+NPC_CORIN_RESPONSE_94ccb17d-2504-4800-a444-980ebedc0238	"Uccidendoli. Uno a uno."<x1/><x2/>"C'è ancora lavoro. Lasciamelo fare."
+NPC_CORIN_RESPONSE_9a10fc27-da1e-46e6-bbe0-c50c93aa3222	"Hanno tenuto duro perché valeva la pena salvarli. Io li ho soltanto raggiunti prima che la foresta finisse il lavoro."<x1/><x2/><x3/><x4/>"Questo campo regge perché i miei combattenti sapevano cosa fare quando le comodità sono finite.<x5/><x6/>Questa è capacità di resistere. Non discorsi. Non fortuna. Lavoro."<x7/><x8/>*Lancia uno sguardo al limitare degli alberi.*<x9/><x10/>"Reggerà come base operativa finché ogni Goblin non sarà scacciato da questi sentieri e la foresta non ricorderà come si fa a tacere."
+NPC_CORIN_RESPONSE_9f4b1c7e-2d6a-8e3f-5c0b-7a1d9e4c2f6b	"Dopo? Ancora lo stesso. Anche se estirpiamo la fonte, il danno è fatto. Le bestie restano rabbiose, gli spiriti restano in squilibrio, la gente continua a fare scelte stupide. Terremo insieme la foresta per anni, finché non ricorderà come si fa a rinsavire."
+NPC_CORIN_RESPONSE_a7e2cca4-ae98-45ea-9aba-27e3f695e3ec	"Faresti meglio a chiudere la bocca. Siamo avventurieri di Earlwood. Non ci si batte così facilmente."<x1/><x2/><x3/><x4/>*Ti squadra severamente. Ti valuta come un istruttore, emanando autorità nonostante la giovane età.*<x5/><x6/>"Bene. Ti ha mandato Alaric e hai trovato la strada fin quaggiù. Qualcosa saprai fare. Questa è la situazione. Siamo a corto di cibo. Mancano degli uomini. Restano due obiettivi. Se puoi aiutarci con tutto questo, potresti guadagnarti il mio rispetto come compagno d'armi."
+NPC_CORIN_RESPONSE_aab0915a-a9e5-4bdd-9b11-1d98c5caeb82	"Bene. L'approvazione rammollisce."<x1/><x2/>"Conserva la parte in cui uccidi i nostri nemici."
+NPC_CORIN_RESPONSE_ab69df60-c5b8-491c-9d61-af15971596a3	"È grosso e vecchio, ingozzato dei suoi simili. È questo che lo rende forte e duro da abbattere. È lento, ma tu non lo sarai, o muori. Non lasciarti accerchiare dai suoi Goblin, non smettere di muoverti e, quando attacchi, finiscilo. Lo riconoscerai appena lo vedi. Tutto il resto gli starà scappando via."
+NPC_CORIN_RESPONSE_b0968164-44be-44a0-93ce-5a4806407729	"Cerca Saqi, se non l'hai già conosciuta. È sempre la nana più rumorosa e gentile della stanza."
+NPC_CORIN_RESPONSE_b4246e1a-e1a4-442a-b6c7-01e9867b7d1c	"Il tuo aiuto è servito. Di nuovo."<x1/><x2/>"C'è ancora lavoro. Lasciamelo fare."
+NPC_CORIN_RESPONSE_b61aee13-6d7f-46a4-84c4-9fd06f07f628	"Non sei la prima persona a chiederselo."<x1/><x2/><x3/><x4/>"Scelsero la distanza. Alcuni volevano la foresta. Alcuni gli Antichi Dei. Altri volevano soltanto meno occhi sulle proprie vite.<x5/><x6/>Questo posso rispettarlo."<x7/><x8/>*Fa una pausa, quasi riluttante a concedere altro spazio a quel pensiero.*<x9/><x10/>"Quando esploravo questi sentieri, prima che cominciassero i guai, era un posto tranquillo. Non sicuro. Tranquillo. C'è differenza.<x11/><x12/>Avevano vite più dure degli abitanti del villaggio. E mani più dure."
+NPC_CORIN_RESPONSE_b6a9e8d7-b809-4745-be88-dbeab5be9a00	"Non abbastanza in fretta. La velocità serve solo se anticipa la prima vittima."<x1/><x2/><x3/><x4/>"Mi mossi verso i punti di ritrovo. In fretta. Da solo. Era l'unico modo di raggiungerli prima della foresta.<x5/><x6/>Avevo ragione a metà. La gente della foresta si stava già muovendo. I lupi colpirono per primi, poi il resto arrivò fiutando la pista."<x7/><x8/>*Serra la mascella per un istante.*<x9/><x10/>"Raggiunsi gli altri, ma non senza perdite. Bravi combattenti. Migliori di alcuni che sono sopravvissuti.<x11/><x12/>Una volta riuniti, il pericolo cominciò a diminuire. Quando arrivammo al campo, gli altri avevano tirato su qualcosa di difendibile con degli scarti. Fecero il loro lavoro. Non li insulterò fingendo il contrario."
+NPC_CORIN_RESPONSE_bac523c5-3f95-4df7-8477-06f8cb9f0908	"Se per te è stato «facile», bene. Me ne ricorderò quando deciderò contro cosa scagliarti la prossima volta."<x1/><x2/><x3/><x4/>*Corin estrae dal mantello una mappa ripiegata e la apre con disinvoltura esperta.*<x5/><x6/>"Hai trovato l'ingresso della tana dei Goblin. Bene. Ho tracciato un percorso per attraversarla. Tamsin ha mandato cariche esplosive per aprire la via."
+NPC_CORIN_RESPONSE_bb67033a-95df-4619-80f0-635430ad046e	*Corin chiude brevemente gli occhi, non tanto per il dolore quanto per riprendere il controllo.*<x1/><x2/>"Allora gli animali sono morti. Bene."<x3/><x4/>*Riapre gli occhi, freddi e sicuri.*<x5/><x6/>"Non do ai Goblin nomi migliori di quelli che si sono guadagnati."
+NPC_CORIN_RESPONSE_bf0887f7-5a24-46ad-99ee-0f7c8f6e90db	*Corin ti rivolge una breve occhiata, come per decidere se la domanda meriti risposta, poi distoglie di nuovo gli occhi.*<x1/><x2/>"Vecchie fattorie. Contadini e cacciatori. Famiglie di Earlwood che non hanno mai sopportato le mura.<x3/><x4/>Vivevano qui fuori per scelta. Tetti e campi propri, persino servi propri. Più distanza che buon senso, forse.<x5/><x6/>Comunque. Erano dei nostri. Venivano a Earlwood. Conoscevamo i loro nomi."
+NPC_CORIN_RESPONSE_c3ef7f2e-dba6-4a7a-a82e-2f6524e49829	“Un po' malconci. Assalti continui dei Goblin da un lato, degli spiriti della foresta dall'altro. Ne abbiamo persi alcuni. Altri, mandati più a fondo nella foresta, non sono tornati.”
+NPC_CORIN_RESPONSE_cb4ef7df-ff63-4eec-a11a-a76dae0a32bc	"Lo sai già. Vuoi solo sentirmelo dire."<x1/><x2/><x3/><x4/>"Non è la prima volta che quelle fattorie vengono distrutte.<x5/><x6/>Settant'anni fa, durante l'ultima Crisi dei Goblin, furono date alle fiamme. Quella volta i più sopravvissero. Ricostruirono. Tornarono. Gli stessi campi. Gli stessi tetti, o quasi."<x7/><x8/>*Le labbra di Corin si serrano appena.*<x9/><x10/>"Erano sempre stati in pace con la foresta. O credevano di esserlo.<x11/><x12/>Coraggiosi. Testardi. Scegli tu. Ormai non conta."
+NPC_CORIN_RESPONSE_ccdf5334-7794-4e2e-80b1-68ca023a69c2	"Non andiamo da nessuna parte. Abbiamo ancora lavoro da fare."<x1/><x2/><x3/><x4/>*Ti squadra severamente. Ti valuta come un istruttore, emanando autorità nonostante la giovane età.*<x5/><x6/>"Bene. Ti ha mandato Alaric e hai trovato la strada fin quaggiù. Qualcosa saprai fare. Questa è la situazione. Siamo a corto di cibo. Mancano degli uomini. Restano due obiettivi. Se puoi aiutarci con tutto questo, potresti guadagnarti il mio rispetto come compagno d'armi."
+NPC_CORIN_RESPONSE_cdd334bf-6b2d-41ca-b970-48e80cc8cc53	"È difficile seguirne le tracce. Il trucco è seguire quello che si lasciano dietro. Quelle maledette bestiacce lasciano sempre un disastro. Cerca una pista."
+NPC_CORIN_RESPONSE_ce0379d6-4dce-4755-974b-218b96bda488	"Non del tutto. Avevamo scorte. Avevamo un piano. I piani si fanno solo più brutti quando diventano realtà."<x1/><x2/><x3/><x4/>"Mi mossi verso i punti di ritrovo. In fretta. Da solo. Era l'unico modo di raggiungerli prima della foresta.<x5/><x6/>Avevo ragione a metà. La gente della foresta si stava già muovendo. I lupi colpirono per primi, poi il resto arrivò fiutando la pista."<x7/><x8/>*Serra la mascella per un istante.*<x9/><x10/>"Raggiunsi gli altri, ma non senza perdite. Bravi combattenti. Migliori di alcuni che sono sopravvissuti.<x11/><x12/>Una volta riuniti, il pericolo cominciò a diminuire. Quando arrivammo al campo, gli altri avevano tirato su qualcosa di difendibile con degli scarti. Fecero il loro lavoro. Non li insulterò fingendo il contrario."
+NPC_CORIN_RESPONSE_cf34534a-c8be-4f92-bfa5-3115f0cf0f68	"Ho segnato le posizioni sulla tua mappa. Sono sparsi nella parte settentrionale della foresta. Li feci allestire prima che crollasse il ponte. Allora era più sicuro."
+NPC_CORIN_RESPONSE_cf43930f-d001-4abd-8392-aca7a705f300	"Mh. Apprezzo."<x1/><x2/><x3/><x4/>"Per prima cosa puoi tornare da Alaric a fare rapporto per me e spiegargli la situazione. Digli che possiamo proseguire e che nessuno di noi vuole tornare indietro adesso. Andremo fino in fondo e proteggeremo il villaggio.<x5/><x6/>Per continuare ci servono altre scorte da Earlwood. Fa' in modo che la Gilda le consegni.<x7/><x8/><x9/><x10/>Quanto agli obiettivi, credo che abbiamo trovato la fonte della Corruzione. Non possiamo intervenire finché i Goblin qui non saranno sottomessi. Quassù ci sono meno spiriti e più Goblin. Può significare solo che il covo della loro orda è da qualche parte in questa regione. Seguili. Trova la loro base.<x11/><x12/><x13/><x14/>Infine, abbiamo allestito diversi avamposti nella regione. Nessuna notizia da una settimana. Controlla e torna a riferire: vivi o morti."
+NPC_CORIN_RESPONSE_df00c8cc-2357-4aa6-b06f-64dba93a4f41	"Bene. Muoviti."
+NPC_CORIN_RESPONSE_e3918e73-4109-41e3-82ac-f4c64f35cda0	"Vedere come sto. Generoso."<x1/><x2/>*Lo sguardo indugia per un istante, per nulla colpito.*<x3/><x4/>"Se sei qui, renditi utile."<x5/><x6/><x7/><x8/>"Hai scelto un momento opportuno."<x9/><x10/>*Corin sposta il peso, già pronto ad andarsene.*<x11/><x12/>"Vado a ripulire quel che resta dei covi dei Goblin e a tracciare percorsi dei Cercavia. Vieni, oppure no. Il lavoro si fa comunque."
+NPC_CORIN_RESPONSE_e4353429-5d34-4ec4-b058-cdf76d6f5b68	*Corin si immobilizza per un istante, come se si aspettasse una risposta evasiva e ne avesse ricevuta una peggiore.*<x1/><x2/>"Mh."<x3/><x4/>"Allora non sprecarlo."
+NPC_CORIN_RESPONSE_e4da2d2e-d8ec-49e0-b4df-af1a617b0aae	*Corin chiude gli occhi per un momento.*<x1/><x2/>"Sì."
+NPC_CORIN_RESPONSE_e68779a7-b4ca-4539-82b6-8c99e585f309	"Bene. Se fosse stato facile, dubiterei del racconto."<x1/><x2/><x3/><x4/>"Ti ho giudicato male al tuo arrivo.<x5/><x6/><x7/><x8/>Sembravi un altro avventuriero troppo sicuro di sé. Grandi promesse, vita breve. Ne passano."<x9/><x10/>*Il suo sguardo torna su di te, fermo e valutativo.*<x11/><x12/>"Poi hai ucciso un Re Goblin.<x13/><x14/><x15/><x16/>Quindi. Considera corretto il mio giudizio. Per ora."
+NPC_CORIN_RESPONSE_ef26f919-d1d7-442d-b376-fbd8eb1661ac	"Le guerre finiscono quando qualcuno le costringe a finire."
+NPC_CORIN_RESPONSE_f4ccd910-a5c4-4958-8e04-c47bfec6251d	*Ti squadra come se ispezionasse un attrezzo difettoso.*<x1/><x2/>"Se lo chiami lavoro di fatica, non vedi la linea."<x3/><x4/>"È questo che la tiene in piedi."<x5/><x6/><x7/><x8/>*Corin si raddrizza e si volta verso di te, dedicandoti tutta la sua attenzione. Estrae una mappa con un gesto esperto.*<x9/><x10/>"Troppo terreno e troppo poche braccia. Quindi tocca a me, e ora a te.<x11/><x12/>Bivio del Sentiero. Passaggio sul Fiume. Vecchio Ceppo.<x13/><x14/>Prendi questi kit per i segnalatori. Elimina i Goblin. Piazza i segnalatori di protezione. Un lavoro semplice."<x15/><x16/>*Ripiega la mappa e ti fissa con lo sguardo valutativo di un capitano.*<x17/><x18/>"Finché non lo facciamo, le carovane restano a rischio. Niente attraversa i sentieri principali senza incidenti.<x19/><x20/>Occupatene. Poi ci ritroviamo qui."
+NPC_CORIN_RESPONSE_f9cdc70c-6400-4ae8-8f8e-a4f14e948d6e	"Ti sembra che abbiamo bisogno di essere recuperati?"<x1/><x2/><x3/><x4/>*Il giovane accoglie la tua osservazione con uno sbuffo sprezzante, poi prosegue.*<x5/><x6/>"Mi chiamo Corin e non abbiamo bisogno di essere salvati. Le scorte scarseggiano un po', ma sappiamo cavarcela. Dev'essere stato Alaric a mandarti oltre il ponte, il che significa che è stato ricostruito. Bene riavere le linee di rifornimento. Accelererà le cose."
+NPC_CORIN_RESPONSE_fa0dbe4b-4703-4d42-b2d1-547b175c4f3b	"Chi dice così o torna coperto di sangue, o non torna affatto. Cerca di appartenere al primo gruppo."
+NPC_CORIN_RESPONSE_fb0ef6d0-a48e-4992-8ad1-b3ef7247df8c	"Valutare non tiene la linea."<x1/><x2/>"Prendi un impegno, o fatti da parte."
+NPC_CORIN_TITLE	Il capitano degli avventurieri
+NPC_FAUSTAS_GREETING_92bb22f0-30ca-4f02-b1e3-ccbbe4028feb	*Una proiezione scintillante prende la forma di un mago anziano con un cappello storto, sospeso a pochi centimetri da terra. È rivolto nella direzione sbagliata, anche se di poco.*<x1/><x2/><x3/><x4/>“Bene, bene. Finalmente.”<x5/><x6/>“Un momento, l'immagine è ancora… ecco. Meglio. Ci è voluto più di quanto sperassi. Una tempesta di magia devastata è un pessimo posto per trovare qualcuno. Ti cerco in tutta Mirkea da quando il mio incantesimo ti ha fatto arrivare nel posto sbagliato, ed eccoti qui.”<x7/><x8/>“E quel maledetto Droop prosciugava tutta la magia. Era quasi impossibile far passare una proiezione decente, finché non hai risolto la faccenda. Davvero un ottimo lavoro, a proposito. L'aria si sta assestando di nuovo.”<x9/><x10/>*Finalmente ti mette bene a fuoco.*<x11/><x12/>“Faustas. Mago. L'incantesimo che ti ha fatto arrivare nel posto sbagliato era mio, quindi spetta a me rispondere alle domande che stai per porre. Chiedi.”
+NPC_FAUSTAS_GREETING_bea1ec6b-8e1d-4aaf-b8e3-d93377088edb	*La proiezione di Faustas è già qui, rivolta nella direzione sbagliata, assorta in un pensiero che non si è ancora accorto di te.*<x1/><x2/>"Ah, rieccoti!"
+NPC_FAUSTAS_GREETING_c6567454-3c0c-4aee-9873-354a6201f72b	*Il Varco si desta mentre ti avvicini, la sua antica pietra si riempie di una luce pallida. La proiezione di Faustas è già lì, protesa nel chiarore più di quanto un corpo potrebbe sopportare. Non alza lo sguardo.*<x1/><x2/>"Ti ha risposto."<x3/><x4/>*La proiezione si volta un poco verso di te. Gli occhi restano sulla pietra.*<x5/><x6/>"Speravo che accadesse. La speranza è un misero sostituto della certezza; questa è certezza. La magia del rituale spezzato di Sylbos ha attecchito in te."<x7/><x8/>*Ora ti guarda, e dimentica il Varco.*<x9/><x10/>"Furono gli Antichi a creare questo Varco. Le loro opere non si destano per chiunque. Una parte del loro potere ora ti riconosce."
+NPC_FAUSTAS_PLAYER_0fd21c71-44ee-4c38-8ee1-7606056e4410_HEROIC	"Nel posto sbagliato." Mi hai trascinato tu in questa storia. Devi spiegarmi.
+NPC_FAUSTAS_PLAYER_0fd21c71-44ee-4c38-8ee1-7606056e4410_JOKER	"Nel posto sbagliato." Un modo delicato di dirlo. Comincia a spiegare.
+NPC_FAUSTAS_PLAYER_0fd21c71-44ee-4c38-8ee1-7606056e4410_SCHOLAR	"Nel posto sbagliato." Un termine indulgente. Mi hai trascinato tu in questa vicenda; rendine conto.
+NPC_FAUSTAS_PLAYER_0fd21c71-44ee-4c38-8ee1-7606056e4410_STOIC	"Nel posto sbagliato." Mi hai trascinato tu in questa storia. Inizia a spiegare.
+NPC_FAUSTAS_PLAYER_12f78c24-e277-480f-b39b-f6f604563c8d_BASE	Ripetimi. Dove devo andare?
+NPC_FAUSTAS_PLAYER_168dfece-cede-42b0-85b0-782e5080d628_BASE	Perché io?
+NPC_FAUSTAS_PLAYER_251ec0ff-84f0-4108-a587-098ef64afb67_HEROIC	Dunque mi ritrovo in una guerra che non ho causato.
+NPC_FAUSTAS_PLAYER_251ec0ff-84f0-4108-a587-098ef64afb67_JOKER	Quindi eccomi in una guerra a cui non avevo chiesto di partecipare.
+NPC_FAUSTAS_PLAYER_251ec0ff-84f0-4108-a587-098ef64afb67_SCHOLAR	Dunque mi ritrovo in una guerra che non ho scelto.
+NPC_FAUSTAS_PLAYER_251ec0ff-84f0-4108-a587-098ef64afb67_STOIC	Quindi questa guerra mi tiene in trappola. Non l’ho scelta.
+NPC_FAUSTAS_PLAYER_2894e59a-bf74-46a4-844e-b37df3457ef8_BASE	Che posto è questo?
+NPC_FAUSTAS_PLAYER_2dcc9f7f-cbf8-40b5-b5e6-74c7bb433ef9_HEROIC	Allora dimmi cosa porto dentro, e a chi apparteneva.
+NPC_FAUSTAS_PLAYER_2dcc9f7f-cbf8-40b5-b5e6-74c7bb433ef9_JOKER	Allora dimmi cosa mi porto dietro, visto che nessuno mi ha chiesto di tenerlo.
+NPC_FAUSTAS_PLAYER_2dcc9f7f-cbf8-40b5-b5e6-74c7bb433ef9_SCHOLAR	Allora dimmi, con precisione, che cosa ha attecchito in me.
+NPC_FAUSTAS_PLAYER_2dcc9f7f-cbf8-40b5-b5e6-74c7bb433ef9_STOIC	Allora dimmi cosa porto dentro.
+NPC_FAUSTAS_PLAYER_4c48af04-122a-47ab-8b21-223635b2e422_BASE	Cos'è un Varco?
+NPC_FAUSTAS_PLAYER_540d3f11-90fd-4bf6-84d5-544deeebb4c6_HEROIC	Una tenda e un fuoco. Ho costruito di peggio con meno, in luoghi peggiori.
+NPC_FAUSTAS_PLAYER_540d3f11-90fd-4bf6-84d5-544deeebb4c6_JOKER	Una tenda e un fuoco. Ho costruito di peggio con meno, e ci ho pure dormito.
+NPC_FAUSTAS_PLAYER_540d3f11-90fd-4bf6-84d5-544deeebb4c6_SCHOLAR	Una tenda e un fuoco. Ho assemblato strutture peggiori con meno materiali.
+NPC_FAUSTAS_PLAYER_540d3f11-90fd-4bf6-84d5-544deeebb4c6_STOIC	Una tenda e un fuoco. Ho costruito di peggio con meno.
+NPC_FAUSTAS_PLAYER_66aa2d6a-6640-4b86-b77d-ecc97033a747_HEROIC	Earlwood, poi la torre. Non farmi attendere a lungo.
+NPC_FAUSTAS_PLAYER_66aa2d6a-6640-4b86-b77d-ecc97033a747_JOKER	Earlwood, poi la torre. Non farmi aspettare, o comincio a toccare tutto.
+NPC_FAUSTAS_PLAYER_66aa2d6a-6640-4b86-b77d-ecc97033a747_SCHOLAR	Earlwood, poi la torre. Mi aspetto puntualità.
+NPC_FAUSTAS_PLAYER_66aa2d6a-6640-4b86-b77d-ecc97033a747_STOIC	Earlwood, poi la torre. Non farmi aspettare troppo.
+NPC_FAUSTAS_PLAYER_68ccfbff-a786-4142-8342-245af4690488_HEROIC	Hai visto il rischio e hai scelto comunque di mandarmi qui.
+NPC_FAUSTAS_PLAYER_68ccfbff-a786-4142-8342-245af4690488_JOKER	Avevi intuito che poteva andare storto e mi hai spedito qui lo stesso.
+NPC_FAUSTAS_PLAYER_68ccfbff-a786-4142-8342-245af4690488_SCHOLAR	Avevi previsto questo esito, eppure hai deciso di inviarmi qui.
+NPC_FAUSTAS_PLAYER_68ccfbff-a786-4142-8342-245af4690488_STOIC	Sapevi che poteva succedere e mi hai mandato qui lo stesso.
+NPC_FAUSTAS_PLAYER_6b625a05-d137-4f14-8052-ae750359b12c_HEROIC	Il tuo errore mi è quasi costato la vita.
+NPC_FAUSTAS_PLAYER_6b625a05-d137-4f14-8052-ae750359b12c_JOKER	Quindi la tua svista mi stava spedendo anzitempo nella tomba.
+NPC_FAUSTAS_PLAYER_6b625a05-d137-4f14-8052-ae750359b12c_SCHOLAR	Il tuo errore di calcolo mi ha quasi ucciso. Prendine nota per il futuro.
+NPC_FAUSTAS_PLAYER_6b625a05-d137-4f14-8052-ae750359b12c_STOIC	Il tuo errore mi ha quasi ucciso.
+NPC_FAUSTAS_PLAYER_77bc9b27-5846-4a19-9d23-247c0737acef_BASE	Ripetimi. Cosa devo costruire esattamente?
+NPC_FAUSTAS_PLAYER_7dd23630-6f93-4ec9-9bfa-1530a60b4a7d_HEROIC	Tuo, dunque. Mi dovevi un avvertimento e non me l'hai dato.
+NPC_FAUSTAS_PLAYER_7dd23630-6f93-4ec9-9bfa-1530a60b4a7d_JOKER	Tuo, allora. Un avvertimento sarebbe stato una piacevole novità.
+NPC_FAUSTAS_PLAYER_7dd23630-6f93-4ec9-9bfa-1530a60b4a7d_SCHOLAR	Tuo, dunque. Un preavviso sarebbe stato assai istruttivo.
+NPC_FAUSTAS_PLAYER_7dd23630-6f93-4ec9-9bfa-1530a60b4a7d_STOIC	Tuo, allora. Un avvertimento avrebbe fatto comodo.
+NPC_FAUSTAS_PLAYER_904350d3-b7bf-409e-866e-6aaf4da2661f_BASE	Cos'era quella cosa?
+NPC_FAUSTAS_PLAYER_936b7b7f-a246-4960-bc88-a7f72b5df325_HEROIC	Non mi fido ancora di te, ma devo trovare una via di fuga.
+NPC_FAUSTAS_PLAYER_936b7b7f-a246-4960-bc88-a7f72b5df325_JOKER	La fiducia scarseggia, ma una via d'uscita mi serve comunque.
+NPC_FAUSTAS_PLAYER_936b7b7f-a246-4960-bc88-a7f72b5df325_SCHOLAR	La fiducia continua a mancare. Una via d'uscita, tuttavia, è indispensabile.
+NPC_FAUSTAS_PLAYER_936b7b7f-a246-4960-bc88-a7f72b5df325_STOIC	Non mi fido di te, ma mi serve un'uscita.
+NPC_FAUSTAS_PLAYER_94e2d39d-1909-47ca-9d52-b72b33e4d5c5_BASE	Ricordami, cos'è un Varco?
+NPC_FAUSTAS_PLAYER_9bbad45c-61cf-4d3c-bb38-94503ddc0a69_HEROIC	Allora devo restare in vita. Dimmi cosa occorre fare.
+NPC_FAUSTAS_PLAYER_9bbad45c-61cf-4d3c-bb38-94503ddc0a69_JOKER	Allora devo restare in vita. Qualche consiglio, o il piano finisce qui?
+NPC_FAUSTAS_PLAYER_9bbad45c-61cf-4d3c-bb38-94503ddc0a69_SCHOLAR	Dunque la sopravvivenza è l'obiettivo immediato. Specifica il metodo.
+NPC_FAUSTAS_PLAYER_9bbad45c-61cf-4d3c-bb38-94503ddc0a69_STOIC	Allora resto in vita. Dimmi come.
+NPC_FAUSTAS_PLAYER_d45450e0-dc8f-47c5-871e-f9c3bd743bad_HEROIC	Allora ciò che voleva è dentro di me. Possiamo rivolgerglielo contro.
+NPC_FAUSTAS_PLAYER_d45450e0-dc8f-47c5-871e-f9c3bd743bad_JOKER	Allora quello che voleva ce l'ho dentro. Servirà pur a qualcosa contro di lui.
+NPC_FAUSTAS_PLAYER_d45450e0-dc8f-47c5-871e-f9c3bd743bad_SCHOLAR	Dunque ciò che cercava risiede in me. È possibile usarlo contro di lui.
+NPC_FAUSTAS_PLAYER_d45450e0-dc8f-47c5-871e-f9c3bd743bad_STOIC	Allora ciò che voleva è in me. Possiamo usarlo contro di lui.
+NPC_FAUSTAS_PLAYER_d7338422-658a-456f-90d5-3cf81c6f15be_BASE	"Ho finito di costruire il campo."
+NPC_FAUSTAS_PLAYER_d89a723a-8b81-435e-8f51-b8a0a88b7ba0_HEROIC	Solo ora sei riuscito a ricordare la via d'uscita?
+NPC_FAUSTAS_PLAYER_d89a723a-8b81-435e-8f51-b8a0a88b7ba0_JOKER	La via d'uscita ti è saltata in mente proprio adesso, eh?
+NPC_FAUSTAS_PLAYER_d89a723a-8b81-435e-8f51-b8a0a88b7ba0_SCHOLAR	Hai recuperato soltanto ora il ricordo della via d'uscita?
+NPC_FAUSTAS_PLAYER_d89a723a-8b81-435e-8f51-b8a0a88b7ba0_STOIC	La via d'uscita te la ricordi solo adesso?
+NPC_FAUSTAS_PLAYER_f036b78d-4939-453d-b37f-72b8acc5c9fb_HEROIC	Magnifico. Mi trascini qui e ora devo anche fare il lavoro di fatica.
+NPC_FAUSTAS_PLAYER_f036b78d-4939-453d-b37f-72b8acc5c9fb_JOKER	Magnifico. Mi trascini qui e ora faccio pure la manovalanza. Mi paghi almeno?
+NPC_FAUSTAS_PLAYER_f036b78d-4939-453d-b37f-72b8acc5c9fb_SCHOLAR	Notevole. Dopo avermi trascinato qui, mi richiedi anche la manodopera.
+NPC_FAUSTAS_PLAYER_f036b78d-4939-453d-b37f-72b8acc5c9fb_STOIC	Magnifico. Mi trascini qui e ora tocca a me lavorare.
+NPC_FAUSTAS_PLAYER_faa0a075-f8c8-49cc-9b71-4e7d314fb151_HEROIC	A nord. Sarò lì prima di te.
+NPC_FAUSTAS_PLAYER_faa0a075-f8c8-49cc-9b71-4e7d314fb151_JOKER	A nord. Arrivo prima io, e tu non devi neanche camminare.
+NPC_FAUSTAS_PLAYER_faa0a075-f8c8-49cc-9b71-4e7d314fb151_SCHOLAR	A nord. Prevedo di arrivare prima di te.
+NPC_FAUSTAS_PLAYER_faa0a075-f8c8-49cc-9b71-4e7d314fb151_STOIC	Nord. Ti precederò.
+NPC_FAUSTAS_RESPONSE_03d6ed3e-85b5-4355-89c2-b21a70754365	"Lo sospettavo. Non lo sapevo."<x1/><x2/><x3/><x4/>*La luce del Varco gli illumina il viso, sul quale non resta più traccia di divertimento.*<x5/><x6/>"Sylbos. Il Signore Oscuro di Dolmarok.<x7/><x8/>Raduna eserciti, mostri e Corruzione sotto un'unica volontà. Non vuole un regno. Vuole il dominio sulla vita stessa.<x9/><x10/>Il suo rituale doveva renderlo immortale. L'ho spezzato prima che potesse impadronirsi del potere. Una parte di quel potere ha trovato te."
+NPC_FAUSTAS_RESPONSE_254c54e4-6460-4390-9a5d-deee27717cef	"Una guerra. Sì. Non ti insulterò usando una parola più piccola.<x1/><x2/>Né l'ha scelta alcun'altra cosa che lui abbia toccato. È l'ultimo dei Maghi Ogre. C'è un motivo se quel titolo viene pronunciato sottovoce."<x3/><x4/><x5/><x6/>*Si avvicina. Il chiarore del Varco non lo segue; per un momento è soltanto una voce.*<x7/><x8/>“Usa il Varco. Dovrebbe portarti a Earlwood. Da lì, raggiungi la mia torre oltre Wildwood, senza indugiare. Lui si sta muovendo e non ignorerà chi porta in sé ciò di cui voleva impadronirsi.<x9/><x10/>Il Varco può anche riportarti indietro. Ora il tuo campo è qui; considera tua questa montagna.”
+NPC_FAUSTAS_RESPONSE_48072096-fc47-49f8-8b2f-77441151c654	"Smonta il vecchio campo per recuperarne le risorse, costruisciti una tenda e un falò. Quando avrai finito, torna da me."
+NPC_FAUSTAS_RESPONSE_4c545f92-efc4-437b-83d6-9b176857a681	"Un passaggio degli Antichi. Non proprio una porta. Un luogo in cui la distanza diventa negoziabile. Prima trovalo. Sarà più facile spiegarlo quando lo avrai davanti."
+NPC_FAUSTAS_RESPONSE_5c3d8666-5b15-4aaa-aa03-f341c4ba2fc9	"Ragionevole. Non si dovrebbe concedere fiducia soltanto perché un mago compare avvolto nella luce. Il Santuario è comunque tuo; tornaci quando ne avrai bisogno."<x1/><x2/>*La proiezione svanisce mentre parla, come se la questione fosse già risolta.*
+NPC_FAUSTAS_RESPONSE_671cba9c-6027-420e-b4cd-c685f07a6b05	"Bene. Allora sopravvivi alla prossima ora. Le grandi questioni possono aspettare che tu abbia un tetto."<x1/><x2/><x3/><x4/>*Ti volta le spalle per rivolgersi al campo in rovina, come se fosse stato quello a fare la domanda.*<x5/><x6/>"Smonta ciò che resta di questo campo, prendi tutto ciò che è ancora utilizzabile e costruisciti una tenda e un fuoco qui nel Santuario. Confido che tu ne sia capace. Tienimi da parte gli eventuali funghi interessanti. Io cercherò di ricordare la via d'uscita."
+NPC_FAUSTAS_RESPONSE_717c4f5c-fee4-44c4-b14d-64901b597423	"Eccellente. Prima il recupero, poi il riparo."<x1/><x2/>*La proiezione sta già perdendo interesse per la conversazione, insieme a parte della sua luce.*
+NPC_FAUSTAS_RESPONSE_9318c039-83c5-4875-bed6-b41268bd8114	"A mia discolpa, però, ricordare prima o poi è meglio che non ricordare affatto."<x1/><x2/>*Sta già svanendo prima che tu possa rispondere.*
+NPC_FAUSTAS_RESPONSE_9333b5c3-38a8-4e97-b774-b14653b36be8	"Bene. Prima Earlwood, poi la torre. Ti aspetterò. E il Santuario è tuo; tornaci quando ne avrai bisogno."<x1/><x2/>*La luce abbandona il Varco, e con esso anche lui.*
+NPC_FAUSTAS_RESPONSE_96b234db-3e6c-4ef6-80c6-d2f3a5285fb8	"Purtroppo sì. Le scuse non ti terranno al caldo."<x1/><x2/>*I contorni della proiezione si stanno già assottigliando, come se l'argomento fosse chiuso.*
+NPC_FAUSTAS_RESPONSE_9b86e808-b64a-4a58-bad5-de60d104842d	"Un Droop. Di solito innocuo. Alto quanto una caviglia e umidiccio, senza altra ambizione che stare tra i piedi. Questo si nutriva da anni di magia dispersa. Una dieta terribile. Molto istruttiva."
+NPC_FAUSTAS_RESPONSE_a55517f7-2e81-4e2e-b6e6-b34677d8b874	"«Trascinare» è una brutta parola. Non del tutto inesatta."<x1/><x2/><x3/><x4/>*La proiezione si stabilizza, ogni tremolio scompare.*<x5/><x6/>“Ho cercato di portarti alla mia torre. Avevo appena spezzato un rituale di Sylbos e il suo contraccolpo ha investito il mio incantesimo. Miravo a casa. L'incantesimo ha scelto il Santuario. Quell'errore è mio. Il disastro più grande è suo.<x7/><x8/>Ti troverò una via d'uscita. Fino ad allora, restare in vita è compito tuo, e una proiezione non può farlo al posto tuo.”
+NPC_FAUSTAS_RESPONSE_ab7676c9-b8bb-42ad-bddd-6c3857496dfe	"Una possibilità. Esigua, e l'unica che abbiamo.<x1/><x2/>Comprendi bene che cosa ti attende all'altro capo. È l'ultimo dei Maghi Ogre. C'è un motivo se quel titolo viene pronunciato sottovoce."<x3/><x4/><x5/><x6/>*Si avvicina. Il chiarore del Varco non lo segue; per un momento è soltanto una voce.*<x7/><x8/>“Usa il Varco. Dovrebbe portarti a Earlwood. Da lì, raggiungi la mia torre oltre Wildwood, senza indugiare. Lui si sta muovendo e non ignorerà chi porta in sé ciò di cui voleva impadronirsi.<x9/><x10/>Il Varco può anche riportarti indietro. Ora il tuo campo è qui; considera tua questa montagna.”
+NPC_FAUSTAS_RESPONSE_baf00db4-ab37-4e5f-9c30-90bfca6dfc82	"Un Varco. Un passaggio degli Antichi che piega la distanza anziché attraversarla. Se ti accetta, può portarti lontano dal Santuario, in luoghi ben oltre questa montagna, e poi riportarti qui."
+NPC_FAUSTAS_RESPONSE_c8ce4e07-7d73-4608-8883-ef5f2665875c	"Sì. Hai guadagnato il diritto alla verità, o almeno a quanta posso rivelarne senza pericolo."<x1/><x2/><x3/><x4/>*La luce del Varco gli illumina il viso, sul quale non resta più traccia di divertimento.*<x5/><x6/>"Sylbos. Il Signore Oscuro di Dolmarok.<x7/><x8/>Raduna eserciti, mostri e Corruzione sotto un'unica volontà. Non vuole un regno. Vuole il dominio sulla vita stessa.<x9/><x10/>Il suo rituale doveva renderlo immortale. L'ho spezzato prima che potesse impadronirsi del potere. Una parte di quel potere ha trovato te."
+NPC_FAUSTAS_RESPONSE_d3096ba9-c00c-4731-8858-ae09b3e475ba	"Eccellente. A nord, attraverso il passaggio. Ci vedremo al Varco."<x1/><x2/>*Si sta già voltando a nord, e la luce lo segue.*
+NPC_FAUSTAS_RESPONSE_d5867822-a6d2-4d22-ba94-87a8a32e2c30	"Sì. Preferirei però che entrambi restassimo in vita abbastanza a lungo da rendere utile il mio senso di colpa."<x1/><x2/><x3/><x4/>*Ti volta le spalle per rivolgersi al campo in rovina, come se fosse stato quello a fare la domanda.*<x5/><x6/>"Smonta ciò che resta di questo campo, prendi tutto ciò che è ancora utilizzabile e costruisciti una tenda e un fuoco qui nel Santuario. Confido che tu ne sia capace. Tienimi da parte gli eventuali funghi interessanti. Io cercherò di ricordare la via d'uscita."
+NPC_FAUSTAS_RESPONSE_e28edcf2-904e-4008-ba36-298d055aed0d	"Il Santuario. Un luogo degli Antichi, o qualcosa di molto simile.<x1/><x2/><x3/><x4/>Sorge su un altopiano montano, ma il problema è trovare la montagna. Una magia antica nasconde questo luogo alle mappe. Per ora è abbastanza sicuro. Non confondere antico con innocuo."
+NPC_FAUSTAS_RESPONSE_f11d5d5e-5e22-4440-b429-b8aebc1990c6	"Non lo so. Il rituale si è spezzato con violenza. Il potere cerca ricettacoli, vie, ferite, occasioni. Per qualche ragione ha trovato te e non ti ha più lasciato."
+NPC_FAUSTAS_RESPONSE_f16164de-4bf7-4c73-aecd-4cf303242ce0	"Usa il Varco per lasciare il Santuario. Dovrebbe portarti a Earlwood; da lì raggiungi la mia torre oltre Wildwood. Il Varco ti riporterà al tuo campo ogni volta che ne avrai bisogno."
+NPC_FAUSTAS_RESPONSE_f5258df9-e256-4614-8e36-a8804d8ae956	"Bene. E ora che hai un tetto, mi accorgo di aver ricordato la via d'uscita."<x1/><x2/>*Sta già guardando a nord, oltre te.*<x3/><x4/>"C'è un Varco da quella parte. Dovrebbe condurre fuori dal Santuario. Trovalo e ti raggiungerò lì."
+NPC_FAUSTAS_RESPONSE_f90fdd2a-681f-41b3-8ebe-052ad2d4b101	"Avvertirti? Sì. Col senno di poi, sarebbe stato cortese, sensato e assai meno emozionante. Due di queste sono virtù."<x1/><x2/><x3/><x4/>*La proiezione si stabilizza, ogni tremolio scompare.*<x5/><x6/>“Ho cercato di portarti alla mia torre. Avevo appena spezzato un rituale di Sylbos e il suo contraccolpo ha investito il mio incantesimo. Miravo a casa. L'incantesimo ha scelto il Santuario. Quell'errore è mio. Il disastro più grande è suo.<x7/><x8/>Ti troverò una via d'uscita. Fino ad allora, restare in vita è compito tuo, e una proiezione non può farlo al posto tuo.”
+NPC_FAUSTAS_TITLE	Il venerabile mago
+NPC_GUARD_GREETING_a4d9c2f7-1b6e-8a3c-5d0f-7e2b1c9a6d3f	"Grazie ancora… per averci risparmiati."
+NPC_GUARD_GREETING_d6c4b593-9239-4637-be20-42f07a436069	*La guardia ti vede avvicinarti e si blocca per un istante.*<x1/><x2/>"Sei… sei tu. Ehm… come posso aiutarti, avventuriero?"
+NPC_GUARD_PLAYER_36c104a2-4e9c-4813-9ab5-088dfba4f429_HEROIC	Parlate chiaro e potrete ancora andarvene. Chi l'ha ordinato?
+NPC_GUARD_PLAYER_36c104a2-4e9c-4813-9ab5-088dfba4f429_JOKER	Parlate e magari continuate a respirare. Chi ha ordinato questo bel pasticcio?
+NPC_GUARD_PLAYER_36c104a2-4e9c-4813-9ab5-088dfba4f429_SCHOLAR	L'onestà vi compra la vita. Chi ha impartito l'ordine?
+NPC_GUARD_PLAYER_36c104a2-4e9c-4813-9ab5-088dfba4f429_STOIC	Dite la verità e potrete andarvene vivi. Chi vi ha ordinato di farlo?
+NPC_GUARD_PLAYER_38e538cb-5c59-4ab4-bbc0-b940d2cfc1f8_HEROIC	Esatto. Hai capito a chi ti stai rivolgendo.
+NPC_GUARD_PLAYER_38e538cb-5c59-4ab4-bbc0-b940d2cfc1f8_JOKER	Proprio così, ti ricordi con chi stai parlando.
+NPC_GUARD_PLAYER_38e538cb-5c59-4ab4-bbc0-b940d2cfc1f8_SCHOLAR	Esatto. Sai precisamente a chi ti rivolgi.
+NPC_GUARD_PLAYER_38e538cb-5c59-4ab4-bbc0-b940d2cfc1f8_STOIC	Esatto. Sai con chi parli.
+NPC_GUARD_PLAYER_4a32ee69-74eb-4084-87f4-c271e5cd7caa_BASE	Perché il villaggio non riceve carichi via mare?
+NPC_GUARD_PLAYER_5549820c-ef94-4535-96d2-c2657b790dd4_HEROIC	Lasciate Earlwood per sempre. Se vi avvicinate di nuovo, incontrerete la morte.
+NPC_GUARD_PLAYER_5549820c-ef94-4535-96d2-c2657b790dd4_JOKER	Via da Earlwood, per sempre. Un'altra passeggiata da queste parti e sarà l'ultima.
+NPC_GUARD_PLAYER_5549820c-ef94-4535-96d2-c2657b790dd4_SCHOLAR	Lasciate Earlwood definitivamente. Se vi avvicinerete ancora, la questione si chiuderà con la vostra morte.
+NPC_GUARD_PLAYER_5549820c-ef94-4535-96d2-c2657b790dd4_STOIC	Lasciate Earlwood. Se vi rivedo nei paraggi, sarà il vostro ultimo giorno.
+NPC_GUARD_PLAYER_71d55f7b-3e34-45ac-8a74-2a9c87651178_HEROIC	Mi riconosci?
+NPC_GUARD_PLAYER_71d55f7b-3e34-45ac-8a74-2a9c87651178_JOKER	La mia fama mi precede, eh?
+NPC_GUARD_PLAYER_71d55f7b-3e34-45ac-8a74-2a9c87651178_SCHOLAR	Hai già notizia di me?
+NPC_GUARD_PLAYER_71d55f7b-3e34-45ac-8a74-2a9c87651178_STOIC	Mi conosci?
+NPC_GUARD_PLAYER_95b60d6c-6d5a-43c2-8c98-eee22efcaacd_HEROIC	Dunque siete voi a spogliare i morti. Ho visto abbastanza.
+NPC_GUARD_PLAYER_95b60d6c-6d5a-43c2-8c98-eee22efcaacd_JOKER	Quindi siete voi a frugare in quello che gli avventurieri si sono lasciati dietro, vedo.
+NPC_GUARD_PLAYER_95b60d6c-6d5a-43c2-8c98-eee22efcaacd_SCHOLAR	Predoni di cadaveri, dunque. Questo spiega ciò che manca agli avventurieri.
+NPC_GUARD_PLAYER_95b60d6c-6d5a-43c2-8c98-eee22efcaacd_STOIC	Dunque siete voi a saccheggiare i cadaveri degli avventurieri. Capisco.
+NPC_GUARD_PLAYER_b748273d-dcb3-418c-9d41-1e4424275093_HEROIC	Ora la verità. Ordini del Sindaco o una vostra idea?
+NPC_GUARD_PLAYER_b748273d-dcb3-418c-9d41-1e4424275093_JOKER	Erano ordini del Sindaco o una vostra brillante idea?
+NPC_GUARD_PLAYER_b748273d-dcb3-418c-9d41-1e4424275093_SCHOLAR	Per chiarezza, avete agito su ordine del Sindaco o di vostra iniziativa?
+NPC_GUARD_PLAYER_b748273d-dcb3-418c-9d41-1e4424275093_STOIC	Ditemi la verità. Ordini del Sindaco o iniziativa vostra?
+NPC_GUARD_PLAYER_ce8ddbb2-0bba-4711-b8f3-b36f163d805c_HEROIC	Potete andarvene, ma assicuratevi che non accada più.
+NPC_GUARD_PLAYER_ce8ddbb2-0bba-4711-b8f3-b36f163d805c_JOKER	Filate, allora. Cercate di non farci l'abitudine.
+NPC_GUARD_PLAYER_ce8ddbb2-0bba-4711-b8f3-b36f163d805c_SCHOLAR	Potete andare. L'unica condizione è che non si ripeta mai più.
+NPC_GUARD_PLAYER_ce8ddbb2-0bba-4711-b8f3-b36f163d805c_STOIC	Andate. Non rifatelo.
+NPC_GUARD_PLAYER_d61d4b2b-06e1-4d69-bf39-d4802fc50ded_HEROIC	Costituitevi e accettate la punizione. Solo allora si spegneranno le voci sul Sindaco.
+NPC_GUARD_PLAYER_d61d4b2b-06e1-4d69-bf39-d4802fc50ded_JOKER	Costituitevi e beccatevi la punizione. Magari così la smettono con le voci sul Sindaco.
+NPC_GUARD_PLAYER_d61d4b2b-06e1-4d69-bf39-d4802fc50ded_SCHOLAR	Costituitevi e sottoponetevi alla punizione. Così cesseranno le voci sugli ordini del Sindaco.
+NPC_GUARD_PLAYER_d61d4b2b-06e1-4d69-bf39-d4802fc50ded_STOIC	Costituitevi al villaggio. Scontate la punizione. Finiranno le voci sugli ordini del Sindaco.
+NPC_GUARD_PLAYER_fff27f3d-3ff4-4b30-a0fd-0d074087097a_HEROIC	Vi cercavo, sciacalli che derubate i caduti e spogliate gli avventurieri impedendo loro di combattere.
+NPC_GUARD_PLAYER_fff27f3d-3ff4-4b30-a0fd-0d074087097a_JOKER	Vi cercavo, avvoltoi che spolpate i morti e fate in modo che gli avventurieri non possano combattere.
+NPC_GUARD_PLAYER_fff27f3d-3ff4-4b30-a0fd-0d074087097a_SCHOLAR	Vi cercavo. Profanatori di tombe, che non armate nessuno all'infuori di voi stessi.
+NPC_GUARD_PLAYER_fff27f3d-3ff4-4b30-a0fd-0d074087097a_STOIC	Vi cercavo. Avvoltoi, derubate i morti e lasciate gli avventurieri incapaci di combattere.
+NPC_GUARD_RESPONSE_09d3252e-a4ba-4d2a-852a-e899a5e1a3a8	"I pirati, non lo sai? Quelli di Sylbos soffocano il mare tra qui e Aldoria. Abbiamo perso gli ultimi quattro carichi. Non so nemmeno se il paese possa permettersi di riprovarci…"
+NPC_GUARD_RESPONSE_245e41e4-0f25-4f47-8e01-2543b94b4624	"Certo. Sei il grande avventuriero che ha affrontato il Treant corrotto, il Re Goblin e quel mostro di Re della Foresta…"<x1/><x2/><x3/><x4/>*La guardia lancia un'occhiata al mucchio di attrezzatura alle proprie spalle e si sposta per nasconderlo alla vista.*<x5/><x6/>"Allora… ehm, cosa posso fare per te? Niente grandi bestie da uccidere qui, solo questi Goblin. Non serve qualcuno come te qui fuori… a meno che tu non voglia affrontarli. Così potremo proseguire."
+NPC_GUARD_RESPONSE_5f86ab76-9f9f-4bff-9129-4de74516e6a2	"Non ce l'ha ordinato nessuno. È stata una nostra idea, tutto quanto. Lo giuro sul mio posto di guardia."<x1/><x2/><x3/><x4/>*La guardia deglutisce a fatica, stringendo la lancia come un'ancora di salvezza.*<x5/><x6/>"Ti prego… valoroso avventuriero, lasciaci andare. Non lo faremo più. Lo giuriamo."
+NPC_GUARD_RESPONSE_74b2ed44-8b35-470f-902d-aac74b7a94ba	"Abbiamo fatto tutto noi, lo giuro. Il Sindaco non sa niente. Metà delle volte sa a malapena cosa succede fuori dalla sua villa."<x1/><x2/><x3/><x4/>*La guardia deglutisce a fatica, stringendo la lancia come un'ancora di salvezza.*<x5/><x6/>"Ti prego… valoroso avventuriero, lasciaci andare. Non lo faremo più. Lo giuriamo."
+NPC_GUARD_RESPONSE_86a9ff45-ad30-4a30-bd34-b8f7caeda43b	"Sei tu che hai affrontato il Treant corrotto… e il Re Goblin… e quella cosa che chiamano Re della Foresta…"<x1/><x2/><x3/><x4/>*La guardia lancia un'occhiata al mucchio di attrezzatura alle proprie spalle e si sposta per nasconderlo alla vista.*<x5/><x6/>"Allora… ehm, cosa posso fare per te? Niente grandi bestie da uccidere qui, solo questi Goblin. Non serve qualcuno come te qui fuori… a meno che tu non voglia affrontarli. Così potremo proseguire."
+NPC_GUARD_RESPONSE_b9583f4b-1dc9-4245-92b3-324791949dc8	"Eh… no, non è… noi volevamo solo… ah, maledizione."<x1/><x2/><x3/><x4/>*La guardia si affloscia, le spalle si abbassano e le parole escono a fiotti.*<x5/><x6/>"È solo che… al villaggio ci sono rimaste così poche armi decenti. Non ci danno niente di nuovo da settimane. Dovevamo procurarcele da soli e siamo riusciti a trovare soltanto queste. Ti prego… abbi pietà. La smetteremo. Gli avventurieri possono riavere tutto."
+NPC_GUARD_RESPONSE_c3f2b30e-142f-4eb4-beec-05a84f0e1731	"Non ci avvicineremo più a Earlwood, lo prometto. Prenderemo il sentiero di Wildwood e spariremo. Grazie… per averci risparmiati."
+NPC_GUARD_RESPONSE_c893c82c-18eb-4d2c-8e80-8853622c4bd3	"Grazie, davvero. Torneremo a fare le guardie come si deve, lo giuro."
+NPC_GUARD_RESPONSE_d3ec1cfb-7d30-4887-b1b5-94b23fe842df	"No! Non volevamo fare niente di male, lo giuro. Non è come sembra."<x1/><x2/><x3/><x4/>*La guardia si affloscia, le spalle si abbassano e le parole escono a fiotti.*<x5/><x6/>"È solo che… al villaggio ci sono rimaste così poche armi decenti. Non ci danno niente di nuovo da settimane. Dovevamo procurarcele da soli e siamo riusciti a trovare soltanto queste. Ti prego… abbi pietà. La smetteremo. Gli avventurieri possono riavere tutto."
+NPC_GUARD_RESPONSE_e33a528c-2072-4cbb-9057-81fe2f5d41eb	"Io… immagino sia meglio che morire qui fuori. Ci costituiremo. Andiamo subito. Grazie per la pietà."
+NPC_GUARD_TITLE	Uno degli sciacalli
+NPC_LOSTBOY_GREETING_02f67c80-bba3-4fe4-a81d-cb6a6cc2875c	*Il bambino dagli occhi vivaci non sta più nella pelle mentre ti avvicini.*<x1/><x2/>"Wow! Un vero avventuriero. Hai buttato giù quella Driade senza problemi."<x3/><x4/>"Che spettacolo!"
+NPC_LOSTBOY_GREETING_120aa402-3729-4f34-b340-2a64f74174ce	*Il bambino si mette sull'attenti mentre ti avvicini.*<x1/><x2/>"Non preoccuparti, adesso me ne vado!"
+NPC_LOSTBOY_PLAYER_0aa43a63-7c5f-4f6d-9bfb-f7f0d1f33f95_HEROIC	Ti capisco, piccolo. Verrà il tuo momento, ma ora devi tornare a casa.
+NPC_LOSTBOY_PLAYER_0aa43a63-7c5f-4f6d-9bfb-f7f0d1f33f95_JOKER	Capisco, piccolo. Un giorno gliela farai vedere, ma adesso casa chiama.
+NPC_LOSTBOY_PLAYER_0aa43a63-7c5f-4f6d-9bfb-f7f0d1f33f95_SCHOLAR	Comprendo, bambino. Verrà il tuo momento, ma per ora torna a casa.
+NPC_LOSTBOY_PLAYER_0aa43a63-7c5f-4f6d-9bfb-f7f0d1f33f95_STOIC	Ti capisco, piccolo. Un giorno potrai farlo. Ora vai a casa.
+NPC_LOSTBOY_PLAYER_0dfbb9d5-160a-42cf-837a-bd84787e3f46_HEROIC	La tua ambizione ti fa onore, ma allenarti con Rahaner ti preparerà a dovere.
+NPC_LOSTBOY_PLAYER_0dfbb9d5-160a-42cf-837a-bd84787e3f46_JOKER	Cercare l'avventura è da coraggiosi, ma magari prima fatti insegnare due cose da Rahaner.
+NPC_LOSTBOY_PLAYER_0dfbb9d5-160a-42cf-837a-bd84787e3f46_SCHOLAR	Aspirare a diventare un avventuriero è ammirevole. Sarebbe prudente addestrarti prima con Rahaner.
+NPC_LOSTBOY_PLAYER_0dfbb9d5-160a-42cf-837a-bd84787e3f46_STOIC	Ammirevole. Prima allenati con Rahaner.
+NPC_LOSTBOY_PLAYER_31cac4f2-a7e1-4ac3-a50b-77190c896e67_HEROIC	Non dovresti essere qui fuori. Torna dentro le mura.
+NPC_LOSTBOY_PLAYER_31cac4f2-a7e1-4ac3-a50b-77190c896e67_JOKER	Non dovresti essere qui fuori. Le Driadi mangiano i bambini che vanno in giro, o almeno così dirò a tua madre.
+NPC_LOSTBOY_PLAYER_31cac4f2-a7e1-4ac3-a50b-77190c896e67_SCHOLAR	Non dovresti essere qui fuori. Chi dovrebbe sorvegliarti non lo sta facendo.
+NPC_LOSTBOY_PLAYER_31cac4f2-a7e1-4ac3-a50b-77190c896e67_STOIC	Non dovresti essere qui fuori. Vai a casa.
+NPC_LOSTBOY_PLAYER_530d6e29-af68-4aa6-8d30-0269e90ea665_HEROIC	Hai occhio. Cosa fai qui fuori da solo?
+NPC_LOSTBOY_PLAYER_530d6e29-af68-4aa6-8d30-0269e90ea665_JOKER	Hai occhio. E adesso dimmi: perché il più piccolo di Earlwood è proprio quello fuori dalle mura?
+NPC_LOSTBOY_PLAYER_530d6e29-af68-4aa6-8d30-0269e90ea665_SCHOLAR	Hai osservato con attenzione. Perché sei qui fuori, e qualcuno lo sa?
+NPC_LOSTBOY_PLAYER_530d6e29-af68-4aa6-8d30-0269e90ea665_STOIC	Hai occhio. Perché sei qui fuori da solo?
+NPC_LOSTBOY_PLAYER_579d84b3-6a93-4e88-b9e6-9f3f77f82493_HEROIC	Tu devi essere il bambino di cui parlano tutti.
+NPC_LOSTBOY_PLAYER_579d84b3-6a93-4e88-b9e6-9f3f77f82493_JOKER	Tu devi essere il bambino che sta scatenando tutto questo trambusto.
+NPC_LOSTBOY_PLAYER_579d84b3-6a93-4e88-b9e6-9f3f77f82493_SCHOLAR	Devi essere il bambino di cui discute l'intero villaggio.
+NPC_LOSTBOY_PLAYER_579d84b3-6a93-4e88-b9e6-9f3f77f82493_STOIC	Sei il bambino per cui si agitano tutti.
+NPC_LOSTBOY_PLAYER_6c7925f5-cf9b-4393-9151-5dcbf29500a3_HEROIC	Una Driade ti ha preso. Non è certo il segno di un bravo avventuriero, vero?
+NPC_LOSTBOY_PLAYER_6c7925f5-cf9b-4393-9151-5dcbf29500a3_JOKER	Ti ha preso una Driade? Non proprio il marchio del grande avventuriero, eh?
+NPC_LOSTBOY_PLAYER_6c7925f5-cf9b-4393-9151-5dcbf29500a3_SCHOLAR	Catturato da una Driade. Non depone a favore delle tue capacità, non credi?
+NPC_LOSTBOY_PLAYER_6c7925f5-cf9b-4393-9151-5dcbf29500a3_STOIC	Ti sei fatto prendere da una Driade. Non sei un gran avventuriero, eh?
+NPC_LOSTBOY_PLAYER_95bca11b-7f29-4bc1-92df-b37f8b9e6f61_HEROIC	Lascia perdere, piccolo. Questa strada non fa per te.
+NPC_LOSTBOY_PLAYER_95bca11b-7f29-4bc1-92df-b37f8b9e6f61_JOKER	Meglio mettere via la spada di legno, piccolo. Questa vita non ti si addice.
+NPC_LOSTBOY_PLAYER_95bca11b-7f29-4bc1-92df-b37f8b9e6f61_SCHOLAR	Rinunciaci, davvero. Questa vita ti consumerebbe in fretta.
+NPC_LOSTBOY_PLAYER_95bca11b-7f29-4bc1-92df-b37f8b9e6f61_STOIC	Lascia perdere, piccolo. Non è la vita per te.
+NPC_LOSTBOY_PLAYER_d2e1f981-01db-4e64-a6b4-1f8b3dc5106d_BASE	"Non ci sono già tanti avventurieri al villaggio?"
+NPC_LOSTBOY_RESPONSE_0cb7239e-4895-44ef-ae57-f1fd0bc68955	*Gli occhi del bambino si sgranano, mentre nella sua immaginazione prendono forma i sogni per il futuro.*<x1/><x2/>"Va bene. Torno a casa!"
+NPC_LOSTBOY_RESPONSE_2be8f59c-2e9c-4d65-91e9-06e3d5bdbb2c	"Non mi lasciavano uscire a combattere. Pensano che non ce la faccia."<x1/><x2/>"Voglio diventare un avventuriero come te!"
+NPC_LOSTBOY_RESPONSE_2e0b6e12-d6e5-4f69-b76e-f24d4065741c	*Il bambino abbassa gli occhi a terra. I suoi sogni sono infranti.*<x1/><x2/>"Va bene… Torno a casa."
+NPC_LOSTBOY_RESPONSE_5df6c0ef-5e8d-4e63-8c17-155be284137e	"Hai ragione…"<x1/><x2/>"Sono tutti così preoccupati adesso. Volevo solo dare una mano."
+NPC_LOSTBOY_RESPONSE_7935fc93-3c7c-4d6e-9512-02a70c8d3878	"Non come te! L'unico vero avventuriero là è Alaric. Vorrei tanto vederlo combattere."
+NPC_LOSTBOY_RESPONSE_c51c1f18-57c6-45f3-98b8-1e1e93a2a518	"Non mi ha catturato. La stavo spiando! Eldorian dice che fare l'esploratore è un lavoro importante. Dice che per imparare come combattere dobbiamo solo guardare il nemico."<x1/><x2/>"Sono tutti così preoccupati adesso. Volevo solo dare una mano."
+NPC_LOSTBOY_TITLE	Bambino di Earlwood
+NPC_RONNY_GREETING_cead32de-cb4f-4711-bfde-77a62a9f7daf	"Ancora qui?"
+NPC_RONNY_GREETING_f82b7baf-4722-4a21-be98-23daf84f87eb	*Il pastore ti squadra con uno sguardo spento e indifferente, come se fossi soltanto un altro problema in una lunga lista.*<x1/><x2/>"E tu chi saresti?"
+NPC_RONNY_PLAYER_05951a2f-8e46-4740-afb7-d5b8009eff0e_HEROIC	Non temere, i tuoi problemi non saranno ignorati. Ti aiuterò.
+NPC_RONNY_PLAYER_05951a2f-8e46-4740-afb7-d5b8009eff0e_JOKER	Non temere, arrivano i soccorsi, che tu ci creda o no.
+NPC_RONNY_PLAYER_05951a2f-8e46-4740-afb7-d5b8009eff0e_SCHOLAR	Non temere. Le pecore sono un problema risolvibile.
+NPC_RONNY_PLAYER_05951a2f-8e46-4740-afb7-d5b8009eff0e_STOIC	Non temere. Ti aiuterò.
+NPC_RONNY_PLAYER_240cb51a-7f0b-4dc0-816c-d8b8bb588314_HEROIC	Ti rifiuti di vedere una speranza, non è così?
+NPC_RONNY_PLAYER_240cb51a-7f0b-4dc0-816c-d8b8bb588314_JOKER	La disperazione sembra essere la tua specialità, eh?
+NPC_RONNY_PLAYER_240cb51a-7f0b-4dc0-816c-d8b8bb588314_SCHOLAR	Senza speranza, a giudicare dal tuo aspetto. Mi sbaglio?
+NPC_RONNY_PLAYER_240cb51a-7f0b-4dc0-816c-d8b8bb588314_STOIC	Sembri proprio senza speranza, eh?
+NPC_RONNY_PLAYER_46d49bbf-480b-4cf3-9ce5-65692f73b633_HEROIC	Mi manda Befr. Sono qui per aiutarti a recuperare le tue pecore.
+NPC_RONNY_PLAYER_46d49bbf-480b-4cf3-9ce5-65692f73b633_JOKER	Mi manda Befr. A quanto pare oggi la mia vocazione è recuperare pecore.
+NPC_RONNY_PLAYER_46d49bbf-480b-4cf3-9ce5-65692f73b633_SCHOLAR	Befr mi ha indirizzato qui per assisterti nel recupero delle pecore.
+NPC_RONNY_PLAYER_46d49bbf-480b-4cf3-9ce5-65692f73b633_STOIC	Mi manda Befr per aiutarti a riprendere le pecore.
+NPC_RONNY_PLAYER_675b3e57-034e-4a65-b669-9914cbdc1fe6_HEROIC	Ci penserò, anche se con le tue azioni non hai ancora meritato il mio aiuto.
+NPC_RONNY_PLAYER_675b3e57-034e-4a65-b669-9914cbdc1fe6_JOKER	Ci penserò, ma non mi stai proprio convincendo di meritartelo.
+NPC_RONNY_PLAYER_675b3e57-034e-4a65-b669-9914cbdc1fe6_SCHOLAR	Valuterò, benché gli argomenti a favore dell'aiutarti siano deboli.
+NPC_RONNY_PLAYER_675b3e57-034e-4a65-b669-9914cbdc1fe6_STOIC	Ci penserò, ma non sembri meritare aiuto.
+NPC_RONNY_PLAYER_964c045e-c9d4-49ac-be2c-2a3f3b3e34c6_HEROIC	Sono qui per tirarti fuori da questa situazione.
+NPC_RONNY_PLAYER_964c045e-c9d4-49ac-be2c-2a3f3b3e34c6_JOKER	Qualcuno prova a salvarti da questa situazione pietosa. Esulta.
+NPC_RONNY_PLAYER_964c045e-c9d4-49ac-be2c-2a3f3b3e34c6_SCHOLAR	La tua situazione è pietosa. Io sono il rimedio.
+NPC_RONNY_PLAYER_964c045e-c9d4-49ac-be2c-2a3f3b3e34c6_STOIC	Sono qui per salvarti dalla tua situazione pietosa.
+NPC_RONNY_PLAYER_e6de0d6c-027e-440f-ab7d-f93709cb0cff_HEROIC	Come posso mettere le mie forze al tuo servizio?
+NPC_RONNY_PLAYER_e6de0d6c-027e-440f-ab7d-f93709cb0cff_JOKER	Quale eroica impresa posso pasticciare per conto tuo?
+NPC_RONNY_PLAYER_e6de0d6c-027e-440f-ab7d-f93709cb0cff_SCHOLAR	Da cosa occorre cominciare per il recupero?
+NPC_RONNY_PLAYER_e6de0d6c-027e-440f-ab7d-f93709cb0cff_STOIC	Cosa posso fare per aiutare?
+NPC_RONNY_PLAYER_eb0bec84-af91-41b4-b146-bf91002e3fd8_BASE	Perché non resti al villaggio?
+NPC_RONNY_PLAYER_f94fdefb-8daa-47ef-92ff-8a93fba00162_BASE	Dove sono andate le pecore?
+NPC_RONNY_RESPONSE_380390aa-059f-4099-a48a-4d0a028b2604	"Aiuto? Bah. Nessuno vuole mai aiutarmi. Guardati intorno, se ne sono andati tutti."<x1/><x2/><x3/><x4/>*Il pastore alza le spalle con un gesto svogliato e stanco, gli occhi già si allontanano da te.*<x5/><x6/>"Che altro c'è da fare? Se per miracolo volessi davvero aiutarmi, mi servirebbero pali per il recinto e qualcuno che rimetta in piedi quel dannato affare. Poi dovremmo trascinare qui le pecore prima che le prendano i Goblin. Tanto le prenderanno lo stesso."
+NPC_RONNY_RESPONSE_5a9f9054-8743-4e9c-9011-166b755524a1	"Niente di nuovo. Nessuno ha mai pensato che valessi qualcosa. Sciò."
+NPC_RONNY_RESPONSE_5d3d2837-3a23-4bd1-a036-bc890a71fb47	"Scappate da qualche parte. E io come faccio a saperlo? Guarda nei campi e spingile qui, se le vedi."
+NPC_RONNY_RESPONSE_9740603a-934b-400f-8426-763a9a05ab90	"Befr? Quel vecchio mercante chiassoso del villaggio? Mai parlato con lui. Ha proprio l'aria di un buono a nulla."<x1/><x2/><x3/><x4/>*Il pastore lascia uscire un lungo respiro stanco, gli occhi vagano oltre te verso i campi.*<x5/><x6/>"Non c'è speranza per niente. Ho passato la vita a correre dietro a queste maledette pecore e, appena il recinto viene giù in questa dannata guerra, spariscono. Scappate. Senza un pensiero per me. Non gli è mai importato niente di me."
+NPC_RONNY_RESPONSE_98bf4509-d3cc-4212-af0c-1c5a78494682	"Non mi piace la gente. È una seccatura. E io non sono mai piaciuto a loro."
+NPC_RONNY_RESPONSE_a5d33089-2d58-489c-aaec-6ef4b3e9cf66	"Non sono io. Nessuno vuole mai aiutarmi. È sempre stato così."<x1/><x2/><x3/><x4/>*Il pastore alza le spalle con un gesto svogliato e stanco, gli occhi già si allontanano da te.*<x5/><x6/>"Che altro c'è da fare? Se per miracolo volessi davvero aiutarmi, mi servirebbero pali per il recinto e qualcuno che rimetta in piedi quel dannato affare. Poi dovremmo trascinare qui le pecore prima che le prendano i Goblin. Tanto le prenderanno lo stesso."
+NPC_RONNY_RESPONSE_c84dae68-3d7a-44f1-b9b4-97c3cbe6e50c	"Cosa… davvero? Nessuno mi ha mai aiutato prima. Se poi lo fai sul serio, potrei essere… come la chiamano quei ciocchi del villaggio… grato?"
+NPC_RONNY_RESPONSE_d22bd376-e2b1-489f-9a31-2dc7b9d59d35	"Figurati. Proprio come pensavo."<x1/><x2/><x3/><x4/>*Il pastore lascia uscire un lungo respiro stanco, gli occhi vagano oltre te verso i campi.*<x5/><x6/>"Non c'è speranza per niente. Ho passato la vita a correre dietro a queste maledette pecore e, appena il recinto viene giù in questa dannata guerra, spariscono. Scappate. Senza un pensiero per me. Non gli è mai importato niente di me."
+NPC_RONNY_TITLE	Il pastore "fiducioso"
+NPC_SAQI_GREETING_0e12f59e-b536-4744-87f2-9ed5dffd1139	"Ehi! Eccoti di nuovo, cosa ti porto?"
+NPC_SAQI_GREETING_341fe6c8-9245-45fa-bd0d-f6ff73689cca	*Quando ti avvicini, Saqi interrompe ciò che sta facendo e ti viene incontro a passo deciso.*<x1/><x2/>"Eccoti. Ti stavo dando la caccia."<x3/><x4/>*Ti squadra con un'occhiata rapida, poi un sorrisetto le solleva l'angolo della bocca.*<x5/><x6/>"Si dice che stai falciando Goblin come se ti dovessero dei soldi. Bene. Earlwood ne ha bisogno."<x7/><x8/>"Un minuto ce l'hai, vero? C'è una cosa che voglio proporti."
+NPC_SAQI_GREETING_d7a3f9c1-5e2b-8c4a-1d6f-9b2e7c1a4d5f	"Ehi! Cosa ti porto?"
+NPC_SAQI_PLAYER_0347922a-cbfd-4add-845f-b796106364c9_HEROIC	Dobbiamo continuare ad avanzare e fare tutto il possibile.
+NPC_SAQI_PLAYER_0347922a-cbfd-4add-845f-b796106364c9_JOKER	Si va avanti. Che altro possiamo fare?
+NPC_SAQI_PLAYER_0347922a-cbfd-4add-845f-b796106364c9_SCHOLAR	Continuiamo. Con ogni braccio e ogni ora a nostra disposizione.
+NPC_SAQI_PLAYER_0347922a-cbfd-4add-845f-b796106364c9_STOIC	Dobbiamo continuare a fare il possibile.
+NPC_SAQI_PLAYER_07127ed4-2d48-4f02-94d7-6ddada8dfd85_BASE	Cosa pensi di Corin?
+NPC_SAQI_PLAYER_11f22ab7-b01e-48f7-ad43-44f1dd3586fe_HEROIC	Aiutare i deboli non serve. Da' il cibo a chi può rafforzare la lotta.
+NPC_SAQI_PLAYER_11f22ab7-b01e-48f7-ad43-44f1dd3586fe_JOKER	Perché sprecarsi coi deboli? Passa il cibo a chi magari in battaglia riesce a dare un colpo.
+NPC_SAQI_PLAYER_11f22ab7-b01e-48f7-ad43-44f1dd3586fe_SCHOLAR	Nutrire i deboli non produce alcun vantaggio. Nutri chi può combattere.
+NPC_SAQI_PLAYER_11f22ab7-b01e-48f7-ad43-44f1dd3586fe_STOIC	Inutile aiutare i deboli. Da' il cibo a chi può contribuire alla lotta.
+NPC_SAQI_PLAYER_15bb6482-cba0-45dc-9daf-b190640e9c54_HEROIC	Il tempo è poco. Parla senza giri di parole.
+NPC_SAQI_PLAYER_15bb6482-cba0-45dc-9daf-b190640e9c54_JOKER	Se vuoi parlare, fa' in fretta. Ho il tempo contato.
+NPC_SAQI_PLAYER_15bb6482-cba0-45dc-9daf-b190640e9c54_SCHOLAR	Ho poco tempo. Esponi prima ciò che è necessario.
+NPC_SAQI_PLAYER_15bb6482-cba0-45dc-9daf-b190640e9c54_STOIC	Ho poco tempo. Parla in fretta.
+NPC_SAQI_PLAYER_1b4d6c23-39a4-4b5b-aba7-5d2c5c303331_BASE	Perché il registro è così importante?
+NPC_SAQI_PLAYER_1cf002fb-7bd7-45c3-aa24-b1a70f3ba62d_HEROIC	Capisco la posta in gioco. Parla chiaro, Saqi.
+NPC_SAQI_PLAYER_1cf002fb-7bd7-45c3-aa24-b1a70f3ba62d_JOKER	Saqi, salta i preamboli e dillo chiaro.
+NPC_SAQI_PLAYER_1cf002fb-7bd7-45c3-aa24-b1a70f3ba62d_SCHOLAR	La necessità è evidente. Il punto, Saqi, rapidamente.
+NPC_SAQI_PLAYER_1cf002fb-7bd7-45c3-aa24-b1a70f3ba62d_STOIC	Capisco la necessità. Al punto, Saqi.
+NPC_SAQI_PLAYER_230ed90e-788d-443a-b365-74b26e82406c_BASE	Cosa pensi dei rifugiati?
+NPC_SAQI_PLAYER_265454dd-bc17-4f48-864f-2b7b76126ddb_BASE	Sei nata qui?
+NPC_SAQI_PLAYER_2a7d9c1f-5e4b-8f3a-0c6d-1b9e4a7c2d5f_BASE	Ecco, ho trovato i registri delle razioni.
+NPC_SAQI_PLAYER_2fd77db4-b75f-4996-af84-604cabd7de31_HEROIC	È senz'altro un uomo fuori dal comune.
+NPC_SAQI_PLAYER_2fd77db4-b75f-4996-af84-604cabd7de31_JOKER	Un bel tipo strambo, non c'è che dire.
+NPC_SAQI_PLAYER_2fd77db4-b75f-4996-af84-604cabd7de31_SCHOLAR	Un uomo eccentrico, e tutt'altro che discreto nel mostrarlo.
+NPC_SAQI_PLAYER_2fd77db4-b75f-4996-af84-604cabd7de31_STOIC	È molto strano.
+NPC_SAQI_PLAYER_33f03e66-a5af-4e9a-8cd3-06881a0777f5_HEROIC	Sembra che non averla mai conosciuta sia un dolore che ti segue, ma tu vai avanti lo stesso.
+NPC_SAQI_PLAYER_33f03e66-a5af-4e9a-8cd3-06881a0777f5_JOKER	Sembra che non averla mai conosciuta sia un dolore che ti tiene al guinzaglio.
+NPC_SAQI_PLAYER_33f03e66-a5af-4e9a-8cd3-06881a0777f5_SCHOLAR	Non conoscere è già una ferita. Sembra essere la tua.
+NPC_SAQI_PLAYER_33f03e66-a5af-4e9a-8cd3-06881a0777f5_STOIC	Sembra che ti faccia male non averla mai conosciuta.
+NPC_SAQI_PLAYER_3660a6a0-5166-4ae4-8973-0092b82557ce_HEROIC	Sto ancora cercando di capirlo.
+NPC_SAQI_PLAYER_3660a6a0-5166-4ae4-8973-0092b82557ce_JOKER	Sto ancora risolvendo quel rompicapo.
+NPC_SAQI_PLAYER_3660a6a0-5166-4ae4-8973-0092b82557ce_SCHOLAR	Il mio giudizio su di lui è ancora in formazione.
+NPC_SAQI_PLAYER_3660a6a0-5166-4ae4-8973-0092b82557ce_STOIC	Devo ancora inquadrarlo.
+NPC_SAQI_PLAYER_3e946cdd-acfc-42ec-84b7-e9fa0e575205_BASE	Cosa fai qui?
+NPC_SAQI_PLAYER_568c1c01-c559-474d-853d-792099bfb94b_HEROIC	Capito. Recupererò la scorta e il registro.
+NPC_SAQI_PLAYER_568c1c01-c559-474d-853d-792099bfb94b_JOKER	Ricevuto. È ora di stanare quella scorta e quel registro.
+NPC_SAQI_PLAYER_568c1c01-c559-474d-853d-792099bfb94b_SCHOLAR	Capito. La scorta e il registro. Li troverò entrambi.
+NPC_SAQI_PLAYER_568c1c01-c559-474d-853d-792099bfb94b_STOIC	Ricevuto. Recupero scorta e registro.
+NPC_SAQI_PLAYER_5d52bd9b-1058-4537-af6c-c71b4d99fa2c_HEROIC	Barakthrum sembra un luogo per cui valga la pena lottare, pur di vederlo.
+NPC_SAQI_PLAYER_5d52bd9b-1058-4537-af6c-c71b4d99fa2c_JOKER	Barakthrum sa proprio come farsi notare.
+NPC_SAQI_PLAYER_5d52bd9b-1058-4537-af6c-c71b4d99fa2c_SCHOLAR	Barakthrum mi interessa. Vorrei saperne di più.
+NPC_SAQI_PLAYER_5d52bd9b-1058-4537-af6c-c71b4d99fa2c_STOIC	Barakthrum è intrigante.
+NPC_SAQI_PLAYER_62785ebd-c8dd-4d31-82d0-ba1d00cac836_HEROIC	Un compito chiaro. Farò in modo che le scorte li raggiungano.
+NPC_SAQI_PLAYER_62785ebd-c8dd-4d31-82d0-ba1d00cac836_JOKER	Abbastanza semplice. Le scorte troveranno la strada.
+NPC_SAQI_PLAYER_62785ebd-c8dd-4d31-82d0-ba1d00cac836_SCHOLAR	Abbastanza lineare. Le scorte giungeranno a destinazione.
+NPC_SAQI_PLAYER_62785ebd-c8dd-4d31-82d0-ba1d00cac836_STOIC	Capito. Consegnerò le scorte.
+NPC_SAQI_PLAYER_69b444f5-9ade-4ad5-be81-d953f946305a_HEROIC	Affidarti agli altri non farà che consumare la tua forza e portarti alla rovina.
+NPC_SAQI_PLAYER_69b444f5-9ade-4ad5-be81-d953f946305a_JOKER	Aggrappati agli altri e guarda quanto in fretta ti crolla tutto addosso.
+NPC_SAQI_PLAYER_69b444f5-9ade-4ad5-be81-d953f946305a_SCHOLAR	L'attaccamento è un costo. Prima o poi arriva il conto.
+NPC_SAQI_PLAYER_69b444f5-9ade-4ad5-be81-d953f946305a_STOIC	Legarti agli altri ti indebolirà e ti porterà alla rovina.
+NPC_SAQI_PLAYER_6dd9bde7-68ac-4d67-a6db-3525ebb1fabe_HEROIC	Ti ringrazio per l'aiuto. Da quanto tempo affrontate tutto insieme?
+NPC_SAQI_PLAYER_6dd9bde7-68ac-4d67-a6db-3525ebb1fabe_JOKER	Grazie dell'aiuto. Ma quanto li conosci davvero tutti quanti?
+NPC_SAQI_PLAYER_6dd9bde7-68ac-4d67-a6db-3525ebb1fabe_SCHOLAR	Ti ringrazio per l'aiuto. A quando risalgono queste amicizie?
+NPC_SAQI_PLAYER_6dd9bde7-68ac-4d67-a6db-3525ebb1fabe_STOIC	Grazie dell'aiuto. Quanto conosci gli altri?
+NPC_SAQI_PLAYER_6f88cd90-1a84-4f4f-bc46-0b6f258a6a9c_HEROIC	Cerca di mantenere l'equilibrio. Non puoi lasciare che i legami personali influenzino questa scelta.
+NPC_SAQI_PLAYER_6f88cd90-1a84-4f4f-bc46-0b6f258a6a9c_JOKER	Cerca di tenere la bilancia in pari. I pollici sui piatti si notano.
+NPC_SAQI_PLAYER_6f88cd90-1a84-4f4f-bc46-0b6f258a6a9c_SCHOLAR	Fa' il possibile per mantenere l'equilibrio. L'affetto è una bilancia inaffidabile.
+NPC_SAQI_PLAYER_6f88cd90-1a84-4f4f-bc46-0b6f258a6a9c_STOIC	Cerca di mantenere l'equilibrio. Non lasciare che i tuoi legami influiscano.
+NPC_SAQI_PLAYER_72dda16e-1253-437e-bffe-5728b52b1cb3_HEROIC	Capisco. Come posso aiutare?
+NPC_SAQI_PLAYER_72dda16e-1253-437e-bffe-5728b52b1cb3_JOKER	Ho capito. Dove serve una mano?
+NPC_SAQI_PLAYER_72dda16e-1253-437e-bffe-5728b52b1cb3_SCHOLAR	Comprendo. Dove sarebbe più utile un aiuto?
+NPC_SAQI_PLAYER_72dda16e-1253-437e-bffe-5728b52b1cb3_STOIC	Capito. Come posso essere d'aiuto?
+NPC_SAQI_PLAYER_7f490523-b717-493b-ba30-a6e9e13a694d_HEROIC	Sembrano giorni da custodire nel cuore.
+NPC_SAQI_PLAYER_7f490523-b717-493b-ba30-a6e9e13a694d_JOKER	Sembrano momenti capaci di scaldare persino gli stivali più gelidi.
+NPC_SAQI_PLAYER_7f490523-b717-493b-ba30-a6e9e13a694d_SCHOLAR	Anni felici, a quanto pare. Degni di essere ricordati.
+NPC_SAQI_PLAYER_7f490523-b717-493b-ba30-a6e9e13a694d_STOIC	Sembrano bei tempi.
+NPC_SAQI_PLAYER_84907dc9-fe6b-42ec-b351-576e91dccccc_HEROIC	Non lasciare che una patria perduta rallenti il tuo passo.
+NPC_SAQI_PLAYER_84907dc9-fe6b-42ec-b351-576e91dccccc_JOKER	Cerca di non inciampare nella nostalgia per un posto fuori portata.
+NPC_SAQI_PLAYER_84907dc9-fe6b-42ec-b351-576e91dccccc_SCHOLAR	Una patria perduta è un bagaglio pesante. Posalo.
+NPC_SAQI_PLAYER_84907dc9-fe6b-42ec-b351-576e91dccccc_STOIC	Non lasciare che i ricordi di una patria perduta ti rallentino.
+NPC_SAQI_PLAYER_8f2c1a7e-4d9b-6a3f-0c5e-1b7d9a2c4f6e_BASE	"Ecco, ho raccolto tutte le risorse che hai chiesto."
+NPC_SAQI_PLAYER_98012ef8-8e96-42aa-923d-ad81591ab417_HEROIC	Devono resistere ancora: prima di aiutarli, devo occuparmi di altre questioni.
+NPC_SAQI_PLAYER_98012ef8-8e96-42aa-923d-ad81591ab417_JOKER	Dovranno resistere. I miei guai hanno chiesto per primi.
+NPC_SAQI_PLAYER_98012ef8-8e96-42aa-923d-ad81591ab417_SCHOLAR	Devono resistere. Ho questioni precedenti da risolvere prima.
+NPC_SAQI_PLAYER_98012ef8-8e96-42aa-923d-ad81591ab417_STOIC	Dovranno resistere finché potrò aiutarli. Ho altro da fare prima.
+NPC_SAQI_PLAYER_a27fd258-75f0-414a-9180-c70e838cea62_HEROIC	No. I Goblin non sono una sfida.
+NPC_SAQI_PLAYER_a27fd258-75f0-414a-9180-c70e838cea62_JOKER	No. I Goblin sono a malapena un fastidio.
+NPC_SAQI_PLAYER_a27fd258-75f0-414a-9180-c70e838cea62_SCHOLAR	No. I Goblin non presentano difficoltà.
+NPC_SAQI_PLAYER_a27fd258-75f0-414a-9180-c70e838cea62_STOIC	No. Nessun problema coi Goblin.
+NPC_SAQI_PLAYER_a7d721d5-8115-4a8d-acb8-8e2051f361ec_HEROIC	Resta fedele alle tue convinzioni, Saqi. Assicurati che i tuoi cari siano al sicuro e ricevano sostegno.
+NPC_SAQI_PLAYER_a7d721d5-8115-4a8d-acb8-8e2051f361ec_JOKER	Vai, Saqi. Segui il fiuto e tieni la pancia piena ai tuoi.
+NPC_SAQI_PLAYER_a7d721d5-8115-4a8d-acb8-8e2051f361ec_SCHOLAR	Fidati del tuo giudizio, Saqi. E metti prima al sicuro i tuoi.
+NPC_SAQI_PLAYER_a7d721d5-8115-4a8d-acb8-8e2051f361ec_STOIC	Fa' ciò che ritieni giusto, Saqi. Abbi cura dei tuoi cari.
+NPC_SAQI_PLAYER_a8327614-16e5-4b54-bae9-7f05218d8762_HEROIC	È inutile. Ormai probabilmente sono soltanto un pasto per qualche Goblin.
+NPC_SAQI_PLAYER_a8327614-16e5-4b54-bae9-7f05218d8762_JOKER	Ormai sono il pranzo dei Goblin. Risparmia il fiato.
+NPC_SAQI_PLAYER_a8327614-16e5-4b54-bae9-7f05218d8762_SCHOLAR	Uno spreco. È probabile che qualche Goblin li abbia già mangiati.
+NPC_SAQI_PLAYER_a8327614-16e5-4b54-bae9-7f05218d8762_STOIC	Tempo perso. Probabilmente sono già nella pancia di un Goblin.
+NPC_SAQI_PLAYER_ad34a7fc-5a70-45f4-9d63-2034e9176171_HEROIC	Questo luogo sembra inquieto. Il caos oscura ogni parvenza d'ordine.
+NPC_SAQI_PLAYER_ad34a7fc-5a70-45f4-9d63-2034e9176171_JOKER	Se ti piace il caos, hai trovato il posto giusto.
+NPC_SAQI_PLAYER_ad34a7fc-5a70-45f4-9d63-2034e9176171_SCHOLAR	Un brutto posto, a giudicare dall'aspetto. Qui i conti li tiene il caos.
+NPC_SAQI_PLAYER_ad34a7fc-5a70-45f4-9d63-2034e9176171_STOIC	Un brutto posto. Troppo caos.
+NPC_SAQI_PLAYER_b5ba8aef-8832-400c-8377-bb1af5a9abe9_BASE	Cosa pensi di Heimen?
+NPC_SAQI_PLAYER_be0a6503-64ff-4112-afab-8ffb92ca1e9a_HEROIC	Earlwood apre le porte a tutti. È questa la sua forza.
+NPC_SAQI_PLAYER_be0a6503-64ff-4112-afab-8ffb92ca1e9a_JOKER	Earlwood tiene la porta aperta alla gente di ogni risma.
+NPC_SAQI_PLAYER_be0a6503-64ff-4112-afab-8ffb92ca1e9a_SCHOLAR	Earlwood accoglie le persone. Questo ne spiega la varietà.
+NPC_SAQI_PLAYER_be0a6503-64ff-4112-afab-8ffb92ca1e9a_STOIC	Earlwood è accogliente. Qui si riunisce molta gente.
+NPC_SAQI_PLAYER_c01f7a1f-60e2-4e0c-91f8-a677e71d00ce_HEROIC	Cari o meno, solo chi contribuisce dovrebbe ricevere cibo.
+NPC_SAQI_PLAYER_c01f7a1f-60e2-4e0c-91f8-a677e71d00ce_JOKER	Cari o meno, il pasto va a chi fa la sua parte.
+NPC_SAQI_PLAYER_c01f7a1f-60e2-4e0c-91f8-a677e71d00ce_SCHOLAR	Cari o meno, il cibo segue l'utilità. È l'unica regola equa.
+NPC_SAQI_PLAYER_c01f7a1f-60e2-4e0c-91f8-a677e71d00ce_STOIC	Cari o meno, va nutrito solo chi può rendersi utile.
+NPC_SAQI_PLAYER_c7d249e8-f9c9-4039-acfd-853bf0456633_BASE	Puoi dirmi di più sulla famiglia Haylor?
+NPC_SAQI_PLAYER_c9ef7591-d285-4c41-9b5e-2744ea78e729_HEROIC	Puoi contare sul mio aiuto. Cosa ti serve?
+NPC_SAQI_PLAYER_c9ef7591-d285-4c41-9b5e-2744ea78e729_JOKER	Cosa manca stavolta? Spara.
+NPC_SAQI_PLAYER_c9ef7591-d285-4c41-9b5e-2744ea78e729_SCHOLAR	Posso aiutare. Quali scorte mancano?
+NPC_SAQI_PLAYER_c9ef7591-d285-4c41-9b5e-2744ea78e729_STOIC	Sono qui per aiutare. Quali scorte ti servono?
+NPC_SAQI_PLAYER_cc0f514b-c01d-4be3-86af-455149169706_BASE	"Corin mi manda a prendere delle scorte."
+NPC_SAQI_PLAYER_d012b55d-32b2-4845-b33a-26ee0974cfb0_BASE	I Goblin non avranno già mangiato la scorta, ormai?
+NPC_SAQI_PLAYER_d115e36f-8833-43e8-92c9-67419a194322_HEROIC	È stato più difficile del previsto. Erano in agguato e hanno colpito senza preavviso.
+NPC_SAQI_PLAYER_d115e36f-8833-43e8-92c9-67419a194322_JOKER	Erano nascosti, aspettavano solo di saltarmi addosso. Più dura di quanto pensassi.
+NPC_SAQI_PLAYER_d115e36f-8833-43e8-92c9-67419a194322_SCHOLAR	Più difficile di quanto avessi stimato. L'imboscata era pianificata, e bene.
+NPC_SAQI_PLAYER_d115e36f-8833-43e8-92c9-67419a194322_STOIC	Più difficile del previsto. Mi aspettavano. Un'imboscata.
+NPC_SAQI_PLAYER_d151938a-a17c-4739-9b32-cc81765b15a6_BASE	Cosa pensi del Sindaco?
+NPC_SAQI_PLAYER_d578b231-8083-4dd5-a1c9-2653b24b6d6b_HEROIC	Un altro abitante di Earlwood che si rivolge a me, e le richieste non finiscono mai.
+NPC_SAQI_PLAYER_d578b231-8083-4dd5-a1c9-2653b24b6d6b_JOKER	Un altro abitante di Earlwood nei guai, che sorpresa. Le richieste non si fermano proprio mai.
+NPC_SAQI_PLAYER_d578b231-8083-4dd5-a1c9-2653b24b6d6b_SCHOLAR	Un altro abitante di Earlwood in cerca del mio aiuto. Gli appelli sembrano incessanti.
+NPC_SAQI_PLAYER_d578b231-8083-4dd5-a1c9-2653b24b6d6b_STOIC	Un altro abitante di Earlwood mi chiede aiuto. Non finisce mai.
+NPC_SAQI_PLAYER_e0a95300-6397-451f-9e54-e9dc805d908c_HEROIC	Sembra davvero un brav'uomo, saldo nei suoi propositi.
+NPC_SAQI_PLAYER_e0a95300-6397-451f-9e54-e9dc805d908c_JOKER	Sembra davvero un brav'uomo. La gente non sarà abituata.
+NPC_SAQI_PLAYER_e0a95300-6397-451f-9e54-e9dc805d908c_SCHOLAR	Un brav'uomo, dunque. Da queste parti non è poco.
+NPC_SAQI_PLAYER_e0a95300-6397-451f-9e54-e9dc805d908c_STOIC	Sembra proprio un brav'uomo.
+NPC_SAQI_PLAYER_e2d5ff76-ffd0-4b12-94d6-76dff2d8498f_BASE	Perché il Sindaco non fa nulla?
+NPC_SAQI_PLAYER_e5ebe2db-5a6e-42b7-b66b-c888955ce715_HEROIC	Certamente. Cosa ti serve da me, Saqi?
+NPC_SAQI_PLAYER_e5ebe2db-5a6e-42b7-b66b-c888955ce715_JOKER	Ma certo. Cosa ti frulla in testa, Saqi?
+NPC_SAQI_PLAYER_e5ebe2db-5a6e-42b7-b66b-c888955ce715_SCHOLAR	Naturalmente. Cosa occorre, Saqi? E con quale urgenza?
+NPC_SAQI_PLAYER_e5ebe2db-5a6e-42b7-b66b-c888955ce715_STOIC	Certo. Come posso aiutarti, Saqi?
+NPC_SAQI_PLAYER_eab599f5-ffdb-4fcc-995a-fff7c4a1283e_HEROIC	Le bevute e i racconti devono aspettare. Tempi come questi esigono azione.
+NPC_SAQI_PLAYER_eab599f5-ffdb-4fcc-995a-fff7c4a1283e_JOKER	Bevute e storie. Non così, non adesso.
+NPC_SAQI_PLAYER_eab599f5-ffdb-4fcc-995a-fff7c4a1283e_SCHOLAR	Bevute e racconti possono attendere. Momenti come questo no.
+NPC_SAQI_PLAYER_eab599f5-ffdb-4fcc-995a-fff7c4a1283e_STOIC	Niente bevute o racconti in un momento simile.
+NPC_SAQI_PLAYER_fe7e452f-ce88-4b5b-b22d-09ea575fffbd_HEROIC	Lascia andare l'impossibile, Saqi. Certe cose sono semplicemente fuori portata.
+NPC_SAQI_PLAYER_fe7e452f-ce88-4b5b-b22d-09ea575fffbd_JOKER	Saqi, rincorrere l'impossibile è un ottimo modo per consumarsi gli stivali.
+NPC_SAQI_PLAYER_fe7e452f-ce88-4b5b-b22d-09ea575fffbd_SCHOLAR	Non la vedrai mai, Saqi. La speranza spesa lì è sprecata.
+NPC_SAQI_PLAYER_fe7e452f-ce88-4b5b-b22d-09ea575fffbd_STOIC	Non la vedrai mai, Saqi. Non aggrapparti all'impossibile.
+NPC_SAQI_RESPONSE_15982f44-120e-457a-a536-6fac74d1e59c	*Gli occhi di Saqi si illuminano alla notizia del cibo.*<x1/><x2/>"Ma guardati. Ottimo lavoro."<x3/><x4/>"Sapevo di poter contare su di te. Con questo posso finalmente cominciare a rimettere un po' d'ordine."<x5/><x6/>"Dimmi. Qualche problema là fuori?"
+NPC_SAQI_RESPONSE_174cc37f-23c1-494e-bb5e-adaf50af03ed	"Grazie! Un giorno ricambierò, te lo giuro."<x1/><x2/><x3/><x4/>*Si porta una mano al mento, in una posa pensierosa più teatrale di quanto richieda il momento.*<x5/><x6/>"Giusto! Ci serve qualcosa da mangiare e qualcosa per curarsi… Carne di lupo e mele andranno bene per il cibo, e per le cure ci serviranno delle Tenderberry. Se vai a raccoglierle nei campi e nella foresta, puoi consegnare tutto direttamente al loro campo."
+NPC_SAQI_RESPONSE_2178398b-4189-4403-a69f-b47d2107db6b	"Esatto. A Earlwood si è sempre fatto così: nessuno resta fuori dalla porta."<x1/><x2/><x3/><x4/>"Earlwood è sempre stata accogliente. Sempre.<x5/><x6/><x7/><x8/>È cambiata da quand'ero bambina: più facce nuove, meno vecchie abitudini, ma l'accoglienza non è mai venuta meno. Non finché avrò voce in capitolo."
+NPC_SAQI_RESPONSE_228d81fb-c8aa-440a-a539-74008ac5e2ca	"Perché mi dice dove andare a prendere gli aiuti per primi, senza tirare a indovinare.<x1/><x2/>Si è sempre detto che il vecchio Haylor tenesse un registro come si deve. Delle sue scorte e di quelle di tutta la distesa di campi. Chi aveva cosa, dove la teneva, cosa si poteva spostare. Lo usavano per spuntarla negli scambi.<x3/><x4/>Per noi significa sapere quali magazzini erano più pieni e meglio protetti prima che arrivassero i Goblin. Se c'è ancora qualcosa, lo troveremo prima e smetteremo di buttare via tempo."
+NPC_SAQI_RESPONSE_251d7f7f-df64-4f4f-8e8d-6aaae7dd084d	"Te lo dico chiaro: la situazione è dura.<x1/><x2/><x3/><x4/>Troppe bocche, poche scorte. E le strade non sono affidabili. Posso allungare una pentola solo fino a un certo punto, poi diventa acqua e basta."<x5/><x6/>*Serra la mascella, poi si ricompone.*<x7/><x8/>"Facciamo tutto il possibile per sfamare la gente e impedire al panico di dilagare, ma è difficile."
+NPC_SAQI_RESPONSE_2912577a-6cfc-45ea-9812-2562b1cf9870	"Io? Ah! Di solito gestisco la taverna di Earlwood. Si chiama Il Focolare sul Ciglio della Strada, anche se quasi tutti dicono solo Ciglio della Strada.<x1/><x2/><x3/><x4/>L'ha aperta mio padre, poi è passata a me. Ho le mani su quei tavoli da quando ero abbastanza alta da vederci sopra.<x5/><x6/><x7/><x8/>Ultimamente, però, la taverna ha dovuto dividermi con altri. Sto dando una mano qui alla Gilda. Tengo il conto delle scorte, smisto quello che serve a ciascuno, faccio in modo che chi combatte possa pensare alla lotta."
+NPC_SAQI_RESPONSE_33e926aa-66fa-4236-b9a2-5e172d20c6f3	"Eh sì, vero? Se mai apriranno quei dannati cancelli, sarò la prima a passarci."
+NPC_SAQI_RESPONSE_36f1f642-4819-4ab8-92e6-05081a48e13a	"Bene. La situazione è questa."<x1/><x2/><x3/><x4/>"Là fuori le cose iniziano a calmarsi. Goblin respinti, margine della foresta più tranquillo. Qualcuno di noi deve smettere di trattenere il fiato e cominciare a fare progetti."<x5/><x6/>*Scruta la stanza, attenta ai volti e ai bisogni, come se contasse i piatti prima dell'ora di punta.*<x7/><x8/>"Se vogliamo che Earlwood torni felice e in salute, dobbiamo riprendere il controllo dei campi. Cibo nei magazzini, al suo posto, e lavoro che porti a qualcosa."<x9/><x10/>"Posso allungare lo stufato e risistemare i letti per un po'. Ma non è un futuro. È solo rimandare il prossimo attacco di panico."<x11/><x12/>*Un pensiero amaro le attraversa il viso.*<x13/><x14/>"E sappiamo entrambi che il Sindaco non lo farà. Ha chiuso il portone quando sono arrivati i rifugiati, e l'ha chiamato «ordine»."<x15/><x16/>"Quindi tocca a noi. Quelli che ci sono davvero."
+NPC_SAQI_RESPONSE_398b4959-3932-47a0-bfc8-251f00228d03	"Lo conosco da quando eravamo bambini, siamo cresciuti insieme. Può sembrare un musone, è il tipo cupo e lunatico, ma ha un cuore caldo quanto quello di chiunque altro. Ormai avrai visto che a Earlwood ci sono parecchie teste dure dal cuore tenero. Gli voglio bene a tutti."
+NPC_SAQI_RESPONSE_439144d7-7614-48cf-a9c0-e969542a47be	"Eh sì. Nata e cresciuta a Earlwood.<x1/><x2/><x3/><x4/>I miei genitori hanno lasciato Barakthrum prima che nascessi. Volevano una vita lontana dalle città naniche, e l'hanno trovata qui.<x5/><x6/><x7/><x8/>Barakthrum mi ha sempre incuriosita, ma una volta che te ne vai non puoi tornarci come niente fosse. Gli estranei non sono benvenuti, nani o meno."
+NPC_SAQI_RESPONSE_43fd254d-01fb-403b-92d1-5a582f6a7100	"No. È crudeltà travestita da buon senso. Le persone non sono attrezzi da tenere solo finché servono."
+NPC_SAQI_RESPONSE_4e7a9850-35ba-4c38-aa35-c72f2779e13f	"Sentimentalismo? No. Sono radici. Ti reggi meglio in piedi quando sai su cosa poggi."<x1/><x2/><x3/><x4/>"La cultura del mio popolo mi ha sempre affascinata."<x5/><x6/>"Mio padre mi raccontava storie naniche prima di dormire. Le fucine di Barakthrum. Fiumi di lava. Guardiani di Ferro coperti di piastre incantate dalla testa ai piedi, così spesse da farli sembrare golem."<x7/><x8/>*Il suo sorriso si addolcisce, poi si spegne un poco.*<x9/><x10/>"Dopo la sua morte, per un po' non ci sono state più storie. Non così."<x11/><x12/>"Poi è arrivato Heimen, con più storie di quante sapessi che farmene. Canzoni, racconti del passato, vecchi detti, discussioni sulla bellezza che andavano avanti oltre mezzanotte."<x13/><x14/>"E sono la prima a dirlo: racconta meglio del mio vecchio papà. Non andarlo a dire al fantasma di mio padre."
+NPC_SAQI_RESPONSE_50310412-251a-4a0e-a7c2-cf12c4cd2087	"Ah! Allora non te ne farò perdere, Ammazza-Goblin."<x1/><x2/><x3/><x4/>"Là fuori le cose iniziano a calmarsi. Goblin respinti, margine della foresta più tranquillo. Qualcuno di noi deve smettere di trattenere il fiato e cominciare a fare progetti."<x5/><x6/>*Scruta la stanza, attenta ai volti e ai bisogni, come se contasse i piatti prima dell'ora di punta.*<x7/><x8/>"Se vogliamo che Earlwood torni felice e in salute, dobbiamo riprendere il controllo dei campi. Cibo nei magazzini, al suo posto, e lavoro che porti a qualcosa."<x9/><x10/>"Posso allungare lo stufato e risistemare i letti per un po'. Ma non è un futuro. È solo rimandare il prossimo attacco di panico."<x11/><x12/>*Un pensiero amaro le attraversa il viso.*<x13/><x14/>"E sappiamo entrambi che il Sindaco non lo farà. Ha chiuso il portone quando sono arrivati i rifugiati, e l'ha chiamato «ordine»."<x15/><x16/>"Quindi tocca a noi. Quelli che ci sono davvero."
+NPC_SAQI_RESPONSE_589d7f1f-f8f9-4cf6-b5aa-e21c3caa28ce	"Lo so che pesa. Ma questo paese non dimentica mai ciò che deve, e senza di te non ce la facciamo."<x1/><x2/><x3/><x4/>*Si porta una mano al mento, in una posa pensierosa più teatrale di quanto richieda il momento.*<x5/><x6/>"Giusto! Ci serve qualcosa da mangiare e qualcosa per curarsi… Carne di lupo e mele andranno bene per il cibo, e per le cure ci serviranno delle Tenderberry. Se vai a raccoglierle nei campi e nella foresta, puoi consegnare tutto direttamente al loro campo."
+NPC_SAQI_RESPONSE_5be25bf9-984b-4d16-90d3-643147392709	"Eh sì, quasi tutti da quand'ero bambina. Da quando arrivavo al ginocchio di Eldorian, se riesci a immaginartelo."<x1/><x2/><x3/><x4/>"Qui sono tutti come una famiglia per me.<x5/><x6/><x7/><x8/>Lo vedevo dopo gli scontri e le battute di caccia. Alaric portava gli altri al Ciglio della Strada, anche se il chiasso non gli è mai piaciuto granché. Nemmeno a Corin. Quei due, a lasciarli soli abbastanza a lungo, potrebbero bucare un muro a furia di rimuginare.<x9/><x10/><x11/><x12/>Ma gli altri? Avevano bisogno di calore. Bevute sul tavolo, storie che diventavano più grosse ogni volta, qualcuno che rideva troppo forte, qualcuno che fingeva di non avere le lacrime agli occhi.<x13/><x14/><x15/><x16/>Era quello il senso. Non la birra. Il ritorno."
+NPC_SAQI_RESPONSE_5c1e9a7d-3b6f-8d2a-4c0e-7f1b9d3a6c2e	*Gli occhi le si riempiono di speranza mentre un sorriso sincero le illumina il viso.*<x1/><x2/>"Grazie davvero per l'aiuto! Sapevo che in mezzo a tutto questo caos c'era ancora della brava gente."
+NPC_SAQI_RESPONSE_5d5b9077-7a84-4ed6-b3ef-9ceaef58b440	"Strano? Ah! È un poeta, certo che lo è."<x1/><x2/><x3/><x4/>"Parlavamo spesso di Barakthrum. Quasi tutte le sere, più di quanto avessi intenzione di fare."<x5/><x6/>"Heimen è nato nella pietra. Nato nelle sale della montagna, cresciuto tra la gente che io ho conosciuto solo attraverso le storie. Poi ha scelto di partire, inseguendo «la Verità, la Bellezza e il Bene». Parole sue, non mie."<x7/><x8/>*Incrocia le braccia, ma nel gesto c'è più affetto che difesa.*<x9/><x10/>"Il prezzo è che non potrà mai tornare. I cancelli dei nani non si aprono due volte per chi se ne va."<x11/><x12/>"E così eccoci lì. A lui mancava una patria che conosceva, a me una che non avevo mai avuto. Strana coppia, eh?"
+NPC_SAQI_RESPONSE_66fba1d4-e462-4788-b701-dadffb82dc8f	"Scusa se ti metto fretta, ma lo sai che potrebbero non resistere per sempre. Ci serve il tuo aiuto. Pensaci, ti prego."
+NPC_SAQI_RESPONSE_6c852f8f-e8b4-4aa6-9dae-9d6c08cb7549	"Ah, non venirmi a dire queste cose. Pensaci bene. Sai cosa devi fare."
+NPC_SAQI_RESPONSE_6ea717a0-a9e9-402c-b80f-62aaf5fe0b74	"No. Qui non si fa così. Questo non è l'Impero di Xwin, o peggio."<x1/><x2/><x3/><x4/>"Earlwood è sempre stata accogliente. Sempre.<x5/><x6/><x7/><x8/>È cambiata da quand'ero bambina: più facce nuove, meno vecchie abitudini, ma l'accoglienza non è mai venuta meno. Non finché avrò voce in capitolo."
+NPC_SAQI_RESPONSE_71a43d6a-234a-4ef4-988e-a2428abf84bc	"Tutto il contrario. Una bevuta e una storia aiutano la gente a rimettersi in piedi dopo uno scontro."<x1/><x2/><x3/><x4/>"Qui sono tutti come una famiglia per me.<x5/><x6/><x7/><x8/>Lo vedevo dopo gli scontri e le battute di caccia. Alaric portava gli altri al Ciglio della Strada, anche se il chiasso non gli è mai piaciuto granché. Nemmeno a Corin. Quei due, a lasciarli soli abbastanza a lungo, potrebbero bucare un muro a furia di rimuginare.<x9/><x10/><x11/><x12/>Ma gli altri? Avevano bisogno di calore. Bevute sul tavolo, storie che diventavano più grosse ogni volta, qualcuno che rideva troppo forte, qualcuno che fingeva di non avere le lacrime agli occhi.<x13/><x14/><x15/><x16/>Era quello il senso. Non la birra. Il ritorno."
+NPC_SAQI_RESPONSE_9f257223-24a6-4b85-8934-86ea67b452eb	"Eh sì, può essere un po' enigmatico. Col tempo ti ci abituerai."<x1/><x2/><x3/><x4/>"Parlavamo spesso di Barakthrum. Quasi tutte le sere, più di quanto avessi intenzione di fare."<x5/><x6/>"Heimen è nato nella pietra. Nato nelle sale della montagna, cresciuto tra la gente che io ho conosciuto solo attraverso le storie. Poi ha scelto di partire, inseguendo «la Verità, la Bellezza e il Bene». Parole sue, non mie."<x7/><x8/>*Incrocia le braccia, ma nel gesto c'è più affetto che difesa.*<x9/><x10/>"Il prezzo è che non potrà mai tornare. I cancelli dei nani non si aprono due volte per chi se ne va."<x11/><x12/>"E così eccoci lì. A lui mancava una patria che conosceva, a me una che non avevo mai avuto. Strana coppia, eh?"
+NPC_SAQI_RESPONSE_a38a82bf-3164-43e6-a776-741b8c92f45d	"Eh sì. Ma c'è anche gioia. Ogni storia mi dà un pezzo che prima non avevo."<x1/><x2/><x3/><x4/>"La cultura del mio popolo mi ha sempre affascinata."<x5/><x6/>"Mio padre mi raccontava storie naniche prima di dormire. Le fucine di Barakthrum. Fiumi di lava. Guardiani di Ferro coperti di piastre incantate dalla testa ai piedi, così spesse da farli sembrare golem."<x7/><x8/>*Il suo sorriso si addolcisce, poi si spegne un poco.*<x9/><x10/>"Dopo la sua morte, per un po' non ci sono state più storie. Non così."<x11/><x12/>"Poi è arrivato Heimen, con più storie di quante sapessi che farmene. Canzoni, racconti del passato, vecchi detti, discussioni sulla bellezza che andavano avanti oltre mezzanotte."<x13/><x14/>"E sono la prima a dirlo: racconta meglio del mio vecchio papà. Non andarlo a dire al fantasma di mio padre."
+NPC_SAQI_RESPONSE_a77116ac-9f09-4108-8b97-5428c7459049	"Perché non capisce da dove vengano cibo e riparo.<x1/><x2/>Non dà valore all'ingegno e al lavoro che li procurano, perché non ha mai dovuto mandare avanti niente da solo.<x3/><x4/>Così, quando arriva la pressione, tira la leva più facile. Chiude il portone e zittisce il rumore. Poi finge che il problema sia fuori."
+NPC_SAQI_RESPONSE_afc65fcf-2030-4536-9d2f-d4378d710d84	"Eh sì, garantisco io. Un cuore d'oro, quello."<x1/><x2/><x3/><x4/>"Parlavamo spesso di Barakthrum. Quasi tutte le sere, più di quanto avessi intenzione di fare."<x5/><x6/>"Heimen è nato nella pietra. Nato nelle sale della montagna, cresciuto tra la gente che io ho conosciuto solo attraverso le storie. Poi ha scelto di partire, inseguendo «la Verità, la Bellezza e il Bene». Parole sue, non mie."<x7/><x8/>*Incrocia le braccia, ma nel gesto c'è più affetto che difesa.*<x9/><x10/>"Il prezzo è che non potrà mai tornare. I cancelli dei nani non si aprono due volte per chi se ne va."<x11/><x12/>"E così eccoci lì. A lui mancava una patria che conosceva, a me una che non avevo mai avuto. Strana coppia, eh?"
+NPC_SAQI_RESPONSE_b401de2a-0aa6-4da3-beb4-093b6977748b	*La giovane nana sgrana gli occhi al nome di Corin.*<x1/><x2/>"Corin, è vivo? Siano ringraziati i Principi. Corin ha fatto bene a mandarti da me. Siamo a corto di scorte, e ancora di più di cacciatori. Ti andrebbe di uscire a raccoglierne? So che ti hanno già chiesto tanto, e ho sentito quanto hai aiutato."
+NPC_SAQI_RESPONSE_bda3ee5d-8957-4a81-a6b1-2b9bc7c32e1c	"Eh sì, è la risposta che danno tutti. Giusta, pulita, sensata. Ma qui nel petto continua a pesare."
+NPC_SAQI_RESPONSE_c3fe5c30-155a-4969-a0ae-afe1447d0dc6	"Lo erano. E lo saranno di nuovo, finché avrò voce in capitolo."
+NPC_SAQI_RESPONSE_cae68c0d-6dee-41c5-a72d-0b94da768a20	"Di brutti momenti ne abbiamo avuti. Come dappertutto.<x1/><x2/><x3/><x4/>Non abbiamo un vero esercito, e non ci è concesso averlo. Così ci arrangiamo: braccia della Gilda, braccia del villaggio e testardaggine."<x5/><x6/><x7/><x8/>"Ci servirà forza per uscirne. Lame e scudi, sì, ma anche pazienza. Braccia. Gente disposta a portare più del proprio peso per un po'.<x9/><x10/><x11/><x12/>Ci sono così tante facce nuove adesso. Una volta mi guardavo intorno a Earlwood e sapevo di aver visto tutti almeno una volta alla mia taverna. Conoscevo la loro bevanda, il loro carattere, chi aveva bisogno di un angolo tranquillo e chi doveva smettere di bere.<x13/><x14/><x15/><x16/>Adesso mi guardo intorno e vedo gente che ancora non conosco, tutti affamati e spaventati, ciascuno con bisogno di qualcosa.<x17/><x18/><x19/><x20/>È difficile prendersi cura dei nuovi arrivati e allo stesso tempo assicurarsi che anche i nostri stiano al sicuro. Mi sento responsabile di tutti, ma non voglio che siano le persone più vicine a me a pagare ogni volta che manca qualcosa."
+NPC_SAQI_RESPONSE_cf8fa387-6f8a-4801-9355-a1652282142c	"Gli Haylor? Ci sarebbe tanto da dire, e quasi tutto noioso.<x1/><x2/>Sono una delle quattro grandi famiglie di Earlwood. Hanno i campi fin dalla fondazione, e lo sanno bene.<x3/><x4/>Influenza, soldi e memoria lunga. Ecco gli Haylor."
+NPC_SAQI_RESPONSE_d2981497-df37-48e6-8a1b-227cce0e423f	"Comunque ce l'hai fatta. Non me ne dimenticherò. Dammi un po' di tempo. Al tuo ritorno avrò un piano."
+NPC_SAQI_RESPONSE_d47adead-922c-4fe5-a26e-87da5bcae72e	"Ah! Certo che non sono un problema. Dammi un po' di tempo. Al tuo ritorno avrò un piano."
+NPC_SAQI_RESPONSE_dbce5d10-9e8f-4607-bf46-a49dd6bb3f20	"Il trucco è proprio quello. Non è la prima volta che i Goblin cercano di prenderci per fame.<x1/><x2/>Dopo qualche dura lezione, le grandi famiglie hanno iniziato a fare consegne a prova di Goblin. Imballi rinforzati, sigillati, cibo conservato.<x3/><x4/>Se troviamo la scorta, ci aspetterà tutta intera, proprio come volevano loro. Non un mucchio di avanzi."
+NPC_SAQI_RESPONSE_e074b3f6-5f61-49b5-ad37-1412fabbbeb8	"Niente è impossibile, tesoro."
+NPC_SAQI_RESPONSE_e7258af7-22f2-4933-b4bf-0053e0d7ed52	"Esatto. Se vogliamo sopravvivere, accettiamo l'aiuto da dove viene. Ognuno porta la propria forza."<x1/><x2/><x3/><x4/>"Ci servirà forza per uscirne. Lame e scudi, sì, ma anche pazienza. Braccia. Gente disposta a portare più del proprio peso per un po'.<x5/><x6/><x7/><x8/>Ci sono così tante facce nuove adesso. Una volta mi guardavo intorno a Earlwood e sapevo di aver visto tutti almeno una volta alla mia taverna. Conoscevo la loro bevanda, il loro carattere, chi aveva bisogno di un angolo tranquillo e chi doveva smettere di bere.<x9/><x10/><x11/><x12/>Adesso mi guardo intorno e vedo gente che ancora non conosco, tutti affamati e spaventati, ciascuno con bisogno di qualcosa.<x13/><x14/><x15/><x16/>È difficile prendersi cura dei nuovi arrivati e allo stesso tempo assicurarsi che anche i nostri stiano al sicuro. Mi sento responsabile di tutti, ma non voglio che siano le persone più vicine a me a pagare ogni volta che manca qualcosa."
+NPC_SAQI_RESPONSE_e7447f89-85c5-48e4-b9a1-f9136fa823f6	"Heimen? Ecco un nano come si deve, se mai ne ho visto uno."<x1/><x2/>*Gli occhi le si illuminano un po' troppo in fretta e si mette ad armeggiare con una mano, come se all'improvviso dovesse darle qualcosa da fare.*<x3/><x4/>"È una delle persone che preferisco. Senza contare quelli nati a Earlwood, ovvio. Prima di tutto questo caos, passava da Earlwood qualche volta l'anno. Quando si fermava, cantava quasi ogni sera al Ciglio della Strada. Una meraviglia."<x5/><x6/>"E dopo la chiusura spesso restava. Parlavamo un po'. Niente di che. Solo parlare."
+NPC_SAQI_RESPONSE_ebcc8143-49ff-4c7d-86b9-7d8fa25771f7	"Avanti, allora. E per quel che vale, io scommetto su di te."
+NPC_SAQI_RESPONSE_ec2c10f9-9350-4872-9d9d-8c47699bf5ed	"Cosa penso? Che sia un cafone dalle mani morbide, con un bel nome e senza spina dorsale.<x1/><x2/>Ha chiuso il portone in faccia a gente spaventata e si è comportato come se avesse fatto chissà quale gesto coraggioso.<x3/><x4/>Non è guidare la gente. È nascondersi dietro legno e ferro mentre gli altri pagano il conto."
+NPC_SAQI_RESPONSE_ed135a30-86d0-4477-9ff3-068d5900de06	"Ah! Giusto. Ci arrivo. Voglio solo essere sicura che tu ne senta il peso."<x1/><x2/><x3/><x4/>*Con una fiera determinazione negli occhi, si batte il pugno nel palmo della mano.*<x5/><x6/>"Bene. Ecco la prima mossa."<x7/><x8/>"Ci aspetta una montagna di lavoro. Granai da riprendere. Linee di rifornimento da ricostruire. Aiuti esterni, difese, tutto quanto."<x9/><x10/>*Il sorrisetto ritorna, come se avesse già piazzato il primo segno su una mappa.*<x11/><x12/>"Ma caricare alla cieca non ci porta niente. Cominciamo dalle informazioni e da qualcosa che possiamo davvero portare a casa."<x13/><x14/>"Ho parlato con i contadini del Mulino di Haylor che sono riusciti a fuggire. Quando gli Haylor hanno abbandonato il mulino, hanno organizzato la consegna qui del loro vecchio registro, insieme a una scorta di merci. Soprattutto cibo. Forse vestiti."<x15/><x16/>"La carovana non è mai arrivata. I Goblin l'hanno attaccata prima che ci raggiungesse. È là fuori, da qualche parte nei campi."<x17/><x18/>"Troviamo il registro e troviamo la scorta."<x19/><x20/>"Portami queste due cose. Nient'altro."
+NPC_SAQI_RESPONSE_f09682ae-9c95-405d-b1cd-4d5a1bd5e6db	"Eh sì. Seguirò l'istinto. Farò quello che posso per tutti, ma non fingerò che chi mi è più vicino non conti di più."
+NPC_SAQI_RESPONSE_f2d8e0a1-216d-48ee-8a7c-c9df485a84e3	"Grazie! Dovrei proprio tornare a cucinare per questi rifugiati, ma ripassa ogni tanto. Mi farebbe piacere conoscerti meglio, quando avremo un momento."
+NPC_SAQI_RESPONSE_f872c5bc-f15b-4e9e-a196-65bc68e517ef	"Allora non hai mai avuto le persone giuste alla tua tavola. Un peccato, davvero."
+NPC_SAQI_RESPONSE_ff4d1948-153b-4bb5-a899-8e2de35d8875	"Mi piace questo slancio. Sei un tesoro. Bene, ascolta."<x1/><x2/><x3/><x4/>*Con una fiera determinazione negli occhi, si batte il pugno nel palmo della mano.*<x5/><x6/>"Bene. Ecco la prima mossa."<x7/><x8/>"Ci aspetta una montagna di lavoro. Granai da riprendere. Linee di rifornimento da ricostruire. Aiuti esterni, difese, tutto quanto."<x9/><x10/>*Il sorrisetto ritorna, come se avesse già piazzato il primo segno su una mappa.*<x11/><x12/>"Ma caricare alla cieca non ci porta niente. Cominciamo dalle informazioni e da qualcosa che possiamo davvero portare a casa."<x13/><x14/>"Ho parlato con i contadini del Mulino di Haylor che sono riusciti a fuggire. Quando gli Haylor hanno abbandonato il mulino, hanno organizzato la consegna qui del loro vecchio registro, insieme a una scorta di merci. Soprattutto cibo. Forse vestiti."<x15/><x16/>"La carovana non è mai arrivata. I Goblin l'hanno attaccata prima che ci raggiungesse. È là fuori, da qualche parte nei campi."<x17/><x18/>"Troviamo il registro e troviamo la scorta."<x19/><x20/>"Portami queste due cose. Nient'altro."
+NPC_SAQI_TITLE	La giovane nana
+NPC_SUSPICIOUSTRADER_GREETING_dfdfdffdd-5483-4ae9-b534-885433b4e3a1	"Me ne vado presto, promesso!"
+NPC_SUSPICIOUSTRADER_GREETING_ee08b7ff-5483-4ae9-b534-885433b4e3a1	*L'uomo trasandato lancia un grido di sollievo quando ti avvicini. Si asciuga la fronte, poi si inchina con gratitudine esagerata, sorridendo come se ti accogliesse nel suo negozio anziché nel mezzo di uno scontro.*<x1/><x2/>"Che tu sia benedetto, avventuriero. Davvero. Quei Goblin mi avevano portato sull'orlo della rovina. Un altro minuto e avrei dovuto abbandonare la merce e correre per salvarmi la pelle. Ma il destino ha avuto pietà di me, e anche tu. Ora lascia che ricambi il favore. Equipaggiamento incantato, prezzo onesto. Qualcosa per dare un po' più di mordente al tuo braccio."
+NPC_SUSPICIOUSTRADER_PLAYER_1987fee4-ee3a-4510-b3cf-148dcd1a98d0_HEROIC	Restituisci ciò che hai preso, insieme ai guadagni e alle scorte che ne hai ricavato.
+NPC_SUSPICIOUSTRADER_PLAYER_1987fee4-ee3a-4510-b3cf-148dcd1a98d0_JOKER	Forza, ridai indietro quello che hai arraffato, più i soldi e le scorte raccolti per strada.
+NPC_SUSPICIOUSTRADER_PLAYER_1987fee4-ee3a-4510-b3cf-148dcd1a98d0_SCHOLAR	Restituisci quanto hai sottratto, nonché i profitti e le scorte acquisiti attraverso questa attività.
+NPC_SUSPICIOUSTRADER_PLAYER_1987fee4-ee3a-4510-b3cf-148dcd1a98d0_STOIC	Restituisci ciò che hai preso. Compresi tutti i guadagni e le scorte ricavati.
+NPC_SUSPICIOUSTRADER_PLAYER_53371ec0-5664-40dd-806d-0e4c4ac3c2de_HEROIC	Ora parla chiaro, prima che la mia pazienza finisca e tu incontri il filo della mia arma.
+NPC_SUSPICIOUSTRADER_PLAYER_53371ec0-5664-40dd-806d-0e4c4ac3c2de_JOKER	Questo è il momento di essere onesti, a meno che tu non voglia un incontro ravvicinato con la mia arma.
+NPC_SUSPICIOUSTRADER_PLAYER_53371ec0-5664-40dd-806d-0e4c4ac3c2de_SCHOLAR	La verità, ora. La mia pazienza e la mia lama hanno modi diversi.
+NPC_SUSPICIOUSTRADER_PLAYER_53371ec0-5664-40dd-806d-0e4c4ac3c2de_STOIC	Di' la verità, prima che perda la calma e tu senta la forza della mia arma.
+NPC_SUSPICIOUSTRADER_PLAYER_5af478c7-e261-4913-9ee4-e8941510bce2_BASE	Cosa hai in vendita?
+NPC_SUSPICIOUSTRADER_PLAYER_6c98d3f7-3716-4330-be72-9fc2fac5e624_HEROIC	Conosco la verità. Ora hai l'occasione di confessare con onore.
+NPC_SUSPICIOUSTRADER_PLAYER_6c98d3f7-3716-4330-be72-9fc2fac5e624_JOKER	Conosco la verità. Una confessione adesso ci risparmierebbe un po' di teatro.
+NPC_SUSPICIOUSTRADER_PLAYER_6c98d3f7-3716-4330-be72-9fc2fac5e624_SCHOLAR	Sono a conoscenza della verità. Questa è un'opportunità per confessare.
+NPC_SUSPICIOUSTRADER_PLAYER_6c98d3f7-3716-4330-be72-9fc2fac5e624_STOIC	Conosco la verità. È la tua occasione per confessare.
+NPC_SUSPICIOUSTRADER_PLAYER_776cf021-f201-411d-b893-37b1b58261e2_HEROIC	Lascia tutto e corri. Non voltarti. Se esiti, arriverò io.
+NPC_SUSPICIOUSTRADER_PLAYER_776cf021-f201-411d-b893-37b1b58261e2_JOKER	Molla tutto e corri verso gli alberi. Fermati a riprendere fiato e potresti vedermi alle tue spalle.
+NPC_SUSPICIOUSTRADER_PLAYER_776cf021-f201-411d-b893-37b1b58261e2_SCHOLAR	Lascia ogni cosa e va'. Nella foresta, senza più tornare. Se esiterai, ti seguirò.
+NPC_SUSPICIOUSTRADER_PLAYER_776cf021-f201-411d-b893-37b1b58261e2_STOIC	Lascia tutto qui e corri. Nella foresta. Non tornare. Se ti fermi, ti sono dietro.
+NPC_SUSPICIOUSTRADER_PLAYER_a90a4c77-d027-4532-a6d0-d8ae5364da3a_HEROIC	Tu saresti il mercante di cui parlano tutti.
+NPC_SUSPICIOUSTRADER_PLAYER_a90a4c77-d027-4532-a6d0-d8ae5364da3a_JOKER	Il mercante di cui parlano tutti. Nei racconti eri qualche centimetro più alto.
+NPC_SUSPICIOUSTRADER_PLAYER_a90a4c77-d027-4532-a6d0-d8ae5364da3a_SCHOLAR	Dunque sei tu il mercante. Le voci non esageravano molto.
+NPC_SUSPICIOUSTRADER_PLAYER_a90a4c77-d027-4532-a6d0-d8ae5364da3a_STOIC	Devi essere il mercante di cui parlano tutti.
+NPC_SUSPICIOUSTRADER_PLAYER_a9d578b9-e2c1-471a-925a-1678e2ec2324_HEROIC	Va' alla Gilda e affidati con onore alla clemenza di Alaric.
+NPC_SUSPICIOUSTRADER_PLAYER_a9d578b9-e2c1-471a-925a-1678e2ec2324_JOKER	Fila alla Gilda e scopri com'è la clemenza di Alaric vista da vicino.
+NPC_SUSPICIOUSTRADER_PLAYER_a9d578b9-e2c1-471a-925a-1678e2ec2324_SCHOLAR	Recati alla Gilda e rimettiti alla clemenza di Alaric.
+NPC_SUSPICIOUSTRADER_PLAYER_a9d578b9-e2c1-471a-925a-1678e2ec2324_STOIC	Va' alla Gilda. Rimettiti alla clemenza di Alaric.
+NPC_SUSPICIOUSTRADER_PLAYER_b2409d87-0262-44e0-b9bb-15f6c19ad71d_HEROIC	Chi ho davanti, e quale scopo ti conduce qui?
+NPC_SUSPICIOUSTRADER_PLAYER_b2409d87-0262-44e0-b9bb-15f6c19ad71d_JOKER	Chi va là, e che guai stai combinando?
+NPC_SUSPICIOUSTRADER_PLAYER_b2409d87-0262-44e0-b9bb-15f6c19ad71d_SCHOLAR	Chi sei? E cosa, esattamente, ti trattiene qui?
+NPC_SUSPICIOUSTRADER_PLAYER_b2409d87-0262-44e0-b9bb-15f6c19ad71d_STOIC	Chi sei e cosa ci fai qui?
+NPC_SUSPICIOUSTRADER_PLAYER_b4c5a2d7-62b5-487a-96d3-8c3048f37711_HEROIC	Dunque hai rivenduto le merci incantate di Tamsin?
+NPC_SUSPICIOUSTRADER_PLAYER_b4c5a2d7-62b5-487a-96d3-8c3048f37711_JOKER	Quindi hai pensato che le merci incantate di Tamsin meritassero un secondo giro sul mercato?
+NPC_SUSPICIOUSTRADER_PLAYER_b4c5a2d7-62b5-487a-96d3-8c3048f37711_SCHOLAR	Sei dunque tu il responsabile della rivendita delle merci incantate di Tamsin?
+NPC_SUSPICIOUSTRADER_PLAYER_b4c5a2d7-62b5-487a-96d3-8c3048f37711_STOIC	Sei tu a rivendere le merci incantate di Tamsin?
+NPC_SUSPICIOUSTRADER_PLAYER_ed7f1bc8-99de-4334-9493-6e6422e3efa4_HEROIC	La sopravvivenza favorisce i forti. Sottrai qualcosa agli altri e sarò io a riprenderlo.
+NPC_SUSPICIOUSTRADER_PLAYER_ed7f1bc8-99de-4334-9493-6e6422e3efa4_JOKER	Sopravvivono i forti. Sfili qualcosa agli altri e qualcuno viene a riscuotere. Quel qualcuno sono io.
+NPC_SUSPICIOUSTRADER_PLAYER_ed7f1bc8-99de-4334-9493-6e6422e3efa4_SCHOLAR	La sopravvivenza appartiene ai forti. Sottrai agli altri e attenditi lo stesso trattamento da me.
+NPC_SUSPICIOUSTRADER_PLAYER_ed7f1bc8-99de-4334-9493-6e6422e3efa4_STOIC	Sopravvivono i forti. Porta via agli altri e qualcuno porta via a te. Quel qualcuno sarò io.
+NPC_SUSPICIOUSTRADER_PLAYER_f4c72b7d-cf83-414e-9e6d-cae27f4d2960_HEROIC	Ciò che hai perso non ti autorizza a depredare nessuno. Non è giusto.
+NPC_SUSPICIOUSTRADER_PLAYER_f4c72b7d-cf83-414e-9e6d-cae27f4d2960_JOKER	Perdere tutto non ti dà di colpo il diritto di sfruttare tutti gli altri, sai.
+NPC_SUSPICIOUSTRADER_PLAYER_f4c72b7d-cf83-414e-9e6d-cae27f4d2960_SCHOLAR	Una perdita non conferisce diritti sulle altre persone.
+NPC_SUSPICIOUSTRADER_PLAYER_f4c72b7d-cf83-414e-9e6d-cae27f4d2960_STOIC	La tua perdita non ti dà diritto di sfruttare gli altri.
+NPC_SUSPICIOUSTRADER_RESPONSE_21d736cd-afb0-482d-bf7d-04270fff7e16	"Confessare? Cosa, di preciso? Ma hai quello sguardo. Va bene. Non sono uno sciocco. Parlerò."<x1/><x2/><x3/><x4/>"Sì. Sono stato io. Ti basta, adesso? Ho perso tutto. I Goblin mi hanno portato via la casa, poi il resto del mondo si è preso quello che rimaneva. Credi che qualcuno sia corso a salvarmi? Ho trovato un modo per vivere. Tutto qui."
+NPC_SUSPICIOUSTRADER_RESPONSE_58a4e0d0-b2d4-4dea-9e02-6081e598d8f1	"Tamsin? Merci incantate? Amico, non so che storia ti abbiano raccontato, ma non è la mia."<x1/><x2/><x3/><x4/>"Solo un mercante, tutto qui. Nato ad Aldoria, consumato dalla strada. Mi fermo poco, quindi scegli in fretta se vuoi comprare. Queste strade non aspettano, e nemmeno io."
+NPC_SUSPICIOUSTRADER_RESPONSE_776760dd-ae8e-495c-8392-599330610f4e	"Parlano tutti di me? Fa bene agli affari. Molto bene."<x1/><x2/><x3/><x4/>"Solo un mercante, tutto qui. Nato ad Aldoria, consumato dalla strada. Mi fermo poco, quindi scegli in fretta se vuoi comprare. Queste strade non aspettano, e nemmeno io."
+NPC_SUSPICIOUSTRADER_RESPONSE_915e7eb9-e2f7-4575-8de1-84d771b2ec02	"Va bene. Va bene. Sei forte. Lo vedo. Non facciamo stupidaggini per della stoffa e dei soldi."<x1/><x2/><x3/><x4/>"E allora cosa vuoi? Restituisco tutto. Bene. Vuoi anche che vada a strisciare alla Gilda. Da quella ragazzina gracile. Come ti pare."
+NPC_SUSPICIOUSTRADER_RESPONSE_9555253c-bbb1-4d1a-a41c-ef235afdfd40	"Diritto di sfruttare. Ma sentiti. Il mondo sfrutta. Io ho solo imparato più in fretta di te."<x1/><x2/><x3/><x4/>"E allora cosa vuoi? Restituisco tutto. Bene. Vuoi anche che vada a strisciare alla Gilda. Da quella ragazzina gracile. Come ti pare."
+NPC_SUSPICIOUSTRADER_RESPONSE_974c5a04-8a79-4342-beec-d23b2e834aa0	"Ah, subito al sodo. Lo rispetto. Vado dove le strade lo permettono e le lame no."<x1/><x2/><x3/><x4/>"Solo un mercante, tutto qui. Nato ad Aldoria, consumato dalla strada. Mi fermo poco, quindi scegli in fretta se vuoi comprare. Queste strade non aspettano, e nemmeno io."
+NPC_SUSPICIOUSTRADER_RESPONSE_b6200907-d2c4-4562-8294-64f710ca431c	"Cos'ho? Cosa non ho! Mantelli, fasce, ninnoli, protezioni. Qualcosa per raddoppiare la tua magia, qualcosa per metterti il vento nelle gambe. Dimmi cosa vuoi diventare e ti venderò la scorciatoia."
+NPC_SUSPICIOUSTRADER_RESPONSE_b8b3a42a-821e-48ca-9bd7-40fc15b2413d	"La… clemenza di Alaric. Per gli dèi. Va bene. Va bene, ci vado. Ci vado. Solo… non farmi ripetere il suo nome."
+NPC_SUSPICIOUSTRADER_RESPONSE_d52893fe-9ffd-4ab6-8e36-7eaf8fce2156	"È la morte. Goblin, lupi, tutto quanto. Mi vuoi morto. …Va bene. D'accordo. Correrò. Grazie di niente."
+NPC_SUSPICIOUSTRADER_RESPONSE_e5f65e7e-f6da-41d7-9566-1a4c9f2e1ce6	"Ah. Va bene. Prendi. Prendi anche i soldi. Ma non startene lì a vantartene."
+NPC_SUSPICIOUSTRADER_RESPONSE_f52339a1-86d8-4468-959d-0702bd844a10	"Calma. Calma. Metti via la rabbia. Ti ascolto. Parlerò."<x1/><x2/><x3/><x4/>"Sì. Sono stato io. Ti basta, adesso? Ho perso tutto. I Goblin mi hanno portato via la casa, poi il resto del mondo si è preso quello che rimaneva. Credi che qualcuno sia corso a salvarmi? Ho trovato un modo per vivere. Tutto qui."
+NPC_SUSPICIOUSTRADER_TITLE	Il Mercante sospetto

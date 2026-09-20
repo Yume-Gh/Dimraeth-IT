@@ -1,0 +1,110 @@
+﻿Key,Text
+DEED_ALREADY_ACTIVE,Questo incarico è già in corso
+DEED_PLAYERS_INSIDE,Tutti devono lasciare l'area prima di accettare questo incarico
+DEED_SPAWN_MOVED_TO_SANCTUM,Sei stato spostato al Santuario: un incarico ha sigillato l'area in cui ti eri disconnesso
+DEED_TIER_LOCKED,Questo grado non è ancora sbloccato
+ERROR_ALREADY_EQUIPPED,Oggetto già equipaggiato
+ERROR_ALREADY_UNLOCKED_BUILDABLE,Hai già sbloccato questa costruzione
+ERROR_ALREADY_UNLOCKED_RECIPE,Hai già sbloccato questa ricetta
+ERROR_ALREADY_UNLOCKED_SPELL,Hai già sbloccato questo incantesimo
+ERROR_AUTO_DRINK_DRINK_ONLY,Nello slot di idratazione automatica vanno solo bevande.
+ERROR_AUTO_DRINK_SLOT_FULL,La pila dello slot di idratazione è già piena
+ERROR_AUTO_EAT_FOOD_ONLY,Nello slot di alimentazione automatica va solo cibo.
+ERROR_AUTO_EAT_SLOT_FULL,La pila dello slot di alimentazione è già piena
+ERROR_BENCH_DISALLOWED,Equipaggiamento e compagni non si possono usare a questa postazione.
+ERROR_CANNOT_DROP,Non puoi gettarlo
+ERROR_CANNOT_EQUIP,Non puoi equipaggiare questo oggetto
+ERROR_CHARACTER_DIFFICULTY_MISMATCH_CLIENT,Il server ha una difficoltà diversa da questo personaggio
+ERROR_CHARACTER_DIFFICULTY_MISMATCH_HOST,Devi scegliere un personaggio con la stessa difficoltà del mondo
+ERROR_CHARACTER_NAME_TAKEN,Il nome del personaggio è già in uso o riservato
+ERROR_CHARACTER_NAME_TOO_LONG,Il nome del personaggio è troppo lungo
+ERROR_CHARACTER_NAME_TOO_SHORT,Il nome del personaggio deve avere almeno 2 caratteri
+ERROR_CHARACTER_NEW_ONLY,Questo server ammette solo personaggi nuovi o di ritorno
+ERROR_CHEST_FULL,Quella cassa è piena.
+ERROR_CLASS_REQUIRED,Questo incantesimo richiede la classe {0}
+ERROR_COMBAT_ITEM_NOT_FULL,Deve essere completamente carico per lasciare la barra rapida. Riposa per ricaricarlo.
+ERROR_COMBAT_ITEMS_ONLY,Negli slot rapidi puoi assegnare solo oggetti da combattimento
+ERROR_COOLDOWN_ACTIVE,Questa azione è in recupero
+ERROR_CRAFTING_SLOT_FULL,Quello slot di produzione è pieno.
+ERROR_DISMANTLE_IN_USE,Non puoi smontarlo mentre un altro giocatore lo usa
+ERROR_DISMANTLE_ITEMS_PRESENT,Non puoi smontarlo mentre contiene oggetti
+ERROR_DISMANTLE_NOT_OWNER,Solo il proprietario può smontarlo
+ERROR_EMPTY,Vuoto
+ERROR_EMPTY_PET_INVENTORY,Svuota l'inventario del compagno prima di rimuoverlo.
+ERROR_INVALID_ACTION,Azione non valida
+ERROR_INVALID_PET_DATA,Dati del compagno non validi
+ERROR_INVENTORY_FULL,Inventario pieno
+ERROR_INVENTORY_FULL_DROPPING,"Inventario pieno, la runa cade a terra"
+ERROR_ITEM_DECAYED_AWAY,{0} si è decomposto!
+ERROR_ITEM_DECAYED_INTO,{0} si è decomposto in {1}!
+ERROR_ITEM_LOCKED,Questo oggetto è bloccato
+ERROR_LEVEL_TOO_LOW,Il tuo livello è troppo basso per questo oggetto
+ERROR_MISSING_ATTRIBUTE_REQUIREMENTS,Requisiti di attributo mancanti: {0}
+ERROR_MISSING_REQUIRED_ATTRIBUTES,Non hai gli attributi richiesti
+ERROR_MUST_BE_NIGHT,Devi aspettare la notte per dormire
+ERROR_NAME_CANNOT_BE_EMPTY,Non può essere vuoto
+ERROR_NAME_DOUBLE_SPACE,Il nome non può contenere due spazi consecutivi
+ERROR_NAME_INVALID_FORMAT,"Il nome può contenere solo lettere, numeri, spazi, trattini, apostrofi e trattini bassi"
+ERROR_NAME_MUST_START_WITH_LETTER,Il nome deve iniziare con una lettera
+ERROR_NAME_RESERVED,Quel nome è riservato e non si può usare
+ERROR_NAME_TOO_LONG_FOR_STORAGE,Quel nome è troppo lungo da salvare. Usa meno caratteri
+ERROR_NAME_TOO_MANY_MARKS,Il nome ha troppi accenti sullo stesso carattere
+ERROR_NEW_ONLY_EXISTING_CHARACTER,Personaggio vecchio già selezionato
+ERROR_NO_EMPTY_SLOT,Nessuno slot libero per la pila divisa.
+ERROR_NO_MATCHING_ITEMS,Nessun oggetto corrispondente
+ERROR_NO_TARGET,Nessun bersaglio
+ERROR_NOT_DURING_COMBAT,Non puoi farlo durante il combattimento
+ERROR_NOT_ENOUGH_CONCENTRATION,Concentrazione insufficiente
+ERROR_NOT_ENOUGH_GOLD,Oro insufficiente per l'acquisto
+ERROR_NOT_ENOUGH_HEALTH,Salute insufficiente
+ERROR_NOT_ENOUGH_INVENTORY_SPACE,Spazio nell'inventario insufficiente
+ERROR_NOT_ENOUGH_RESOURCES,Risorse insufficienti
+ERROR_NOT_ENOUGH_SPACE,Non hai spazio sufficiente
+ERROR_NOT_ENOUGH_STAMINA,Vigore insufficiente
+ERROR_ON_COOLDOWN,Incantesimo in recupero
+ERROR_ONE_PER_SLOT_GROUP_BANDAGE,Puoi equipaggiare una sola benda
+ERROR_ONE_PER_SLOT_GROUP_BOONPOTION,Puoi equipaggiare una sola pozione del favore
+ERROR_ONE_PER_SLOT_GROUP_BURNSALVE,Puoi equipaggiare un solo unguento per ustioni
+ERROR_ONE_PER_SLOT_GROUP_CONCENTRATIONPOTION,Puoi equipaggiare una sola pozione di concentrazione
+ERROR_ONE_PER_SLOT_GROUP_HEALTHPOTION,Puoi equipaggiare una sola pozione di salute
+ERROR_ONE_PER_SLOT_GROUP_OFFENSIVETOOL,Puoi equipaggiare un solo strumento offensivo
+ERROR_ONE_PER_SLOT_GROUP_POISONCURE,Puoi equipaggiare un solo antidoto
+ERROR_ONE_PER_SLOT_GROUP_STAMINAPOTION,Puoi equipaggiare una sola pozione di vigore
+ERROR_ONE_PER_SLOT_GROUP_WEAPONOIL,Puoi equipaggiare un solo olio per armi
+ERROR_ONLY_ONE_SLOT_GROUP,Puoi equipaggiare un solo {0}
+ERROR_ONLY_PETS_IN_PEN,Nel recinto si possono mettere solo compagni
+ERROR_OVER_ENCUMBERED,Non puoi trasportare tutto quel peso.
+ERROR_PATH_BLOCKED,Percorso bloccato
+ERROR_PET_ENCUMBRANCE,Trasporti troppo peso per rimuovere questo compagno.
+ERROR_PET_IN_COURIER_MODE,Non puoi rimuovere il compagno in modalità corriere.
+ERROR_PET_INTO_OWN_BACKPACK,Non puoi mettere il compagno nel suo stesso zaino.
+ERROR_PET_INVENTORY_EMPTY,L'inventario del compagno è vuoto.
+ERROR_PET_NOT_OWNER,Questo compagno non è tuo.
+ERROR_PET_PEN_FULL,Il recinto è pieno
+ERROR_PET_STORAGE_FULL,Il deposito dei compagni è pieno
+ERROR_PETS_CANNOT_BE_SOLD,I compagni non si possono vendere.
+ERROR_PETS_CANNOT_BE_SOLD_HERE,Qui non si possono vendere compagni.
+ERROR_PETS_NO_CONTAINERS,I compagni non si possono mettere nei contenitori.
+ERROR_PETS_NO_COURIER_STORAGE,I compagni non si possono mettere nel deposito del corriere
+ERROR_RACE_REQUIRED,Questo incantesimo richiede la razza {0}
+ERROR_REFUND_HAS_DEPENDENTS,Rimborsa prima i nodi che dipendono da questo
+ERROR_REFUND_INVALID_NODE,Quel nodo non è rimborsabile
+ERROR_REFUND_NOT_ENOUGH_GOLD,Oro insufficiente per il rimborso
+ERROR_REFUND_NOT_PURCHASED,Quel nodo non è stato acquistato
+ERROR_REFUND_STARTING_NODE,I nodi iniziali non sono rimborsabili
+ERROR_REQUIRED_DOORFRAME,Richiede: telaio della porta
+ERROR_REQUIRED_FOUNDATION,Richiede: fondazione
+ERROR_REQUIRED_TABLE,Richiede: tavolo
+ERROR_REQUIRED_WALL,Richiede: muro
+ERROR_REQUIREMENTS_NOT_MET,Requisiti non soddisfatti
+ERROR_RESPAWN_BLOCKED_COMBAT,Impossibile rinascere: un alleato vicino è in combattimento
+ERROR_SOLD_OUT,Esaurito
+ERROR_TARGET_NEEDS_STACKS,Il bersaglio necessita di almeno {0} cariche di {1}
+ERROR_TARGET_NOT_ALLY,Il bersaglio non è un alleato
+ERROR_TARGET_NOT_IN_RANGE,Bersaglio fuori portata
+ERROR_TOO_HEAVY,Non puoi trasportare tutto quel peso
+ERROR_TOO_HEAVY_DROPPING,"Troppo pesante, getto l'eccesso."
+ERROR_TOO_HEAVY_TO_TRAVEL,Troppo pesante per viaggiare. Deposita o getta del peso.
+ERROR_WORLD_NAME_TAKEN,Il nome del mondo è già in uso o riservato
+ERROR_WORLD_NAME_TOO_LONG,Il nome del mondo è troppo lungo
+ERROR_WORLD_NAME_TOO_SHORT,Il nome del mondo deve avere almeno 2 caratteri

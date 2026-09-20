@@ -1,0 +1,1155 @@
+﻿Key,Text
+DEED_ALPHAWOLFBOUNTY_DESC,"""Un nuovo alfa guida i branchi nella parte orientale di Wildwood e ogni notte gli ululati si avvicinano. Elimina il capobranco.""\n - Rahaner"
+DEED_ALPHAWOLFBOUNTY_NAME,Taglia sul Lupo alfa
+DEED_ASSAULTTHEMILL_DESC,"""Il Mulino di Haylor è diventato un covo di goblin. Guida un assalto, elimina parte dei razziatori e ricorda loro che tenerlo ha un prezzo.""\n - Rahaner"
+DEED_ASSAULTTHEMILL_NAME,Assalto al mulino
+DEED_BEASTWARDENBOUNTY_DESC,"""Una Custode delle Bestie spinge le creature selvatiche contro le nostre vie di transito. Trovala e spezza il suo dominio per dare respiro a esploratori e carovane.""\n - Rahaner"
+DEED_BEASTWARDENBOUNTY_NAME,Taglia sulla Custode delle Bestie
+DEED_BRIARHEARTBOUNTY_DESC,"""Briarheart arde di nuovo nel cuore di Wildwood, e ogni forma di vita nei dintorni brucia o fugge. Estirpa il fuoco alla radice.""\n - Rahaner"
+DEED_BRIARHEARTBOUNTY_NAME,Taglia su Briarheart
+DEED_BRUTALBASHERS_DESC,"""I Goblin Picchiatori si aggirano in gruppi per i campi, spezzando ossa e coraggio. Scovane una banda e stendili, così gli altri ci penseranno due volte.""\n - Rahaner"
+DEED_BRUTALBASHERS_NAME,Picchiatori brutali
+DEED_CLEARINGOUTBIGCATS_DESC,"""Cacciatori corrotti si annidano nei boschi bui, in attesa di avventurieri incauti. Eliminali e dimostra che non tutti gli avventurieri sono prede.""\n - Eldorian"
+DEED_CLEARINGOUTBIGCATS_NAME,Cacciatori corrotti
+DEED_CLEARINGOUTPACKS_DESC,"""I lupi si annidano nelle ombre della foresta. Abbattili, prima che colgano qualcuno alla sprovvista.""\n - Eldorian"
+DEED_CLEARINGOUTPACKS_NAME,Branchi da sfoltire
+DEED_CLEARINGOUTSTABBERS_DESC,"""Malvagi e spietati, i Goblin Squartatori si nascondono tra i fitti alberi di Wildwood. Scovali ed eliminali.""\n - Eldorian"
+DEED_CLEARINGOUTSTABBERS_NAME,Squartatori da abbattere
+DEED_CLEARINGOUTTHECORRUPTION_DESC,"""La corruzione avanza dalla parte orientale di Wildwood verso la strada. Elimina le radici e gli spiriti più corrotti lungo il sentiero, poi riferisci fin dove si è diffusa.""\n - Eldorian"
+DEED_CLEARINGOUTTHECORRUPTION_NAME,Bonifica della corruzione
+DEED_CLEARINGOUTTHEYARD_DESC,"""Il Deposito di Cordwyn è sotto il tallone dei goblin, che usano le nostre cataste come riparo. Fatti strada, sfoltiscili e rendi la zona abbastanza tranquilla da far passare carri e operai sotto scorta.""\n - Rahaner"
+DEED_CLEARINGOUTTHEYARD_NAME,Liberazione del deposito
+DEED_CLEARINGOUTTREES_DESC,"""Il sentiero verso il Re della Foresta è pericoloso per via dei tanti alberi letali. Estirpa il male alla radice e riferisci che la via è libera.""\n - Eldorian"
+DEED_CLEARINGOUTTREES_NAME,Abbattimento dei Treant
+DEED_CLEARTHEFORESTNEARTHEROAD_DESC,"""Lupi e creature peggiori si sono avvicinati troppo alla strada della foresta. Sfoltisci i branchi che cacciano lungo il sentiero, così chi passa non sentirà sempre le zanne alle calcagna.""\n - Eldorian"
+DEED_CLEARTHEFORESTNEARTHEROAD_NAME,Ripulisci la foresta lungo la strada
+DEED_CORRUPTEDDROOPKINGBOUNTY_DESC,"""Qualunque cosa la corruzione abbia fatto a quell'essere, non l'ha reso più amichevole. Il Re Droop Corrotto sta di nuovo riversando lordura a Wildwood. Metti fine alla cosa.""\n - Rahaner"
+DEED_CORRUPTEDDROOPKINGBOUNTY_NAME,Taglia sul Re Droop Corrotto
+DEED_CULLTHECAMP_DESC,"""Il Campo di Northcut è un altro anello nella catena dei goblin attraverso i campi. Colpiscilo, indeboliscili e ritirati prima che ti travolgano.""\n - Rahaner"
+DEED_CULLTHECAMP_NAME,Assalto al campo
+DEED_DROOPKINGBOUNTY_DESC,"""Le piogge hanno di nuovo allagato i campi e il Re Droop è tornato sul suo trono di fango. Abbattilo prima che la sua progenie sommerga tutti i terreni agricoli.""\n - Rahaner"
+DEED_DROOPKINGBOUNTY_NAME,Taglia sul Re Droop
+DEED_EMBERBLOOMSNEEDED_DESC,"""La solita brodaglia ogni sera logora più del freddo. Portami degli Emberbloom e ridarò colore e sapore alla pentola. Fa miracoli per gli animi stanchi.""\n - Saqi"
+DEED_EMBERBLOOMSNEEDED_NAME,Richiesta di Emberbloom
+DEED_FOODSCRAPSREQUEST_DESC,"""I profughi arrivano più in fretta di quanto riesca ad allungare lo stufato. Se hai mele o carne di caccia in più, donale alla bacheca e ne farò pasti caldi.""\n - Saqi"
+DEED_FOODSCRAPSREQUEST_NAME,Richiesta di avanzi
+DEED_GOTBURGBOUNTY_DESC,"""Gotburg l'Ustionato è sopravvissuto ai suoi stessi fuochi d'artificio, purtroppo. Finisci ciò che la sua cerimonia ha iniziato.""\n - Rahaner"
+DEED_GOTBURGBOUNTY_NAME,Taglia su Gotburg
+DEED_HIGHPRIESTESSBOUNTY_DESC,"""La Somma Sacerdotessa sta di nuovo salmodiando su quella pozza maledetta. Qualunque cosa stia invocando, fermala prima che risponda.""\n - Rahaner"
+DEED_HIGHPRIESTESSBOUNTY_NAME,Taglia sulla Somma Sacerdotessa
+DEED_HORDEKINGSBOUNTY_DESC,"""Il Re del Tesoro è tornato strisciando al suo bottino nelle Caverne dei Goblin, e i suoi razziatori si fanno più audaci ogni giorno. Irrompi nella sua tana e abbattilo.""\n - Rahaner"
+DEED_HORDEKINGSBOUNTY_NAME,Taglia sul Re del Tesoro
+DEED_KINGSPATHPATROL_DESC,"""Il sentiero verso il Re della Foresta è incerto, difficile da trovare nel buio della foresta corrotta. Esplora i boschi, annota i punti di riferimento e porta le informazioni alla gilda.""\n - Eldorian"
+DEED_KINGSPATHPATROL_NAME,Pattuglia sul sentiero del Re
+DEED_MEATSTOCKPILE_DESC,"""I goblin hanno soffocato i nostri campi; il grano da solo non basta a tenere in piedi la gente. Porta Carne di Bestia: la farò cuocere, salare e spedire dove la fame morde di più.""\n - Saqi"
+DEED_MEATSTOCKPILE_NAME,Scorte di carne
+DEED_RETURNTOTHEFORESTTHRONE_DESC,"""Il Re della Foresta è sconfitto, ma il trono ricorda la battaglia. Ripercorri il sentiero e metti alla prova la tua forza contro il ricordo di quello scontro.""\n - Rahaner"
+DEED_RETURNTOTHEFORESTTHRONE_NAME,Ritorno al Trono della Foresta
+DEED_RIVERCALLERBOUNTY_DESC,"""Una Rivercaller sta scatenando la frenesia nel fiume e nelle sue creature. Cercala lungo le rive e metti a tacere il suo canto prima che attiri qualcosa che non siamo pronti ad affrontare.""\n - Rahaner"
+DEED_RIVERCALLERBOUNTY_NAME,Taglia sulla Rivercaller
+DEED_ROADPATROL_DESC,"""La strada principale che attraversa i campi è ancora piena di tracce dei goblin. Percorrila, annota dove si muovono e attaccano e riporta i dettagli alla Gilda.""\n - Eldorian"
+DEED_ROADPATROL_NAME,Pattuglia sulla strada
+DEED_ROOTWEAVERBOUNTY_DESC,"""Una Tessiradici sta trasformando il sottobosco in trappole e muri. Trova questa maga, distruggi la sua opera e rendi di nuovo percorribile la foresta, almeno per un po'.""\n - Rahaner"
+DEED_ROOTWEAVERBOUNTY_NAME,Taglia sulla Tessiradici
+DEED_SCOUTOLDCAMPS_DESC,"""I vecchi edifici abbandonati possono offrire riparo a viandanti e bisognosi. Visitali per vedere se qualcuno ha bisogno di aiuto.""\n - Eldorian"
+DEED_SCOUTOLDCAMPS_NAME,Ricognizione dei vecchi campi
+DEED_SCOUTTHEEASTERNWILDWOOD_DESC,"""Da mesi la parte orientale di Wildwood non conosce quiete. Infilati tra i rami, cerca vegetazione contorta e torna sano e salvo a raccontarci cos'hai visto.""\n - Eldorian"
+DEED_SCOUTTHEEASTERNWILDWOOD_NAME,Ricognizione di Wildwood orientale
+DEED_SCOUTTHEFORESTROAD_DESC,"""La strada di Wildwood è in parte via commerciale, in parte imboscata in attesa di vittime. Esplorala tutta, tieni d'occhio il bosco e annota tracce di goblin o tane vicino al sentiero.""\n - Eldorian"
+DEED_SCOUTTHEFORESTROAD_NAME,Ricognizione della strada forestale
+DEED_SCOUTTHEPERIMETER_DESC,"""Fattorie e recinti attorno a Earlwood sono sotto assedio costante. Gira attorno ai campi esterni, cerca pali spezzati, tracce fresche o nuovi accampamenti e riferisci ciò che trovi.""\n - Eldorian"
+DEED_SCOUTTHEPERIMETER_NAME,Ricognizione del perimetro
+DEED_SMASHMOUTHBOUNTY_DESC,"""Smashmouth è tornato a colpire i nostri recinti con quella sua clava. Spezza la clava e lui, prima che i goblin riprendano coraggio.""\n - Rahaner"
+DEED_SMASHMOUTHBOUNTY_NAME,Taglia su Smashmouth
+DEED_STONENEEDED_DESC,"""Le mura, le strade e metà dei gradini della mia cantina cadono a pezzi. Porta pietra tagliata: la farò avere ai muratori prima che qualcuno ne faccia uno sgabello.""\n - Saqi"
+DEED_STONENEEDED_NAME,Richiesta di pietra
+DEED_THECORRUPTEDBEASTRETURNS_DESC,"""Il treant che abbiamo abbattuto è risorto, più corrotto di prima. Trova il Treant corrotto a Wildwood e abbattilo per bene, prima che sfoghi la sua furia su Earlwood.""\n - Rahaner"
+DEED_THECORRUPTEDBEASTRETURNS_NAME,Il ritorno della bestia corrotta
+DEED_THEETSNEEDED_DESC,"""In tempo di guerra non si butta nulla, nemmeno le carcasse dei mostri. Portami Denti di Goblin e ne ricaverò medicine.""\n - Saqi"
+DEED_THEETSNEEDED_NAME,Richiesta di Denti di Goblin
+DEED_THINNINGOUTTHEFIELDS_DESC,"""I goblin occupano i nostri campi da mesi. Vai a sfoltire le loro file, così la nostra gente potrà lavorare sotto scorta con meno rischi.""\n - Rahaner"
+DEED_THINNINGOUTTHEFIELDS_NAME,Sfoltimento nei campi
+DEED_WILDWOODPINENEEDED_DESC,"""Ponti, brande e barricate hanno tutti bisogno di legname. Porta del buon Pino di Wildwood al deposito, così i carpentieri potranno riparare ciò che i goblin continuano a rompere.""\n - Saqi"
+DEED_WILDWOODPINENEEDED_NAME,Richiesta di Pino di Wildwood
+QUEST_ABANDONEDCORPSE_DESC,Il cadavere di un profugo giace poco più avanti.
+QUEST_ABANDONEDCORPSE_NAME,Cadavere abbandonato
+QUEST_ABANDONEDCORPSE_TASKGROUP_0_DESC,Esamina il cadavere
+QUEST_ABANDONEDCORPSE_TASKGROUP_0_TASK_0,Perquisisci il cadavere
+QUEST_ABANDONEDCORPSE_TASKGROUP_1_DESC,Imboscata
+QUEST_ABANDONEDCORPSE_TASKGROUP_1_TASK_0,Uccidi gli assalitori
+QUEST_AFIRSTADVENTURE_DESC,Trova il bambino disperso e riportalo a casa.
+QUEST_AFIRSTADVENTURE_NAME,Una prima avventura
+QUEST_AFIRSTADVENTURE_TASKGROUP_0_DESC,In giro
+QUEST_AFIRSTADVENTURE_TASKGROUP_0_TASK_0,Trova il bambino disperso nella foresta
+QUEST_AFIRSTADVENTURE_TASKGROUP_1_DESC,Si torna a casa
+QUEST_AFIRSTADVENTURE_TASKGROUP_1_TASK_0,Torna da Befr
+QUEST_ALPHAWOLFBOUNTY_DESC,Dai la caccia al nuovo lupo alfa nella parte orientale di Wildwood.
+QUEST_ALPHAWOLFBOUNTY_NAME,Taglia sul Lupo alfa
+QUEST_ALPHAWOLFBOUNTY_TASKGROUP_0_DESC,Uccidi il Lupo alfa
+QUEST_ALPHAWOLFBOUNTY_TASKGROUP_0_TASK_0,Uccidi il Lupo di Wildwood alfa
+QUEST_AMBUSHATTHECIRCLE_DESC,Scopri dove si trova Basilton.
+QUEST_AMBUSHATTHECIRCLE_NAME,Imboscata al cerchio
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_0_DESC,Controlla come sta Basilton
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_0_TASK_0,Cerca Basilton nel giardino
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_1_DESC,Respingi i rinforzi
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_1_TASK_0,Trova Basilton all'incontro a Wildwood
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_2_DESC,Aiuta Basilton
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_2_TASK_0,Respingi l'imboscata e proteggi Basilton
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_3_DESC,Parla con Basilton
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_3_TASK_0,Controlla come sta Basilton
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_4_DESC,Parla con Basilton
+QUEST_AMBUSHATTHECIRCLE_TASKGROUP_4_TASK_0,Parla con Basilton del giardino
+QUEST_AMERCHANTSLOSTTOOLS_DESC,Aiuta il vecchio mercante a ritrovare i suoi attrezzi.
+QUEST_AMERCHANTSLOSTTOOLS_NAME,Gli attrezzi perduti del mercante
+QUEST_AMERCHANTSLOSTTOOLS_TASKGROUP_0_DESC,La ricerca
+QUEST_AMERCHANTSLOSTTOOLS_TASKGROUP_0_TASK_0,Trova gli attrezzi perduti
+QUEST_AMERCHANTSLOSTTOOLS_TASKGROUP_1_DESC,Imboscata
+QUEST_AMERCHANTSLOSTTOOLS_TASKGROUP_1_TASK_0,Uccidi gli assalitori
+QUEST_AMERCHANTSLOSTTOOLS_TASKGROUP_2_DESC,Torna da Befr
+QUEST_AMERCHANTSLOSTTOOLS_TASKGROUP_2_TASK_0,Torna da Befr
+QUEST_ASSAULTTHEMILL_DESC,Colpisci i razziatori goblin che occupano il Mulino di Haylor.
+QUEST_ASSAULTTHEMILL_NAME,Assalto al mulino
+QUEST_ASSAULTTHEMILL_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_ASSAULTTHEMILL_TASKGROUP_0_TASK_0,Uccidi i Goblin Squartatori
+QUEST_ASSAULTTHEMILL_TASKGROUP_0_TASK_1,Uccidi i Goblin Flaskrat
+QUEST_AVERYFUNNYHOUSE_DESC,Indaga sull'accampamento sospetto.
+QUEST_AVERYFUNNYHOUSE_NAME,Una casa molto buffa
+QUEST_AVERYFUNNYHOUSE_TASKGROUP_0_DESC,Esamina l'accampamento
+QUEST_AVERYFUNNYHOUSE_TASKGROUP_0_TASK_0,Indaga sull'accampamento sospetto
+QUEST_AVERYFUNNYHOUSE_TASKGROUP_1_DESC,Uccidi gli assalitori
+QUEST_AVERYFUNNYHOUSE_TASKGROUP_1_TASK_0,Uccidi i goblin che ti hanno teso l'imboscata
+QUEST_AVILLAGEINCRISIS_DESC,Aiuta gli abitanti del Villaggio di Earlwood.
+QUEST_AVILLAGEINCRISIS_NAME,Un villaggio in crisi
+QUEST_AVILLAGEINCRISIS_TASKGROUP_0_DESC,Aiuta gli abitanti di Earlwood
+QUEST_AVILLAGEINCRISIS_TASKGROUP_0_TASK_0,"Parla con Tamsin e completa la missione ""La richiesta della tessitrice"""
+QUEST_AVILLAGEINCRISIS_TASKGROUP_0_TASK_1,"Parla con Befr e completa la missione ""Gli attrezzi perduti del mercante"""
+QUEST_AVILLAGEINCRISIS_TASKGROUP_1_DESC,Controlla come sta Alaric
+QUEST_AVILLAGEINCRISIS_TASKGROUP_1_TASK_0,Torna da Alaric
+QUEST_BEASTWARDENBOUNTY_DESC,Dai la caccia alla Custode delle Bestie che spinge le creature selvatiche contro le vie di transito.
+QUEST_BEASTWARDENBOUNTY_NAME,Taglia sulla Custode delle Bestie
+QUEST_BEASTWARDENBOUNTY_TASKGROUP_0_DESC,Uccidi la Custode delle Bestie
+QUEST_BEASTWARDENBOUNTY_TASKGROUP_0_TASK_0,Uccidi la Custode delle Bestie
+QUEST_BEASTWARDENBOUNTY_TASKGROUP_0_TASK_1,Uccidi i Lupi
+QUEST_BEASTWARDENSISTERS_DESC,Senti un canto provenire dalle vicine Rovine degli Antichi...
+QUEST_BEASTWARDENSISTERS_NAME,Le sorelle delle rovine
+QUEST_BEASTWARDENSISTERS_TASKGROUP_0_DESC,Sconfiggi le Sorelle Driadi
+QUEST_BEASTWARDENSISTERS_TASKGROUP_0_TASK_0,Uccidi le Custodi delle Bestie
+QUEST_BLINDREVENGEI_DESC,Annienta l'avanguardia dei goblin.
+QUEST_BLINDREVENGEI_NAME,Vendetta cieca
+QUEST_BLINDREVENGEI_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_BLINDREVENGEI_TASKGROUP_0_TASK_0,Sconfiggi l'avanguardia dei Goblin
+QUEST_BLINDREVENGEII_DESC,Annienta l'avanguardia dei goblin.
+QUEST_BLINDREVENGEII_NAME,Vendetta cieca
+QUEST_BLINDREVENGEII_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_BLINDREVENGEII_TASKGROUP_0_TASK_0,Sconfiggi l'avanguardia dei Goblin
+QUEST_BREADANDBLOOD_DESC,Aiuta il campo avanzato e porta notizie tra Corin e Alaric.
+QUEST_BREADANDBLOOD_NAME,Pane e sangue
+QUEST_BREADANDBLOOD_TASKGROUP_0_DESC,Riferisci ad Alaric
+QUEST_BREADANDBLOOD_TASKGROUP_0_TASK_0,Riferisci ad Alaric
+QUEST_BREADANDBLOOD_TASKGROUP_1_DESC,Aiuta gli abitanti del campo avanzato
+QUEST_BREADANDBLOOD_TASKGROUP_1_TASK_0,"Completa la missione ""Pane per l'acciaio"""
+QUEST_BREADANDBLOOD_TASKGROUP_1_TASK_1,"Completa la missione ""La ricerca dei dispersi"""
+QUEST_BREADANDBLOOD_TASKGROUP_1_TASK_2,"Completa la missione ""Dispersione dell'adunata"""
+QUEST_BREADANDBLOOD_TASKGROUP_1_TASK_3,"Completa la missione ""La pista dei trofei"""
+QUEST_BREADANDBLOOD_TASKGROUP_2_DESC,Fai rapporto a Corin
+QUEST_BREADANDBLOOD_TASKGROUP_2_TASK_0,Fai rapporto a Corin
+QUEST_BREADFORSTEEL_DESC,Raccogli provviste e consegnale al campo avanzato.
+QUEST_BREADFORSTEEL_NAME,Pane per l'acciaio
+QUEST_BREADFORSTEEL_TASKGROUP_0_DESC,Aiuta gli abitanti del campo avanzato
+QUEST_BREADFORSTEEL_TASKGROUP_0_TASK_0,Parla con Saqi
+QUEST_BREADFORSTEEL_TASKGROUP_1_DESC,Raccogli frutta e verdura
+QUEST_BREADFORSTEEL_TASKGROUP_1_TASK_0,Raccogli Carne di Bestia
+QUEST_BREADFORSTEEL_TASKGROUP_1_TASK_1,Raccogli Tenderberry
+QUEST_BREADFORSTEEL_TASKGROUP_1_TASK_2,Raccogli Mele
+QUEST_BREADFORSTEEL_TASKGROUP_2_DESC,Consegna le provviste
+QUEST_BREADFORSTEEL_TASKGROUP_2_TASK_0,Consegna le provviste al responsabile delle risorse del campo
+QUEST_BREAKTHEMUSTER_DESC,Aiuta il campo avanzato con attacchi strategici che riducano la pressione degli invasori.
+QUEST_BREAKTHEMUSTER_NAME,Dispersione dell'adunata
+QUEST_BREAKTHEMUSTER_TASKGROUP_0_DESC,Attacchi strategici
+QUEST_BREAKTHEMUSTER_TASKGROUP_0_TASK_0,Sconfiggi il Generale alla fattoria
+QUEST_BREAKTHEMUSTER_TASKGROUP_0_TASK_1,Sconfiggi il Generale alla carovana saccheggiata
+QUEST_BREAKTHEMUSTER_TASKGROUP_0_TASK_2,Sconfiggi i Generali Fratelli nella Radura del Varco Infranto
+QUEST_BRIARHEARTBOUNTY_DESC,Uccidi Briarheart nel cuore di Wildwood.
+QUEST_BRIARHEARTBOUNTY_NAME,Taglia su Briarheart
+QUEST_BRIARHEARTBOUNTY_TASKGROUP_0_DESC,Uccidi Briarheart
+QUEST_BRIARHEARTBOUNTY_TASKGROUP_0_TASK_0,Uccidi Briarheart il Maledetto dal Fuoco
+QUEST_BRUTALBASHERS_DESC,Scova e uccidi i Goblin Picchiatori che si aggirano nei campi.
+QUEST_BRUTALBASHERS_NAME,Picchiatori brutali
+QUEST_BRUTALBASHERS_TASKGROUP_0_DESC,Uccidi i Goblin Picchiatori
+QUEST_BRUTALBASHERS_TASKGROUP_0_TASK_0,Uccidi i Goblin Picchiatori
+QUEST_CLEARINGOUTBIGCATS_DESC,Elimina i cacciatori corrotti che si annidano nei boschi bui.
+QUEST_CLEARINGOUTBIGCATS_NAME,Cacciatori corrotti
+QUEST_CLEARINGOUTBIGCATS_TASKGROUP_0_DESC,Uccidi i Lupi corrotti
+QUEST_CLEARINGOUTBIGCATS_TASKGROUP_0_TASK_0,Uccidi i Lupi corrotti
+QUEST_CLEARINGOUTPACKS_DESC,Dai la caccia ai lupi che si annidano nelle ombre della foresta.
+QUEST_CLEARINGOUTPACKS_NAME,Branchi da sfoltire
+QUEST_CLEARINGOUTPACKS_TASKGROUP_0_DESC,Uccidi i Lupi
+QUEST_CLEARINGOUTPACKS_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_CLEARINGOUTSTABBERS_DESC,Scova ed elimina i Goblin Squartatori a Wildwood.
+QUEST_CLEARINGOUTSTABBERS_NAME,Squartatori da abbattere
+QUEST_CLEARINGOUTSTABBERS_TASKGROUP_0_DESC,Uccidi i Goblin Squartatori
+QUEST_CLEARINGOUTSTABBERS_TASKGROUP_0_TASK_0,Uccidi i Goblin Squartatori
+QUEST_CLEARINGOUTTHECORRUPTION_DESC,Elimina le radici e gli spiriti corrotti che avanzano verso la strada.
+QUEST_CLEARINGOUTTHECORRUPTION_NAME,Bonifica della corruzione
+QUEST_CLEARINGOUTTHECORRUPTION_TASKGROUP_0_DESC,Elimina la corruzione
+QUEST_CLEARINGOUTTHECORRUPTION_TASKGROUP_0_TASK_0,Uccidi le Tessiradici
+QUEST_CLEARINGOUTTHECORRUPTION_TASKGROUP_0_TASK_1,Uccidi i Treant
+QUEST_CLEARINGOUTTHEYARD_DESC,Scaccia i goblin dal Deposito di Cordwyn.
+QUEST_CLEARINGOUTTHEYARD_NAME,Liberazione del deposito
+QUEST_CLEARINGOUTTHEYARD_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_CLEARINGOUTTHEYARD_TASKGROUP_0_TASK_0,Uccidi i Goblin Squartatori
+QUEST_CLEARINGOUTTHEYARD_TASKGROUP_0_TASK_1,Uccidi i Goblin Flaskrat
+QUEST_CLEARINGOUTTREES_DESC,Abbatti i letali Treant lungo il sentiero verso il Re della Foresta.
+QUEST_CLEARINGOUTTREES_NAME,Abbattimento dei Treant
+QUEST_CLEARINGOUTTREES_TASKGROUP_0_DESC,Apri il sentiero corrotto
+QUEST_CLEARINGOUTTREES_TASKGROUP_0_TASK_0,Uccidi i Treant
+QUEST_CLEARTHEFORESTNEARTHEROAD_DESC,Sfoltisci i branchi che cacciano lungo la strada della foresta.
+QUEST_CLEARTHEFORESTNEARTHEROAD_NAME,Ripulisci la foresta lungo la strada
+QUEST_CLEARTHEFORESTNEARTHEROAD_TASKGROUP_0_DESC,Sfoltisci i branchi
+QUEST_CLEARTHEFORESTNEARTHEROAD_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_CLEARTHEQUARRY_DESC,Elimina i Droop che hanno occupato la cava.
+QUEST_CLEARTHEQUARRY_NAME,Bonifica della cava
+QUEST_CLEARTHEQUARRY_TASKGROUP_0_DESC,Raggiungi la Cava di Earlwood
+QUEST_CLEARTHEQUARRY_TASKGROUP_0_TASK_0,Raggiungi la Cava di Earlwood
+QUEST_CLEARTHEQUARRY_TASKGROUP_1_DESC,Elimina i Droop
+QUEST_CLEARTHEQUARRY_TASKGROUP_1_TASK_0,Uccidi i Droop
+QUEST_CLEARTHEQUARRY_TASKGROUP_1_TASK_1,Uccidi i Drooplet
+QUEST_CLEARTHEQUARRY_TASKGROUP_2_DESC,Sconfiggi la Rivercaller
+QUEST_CLEARTHEQUARRY_TASKGROUP_2_TASK_0,Sconfiggi la Rivercaller
+QUEST_CLEARTHEQUARRY_TASKGROUP_3_DESC,Torna da Alaric
+QUEST_CLEARTHEQUARRY_TASKGROUP_3_TASK_0,Torna da Alaric
+QUEST_CLEARTHEWAY_DESC,Aiuta Eldorian a bonificare le zone pericolose attorno all'accesso alla foresta.
+QUEST_CLEARTHEWAY_NAME,Via libera
+QUEST_CLEARTHEWAY_TASKGROUP_0_DESC,Parla con Eldorian
+QUEST_CLEARTHEWAY_TASKGROUP_0_TASK_0,Trova Eldorian nella foresta
+QUEST_CLEARTHEWAY_TASKGROUP_1_DESC,Bonifica la zona pericolosa
+QUEST_CLEARTHEWAY_TASKGROUP_1_TASK_0,Bonifica la prima zona pericolosa
+QUEST_CLEARTHEWAY_TASKGROUP_2_DESC,Bonifica la zona pericolosa
+QUEST_CLEARTHEWAY_TASKGROUP_2_TASK_0,Bonifica la seconda zona pericolosa
+QUEST_CLEARTHEWAY_TASKGROUP_3_DESC,Bonifica la zona pericolosa
+QUEST_CLEARTHEWAY_TASKGROUP_3_TASK_0,Bonifica la terza zona pericolosa
+QUEST_CORINSFOLLOWERSI_DESC,Salva i profughi feriti.
+QUEST_CORINSFOLLOWERSI_NAME,Seguaci di Corin
+QUEST_CORINSFOLLOWERSI_TASKGROUP_0_DESC,Uccidi le forze della foresta
+QUEST_CORINSFOLLOWERSI_TASKGROUP_0_TASK_0,Uccidi le forze della foresta
+QUEST_CORINSFOLLOWERSI_TASKGROUP_1_DESC,Aiuta gli avventurieri
+QUEST_CORINSFOLLOWERSI_TASKGROUP_1_TASK_0,Aiuta gli avventurieri feriti
+QUEST_CORINSFOLLOWERSII_DESC,Salva i profughi feriti.
+QUEST_CORINSFOLLOWERSII_NAME,Seguaci di Corin
+QUEST_CORINSFOLLOWERSII_TASKGROUP_0_DESC,Uccidi le forze della foresta
+QUEST_CORINSFOLLOWERSII_TASKGROUP_0_TASK_0,Uccidi le forze della foresta
+QUEST_CORINSFOLLOWERSII_TASKGROUP_1_DESC,Aiuta gli avventurieri
+QUEST_CORINSFOLLOWERSII_TASKGROUP_1_TASK_0,Aiuta gli avventurieri di Corin
+QUEST_CORNEREDREFUGEE_DESC,Un profugo sembra essere nei guai.
+QUEST_CORNEREDREFUGEE_NAME,Profugo in trappola
+QUEST_CORNEREDREFUGEE_TASKGROUP_0_DESC,Salva il profugo
+QUEST_CORNEREDREFUGEE_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_CORNEREDREFUGEE_TASKGROUP_0_TASK_1,Uccidi la Custode delle Bestie
+QUEST_CORRUPTEDDROOPKINGBOUNTY_DESC,Metti fine al Re Droop Corrotto.
+QUEST_CORRUPTEDDROOPKINGBOUNTY_NAME,Taglia sul Re Droop Corrotto
+QUEST_CORRUPTEDDROOPKINGBOUNTY_TASKGROUP_0_DESC,Uccidi il Re Droop Corrotto
+QUEST_CORRUPTEDDROOPKINGBOUNTY_TASKGROUP_0_TASK_0,Uccidi il Re Droop Corrotto
+QUEST_CORRUPTIONLEAKING_DESC,Uccidi i Droop corrotti.
+QUEST_CORRUPTIONLEAKING_NAME,Corruzione dilagante
+QUEST_CORRUPTIONLEAKING_TASKGROUP_0_DESC,Uccidi i Droop
+QUEST_CORRUPTIONLEAKING_TASKGROUP_0_TASK_0,Uccidi i Droop corrotti
+QUEST_CORRUPTIONLEAKING_TASKGROUP_1_DESC,Sconfiggi il Re Droop
+QUEST_CORRUPTIONLEAKING_TASKGROUP_1_TASK_0,Sconfiggi il Re Droop Corrotto
+QUEST_CORRUPTIONPROPAGATIONI_DESC,Salva l'avventuriero caduto nell'imboscata.
+QUEST_CORRUPTIONPROPAGATIONI_NAME,Diffusione della corruzione
+QUEST_CORRUPTIONPROPAGATIONI_TASKGROUP_0_DESC,Salva l'avventuriero
+QUEST_CORRUPTIONPROPAGATIONI_TASKGROUP_0_TASK_0,Salva l'avventuriero caduto nell'imboscata
+QUEST_CORRUPTIONPROPAGATIONI_TASKGROUP_1_DESC,Parla con l'avventuriero
+QUEST_CORRUPTIONPROPAGATIONI_TASKGROUP_1_TASK_0,Parla con l'avventuriero
+QUEST_CORRUPTIONPROPAGATIONII_DESC,Uccidi gli assassini dell'avventuriero.
+QUEST_CORRUPTIONPROPAGATIONII_NAME,Diffusione della corruzione
+QUEST_CORRUPTIONPROPAGATIONII_TASKGROUP_0_DESC,Uccidi gli assassini
+QUEST_CORRUPTIONPROPAGATIONII_TASKGROUP_0_TASK_0,Uccidi le creature che hanno ucciso l'avventuriero
+QUEST_CRAFTSMANSBEGINNINGS_DESC,Inizia il tuo cammino da artigiano costruendo un Banco da lavoro nel Santuario.
+QUEST_CRAFTSMANSBEGINNINGS_NAME,Gli inizi dell'artigiano
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_0_DESC,Raccogli i materiali
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_0_TASK_0,Trova Tavole di Pino nelle Terre coltivate
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_1_DESC,Costruisci un Banco da lavoro
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_1_TASK_0,Costruisci un Banco da lavoro e interagisci con esso
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_2_DESC,Costruisci un Tavolo d'alchimia
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_2_TASK_0,Costruisci un Tavolo d'alchimia e interagisci con esso
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_3_DESC,Migliora una Pozione
+QUEST_CRAFTSMANSBEGINNINGS_TASKGROUP_3_TASK_0,Crea un Estratto Debole di Salute +1 a un Tavolo d'alchimia
+QUEST_CROWNOFTHORNS_DESC,Affronta il Re della Foresta.
+QUEST_CROWNOFTHORNS_NAME,Corona di spine
+QUEST_CROWNOFTHORNS_TASKGROUP_0_DESC,Sblocca la porta
+QUEST_CROWNOFTHORNS_TASKGROUP_0_TASK_0,Sblocca il sentiero verso il Re della Foresta
+QUEST_CROWNOFTHORNS_TASKGROUP_1_DESC,Inizia la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_1_TASK_0,Entra nel Sentiero della Foresta
+QUEST_CROWNOFTHORNS_TASKGROUP_10_DESC,Fatti strada nella corruzione
+QUEST_CROWNOFTHORNS_TASKGROUP_10_TASK_0,Uccidi i mostri per aprire la via
+QUEST_CROWNOFTHORNS_TASKGROUP_11_DESC,Prosegui la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_11_TASK_0,Prosegui lungo il sentiero
+QUEST_CROWNOFTHORNS_TASKGROUP_12_DESC,Fatti strada nella corruzione
+QUEST_CROWNOFTHORNS_TASKGROUP_12_TASK_0,Uccidi i mostri per aprire la via
+QUEST_CROWNOFTHORNS_TASKGROUP_13_DESC,Prosegui la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_13_TASK_0,Prosegui lungo il sentiero
+QUEST_CROWNOFTHORNS_TASKGROUP_14_DESC,Affronta il Re della Foresta
+QUEST_CROWNOFTHORNS_TASKGROUP_14_TASK_0,Parla con il Re della Foresta
+QUEST_CROWNOFTHORNS_TASKGROUP_15_DESC,Uccidi il Re
+QUEST_CROWNOFTHORNS_TASKGROUP_15_TASK_0,Sconfiggi il Re della Foresta corrotto
+QUEST_CROWNOFTHORNS_TASKGROUP_16_DESC,Consultati con Aelwynor
+QUEST_CROWNOFTHORNS_TASKGROUP_16_TASK_0,Parla con il Re della Foresta
+QUEST_CROWNOFTHORNS_TASKGROUP_2_DESC,Fatti strada nella corruzione
+QUEST_CROWNOFTHORNS_TASKGROUP_2_TASK_0,Uccidi i mostri per aprire la via
+QUEST_CROWNOFTHORNS_TASKGROUP_3_DESC,Prosegui la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_3_TASK_0,Prosegui lungo il sentiero
+QUEST_CROWNOFTHORNS_TASKGROUP_4_DESC,Fatti strada nella corruzione
+QUEST_CROWNOFTHORNS_TASKGROUP_4_TASK_0,Uccidi i mostri per aprire la via
+QUEST_CROWNOFTHORNS_TASKGROUP_5_DESC,Prosegui la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_5_TASK_0,Prosegui lungo il sentiero
+QUEST_CROWNOFTHORNS_TASKGROUP_6_DESC,Fatti strada nella corruzione
+QUEST_CROWNOFTHORNS_TASKGROUP_6_TASK_0,Uccidi i mostri per aprire la via
+QUEST_CROWNOFTHORNS_TASKGROUP_7_DESC,Prosegui la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_7_TASK_0,Prosegui lungo il sentiero
+QUEST_CROWNOFTHORNS_TASKGROUP_8_DESC,Fatti strada nella corruzione
+QUEST_CROWNOFTHORNS_TASKGROUP_8_TASK_0,Uccidi i mostri per aprire la via
+QUEST_CROWNOFTHORNS_TASKGROUP_9_DESC,Prosegui la prova
+QUEST_CROWNOFTHORNS_TASKGROUP_9_TASK_0,Prosegui lungo il sentiero
+QUEST_CULLTHECAMP_DESC,Assalta il Campo di Northcut e indebolisci i goblin.
+QUEST_CULLTHECAMP_NAME,Assalto al campo
+QUEST_CULLTHECAMP_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_CULLTHECAMP_TASKGROUP_0_TASK_0,Uccidi i Goblin Squartatori
+QUEST_CULLTHECAMP_TASKGROUP_0_TASK_1,Uccidi i Goblin Flaskrat
+QUEST_DANGEROUSTOY_DESC,Aiuta un padre in difficoltà.
+QUEST_DANGEROUSTOY_NAME,Un giocattolo pericoloso
+QUEST_DANGEROUSTOY_TASKGROUP_0_DESC,Parla con il padre
+QUEST_DANGEROUSTOY_TASKGROUP_0_TASK_0,Parla con il padre
+QUEST_DANGEROUSTOY_TASKGROUP_1_DESC,Trova il giocattolo
+QUEST_DANGEROUSTOY_TASKGROUP_1_TASK_0,Trova il giocattolo
+QUEST_DANGEROUSTOY_TASKGROUP_2_DESC,Uccidi gli assalitori
+QUEST_DANGEROUSTOY_TASKGROUP_2_TASK_0,Uccidi i goblin che ti hanno teso l'imboscata
+QUEST_DANGEROUSTOY_TASKGROUP_3_DESC,Torna dal padre
+QUEST_DANGEROUSTOY_TASKGROUP_3_TASK_0,Riporta il giocattolo al padre
+QUEST_DEEPMIRACLE_DESC,Raccogli le piante esotiche.
+QUEST_DEEPMIRACLE_NAME,Miracolo nelle profondità
+QUEST_DEEPMIRACLE_TASKGROUP_0_DESC,Raccogli le piante
+QUEST_DEEPMIRACLE_TASKGROUP_0_TASK_0,Raccogli la pianta segreta
+QUEST_DROOPKINGBOUNTY_DESC,Abbatti il Re Droop prima che la sua progenie sommerga i campi.
+QUEST_DROOPKINGBOUNTY_NAME,Taglia sul Re Droop
+QUEST_DROOPKINGBOUNTY_TASKGROUP_0_DESC,Uccidi il Re Droop
+QUEST_DROOPKINGBOUNTY_TASKGROUP_0_TASK_0,Uccidi il Re Droop
+QUEST_DRYADLORE1I_DESC,Indaga sull'insolita Driade.
+QUEST_DRYADLORE1I_NAME,Ricordi incorruttibili
+QUEST_DRYADLORE1I_TASKGROUP_0_DESC,Uccidi i Lupi
+QUEST_DRYADLORE1I_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_DRYADLORE1I_TASKGROUP_1_DESC,Esamina la Driade
+QUEST_DRYADLORE1I_TASKGROUP_1_TASK_0,Indaga sull'insolita Driade
+QUEST_DRYADLORE1II_DESC,Indaga sull'insolita Driade.
+QUEST_DRYADLORE1II_NAME,Ricordi incorruttibili
+QUEST_DRYADLORE1II_TASKGROUP_0_DESC,Uccidi i Lupi
+QUEST_DRYADLORE1II_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_DRYADLORE1II_TASKGROUP_1_DESC,Esamina la Driade
+QUEST_DRYADLORE1II_TASKGROUP_1_TASK_0,Indaga sull'insolita Driade
+QUEST_EMBERBLOOMSNEEDED_DESC,Porta degli Emberbloom a Saqi per ravvivare i pasti della gilda.
+QUEST_EMBERBLOOMSNEEDED_NAME,Richiesta di Emberbloom
+QUEST_EMBERBLOOMSNEEDED_TASKGROUP_0_DESC,Dona Emberbloom
+QUEST_EMBERBLOOMSNEEDED_TASKGROUP_0_TASK_0,Dona Emberbloom alla Bacheca degli incarichi
+QUEST_FALSELEAD_DESC,Aiuta Eldorian a indagare su una falsa pista.
+QUEST_FALSELEAD_NAME,Falsa pista
+QUEST_FALSELEAD_TASKGROUP_0_DESC,Salva Eldorian
+QUEST_FALSELEAD_TASKGROUP_0_TASK_0,Trova Eldorian nella radura
+QUEST_FALSELEAD_TASKGROUP_1_DESC,Aiuta Eldorian
+QUEST_FALSELEAD_TASKGROUP_1_TASK_0,Presta le prime cure a Eldorian
+QUEST_FALSELEAD_TASKGROUP_2_DESC,Distruggi il Cuore corrotto
+QUEST_FALSELEAD_TASKGROUP_2_TASK_0,Distruggi il Cuore corrotto e metti al sicuro la radura
+QUEST_FALSELEAD_TASKGROUP_3_DESC,Affronta Eldorian
+QUEST_FALSELEAD_TASKGROUP_3_TASK_0,Affronta Eldorian
+QUEST_FALSESECURITYI_DESC,Aiuta l'avventuriero colto di sorpresa.
+QUEST_FALSESECURITYI_NAME,Falsa sicurezza I
+QUEST_FALSESECURITYI_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_FALSESECURITYI_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_FALSESECURITYII_DESC,Aiuta l'avventuriero colto di sorpresa.
+QUEST_FALSESECURITYII_NAME,Falsa sicurezza II
+QUEST_FALSESECURITYII_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_FALSESECURITYII_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_FALSESECURITYIII_DESC,Aiuta l'avventuriero colto di sorpresa.
+QUEST_FALSESECURITYIII_NAME,Falsa sicurezza III
+QUEST_FALSESECURITYIII_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_FALSESECURITYIII_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_FATHERSLASTREQUEST_DESC,Hai trovato dei lupi che divorano un profugo morto.
+QUEST_FATHERSLASTREQUEST_NAME,L'ultima richiesta di un padre
+QUEST_FATHERSLASTREQUEST_TASKGROUP_0_DESC,Libera il campo
+QUEST_FATHERSLASTREQUEST_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_FATHERSLASTREQUEST_TASKGROUP_1_DESC,Esamina il campo
+QUEST_FATHERSLASTREQUEST_TASKGROUP_1_TASK_0,Esamina il corpo
+QUEST_FATHERSLASTREQUEST_TASKGROUP_2_DESC,Consegna il biglietto
+QUEST_FATHERSLASTREQUEST_TASKGROUP_2_TASK_0,Trova la moglie dell'uomo nel Villaggio di Earlwood e consegnale il biglietto
+QUEST_FINDTHEMISSING_DESC,Perlustra gli avamposti e salva i superstiti dispersi.
+QUEST_FINDTHEMISSING_NAME,La ricerca dei dispersi
+QUEST_FINDTHEMISSING_TASKGROUP_0_DESC,Perlustra gli avamposti vicini
+QUEST_FINDTHEMISSING_TASKGROUP_0_TASK_0,Libera l'avamposto a nordovest saccheggiato e cerca eventuali superstiti
+QUEST_FINDTHEMISSING_TASKGROUP_0_TASK_1,Libera l'avamposto a nordest saccheggiato e cerca eventuali superstiti
+QUEST_FINDTHEMISSING_TASKGROUP_1_DESC,Perlustra l'avamposto a nord
+QUEST_FINDTHEMISSING_TASKGROUP_1_TASK_0,Libera l'avamposto a nord saccheggiato e cerca eventuali superstiti
+QUEST_FINDTHEMISSING_TASKGROUP_2_DESC,Salva i superstiti
+QUEST_FINDTHEMISSING_TASKGROUP_2_TASK_0,Salva i superstiti e mandali al campo
+QUEST_FIRSTDEFENSE_DESC,Aiuta Basilton a raggiungere Earlwood.
+QUEST_FIRSTDEFENSE_NAME,La prima difesa
+QUEST_FIRSTDEFENSE_TASKGROUP_0_DESC,Ritira il materiale da Tamsin
+QUEST_FIRSTDEFENSE_TASKGROUP_0_TASK_0,Ritira i pali protettivi e la resina da Tamsin
+QUEST_FIRSTDEFENSE_TASKGROUP_1_DESC,Posiziona le protezioni
+QUEST_FIRSTDEFENSE_TASKGROUP_1_TASK_0,Posiziona la prima protezione
+QUEST_FIRSTDEFENSE_TASKGROUP_1_TASK_1,Posiziona la seconda protezione
+QUEST_FIRSTDEFENSE_TASKGROUP_2_DESC,Posiziona l'ultima protezione
+QUEST_FIRSTDEFENSE_TASKGROUP_2_TASK_0,Posiziona l'ultima protezione
+QUEST_FIRSTDEFENSE_TASKGROUP_3_DESC,Difendi il boschetto
+QUEST_FIRSTDEFENSE_TASKGROUP_3_TASK_0,Mantieni la posizione e respingi l'attacco dei goblin
+QUEST_FIRSTDEFENSE_TASKGROUP_4_DESC,Fai rapporto a Basilton
+QUEST_FIRSTDEFENSE_TASKGROUP_4_TASK_0,Parla con Basilton per confermare che il boschetto resiste
+QUEST_FIRSTPROBE_DESC,Rispondi alla richiesta d'aiuto di Rahaner.
+QUEST_FIRSTPROBE_NAME,La prima incursione
+QUEST_FIRSTPROBE_TASKGROUP_0_DESC,Respingi l'assalto dei goblin
+QUEST_FIRSTPROBE_TASKGROUP_0_TASK_0,Spezza l'assalto dei goblin al recinto nord
+QUEST_FIRSTPROBE_TASKGROUP_1_DESC,Aiuta con le riparazioni
+QUEST_FIRSTPROBE_TASKGROUP_1_TASK_0,Difendi il recinto sud durante le riparazioni
+QUEST_FIRSTPROBE_TASKGROUP_2_DESC,Fai rapporto a Rahaner
+QUEST_FIRSTPROBE_TASKGROUP_2_TASK_0,Fai rapporto a Rahaner
+QUEST_FOODSCRAPSREQUEST_DESC,Dona mele e carne in più per i pasti caldi di Saqi.
+QUEST_FOODSCRAPSREQUEST_NAME,Richiesta di avanzi
+QUEST_FOODSCRAPSREQUEST_TASKGROUP_0_DESC,Raccogli gli avanzi
+QUEST_FOODSCRAPSREQUEST_TASKGROUP_0_TASK_0,Dona Mele e Carne di Bestiola alla Bacheca degli incarichi
+QUEST_FORESTBLESSING_DESC,Raccogli le piante esotiche.
+QUEST_FORESTBLESSING_NAME,Benedizione della foresta
+QUEST_FORESTBLESSING_TASKGROUP_0_DESC,Raccogli le piante
+QUEST_FORESTBLESSING_TASKGROUP_0_TASK_0,Raccogli la pianta segreta
+QUEST_FORESTDANGERSOPT1_DESC,Aiuta l'avventuriero caduto nell'imboscata.
+QUEST_FORESTDANGERSOPT1_NAME,I pericoli della foresta
+QUEST_FORESTDANGERSOPT1_TASKGROUP_0_DESC,Salva l'avventuriero
+QUEST_FORESTDANGERSOPT1_TASKGROUP_0_TASK_0,Salva l'avventuriero dai Lupi
+QUEST_FORESTDANGERSOPT1_TASKGROUP_1_DESC,Parla con l'avventuriero
+QUEST_FORESTDANGERSOPT1_TASKGROUP_1_TASK_0,Parla con l'avventuriero
+QUEST_FORESTDANGERSOPT2_DESC,Scopri cos'è successo all'avventuriero.
+QUEST_FORESTDANGERSOPT2_NAME,I pericoli della foresta
+QUEST_FORESTDANGERSOPT2_TASKGROUP_0_DESC,Perquisisci il cadavere
+QUEST_FORESTDANGERSOPT2_TASKGROUP_0_TASK_0,Perquisisci il cadavere dell'avventuriero
+QUEST_GARDENMEET_DESC,Aiuta il Golem della Foresta.
+QUEST_GARDENMEET_NAME,Incontro in giardino
+QUEST_GARDENMEET_TASKGROUP_0_DESC,Affronta Befr
+QUEST_GARDENMEET_TASKGROUP_0_TASK_0,Chiedi a Befr dei fertilizzanti
+QUEST_GARDENMEET_TASKGROUP_1_DESC,Respingi i rinforzi
+QUEST_GARDENMEET_TASKGROUP_1_TASK_0,Uccidi il goblin per recuperare i fertilizzanti rubati
+QUEST_GARDENMEET_TASKGROUP_2_DESC,Recupera i fertilizzanti
+QUEST_GARDENMEET_TASKGROUP_2_TASK_0,Riprendi i fertilizzanti
+QUEST_GARDENMEET_TASKGROUP_3_DESC,Torna da Basilton
+QUEST_GARDENMEET_TASKGROUP_3_TASK_0,Torna da Basilton
+QUEST_GIANTSTRENCH_DESC,Poni fine al conflitto tra i goblin e le forze della foresta.
+QUEST_GIANTSTRENCH_NAME,La Trincea del Gigante
+QUEST_GIANTSTRENCH_TASKGROUP_0_DESC,Sconfiggi i capi
+QUEST_GIANTSTRENCH_TASKGROUP_0_TASK_0,Libera il campo di guerra nella Trincea del Gigante
+QUEST_GIANTSTRENCH_TASKGROUP_0_TASK_1,Sconfiggi i capi dei Goblin
+QUEST_GOBLINACADEMICI_DESC,Recupera gli appunti dello studioso goblin.
+QUEST_GOBLINACADEMICI_NAME,Lo studioso goblin I
+QUEST_GOBLINACADEMICI_TASKGROUP_0_DESC,Recupera gli appunti
+QUEST_GOBLINACADEMICI_TASKGROUP_0_TASK_0,Trova il primo appunto
+QUEST_GOBLINACADEMICI_TASKGROUP_0_TASK_1,Trova il secondo appunto
+QUEST_GOBLINACADEMICI_TASKGROUP_0_TASK_2,Trova il terzo appunto
+QUEST_GOBLINACADEMICII_DESC,Recupera gli appunti dello studioso goblin.
+QUEST_GOBLINACADEMICII_NAME,Lo studioso goblin II
+QUEST_GOBLINACADEMICII_TASKGROUP_0_DESC,Recupera gli appunti
+QUEST_GOBLINACADEMICII_TASKGROUP_0_TASK_0,Trova il primo appunto
+QUEST_GOBLINACADEMICII_TASKGROUP_0_TASK_1,Trova il secondo appunto
+QUEST_GOBLINACADEMICII_TASKGROUP_0_TASK_2,Trova il terzo appunto
+QUEST_GOBLINACADEMICIII_DESC,Recupera gli appunti dello studioso goblin.
+QUEST_GOBLINACADEMICIII_NAME,Lo studioso goblin III
+QUEST_GOBLINACADEMICIII_TASKGROUP_0_DESC,Recupera gli appunti
+QUEST_GOBLINACADEMICIII_TASKGROUP_0_TASK_0,Trova il settimo appunto
+QUEST_GOBLINACADEMICIII_TASKGROUP_0_TASK_1,Trova l'ottavo appunto
+QUEST_GOBLINACADEMICIII_TASKGROUP_0_TASK_2,Trova il nono appunto
+QUEST_GOBLINSFIREWORKSCEREMONY_DESC,Metti fine alla cerimonia pirotecnica dei goblin.
+QUEST_GOBLINSFIREWORKSCEREMONY_NAME,La cerimonia pirotecnica dei goblin
+QUEST_GOBLINSFIREWORKSCEREMONY_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_GOBLINSFIREWORKSCEREMONY_TASKGROUP_0_TASK_0,Interrompi la sospetta cerimonia dei Flaskrat
+QUEST_GOBLINSFIREWORKSCEREMONY_TASKGROUP_1_DESC,Sconfiggi Gotburg
+QUEST_GOBLINSFIREWORKSCEREMONY_TASKGROUP_1_TASK_0,Sconfiggi Gotburg l'Ustionato
+QUEST_GOBLINWARZONE_DESC,Poni fine al conflitto tra i goblin e le forze della foresta.
+QUEST_GOBLINWARZONE_NAME,Zona di guerra dei goblin
+QUEST_GOBLINWARZONE_TASKGROUP_0_DESC,Sconfiggi i capi
+QUEST_GOBLINWARZONE_TASKGROUP_0_TASK_0,Libera la zona di guerra dei goblin
+QUEST_GOBLINWARZONE_TASKGROUP_0_TASK_1,Sconfiggi il Goblin Picchiatore
+QUEST_GOODDAUGHTERS_DESC,Indaga sulle Driadi diverse dalle altre.
+QUEST_GOODDAUGHTERS_NAME,Brave figlie
+QUEST_GOODDAUGHTERS_TASKGROUP_0_DESC,Uccidi i mostri
+QUEST_GOODDAUGHTERS_TASKGROUP_0_TASK_0,Uccidi i mostri attorno alle Driadi
+QUEST_GOODDAUGHTERS_TASKGROUP_1_DESC,Ascolta le Driadi
+QUEST_GOODDAUGHTERS_TASKGROUP_1_TASK_0,Ascolta gli ultimi sussurri delle Driadi
+QUEST_GOODINCHAOS_DESC,Raccogli la pianta miracolosa.
+QUEST_GOODINCHAOS_NAME,Il bene nel caos
+QUEST_GOODINCHAOS_TASKGROUP_0_DESC,Raccogli le piante
+QUEST_GOODINCHAOS_TASKGROUP_0_TASK_0,Raccogli la pianta miracolosa
+QUEST_GOTBURGBOUNTY_DESC,Finisci Gotburg l'Ustionato.
+QUEST_GOTBURGBOUNTY_NAME,Taglia su Gotburg
+QUEST_GOTBURGBOUNTY_TASKGROUP_0_DESC,Uccidi Gotburg
+QUEST_GOTBURGBOUNTY_TASKGROUP_0_TASK_0,Uccidi Gotburg l'Ustionato
+QUEST_HEAVYRAIN_DESC,Uccidi i Droop che sciamano nella zona.
+QUEST_HEAVYRAIN_NAME,Pioggia battente
+QUEST_HEAVYRAIN_TASKGROUP_0_DESC,Uccidi i Droop
+QUEST_HEAVYRAIN_TASKGROUP_0_TASK_0,Uccidi i Droop
+QUEST_HEAVYRAIN_TASKGROUP_1_DESC,Sconfiggi il Re Droop
+QUEST_HEAVYRAIN_TASKGROUP_1_TASK_0,Sconfiggi il Re Droop
+QUEST_HEIRLOOMINTHELOOM_DESC,Procurati un fiore per Tamsin Fairweather.
+QUEST_HEIRLOOMINTHELOOM_NAME,Un cimelio al telaio
+QUEST_HEIRLOOMINTHELOOM_TASKGROUP_0_DESC,Procurati il Glimmerflax
+QUEST_HEIRLOOMINTHELOOM_TASKGROUP_0_TASK_0,Trova il Glimmerflax per Tamsin
+QUEST_HEIRLOOMINTHELOOM_TASKGROUP_1_DESC,Uccidi gli assalitori
+QUEST_HEIRLOOMINTHELOOM_TASKGROUP_1_TASK_0,Uccidi gli assalitori e fuggi con il Glimmerflax
+QUEST_HEIRLOOMINTHELOOM_TASKGROUP_2_DESC,Fai rapporto a Tamsin
+QUEST_HEIRLOOMINTHELOOM_TASKGROUP_2_TASK_0,Consegna il Glimmerflax a Tamsin
+QUEST_HEROINDANGEROPT1_DESC,Aiuta l'avventuriero caduto nell'imboscata.
+QUEST_HEROINDANGEROPT1_NAME,Eroe in pericolo
+QUEST_HEROINDANGEROPT1_TASKGROUP_0_DESC,Salva l'avventuriero
+QUEST_HEROINDANGEROPT1_TASKGROUP_0_TASK_0,Salva l'avventuriero dai Lupi
+QUEST_HEROINDANGEROPT1_TASKGROUP_1_DESC,Parla con l'avventuriero
+QUEST_HEROINDANGEROPT1_TASKGROUP_1_TASK_0,Parla con l'avventuriero
+QUEST_HEROINDANGEROPT2_DESC,Scopri cos'è successo all'avventuriero.
+QUEST_HEROINDANGEROPT2_NAME,Eroe in pericolo
+QUEST_HEROINDANGEROPT2_TASKGROUP_0_DESC,Perquisisci il cadavere
+QUEST_HEROINDANGEROPT2_TASKGROUP_0_TASK_0,Perquisisci il cadavere dell'avventuriero
+QUEST_HIGHPRIESTESSBOUNTY_DESC,Ferma il rituale della Somma Sacerdotessa presso la pozza maledetta.
+QUEST_HIGHPRIESTESSBOUNTY_NAME,Taglia sulla Somma Sacerdotessa
+QUEST_HIGHPRIESTESSBOUNTY_TASKGROUP_0_DESC,Uccidi la Somma Sacerdotessa
+QUEST_HIGHPRIESTESSBOUNTY_TASKGROUP_0_TASK_0,Uccidi la Somma Sacerdotessa Althaea del Tirathlan
+QUEST_HOARDKINGSFALL_DESC,Assalta il covo dei goblin ed elimina il Re del Tesoro.
+QUEST_HOARDKINGSFALL_NAME,La caduta del Re del Tesoro
+QUEST_HOARDKINGSFALL_TASKGROUP_0_DESC,Ritira l'esplosivo
+QUEST_HOARDKINGSFALL_TASKGROUP_0_TASK_0,Ritira l'esplosivo di Tamsin al campo
+QUEST_HOARDKINGSFALL_TASKGROUP_1_DESC,Sfonda il cancello all'imboccatura della caverna
+QUEST_HOARDKINGSFALL_TASKGROUP_1_TASK_0,Sfonda il cancello all'imboccatura della caverna
+QUEST_HOARDKINGSFALL_TASKGROUP_2_DESC,Fatti strada nelle Sale del Tesoro
+QUEST_HOARDKINGSFALL_TASKGROUP_2_TASK_0,Fatti strada nelle caverne e uccidi il Re del Tesoro
+QUEST_HOARDKINGSFALL_TASKGROUP_3_DESC,Fai rapporto ad Alaric
+QUEST_HOARDKINGSFALL_TASKGROUP_3_TASK_0,Fai rapporto ad Alaric
+QUEST_HOLDTHEFORD_DESC,Metti al sicuro il guado di Wildwood.
+QUEST_HOLDTHEFORD_NAME,La difesa del guado
+QUEST_HOLDTHEFORD_TASKGROUP_0_DESC,Tendi la corda
+QUEST_HOLDTHEFORD_TASKGROUP_0_TASK_0,Tendi la corda
+QUEST_HOLDTHEFORD_TASKGROUP_1_DESC,Proteggi la corda
+QUEST_HOLDTHEFORD_TASKGROUP_1_TASK_0,Difendi la corda dai Goblin
+QUEST_HOMEUPLIFT_DESC,Segui i consigli di Befr per ampliare la tua base.
+QUEST_HOMEUPLIFT_NAME,Migliorie domestiche
+QUEST_HOMEUPLIFT_TASKGROUP_0_DESC,Prima le fondazioni
+QUEST_HOMEUPLIFT_TASKGROUP_0_TASK_0,Costruisci Fondazioni di Pino nel Santuario
+QUEST_HOMEUPLIFT_TASKGROUP_1_DESC,Poi i muri
+QUEST_HOMEUPLIFT_TASKGROUP_1_TASK_0,Costruisci Muri di Pino sopra le fondazioni
+QUEST_HOMEUPLIFT_TASKGROUP_2_DESC,Infine i servizi
+QUEST_HOMEUPLIFT_TASKGROUP_2_TASK_0,Costruisci un Centro Servizi e interagisci con esso
+QUEST_HORDEKINGSBOUNTY_DESC,Irrompi nelle Caverne dei Goblin e uccidi il Re del Tesoro.
+QUEST_HORDEKINGSBOUNTY_NAME,Taglia sul Re del Tesoro
+QUEST_HORDEKINGSBOUNTY_TASKGROUP_0_DESC,Insegui il Re del Tesoro
+QUEST_HORDEKINGSBOUNTY_TASKGROUP_0_TASK_0,Fatti strada nelle caverne e uccidi il Re del Tesoro
+QUEST_INJUREDADVENTURERS_DESC,"Hai incontrato due avventurieri, uno dei quali sembra ferito."
+QUEST_INJUREDADVENTURERS_NAME,Avventurieri feriti
+QUEST_INJUREDADVENTURERS_TASKGROUP_0_DESC,Controlla come stanno gli avventurieri
+QUEST_INJUREDADVENTURERS_TASKGROUP_0_TASK_0,Parla con gli avventurieri
+QUEST_INJUREDADVENTURERS_TASKGROUP_1_DESC,Imboscata
+QUEST_INJUREDADVENTURERS_TASKGROUP_1_TASK_0,Uccidi gli assalitori
+QUEST_INVADINGBEASTWARDEN_DESC,Una Custode delle Bestie impazzita ha invaso la foresta vicino alla strada principale.
+QUEST_INVADINGBEASTWARDEN_NAME,L'invasione della Custode delle Bestie
+QUEST_INVADINGBEASTWARDEN_TASKGROUP_0_DESC,Dai la caccia alla Custode delle Bestie
+QUEST_INVADINGBEASTWARDEN_TASKGROUP_0_TASK_0,Uccidi la Custode delle Bestie e il suo branco
+QUEST_JUICYAMBUSH_DESC,Salva i profughi caduti nell'imboscata.
+QUEST_JUICYAMBUSH_NAME,Un'imboscata succosa
+QUEST_JUICYAMBUSH_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_JUICYAMBUSH_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_JUICYAMBUSH_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_JUICYAMBUSH_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_KEYSOFBARKANDSTONE_DESC,Aiuta Tamsin ad armonizzare le pietre protettive a guardia dell'accesso alla foresta.
+QUEST_KEYSOFBARKANDSTONE_NAME,Chiavi di corteccia e pietra
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_0_DESC,Parla con Tamsin
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_0_TASK_0,Chiedi a Tamsin del sentiero bloccato verso il Trono della Foresta
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_1_DESC,Bonifica la zona pericolosa
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_1_TASK_0,Raccogli la linfa dell'albero antico
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_1_TASK_1,Raccogli la gemma del custode
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_1_TASK_2,Raccogli l'acqua toccata dalle driadi
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_2_DESC,Armonizza le pietre protettive
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_2_TASK_0,Armonizza la prima pietra protettiva
+QUEST_KEYSOFBARKANDSTONE_TASKGROUP_2_TASK_1,Armonizza la seconda pietra protettiva
+QUEST_KINDNESSLEDGER_DESC,Aiuta Tamsin con il problema del rivenditore.
+QUEST_KINDNESSLEDGER_NAME,Il registro della gentilezza
+QUEST_KINDNESSLEDGER_TASKGROUP_0_DESC,Indaga nel villaggio
+QUEST_KINDNESSLEDGER_TASKGROUP_0_TASK_0,Ottieni il primo indizio sul luogo
+QUEST_KINDNESSLEDGER_TASKGROUP_0_TASK_1,Ottieni altri indizi sul luogo
+QUEST_KINDNESSLEDGER_TASKGROUP_0_TASK_2,Ottieni l'ultimo indizio sul luogo
+QUEST_KINDNESSLEDGER_TASKGROUP_1_DESC,Recupera le merci
+QUEST_KINDNESSLEDGER_TASKGROUP_1_TASK_0,Recupera le merci
+QUEST_KINDNESSLEDGER_TASKGROUP_2_DESC,Respingi l'imboscata dei goblin
+QUEST_KINDNESSLEDGER_TASKGROUP_2_TASK_0,Difendi le merci dall'imboscata dei goblin
+QUEST_KINDNESSLEDGER_TASKGROUP_3_DESC,Affronta il mercante sospetto
+QUEST_KINDNESSLEDGER_TASKGROUP_3_TASK_0,Affronta il mercante sospetto
+QUEST_KINDNESSLEDGER_TASKGROUP_4_DESC,Fai rapporto a Tamsin
+QUEST_KINDNESSLEDGER_TASKGROUP_4_TASK_0,"Parla con Tamsin del caso del ""mercante sospetto"""
+QUEST_LEARNINGTOTRAIN_DESC,Impara da Rahaner come allenarti e salire di livello.
+QUEST_LEARNINGTOTRAIN_NAME,Le basi dell'allenamento
+QUEST_LEARNINGTOTRAIN_TASKGROUP_0_DESC,Allenamento con Rahaner
+QUEST_LEARNINGTOTRAIN_TASKGROUP_0_TASK_0,"Interagisci con Rahaner per aprire il menu Allenamento, poi spendi punti esperienza (XP) per ottenere un punto attributo"
+QUEST_LEARNINGTOTRAIN_TASKGROUP_0_TASK_1,Spendi abbastanza XP in allenamento per salire di livello
+QUEST_LEARNINGTOTRAIN_TASKGROUP_1_DESC,Spendi il tuo punto abilità
+QUEST_LEARNINGTOTRAIN_TASKGROUP_1_TASK_0,Apri l'Albero delle abilità e usa il punto abilità appena ottenuto per sbloccare un'abilità
+QUEST_LEARNINGTOTRAIN_TASKGROUP_2_DESC,Torna da Rahaner
+QUEST_LEARNINGTOTRAIN_TASKGROUP_2_TASK_0,Parla con Rahaner
+QUEST_LIGHTTHEWAYFINDERLINE_DESC,Aiuta Corin a posizionare e difendere i segnalatori della Linea dei Cercavia.
+QUEST_LIGHTTHEWAYFINDERLINE_NAME,I fari della Linea dei Cercavia
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_0_DESC,Parla con Corin
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_0_TASK_0,Parla con Corin e offri il tuo aiuto
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_1_DESC,Posiziona il primo segnalatore
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_1_TASK_0,Posiziona un segnalatore sul crinale
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_2_DESC,Difendi il primo segnalatore
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_2_TASK_0,Difendi il segnalatore sul crinale
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_3_DESC,Posiziona il secondo segnalatore
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_3_TASK_0,Posiziona un segnalatore al guado
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_4_DESC,Difendi il secondo segnalatore
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_4_TASK_0,Difendi il segnalatore al guado
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_5_DESC,Posiziona il terzo segnalatore
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_5_TASK_0,Posiziona un segnalatore nella conca
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_6_DESC,Difendi il terzo segnalatore
+QUEST_LIGHTTHEWAYFINDERLINE_TASKGROUP_6_TASK_0,Difendi il segnalatore nella conca
+QUEST_LINESYOUDRAW_DESC,Rintraccia gli sciacalli che depredano i profughi e affronta chi li manovra.
+QUEST_LINESYOUDRAW_NAME,I limiti da tracciare
+QUEST_LINESYOUDRAW_TASKGROUP_0_DESC,Parla con i profughi
+QUEST_LINESYOUDRAW_TASKGROUP_0_TASK_0,Scopri chi sono gli sciacalli
+QUEST_LINESYOUDRAW_TASKGROUP_0_TASK_1,Scopri dove si trovano gli sciacalli
+QUEST_LINESYOUDRAW_TASKGROUP_1_DESC,Trova la pista
+QUEST_LINESYOUDRAW_TASKGROUP_1_TASK_0,Trova l'inizio delle tracce lasciate dagli sciacalli
+QUEST_LINESYOUDRAW_TASKGROUP_2_DESC,Segui la pista
+QUEST_LINESYOUDRAW_TASKGROUP_2_TASK_0,Segui la pista e cerca altri indizi su dove si trovano gli sciacalli
+QUEST_LINESYOUDRAW_TASKGROUP_3_DESC,Raggiungi la fine della pista
+QUEST_LINESYOUDRAW_TASKGROUP_3_TASK_0,Raggiungi la fine delle tracce e trova gli sciacalli
+QUEST_LINESYOUDRAW_TASKGROUP_4_DESC,Affronta le guardie
+QUEST_LINESYOUDRAW_TASKGROUP_4_TASK_0,Affronta le guardie e rifiuta la loro richiesta
+QUEST_LINESYOUDRAW_TASKGROUP_5_DESC,Fai rapporto a Manga
+QUEST_LINESYOUDRAW_TASKGROUP_5_TASK_0,Informa Manga su dove si trovano le guardie
+QUEST_MAINTAININGTHEDEFENCES_DESC,Aiuta Rahaner a mantenere le mura difensive del Villaggio di Earlwood.
+QUEST_MAINTAININGTHEDEFENCES_NAME,Manutenzione delle difese
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_0_DESC,Parla con Rahaner
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_0_TASK_0,Parla con Rahaner
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_1_DESC,Raccolta dei materiali
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_1_TASK_0,"Equipaggia l'Ascia da Legna di Pietra, poi raccogli Pino di Wildwood nella foresta"
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_1_TASK_1,"Equipaggia il Piccone di Pietra, poi raccogli Pietra nella foresta"
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_2_DESC,Consegna delle risorse
+QUEST_MAINTAININGTHEDEFENCES_TASKGROUP_2_TASK_0,Consegna 5 unità di Pino di Wildwood e 5 di Pietra a Rahaner
+QUEST_MALICIOUSWAR_DESC,Poni fine al conflitto tra i goblin e le forze della foresta.
+QUEST_MALICIOUSWAR_NAME,Una guerra malvagia
+QUEST_MALICIOUSWAR_TASKGROUP_0_DESC,Sconfiggi i capi
+QUEST_MALICIOUSWAR_TASKGROUP_0_TASK_0,Libera il campo di battaglia corrotto
+QUEST_MALICIOUSWAR_TASKGROUP_0_TASK_1,Sconfiggi i capi dei Goblin
+QUEST_MEALYDETOUR_DESC,Aiuta gli avventurieri caduti nell'imboscata.
+QUEST_MEALYDETOUR_NAME,Una deviazione farinosa
+QUEST_MEALYDETOUR_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_MEALYDETOUR_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_MEALYDETOUR_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_MEALYDETOUR_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_MEASURETWICE_DESC,Aiuta Eldorian a svolgere gli incarichi assegnatigli per punizione.
+QUEST_MEASURETWICE_NAME,Misure scrupolose
+QUEST_MEASURETWICE_TASKGROUP_0_DESC,Registra il percorso
+QUEST_MEASURETWICE_TASKGROUP_0_TASK_0,Registra il percorso al posto di guardia nei campi
+QUEST_MEASURETWICE_TASKGROUP_1_DESC,Primo punto del percorso
+QUEST_MEASURETWICE_TASKGROUP_1_TASK_0,Posiziona il primo campanello segnalatore
+QUEST_MEASURETWICE_TASKGROUP_2_DESC,Secondo punto del percorso
+QUEST_MEASURETWICE_TASKGROUP_2_TASK_0,Posiziona il secondo campanello segnalatore
+QUEST_MEASURETWICE_TASKGROUP_3_DESC,Terzo punto del percorso
+QUEST_MEASURETWICE_TASKGROUP_3_TASK_0,Posiziona il terzo campanello segnalatore
+QUEST_MEASURETWICE_TASKGROUP_4_DESC,Quarto punto del percorso
+QUEST_MEASURETWICE_TASKGROUP_4_TASK_0,Posiziona il quarto campanello segnalatore
+QUEST_MEASURETWICE_TASKGROUP_5_DESC,Respingi l'incursione esplorativa
+QUEST_MEASURETWICE_TASKGROUP_5_TASK_0,Respingi l'incursione esplorativa alla siepe perimetrale
+QUEST_MEASURETWICE_TASKGROUP_6_DESC,Parla con Eldorian
+QUEST_MEASURETWICE_TASKGROUP_6_TASK_0,Parla con Eldorian al punto finale
+QUEST_MEATSTOCKPILE_DESC,Porta Carne di Bestia a Saqi per le scorte.
+QUEST_MEATSTOCKPILE_NAME,Scorte di carne
+QUEST_MEATSTOCKPILE_TASKGROUP_0_DESC,Dona Carne di Bestia
+QUEST_MEATSTOCKPILE_TASKGROUP_0_TASK_0,Dona Carne di Bestia alla Bacheca degli incarichi
+QUEST_MEMORIESOFDUSTI_DESC,Salva il profugo in trappola.
+QUEST_MEMORIESOFDUSTI_NAME,Ferite fantasma
+QUEST_MEMORIESOFDUSTI_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_MEMORIESOFDUSTI_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_MEMORIESOFDUSTI_TASKGROUP_1_DESC,Controlla come stanno i profughi
+QUEST_MEMORIESOFDUSTI_TASKGROUP_1_TASK_0,Aiuta la ragazza spaventata
+QUEST_MEMORIESOFDUSTII_DESC,Salva il profugo in trappola.
+QUEST_MEMORIESOFDUSTII_NAME,Paura accecante
+QUEST_MEMORIESOFDUSTII_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_MEMORIESOFDUSTII_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_MEMORIESOFDUSTII_TASKGROUP_1_DESC,Controlla come stanno i profughi
+QUEST_MEMORIESOFDUSTII_TASKGROUP_1_TASK_0,Rassicura la madre e il bambino
+QUEST_MEMORIESOFDUSTIII_DESC,Salva il profugo in trappola.
+QUEST_MEMORIESOFDUSTIII_NAME,Ricordi di polvere
+QUEST_MEMORIESOFDUSTIII_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_MEMORIESOFDUSTIII_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_MEMORIESOFDUSTIII_TASKGROUP_1_DESC,Controlla come stanno i profughi
+QUEST_MEMORIESOFDUSTIII_TASKGROUP_1_TASK_0,Parla con l'uomo smarrito
+QUEST_MYRLLSLAMENT_DESC,Aiuta Myrll distruggendo il Cuore corrotto.
+QUEST_MYRLLSLAMENT_NAME,Il lamento di Myrll
+QUEST_MYRLLSLAMENT_TASKGROUP_0_DESC,Trova e distruggi il Cuore corrotto
+QUEST_MYRLLSLAMENT_TASKGROUP_0_TASK_0,Distruggi il Cuore corrotto
+QUEST_MYRLLSLAMENT_TASKGROUP_1_DESC,Fai rapporto
+QUEST_MYRLLSLAMENT_TASKGROUP_1_TASK_0,Torna da Myrll
+QUEST_NAMINGFALSEGOODS_DESC,Aiuta Myrll a verificare le voci che ha sentito.
+QUEST_NAMINGFALSEGOODS_NAME,Un nome ai falsi beni
+QUEST_NAMINGFALSEGOODS_TASKGROUP_0_DESC,Controlla il sentiero
+QUEST_NAMINGFALSEGOODS_TASKGROUP_0_TASK_0,Assicurati che il Sentiero Silenzioso sia sicuro
+QUEST_NAMINGFALSEGOODS_TASKGROUP_1_DESC,Metti al sicuro il sentiero
+QUEST_NAMINGFALSEGOODS_TASKGROUP_1_TASK_0,Appendi un sonaglio lungo il sentiero
+QUEST_NAMINGFALSEGOODS_TASKGROUP_2_DESC,Controlla il nido
+QUEST_NAMINGFALSEGOODS_TASKGROUP_2_TASK_0,Controlla se nel nido ci sono illusioni
+QUEST_NAMINGFALSEGOODS_TASKGROUP_3_DESC,Ripara il nido
+QUEST_NAMINGFALSEGOODS_TASKGROUP_3_TASK_0,Intreccia di nuovo il nido per i piccoli
+QUEST_NAMINGFALSEGOODS_TASKGROUP_4_DESC,Controlla il boschetto
+QUEST_NAMINGFALSEGOODS_TASKGROUP_4_TASK_0,Cerca un campione del marciume nel Boschetto dei Funghi Luminosi
+QUEST_NAMINGFALSEGOODS_TASKGROUP_5_DESC,Bonifica il boschetto
+QUEST_NAMINGFALSEGOODS_TASKGROUP_5_TASK_0,Libera il boschetto dal marciume
+QUEST_NAMINGFALSEGOODS_TASKGROUP_6_DESC,Proteggi il boschetto
+QUEST_NAMINGFALSEGOODS_TASKGROUP_6_TASK_0,Metti al sicuro il boschetto risistemando la pietra del cammino
+QUEST_NAMINGFALSEGOODS_TASKGROUP_7_DESC,Fai rapporto
+QUEST_NAMINGFALSEGOODS_TASKGROUP_7_TASK_0,Torna da Myrll nel Santuario
+QUEST_NEWLESSONS_DESC,Fuggi dalle caverne e accampati con il vecchio mago.
+QUEST_NEWLESSONS_NAME,Nuove lezioni
+QUEST_NEWLESSONS_TASKGROUP_0_DESC,Segui il passaggio verso l'uscita
+QUEST_NEWLESSONS_TASKGROUP_0_TASK_0,Esci dalle caverne
+QUEST_NEWLESSONS_TASKGROUP_1_DESC,Orientati
+QUEST_NEWLESSONS_TASKGROUP_1_TASK_0,Esplora il campo
+QUEST_NEWLESSONS_TASKGROUP_2_DESC,Finalmente al sicuro
+QUEST_NEWLESSONS_TASKGROUP_2_TASK_0,Parla con il mago
+QUEST_NEWLESSONS_TASKGROUP_3_DESC,Allestimento del campo
+QUEST_NEWLESSONS_TASKGROUP_3_TASK_0,"Vai nel menu, apri il Diario delle missioni e completa la missione ""Le basi della costruzione"""
+QUEST_NEWLESSONS_TASKGROUP_4_DESC,Controlla come sta il vecchio mago
+QUEST_NEWLESSONS_TASKGROUP_4_TASK_0,Torna da Faustas
+QUEST_NEWLESSONS_TASKGROUP_5_DESC,Trova il Varco
+QUEST_NEWLESSONS_TASKGROUP_5_TASK_0,Trova Faustas al Varco
+QUEST_NEWLESSONSBUILDINGTUTORIAL_DESC,Costruisci la tua prima dimora e impara le basi della cucina.
+QUEST_NEWLESSONSBUILDINGTUTORIAL_NAME,Le basi della costruzione
+QUEST_NEWLESSONSBUILDINGTUTORIAL_TASKGROUP_0_DESC,Costruisci la tua prima dimora
+QUEST_NEWLESSONSBUILDINGTUTORIAL_TASKGROUP_0_TASK_0,Smonta il campo per ricavare risorse e costruisci la tua tenda.
+QUEST_NEWLESSONSBUILDINGTUTORIAL_TASKGROUP_1_DESC,Le basi della cucina
+QUEST_NEWLESSONSBUILDINGTUTORIAL_TASKGROUP_1_TASK_0,Costruisci un Falò e prepara un Nucleo di Droop Arrostito
+QUEST_NEWLESSONSP2_DESC,Usa il Varco per raggiungere il Villaggio di Earlwood.
+QUEST_NEWLESSONSP2_NAME,Arrivo al Villaggio di Earlwood
+QUEST_NEWLESSONSP2_TASKGROUP_0_DESC,Teletrasportati al Villaggio di Earlwood
+QUEST_NEWLESSONSP2_TASKGROUP_0_TASK_0,Usa il viaggio rapido per Earlwood
+QUEST_OPENINGTHETHRONEPATH_DESC,Aiuta il campo avanzato a preparare la via verso il Trono della Foresta.
+QUEST_OPENINGTHETHRONEPATH_NAME,La via verso il Trono
+QUEST_OPENINGTHETHRONEPATH_TASKGROUP_0_DESC,Aiuta gli abitanti del campo avanzato
+QUEST_OPENINGTHETHRONEPATH_TASKGROUP_0_TASK_0,"Completa la missione ""Via libera"""
+QUEST_OPENINGTHETHRONEPATH_TASKGROUP_0_TASK_1,"Completa la missione ""Chiavi di corteccia e pietra"""
+QUEST_OPENINGTHETHRONEPATH_TASKGROUP_0_TASK_2,"Completa la missione ""I fari della Linea dei Cercavia"""
+QUEST_OPENINGTHETHRONEPATH_TASKGROUP_1_DESC,Controlla come sta Alaric
+QUEST_OPENINGTHETHRONEPATH_TASKGROUP_1_TASK_0,Fai rapporto ad Alaric per ottenere l'autorizzazione all'assalto
+QUEST_OPENTHEBOOKS_DESC,Recupera i registri del razionamento di Earlwood per ripristinare un'equa distribuzione delle risorse.
+QUEST_OPENTHEBOOKS_NAME,Registri aperti
+QUEST_OPENTHEBOOKS_TASKGROUP_0_DESC,Recupera i registri delle razioni
+QUEST_OPENTHEBOOKS_TASKGROUP_0_TASK_0,Cerca i registri delle razioni nella carovana dei documenti distrutta
+QUEST_OPENTHEBOOKS_TASKGROUP_1_DESC,Metti al sicuro la scorta
+QUEST_OPENTHEBOOKS_TASKGROUP_1_TASK_0,Sconfiggi i saccheggiatori goblin e metti al sicuro la scorta
+QUEST_OPENTHEBOOKS_TASKGROUP_2_DESC,Torna da Saqi
+QUEST_OPENTHEBOOKS_TASKGROUP_2_TASK_0,Consegna i registri e i sigilli a Saqi
+QUEST_PERFECTAMBUSH_DESC,Indaga sull'ovvia imboscata.
+QUEST_PERFECTAMBUSH_NAME,L'imboscata perfetta
+QUEST_PERFECTAMBUSH_TASKGROUP_0_DESC,Esamina l'imboscata
+QUEST_PERFECTAMBUSH_TASKGROUP_0_TASK_0,Indaga sull'ovvia imboscata
+QUEST_PERFECTAMBUSH_TASKGROUP_1_DESC,Uccidi i Goblin
+QUEST_PERFECTAMBUSH_TASKGROUP_1_TASK_0,Uccidi i Goblin
+QUEST_PITCHINGIN_DESC,Consulta la Bacheca degli incarichi nella Sede della Gilda per scoprire come puoi ancora aiutare.
+QUEST_PITCHINGIN_NAME,Una mano in più
+QUEST_PITCHINGIN_TASKGROUP_0_DESC,Consulta la Bacheca degli incarichi
+QUEST_PITCHINGIN_TASKGROUP_0_TASK_0,Consulta la Bacheca degli incarichi nella Sede della Gilda
+QUEST_REFUGGEEVERYDAYI_DESC,Libera il campo abbandonato per i futuri profughi.
+QUEST_REFUGGEEVERYDAYI_NAME,Vita da profughi
+QUEST_REFUGGEEVERYDAYI_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_REFUGGEEVERYDAYI_TASKGROUP_0_TASK_0,Uccidi gli invasori goblin
+QUEST_REFUGGEEVERYDAYII_DESC,Proteggi i profughi dagli invasori goblin.
+QUEST_REFUGGEEVERYDAYII_NAME,Vita da profughi
+QUEST_REFUGGEEVERYDAYII_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_REFUGGEEVERYDAYII_TASKGROUP_0_TASK_0,Uccidi gli invasori goblin
+QUEST_REFUGGEEVERYDAYII_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_REFUGGEEVERYDAYII_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2I_DESC,Salva i profughi caduti nell'imboscata.
+QUEST_RESCUETHEREFUGEES2I_NAME,Il salvataggio dei profughi
+QUEST_RESCUETHEREFUGEES2I_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2I_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2I_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2I_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2II_DESC,Salva i profughi caduti nell'imboscata.
+QUEST_RESCUETHEREFUGEES2II_NAME,Il salvataggio dei profughi
+QUEST_RESCUETHEREFUGEES2II_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2II_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2II_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2II_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2III_DESC,Salva i profughi caduti nell'imboscata.
+QUEST_RESCUETHEREFUGEES2III_NAME,Il salvataggio dei profughi
+QUEST_RESCUETHEREFUGEES2III_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2III_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2III_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2III_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2IV_DESC,Salva i profughi caduti nell'imboscata.
+QUEST_RESCUETHEREFUGEES2IV_NAME,Il salvataggio dei profughi
+QUEST_RESCUETHEREFUGEES2IV_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2IV_TASKGROUP_0_TASK_0,Uccidi i Goblin
+QUEST_RESCUETHEREFUGEES2IV_TASKGROUP_1_DESC,Parla con i profughi
+QUEST_RESCUETHEREFUGEES2IV_TASKGROUP_1_TASK_0,Parla con i profughi
+QUEST_RETURNTOTHEFORESTTHRONE_DESC,Rivivi la battaglia contro il Re della Foresta.
+QUEST_RETURNTOTHEFORESTTHRONE_NAME,Ritorno al Trono della Foresta
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_0_DESC,Inizia la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_0_TASK_0,Entra nel Sentiero della Foresta
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_1_DESC,Fatti strada nella corruzione
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_1_TASK_0,Uccidi i mostri per aprire la via
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_10_DESC,Prosegui la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_10_TASK_0,Prosegui lungo il sentiero
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_11_DESC,Fatti strada nella corruzione
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_11_TASK_0,Uccidi i mostri per aprire la via
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_12_DESC,Prosegui la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_12_TASK_0,Prosegui lungo il sentiero
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_13_DESC,Uccidi il Re
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_13_TASK_0,Sconfiggi il Re della Foresta corrotto
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_2_DESC,Prosegui la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_2_TASK_0,Prosegui lungo il sentiero
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_3_DESC,Fatti strada nella corruzione
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_3_TASK_0,Uccidi i mostri per aprire la via
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_4_DESC,Prosegui la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_4_TASK_0,Prosegui lungo il sentiero
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_5_DESC,Fatti strada nella corruzione
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_5_TASK_0,Uccidi i mostri per aprire la via
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_6_DESC,Prosegui la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_6_TASK_0,Prosegui lungo il sentiero
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_7_DESC,Fatti strada nella corruzione
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_7_TASK_0,Uccidi i mostri per aprire la via
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_8_DESC,Prosegui la prova
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_8_TASK_0,Prosegui lungo il sentiero
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_9_DESC,Fatti strada nella corruzione
+QUEST_RETURNTOTHEFORESTTHRONE_TASKGROUP_9_TASK_0,Uccidi i mostri per aprire la via
+QUEST_RITEOFCLEARWILL_DESC,Aiuta Heimen Thaldrik a compiere l'antico rito.
+QUEST_RITEOFCLEARWILL_NAME,Il rito della volontà limpida
+QUEST_RITEOFCLEARWILL_TASKGROUP_0_DESC,Incontra Heimen
+QUEST_RITEOFCLEARWILL_TASKGROUP_0_TASK_0,Incontra Heimen nella radura segnata
+QUEST_RITEOFCLEARWILL_TASKGROUP_1_DESC,Attiva le pietre protettive
+QUEST_RITEOFCLEARWILL_TASKGROUP_1_TASK_0,Attiva le pietre protettive per iniziare il rito
+QUEST_RITEOFCLEARWILL_TASKGROUP_2_DESC,Difendi Heimen
+QUEST_RITEOFCLEARWILL_TASKGROUP_2_TASK_0,Difendi Heimen mentre celebra il rito
+QUEST_RITEOFCLEARWILL_TASKGROUP_3_DESC,Sconfiggi il guardiano
+QUEST_RITEOFCLEARWILL_TASKGROUP_3_TASK_0,Sconfiggi il Guardiano corrotto
+QUEST_RITEOFCLEARWILL_TASKGROUP_4_DESC,Stabilizza le protezioni
+QUEST_RITEOFCLEARWILL_TASKGROUP_4_TASK_0,Stabilizza le pietre protettive
+QUEST_RITEOFCLEARWILL_TASKGROUP_5_DESC,Parla con Heimen
+QUEST_RITEOFCLEARWILL_TASKGROUP_5_TASK_0,Parla con Heimen del rituale
+QUEST_RIVERCALLERBOUNTY_DESC,Metti a tacere la Rivercaller che scatena la frenesia nel fiume.
+QUEST_RIVERCALLERBOUNTY_NAME,Taglia sulla Rivercaller
+QUEST_RIVERCALLERBOUNTY_TASKGROUP_0_DESC,Uccidi la Rivercaller
+QUEST_RIVERCALLERBOUNTY_TASKGROUP_0_TASK_0,Sconfiggi la Rivercaller e i suoi droop
+QUEST_RIVERCALLERBOUNTY2_DESC,Metti a tacere la Rivercaller che scatena la frenesia nel fiume.
+QUEST_RIVERCALLERBOUNTY2_NAME,Taglia sulla Rivercaller
+QUEST_RIVERCALLERBOUNTY2_TASKGROUP_0_DESC,Uccidi la Rivercaller
+QUEST_RIVERCALLERBOUNTY2_TASKGROUP_0_TASK_0,Sconfiggi la Rivercaller e i suoi droop
+QUEST_RIVERCALLERBYTHERIVER_DESC,Una Rivercaller impazzita ha costretto ad anticipare il raccolto di Thaumablossom.
+QUEST_RIVERCALLERBYTHERIVER_NAME,La Rivercaller al fiume
+QUEST_RIVERCALLERBYTHERIVER_TASKGROUP_0_DESC,Dai la caccia alla Rivercaller
+QUEST_RIVERCALLERBYTHERIVER_TASKGROUP_0_TASK_0,Sconfiggi la Rivercaller e i suoi droop
+QUEST_ROADPATROL_DESC,Pattuglia la strada principale e riferisci alla Gilda i movimenti dei goblin.
+QUEST_ROADPATROL_NAME,Pattuglia sulla strada
+QUEST_ROADPATROL_TASKGROUP_0_DESC,Perlustra la zona
+QUEST_ROADPATROL_TASKGROUP_0_TASK_0,Perlustra la strada vicino al Villaggio di Earlwood
+QUEST_ROADPATROL_TASKGROUP_0_TASK_1,Perlustra la strada vicino al Pozzo del Cammino
+QUEST_ROADPATROL_TASKGROUP_0_TASK_2,Perlustra la strada vicino all'Ingresso della Foresta
+QUEST_ROOTWEAVERBOUNTY_DESC,Trova la Tessiradici e distruggi le sue trappole.
+QUEST_ROOTWEAVERBOUNTY_NAME,Taglia sulla Tessiradici
+QUEST_ROOTWEAVERBOUNTY_TASKGROUP_0_DESC,Uccidi la Tessiradici
+QUEST_ROOTWEAVERBOUNTY_TASKGROUP_0_TASK_0,Uccidi la Tessiradici
+QUEST_ROOTWEAVERBOUNTY_TASKGROUP_0_TASK_1,Uccidi il Treant
+QUEST_ROOTWEAVERBOUNTY2_DESC,Trova la Tessiradici e distruggi le sue trappole.
+QUEST_ROOTWEAVERBOUNTY2_NAME,Taglia sulla Tessiradici
+QUEST_ROOTWEAVERBOUNTY2_TASKGROUP_0_DESC,Uccidi la Tessiradici
+QUEST_ROOTWEAVERBOUNTY2_TASKGROUP_0_TASK_0,Uccidi la Tessiradici
+QUEST_ROOTWEAVERBOUNTY2_TASKGROUP_0_TASK_1,Uccidi il Treant
+QUEST_RUINSRESEARCEHRI_DESC,Recupera gli appunti dello studioso delle rovine.
+QUEST_RUINSRESEARCEHRI_NAME,Lo studioso delle rovine I
+QUEST_RUINSRESEARCEHRI_TASKGROUP_0_DESC,Recupera gli appunti
+QUEST_RUINSRESEARCEHRI_TASKGROUP_0_TASK_0,Trova il primo appunto
+QUEST_RUINSRESEARCEHRI_TASKGROUP_0_TASK_1,Trova il secondo appunto
+QUEST_RUINSRESEARCEHRI_TASKGROUP_0_TASK_2,Trova il terzo appunto
+QUEST_RUINSRESEARCEHRII_DESC,Recupera gli appunti dello studioso delle rovine.
+QUEST_RUINSRESEARCEHRII_NAME,Lo studioso delle rovine II
+QUEST_RUINSRESEARCEHRII_TASKGROUP_0_DESC,Recupera gli appunti
+QUEST_RUINSRESEARCEHRII_TASKGROUP_0_TASK_0,Trova il quarto appunto
+QUEST_RUINSRESEARCEHRII_TASKGROUP_0_TASK_1,Trova il quinto appunto
+QUEST_RUINSRESEARCEHRII_TASKGROUP_0_TASK_2,Trova il sesto appunto
+QUEST_RUINSRESEARCEHRIII_DESC,Recupera gli appunti dello studioso delle rovine.
+QUEST_RUINSRESEARCEHRIII_NAME,Lo studioso delle rovine III
+QUEST_RUINSRESEARCEHRIII_TASKGROUP_0_DESC,Recupera gli appunti
+QUEST_RUINSRESEARCEHRIII_TASKGROUP_0_TASK_0,Trova il settimo appunto
+QUEST_RUINSRESEARCEHRIII_TASKGROUP_0_TASK_1,Trova l'ottavo appunto
+QUEST_RUINSRESEARCEHRIII_TASKGROUP_0_TASK_2,Trova il nono appunto
+QUEST_SAVETHEOLDMAN_DESC,Sconfiggi i lupi che minacciano il vecchio.
+QUEST_SAVETHEOLDMAN_NAME,Il salvataggio del vecchio
+QUEST_SAVETHEOLDMAN_TASKGROUP_0_DESC,Uccidi i Lupi
+QUEST_SAVETHEOLDMAN_TASKGROUP_0_TASK_0,Uccidi i Lupi che attaccano il vecchio
+QUEST_SAVETHEREFUGEES_DESC,Uccidi i lupi per salvare i profughi.
+QUEST_SAVETHEREFUGEES_NAME,Il soccorso ai profughi
+QUEST_SAVETHEREFUGEES_TASKGROUP_0_DESC,Uccidi i Lupi
+QUEST_SAVETHEREFUGEES_TASKGROUP_0_TASK_0,Uccidi i Lupi
+QUEST_SAVETHEREFUGEES_TASKGROUP_1_DESC,Controlla come stanno i profughi
+QUEST_SAVETHEREFUGEES_TASKGROUP_1_TASK_0,Parla con il padre
+QUEST_SCOUTOLDCAMPS_DESC,Controlla se nei vecchi edifici abbandonati c'è qualcuno in difficoltà.
+QUEST_SCOUTOLDCAMPS_NAME,Ricognizione dei vecchi campi
+QUEST_SCOUTOLDCAMPS_TASKGROUP_0_DESC,Perlustra i campi
+QUEST_SCOUTOLDCAMPS_TASKGROUP_0_TASK_0,Perlustra il campo a sud
+QUEST_SCOUTOLDCAMPS_TASKGROUP_0_TASK_1,Perlustra il campo settentrionale
+QUEST_SCOUTOLDCAMPS_TASKGROUP_0_TASK_2,Perlustra il campo a nord
+QUEST_SCOUTTHEEASTERNWILDWOOD_DESC,Esplora la parte orientale di Wildwood in cerca di vegetazione contorta.
+QUEST_SCOUTTHEEASTERNWILDWOOD_NAME,Ricognizione di Wildwood orientale
+QUEST_SCOUTTHEEASTERNWILDWOOD_TASKGROUP_0_DESC,Perlustra Wildwood
+QUEST_SCOUTTHEEASTERNWILDWOOD_TASKGROUP_0_TASK_0,Perlustra la radura nella foresta
+QUEST_SCOUTTHEEASTERNWILDWOOD_TASKGROUP_0_TASK_1,Perlustra i sentieri della foresta
+QUEST_SCOUTTHEEASTERNWILDWOOD_TASKGROUP_0_TASK_2,Perlustra il passaggio a nord
+QUEST_SCOUTTHEFORESTKINGPATH_DESC,Esplora la foresta corrotta e traccia il sentiero verso il Re della Foresta.
+QUEST_SCOUTTHEFORESTKINGPATH_NAME,Pattuglia sul sentiero del Re
+QUEST_SCOUTTHEFORESTKINGPATH_TASKGROUP_0_DESC,Perlustra la zona
+QUEST_SCOUTTHEFORESTKINGPATH_TASKGROUP_0_TASK_0,Perlustra l'ingresso del Sentiero del Re
+QUEST_SCOUTTHEFORESTKINGPATH_TASKGROUP_0_TASK_1,Perlustra il primo accampamento sul Sentiero del Re
+QUEST_SCOUTTHEFORESTKINGPATH_TASKGROUP_0_TASK_2,Perlustra il secondo accampamento sul Sentiero del Re
+QUEST_SCOUTTHEFORESTROAD_DESC,Esplora la strada di Wildwood in cerca di tracce di goblin e tane di bestie.
+QUEST_SCOUTTHEFORESTROAD_NAME,Ricognizione della strada forestale
+QUEST_SCOUTTHEFORESTROAD_TASKGROUP_0_DESC,Perlustra la strada
+QUEST_SCOUTTHEFORESTROAD_TASKGROUP_0_TASK_0,Perlustra la strada a nord
+QUEST_SCOUTTHEFORESTROAD_TASKGROUP_0_TASK_1,Perlustra la strada centrale
+QUEST_SCOUTTHEFORESTROAD_TASKGROUP_0_TASK_2,Perlustra la strada a sud
+QUEST_SCOUTTHEPERIMETER_DESC,Pattuglia i campi esterni attorno a Earlwood e riferisci ciò che trovi.
+QUEST_SCOUTTHEPERIMETER_NAME,Ricognizione del perimetro
+QUEST_SCOUTTHEPERIMETER_TASKGROUP_0_DESC,Perlustra la zona
+QUEST_SCOUTTHEPERIMETER_TASKGROUP_0_TASK_0,Perlustra le abitazioni agricole
+QUEST_SCOUTTHEPERIMETER_TASKGROUP_0_TASK_1,Perlustra il perimetro settentrionale
+QUEST_SCOUTTHEPERIMETER_TASKGROUP_0_TASK_2,Perlustra l'ingresso occidentale
+QUEST_SECURETHELINES_DESC,Aiuta Corin a completare un giro di rilevamenti a Wildwood.
+QUEST_SECURETHELINES_NAME,Linee al sicuro
+QUEST_SECURETHELINES_TASKGROUP_0_DESC,Bonifica il primo punto
+QUEST_SECURETHELINES_TASKGROUP_0_TASK_0,Elimina il nido al Bivio del Sentiero
+QUEST_SECURETHELINES_TASKGROUP_1_DESC,Posiziona un segnalatore
+QUEST_SECURETHELINES_TASKGROUP_1_TASK_0,Posiziona un segnalatore per mettere al sicuro il Bivio del Sentiero
+QUEST_SECURETHELINES_TASKGROUP_2_DESC,Bonifica il secondo punto
+QUEST_SECURETHELINES_TASKGROUP_2_TASK_0,Elimina il nido al Passaggio sul Fiume
+QUEST_SECURETHELINES_TASKGROUP_3_DESC,Posiziona un segnalatore
+QUEST_SECURETHELINES_TASKGROUP_3_TASK_0,Posiziona un segnalatore per mettere al sicuro il Passaggio sul Fiume
+QUEST_SECURETHELINES_TASKGROUP_4_DESC,Bonifica il terzo punto
+QUEST_SECURETHELINES_TASKGROUP_4_TASK_0,Elimina il nido al Vecchio Ceppo
+QUEST_SECURETHELINES_TASKGROUP_5_DESC,Posiziona un segnalatore
+QUEST_SECURETHELINES_TASKGROUP_5_TASK_0,Posiziona un segnalatore per mettere al sicuro il Vecchio Ceppo
+QUEST_SECURETHELINES_TASKGROUP_6_DESC,Fai rapporto a Corin
+QUEST_SECURETHELINES_TASKGROUP_6_TASK_0,Fai rapporto a Corin
+QUEST_SEEINGTHETRUEGOODS_DESC,Aiuta Myrll a controllare i suoi cari amici mentre si diffonde la corruzione della furia.
+QUEST_SEEINGTHETRUEGOODS_NAME,Alla scoperta dei veri beni
+QUEST_SEEINGTHETRUEGOODS_TASKGROUP_0_DESC,Controlla come stanno gli amici di Myrll
+QUEST_SEEINGTHETRUEGOODS_TASKGROUP_0_TASK_0,Controlla la coppia di lontre alla Sorgente Limpida
+QUEST_SEEINGTHETRUEGOODS_TASKGROUP_0_TASK_1,Controlla gli uccelli notturni nella Conca dei Nidi
+QUEST_SEEINGTHETRUEGOODS_TASKGROUP_0_TASK_2,Controlla il passaggio delle lepri alla Tana della Pietra del Cammino
+QUEST_SEEINGTHETRUEGOODS_TASKGROUP_1_DESC,Fai rapporto
+QUEST_SEEINGTHETRUEGOODS_TASKGROUP_1_TASK_0,Torna da Myrll nel Santuario
+QUEST_SMASHMOUTHBOUNTY_DESC,Metti fine a Smashmouth e alla sua clava.
+QUEST_SMASHMOUTHBOUNTY_NAME,Taglia su Smashmouth
+QUEST_SMASHMOUTHBOUNTY_TASKGROUP_0_DESC,Uccidi Smashmouth
+QUEST_SMASHMOUTHBOUNTY_TASKGROUP_0_TASK_0,Uccidi Smashmouth
+QUEST_SPOTTEDHUNTEROPT1_DESC,Aiuta l'avventuriero caduto nell'imboscata.
+QUEST_SPOTTEDHUNTEROPT1_NAME,Cacciatore avvistato
+QUEST_SPOTTEDHUNTEROPT1_TASKGROUP_0_DESC,Salva l'avventuriero
+QUEST_SPOTTEDHUNTEROPT1_TASKGROUP_0_TASK_0,Salva l'avventuriero dai Lupi
+QUEST_SPOTTEDHUNTEROPT1_TASKGROUP_1_DESC,Parla con l'avventuriero
+QUEST_SPOTTEDHUNTEROPT1_TASKGROUP_1_TASK_0,Parla con l'avventuriero
+QUEST_SPOTTEDHUNTEROPT2_DESC,Scopri cos'è successo all'avventuriero.
+QUEST_SPOTTEDHUNTEROPT2_NAME,Cacciatore avvistato
+QUEST_SPOTTEDHUNTEROPT2_TASKGROUP_0_DESC,Perquisisci il cadavere
+QUEST_SPOTTEDHUNTEROPT2_TASKGROUP_0_TASK_0,Perquisisci il cadavere dell'avventuriero
+QUEST_STONENEEDED_DESC,Porta pietra tagliata per i muratori di Saqi.
+QUEST_STONENEEDED_NAME,Richiesta di pietra
+QUEST_STONENEEDED_TASKGROUP_0_DESC,Dona Pietra
+QUEST_STONENEEDED_TASKGROUP_0_TASK_0,Dona Pietra alla Bacheca degli incarichi
+QUEST_TABLETSOFTEMPTATION_DESC,Aiuta Heimen Thaldrik a studiare la corruzione.
+QUEST_TABLETSOFTEMPTATION_NAME,Le tavolette della tentazione
+QUEST_TABLETSOFTEMPTATION_TASKGROUP_0_DESC,Esplora le rovine elfiche
+QUEST_TABLETSOFTEMPTATION_TASKGROUP_0_TASK_0,Cerca testi nelle rovine elfiche a sudovest del campo degli avventurieri
+QUEST_TABLETSOFTEMPTATION_TASKGROUP_0_TASK_1,Cerca testi nelle rovine elfiche a nord del campo degli avventurieri
+QUEST_TABLETSOFTEMPTATION_TASKGROUP_0_TASK_2,Cerca testi nelle rovine elfiche a nordest del campo degli avventurieri
+QUEST_TABLETSOFTEMPTATION_TASKGROUP_1_DESC,Torna da Heimen
+QUEST_TABLETSOFTEMPTATION_TASKGROUP_1_TASK_0,Porta le tavolette a Heimen perché le studi
+QUEST_TENDERBERRYBLOOM_DESC,Una Tessiradici impazzita vaga nei pressi del villaggio.
+QUEST_TENDERBERRYBLOOM_NAME,Fioritura di Tenderberry
+QUEST_TENDERBERRYBLOOM_TASKGROUP_0_DESC,Prendi il raccolto
+QUEST_TENDERBERRYBLOOM_TASKGROUP_0_TASK_0,Sconfiggi la Tessiradici a guardia del raccolto
+QUEST_TENDERBERRYBLOOMII_DESC,Nelle vicinanze è fiorito un abbondante raccolto di Tenderberry.
+QUEST_TENDERBERRYBLOOMII_NAME,Fioritura di Tenderberry II
+QUEST_TENDERBERRYBLOOMII_TASKGROUP_0_DESC,Sconfiggi la Guardiana del Boschetto
+QUEST_TENDERBERRYBLOOMII_TASKGROUP_0_TASK_0,Uccidi la Driade Tessiradici
+QUEST_THEARTOFRUNESMITHING_DESC,Impara da Manga l'arte della forgiatura runica.
+QUEST_THEARTOFRUNESMITHING_NAME,L'arte della forgiatura runica
+QUEST_THEARTOFRUNESMITHING_TASKGROUP_0_DESC,Frantumazione dell'equipaggiamento
+QUEST_THEARTOFRUNESMITHING_TASKGROUP_0_TASK_0,Interagisci con l'Incudine della Fucina e frantuma equipaggiamento per ottenere Essenza runica
+QUEST_THEARTOFRUNESMITHING_TASKGROUP_1_DESC,È ora di migliorare
+QUEST_THEARTOFRUNESMITHING_TASKGROUP_1_TASK_0,Migliora un pezzo di equipaggiamento
+QUEST_THEARTOFRUNESMITHING_TASKGROUP_2_DESC,Lezione appresa
+QUEST_THEARTOFRUNESMITHING_TASKGROUP_2_TASK_0,Torna da Manga
+QUEST_THEBROKENBRIDGE_DESC,Ricostruisci il ponte e trova gli avventurieri dispersi.
+QUEST_THEBROKENBRIDGE_NAME,Il ponte distrutto
+QUEST_THEBROKENBRIDGE_TASKGROUP_0_DESC,Recupera le travi del mulino
+QUEST_THEBROKENBRIDGE_TASKGROUP_0_TASK_0,Recupera le travi del mulino
+QUEST_THEBROKENBRIDGE_TASKGROUP_1_DESC,Respingi l'imboscata dei goblin
+QUEST_THEBROKENBRIDGE_TASKGROUP_1_TASK_0,Respingi l'imboscata dei goblin al mulino
+QUEST_THEBROKENBRIDGE_TASKGROUP_2_DESC,Ricostruisci il ponte
+QUEST_THEBROKENBRIDGE_TASKGROUP_2_TASK_0,Ripara il ponte
+QUEST_THEBROKENBRIDGE_TASKGROUP_3_DESC,Cerca gli avventurieri dispersi
+QUEST_THEBROKENBRIDGE_TASKGROUP_3_TASK_0,Cerca gli avventurieri dispersi
+QUEST_THEBROKENBRIDGE_TASKGROUP_4_DESC,Parla con il capo del campo
+QUEST_THEBROKENBRIDGE_TASKGROUP_4_TASK_0,Parla con il capo del campo
+QUEST_THECORRUPTEDBEAST_DESC,Uccidi la bestia corrotta nel cuore della Foresta di Wildwood.
+QUEST_THECORRUPTEDBEAST_NAME,La bestia corrotta
+QUEST_THECORRUPTEDBEAST_TASKGROUP_0_DESC,Trova il sentiero
+QUEST_THECORRUPTEDBEAST_TASKGROUP_0_TASK_0,Trova la tana della bestia
+QUEST_THECORRUPTEDBEAST_TASKGROUP_1_DESC,Distruggi la fonte del muro
+QUEST_THECORRUPTEDBEAST_TASKGROUP_1_TASK_0,Trova ed elimina la prima fonte
+QUEST_THECORRUPTEDBEAST_TASKGROUP_1_TASK_1,Trova ed elimina la seconda fonte
+QUEST_THECORRUPTEDBEAST_TASKGROUP_1_TASK_2,Trova ed elimina la terza fonte
+QUEST_THECORRUPTEDBEAST_TASKGROUP_2_DESC,Fatti strada nella corruzione
+QUEST_THECORRUPTEDBEAST_TASKGROUP_2_TASK_0,Bonifica la zona corrotta per aprire la via
+QUEST_THECORRUPTEDBEAST_TASKGROUP_3_DESC,Fatti strada nella corruzione
+QUEST_THECORRUPTEDBEAST_TASKGROUP_3_TASK_0,Bonifica la zona corrotta per aprire la via
+QUEST_THECORRUPTEDBEAST_TASKGROUP_4_DESC,Fatti strada nella corruzione
+QUEST_THECORRUPTEDBEAST_TASKGROUP_4_TASK_0,Bonifica la zona corrotta per aprire la via
+QUEST_THECORRUPTEDBEAST_TASKGROUP_5_DESC,Uccidi la bestia
+QUEST_THECORRUPTEDBEAST_TASKGROUP_5_TASK_0,Uccidi la bestia corrotta
+QUEST_THECORRUPTEDBEAST_TASKGROUP_6_DESC,Fai rapporto
+QUEST_THECORRUPTEDBEAST_TASKGROUP_6_TASK_0,Torna da Alaric
+QUEST_THECORRUPTEDBEASTRETURNS_DESC,Abbatti il Treant corrotto risorto prima che raggiunga Earlwood.
+QUEST_THECORRUPTEDBEASTRETURNS_NAME,Il ritorno della bestia corrotta
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_0_DESC,Fatti strada nella corruzione
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_0_TASK_0,Bonifica la zona corrotta per aprire la via
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_1_DESC,Fatti strada nella corruzione
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_1_TASK_0,Bonifica la zona corrotta per aprire la via
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_2_DESC,Fatti strada nella corruzione
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_2_TASK_0,Bonifica la zona corrotta per aprire la via
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_3_DESC,Uccidi la bestia corrotta
+QUEST_THECORRUPTEDBEASTRETURNS_TASKGROUP_3_TASK_0,Uccidi la bestia corrotta
+QUEST_THEFIRSTSTEPS_DESC,Ti risvegli in una caverna buia senza ricordare come ci sei arrivato. Trova l'uscita.
+QUEST_THEFIRSTSTEPS_NAME,I primi passi
+QUEST_THEFIRSTSTEPS_TASKGROUP_0_DESC,Trova l'uscita
+QUEST_THEFIRSTSTEPS_TASKGROUP_0_TASK_0,Trova l'uscita
+QUEST_THEFIRSTSTEPS_TASKGROUP_1_DESC,Imboscata
+QUEST_THEFIRSTSTEPS_TASKGROUP_1_TASK_0,Sconfiggi il Droop mostruoso
+QUEST_THEHOPEFULSHEPARD_DESC,Aiuta il Pastore fiducioso a recuperare il suo gregge.
+QUEST_THEHOPEFULSHEPARD_NAME,Il Pastore fiducioso
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_0_DESC,Incontra il pastore
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_0_TASK_0,Parla con il Pastore fiducioso
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_1_DESC,Raccogli traverse da recinto tra i rottami
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_1_TASK_0,Raccogli la prima traversa da recinto
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_1_TASK_1,Raccogli la seconda traversa da recinto
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_2_DESC,Preparativi per il ritorno a casa
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_2_TASK_0,Ripara il recinto
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_3_DESC,Respingi i Goblin
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_3_TASK_0,Uccidi i goblin che ti hanno teso l'imboscata
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_4_DESC,Recupera le pecore smarrite
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_4_TASK_0,Trova la prima pecora
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_4_TASK_1,Trova la seconda pecora
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_4_TASK_2,Trova la terza pecora
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_5_DESC,Torna da Befr
+QUEST_THEHOPEFULSHEPARD_TASKGROUP_5_TASK_0,Parla con Befr
+QUEST_THELOSTSHIPMENT_DESC,Scopri che fine ha fatto il carico d'armi scomparso.
+QUEST_THELOSTSHIPMENT_NAME,Il carico scomparso
+QUEST_THELOSTSHIPMENT_TASKGROUP_0_DESC,Trova la carovana scomparsa
+QUEST_THELOSTSHIPMENT_TASKGROUP_0_TASK_0,Esamina la carovana
+QUEST_THELOSTSHIPMENT_TASKGROUP_1_DESC,Uccidi gli assalitori
+QUEST_THELOSTSHIPMENT_TASKGROUP_1_TASK_0,Uccidi la Custode delle Bestie
+QUEST_THELOSTSHIPMENT_TASKGROUP_1_TASK_1,Uccidi i Lupi
+QUEST_THELOSTSHIPMENT_TASKGROUP_2_DESC,Attacco di Treant
+QUEST_THELOSTSHIPMENT_TASKGROUP_2_TASK_0,Uccidi il Treant
+QUEST_THELOSTSHIPMENT_TASKGROUP_3_DESC,Fai rapporto
+QUEST_THELOSTSHIPMENT_TASKGROUP_3_TASK_0,Torna da Manga
+QUEST_THESECRETGARDEN_DESC,Raccogli le piante nel giardino segreto di Basilton.
+QUEST_THESECRETGARDEN_NAME,Il giardino segreto
+QUEST_THESECRETGARDEN_TASKGROUP_0_DESC,Raccogli le piante
+QUEST_THESECRETGARDEN_TASKGROUP_0_TASK_0,Raccogli la pianta segreta
+QUEST_THETERRIBLETWO_DESC,Due Treant stanno terrorizzando i boscaioli del villaggio.
+QUEST_THETERRIBLETWO_NAME,I due terribili
+QUEST_THETERRIBLETWO_TASKGROUP_0_DESC,Sconfiggi i due terribili
+QUEST_THETERRIBLETWO_TASKGROUP_0_TASK_0,Uccidi i Treant
+QUEST_THETIMETARDYSCOUT_DESC,Sei arrivato al Villaggio di Earlwood. Aiuta Alaric Audet nella Sede della Gilda del villaggio.
+QUEST_THETIMETARDYSCOUT_NAME,L'esploratore in ritardo
+QUEST_THETIMETARDYSCOUT_TASKGROUP_0_DESC,Ingresso al Villaggio di Earlwood
+QUEST_THETIMETARDYSCOUT_TASKGROUP_0_TASK_0,Trova Alaric nella Sede della Gilda e parlagli
+QUEST_THETIMETARDYSCOUT_TASKGROUP_1_DESC,Consulta la Bacheca degli incarichi prima di partire
+QUEST_THETIMETARDYSCOUT_TASKGROUP_1_TASK_0,Consulta la Bacheca degli incarichi nella Sede della Gilda
+QUEST_THETIMETARDYSCOUT_TASKGROUP_2_DESC,Perlustra il percorso dell'esploratore
+QUEST_THETIMETARDYSCOUT_TASKGROUP_2_TASK_0,Perlustra il primo punto
+QUEST_THETIMETARDYSCOUT_TASKGROUP_2_TASK_1,Perlustra il secondo punto
+QUEST_THETIMETARDYSCOUT_TASKGROUP_2_TASK_2,Perlustra il terzo punto
+QUEST_THETIMETARDYSCOUT_TASKGROUP_3_DESC,Avventurati nella foresta
+QUEST_THETIMETARDYSCOUT_TASKGROUP_3_TASK_0,Cerca l'esploratore disperso a Wildwood
+QUEST_THETIMETARDYSCOUT_TASKGROUP_4_DESC,Bonifica della strada
+QUEST_THETIMETARDYSCOUT_TASKGROUP_4_TASK_0,Uccidi il Lupo vicino alla strada
+QUEST_THETIMETARDYSCOUT_TASKGROUP_5_DESC,Rapporto al ritorno
+QUEST_THETIMETARDYSCOUT_TASKGROUP_5_TASK_0,Torna da Alaric
+QUEST_THINNINGOUTTHEFIELDS_DESC,Abbatti i goblin che occupano i campi.
+QUEST_THINNINGOUTTHEFIELDS_NAME,Sfoltimento nei campi
+QUEST_THINNINGOUTTHEFIELDS_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_THINNINGOUTTHEFIELDS_TASKGROUP_0_TASK_0,Uccidi i Goblin Squartatori
+QUEST_THINNINGOUTTHEFIELDS_TASKGROUP_0_TASK_1,Uccidi i Goblin Flaskrat
+QUEST_TOOTHSNEEDED_DESC,Porta Denti di Goblin a Saqi per le medicine.
+QUEST_TOOTHSNEEDED_NAME,Richiesta di Denti di Goblin
+QUEST_TOOTHSNEEDED_TASKGROUP_0_DESC,Dona Denti di Goblin
+QUEST_TOOTHSNEEDED_TASKGROUP_0_TASK_0,Dona Denti di Goblin alla Bacheca degli incarichi
+QUEST_TOXICRIVALRY_DESC,Risolvi la rivalità tra le bande di goblin.
+QUEST_TOXICRIVALRY_NAME,Rivalità tossica
+QUEST_TOXICRIVALRY_TASKGROUP_0_DESC,Uccidi i Goblin
+QUEST_TOXICRIVALRY_TASKGROUP_0_TASK_0,Risolvi la rivalità tra le bande di goblin
+QUEST_TRAILOFTROPHIES_DESC,Aiuta il campo avanzato segnando la caverna dei goblin e le vie d'accesso.
+QUEST_TRAILOFTROPHIES_NAME,La pista dei trofei
+QUEST_TRAILOFTROPHIES_TASKGROUP_0_DESC,Segna la caverna
+QUEST_TRAILOFTROPHIES_TASKGROUP_0_TASK_0,Trova il covo dei goblin
+QUEST_TRAILOFTROPHIES_TASKGROUP_1_DESC,Segna i percorsi
+QUEST_TRAILOFTROPHIES_TASKGROUP_1_TASK_0,Segna il percorso a sinistra sulla mappa
+QUEST_TRAILOFTROPHIES_TASKGROUP_1_TASK_1,Segna il percorso a destra sulla mappa
+QUEST_TRAVELLINGMERCHANTA_NAME,Mercante ambulante A
+QUEST_TRAVELLINGMERCHANTA_TASKGROUP_0_DESC,Tieni aperto
+QUEST_TRAVELLINGMERCHANTA_TASKGROUP_0_TASK_0,tieni aperto
+QUEST_TROUBLESOMETREANT_DESC,Un Treant si nasconde vicino alla strada principale e tende imboscate ai boscaioli di ritorno dalla foresta.
+QUEST_TROUBLESOMETREANT_NAME,Un Treant molesto
+QUEST_TROUBLESOMETREANT_TASKGROUP_0_DESC,Dai la caccia al Treant
+QUEST_TROUBLESOMETREANT_TASKGROUP_0_TASK_0,Uccidi il Treant
+QUEST_VERSUSBENEATHTHEBARK_DESC,Aiuta Heimen Thaldrik a cercare il poema elfico perduto.
+QUEST_VERSUSBENEATHTHEBARK_NAME,Versi sotto la corteccia
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_0_DESC,Cerca sotto la corteccia
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_0_TASK_0,Esamina il primo albero
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_0_TASK_1,Esamina il secondo albero
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_0_TASK_2,Esamina il terzo albero
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_1_DESC,Torna da Heimen
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_1_TASK_0,Torna da Heimen
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_2_DESC,Rintraccia l'ultimo albero
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_2_TASK_0,Trova ed esamina l'ultimo albero
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_3_DESC,Parla con Heimen
+QUEST_VERSUSBENEATHTHEBARK_TASKGROUP_3_TASK_0,Parla con Heimen presso l'albero
+QUEST_WEAVERSREQUEST_DESC,Aiuta Tamsin a indagare sulle anomalie degli stendardi.
+QUEST_WEAVERSREQUEST_NAME,La richiesta della tessitrice
+QUEST_WEAVERSREQUEST_TASKGROUP_0_DESC,Esamina i siti degli stendardi
+QUEST_WEAVERSREQUEST_TASKGROUP_0_TASK_0,Esamina il primo sito
+QUEST_WEAVERSREQUEST_TASKGROUP_0_TASK_1,Esamina il secondo sito
+QUEST_WEAVERSREQUEST_TASKGROUP_0_TASK_2,Esamina il terzo sito
+QUEST_WEAVERSREQUEST_TASKGROUP_1_DESC,Nel cuore del mistero
+QUEST_WEAVERSREQUEST_TASKGROUP_1_TASK_0,Esamina la zona per trovare la fonte dell'anomalia
+QUEST_WEAVERSREQUEST_TASKGROUP_2_DESC,Imboscata
+QUEST_WEAVERSREQUEST_TASKGROUP_2_TASK_0,Uccidi i Lupi
+QUEST_WEAVERSREQUEST_TASKGROUP_3_DESC,Torna da Tamsin
+QUEST_WEAVERSREQUEST_TASKGROUP_3_TASK_0,Parla con Tamsin
+QUEST_WILDWOODPINENEEDED_DESC,Porta Pino di Wildwood al deposito per i carpentieri.
+QUEST_WILDWOODPINENEEDED_NAME,Richiesta di Pino di Wildwood
+QUEST_WILDWOODPINENEEDED_TASKGROUP_0_DESC,Dona Pino di Wildwood
+QUEST_WILDWOODPINENEEDED_TASKGROUP_0_TASK_0,Dona Pino di Wildwood alla Bacheca degli incarichi
+QUEST_WILDWOODWARZONE_DESC,Poni fine al conflitto tra i goblin e le forze della foresta.
+QUEST_WILDWOODWARZONE_NAME,Zona di guerra di Wildwood
+QUEST_WILDWOODWARZONE_TASKGROUP_0_DESC,Sconfiggi i capi
+QUEST_WILDWOODWARZONE_TASKGROUP_0_TASK_0,Libera la zona di guerra di Wildwood
+QUEST_WILDWOODWARZONE_TASKGROUP_0_TASK_1,Sconfiggi la Driade Tessiradici
+QUEST_WILDWOODWARZONE_TASKGROUP_0_TASK_2,Sconfiggi i capi dei Goblin
+QUEST_YARDANDCODE_DESC,Continua l'allenamento con Rahaner.
+QUEST_YARDANDCODE_NAME,Cortile e codice
+QUEST_YARDANDCODE_TASKGROUP_0_DESC,Ritira gli oggetti dai magazzini della gilda
+QUEST_YARDANDCODE_TASKGROUP_0_TASK_0,Ritira pali da recinto e corda per campanelli dai magazzini della gilda
+QUEST_YARDANDCODE_TASKGROUP_1_DESC,Pianta i pali perimetrali e appendi le corde con campanelli nei siti segnati
+QUEST_YARDANDCODE_TASKGROUP_1_TASK_0,Appendi la prima corda con campanelli
+QUEST_YARDANDCODE_TASKGROUP_1_TASK_1,Appendi la seconda corda con campanelli
+QUEST_YARDANDCODE_TASKGROUP_1_TASK_2,Appendi la terza corda con campanelli
+QUEST_YARDANDCODE_TASKGROUP_1_TASK_3,Appendi la quarta corda con campanelli

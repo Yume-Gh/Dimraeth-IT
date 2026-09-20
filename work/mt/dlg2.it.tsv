@@ -1,0 +1,914 @@
+NPC_BASILTON_GREETING_00036045-d3fc-4850-a6f4-c172bfa0d474	*Basilton è in piedi davanti alle aiuole devastate. La sua figura imponente avvolge le macerie in un silenzio pesante, come se il giardino stesso fosse ammutolito.*<x1/><x2/>"I miei… i miei amici."<x3/><x4/>*La voce gli si spezza, così piccola per un essere tanto grande.*<x5/><x6/>"La mia… casa."
+NPC_BASILTON_GREETING_00d2ad44-6b8c-40f6-85c4-571c1787895a	*Basilton espira, ritrovando l'equilibrio dopo la prigionia imposta dalle driadi. Molti dei fiori sul suo corpo sono avvizziti e sfibrati.*<x1/><x2/>"Amico… giungi al momento giusto. Volevano piegarmi alla loro volontà, usarmi come un'arma."<x3/><x4/>*Preme le mani sulla terra, sentendo ciò che la percorre.*<x5/><x6/>"Mai, in tutti i miei anni, ho visto la gente della foresta ricorrere alla magia corrotta. Sono tempi oscuri e terribili."
+NPC_BASILTON_GREETING_24aa2568-63a5-405d-bd58-71ac5a12f817	*Il corpo gigantesco di Basilton si muove lentamente mentre si volta verso di te. Si ferma a metà, come se cogliesse qualcosa di flebile nell'aria, poi si gira del tutto.*<x1/><x2/>"Bentornato, caro amico. Mi fa piacere vederti, anche se devo ammettere che il giardino ha conosciuto giorni migliori."<x3/><x4/>*Tende una mano verso la terra, fermandosi prima di toccarla.*<x5/><x6/>"Parlano ad Acorn e a me di una malattia, un veleno che serpeggia nel terreno."<x7/><x8/>*Il suo sguardo scorre attento sulle aiuole, come in attesa di una risposta.*<x9/><x10/>"Le rende inquiete, persino adirate, e poi sottrae loro le forze."
+NPC_BASILTON_GREETING_401274f5-2cad-44a2-93dd-fd7bb40aa3f1	*Gli occhi luminosi di Basilton si accendono di sollievo al tuo avvicinarsi. Il velo lucido di fango sulla sua pelle si ritira, come se la tensione sprofondasse di nuovo nella terra.*<x1/><x2/>"Arrivi appena in tempo, caro amico."<x3/><x4/>*Volta lentamente il capo, in ascolto, poi scruta il giardino.*<x5/><x6/>"I goblin si fanno audaci. La corruzione mostra loro soltanto la debolezza altrui, e loro seguono quella brama."
+NPC_BASILTON_GREETING_d26b876f-07e7-4436-b9d2-bac3e4f2daea	*Davanti a te si erge una figura imponente di pietra e terra fertile, ammantata di muschio e delicati fiori selvatici. Le radici la percorrono come vene nel legno antico. Un piccolo scoiattolo sta in equilibrio sulla sua spalla senza alcun timore. Lo sguardo del golem si posa su di te, paziente e senza fretta, mentre il capo si inclina con pacato stupore.*<x1/><x2/>"Acorn, guarda. Finalmente un volto nuovo. Ti trovi nel mio giardino, straniero. Sei il benvenuto. Vuoi concedere un istante a una piccola verità di foglie e vento?"
+NPC_BASILTON_GREETING_dffgddf-d3fc-4850-a6f4-c172bfa0d474	"Acorn, il nostro nuovo amico è tornato. Bentornato."
+NPC_BASILTON_GREETING_f7f9a65c-31b8-46b2-8ea1-87aff8f8d649	*Basilton è nel Santuario e si volta lentamente mentre parla con Acorn. I suoi occhi luminosi passano dalla pietra alla terra agli spazi aperti con mite curiosità.*<x1/><x2/>"Oh, Acorn. Una nuova casa. E per di più in alto. Mi domando che cosa pensino le radici di un luogo simile."<x3/><x4/>*Ti vede avvicinarti e si raddrizza, accogliente.*<x5/><x6/>"Ah, mio caro eroe. Mi fa piacere vederti. Grazie per averci condotti qui. Le ossa di questo luogo sono solide. Con le dovute cure, può diventare davvero accogliente."
+NPC_BASILTON_PLAYER_0207462b-79a9-4539-8476-c07b66ebfce1_HEROIC	Somigliano più a strumenti che a compagni, anche se il confine è sottile.
+NPC_BASILTON_PLAYER_0207462b-79a9-4539-8476-c07b66ebfce1_JOKER	Buffo, sembrano strumenti, ma la differenza con le persone è proprio poca cosa.
+NPC_BASILTON_PLAYER_0207462b-79a9-4539-8476-c07b66ebfce1_SCHOLAR	Strumenti, più che persone. Benché le due categorie si confondano più di quanto ammettiamo.
+NPC_BASILTON_PLAYER_0207462b-79a9-4539-8476-c07b66ebfce1_STOIC	Sembrano più strumenti che persone. Ma anche lì cambia poco.
+NPC_BASILTON_PLAYER_042bfb34-b076-48b6-a063-ef86c57b5fce_BASE	Che cos'è il Raduno della Foresta?
+NPC_BASILTON_PLAYER_0874c3ee-ac43-4f97-91c0-b66d875d6ba8_HEROIC	Sprechi troppe parole per un essere fatto di terra.
+NPC_BASILTON_PLAYER_0874c3ee-ac43-4f97-91c0-b66d875d6ba8_JOKER	Quante chiacchiere per un mucchio di terra.
+NPC_BASILTON_PLAYER_0874c3ee-ac43-4f97-91c0-b66d875d6ba8_SCHOLAR	Ti esprimi con eccessiva loquacità per un ammasso di terriccio.
+NPC_BASILTON_PLAYER_0874c3ee-ac43-4f97-91c0-b66d875d6ba8_STOIC	Parli troppo per un mucchio di fango.
+NPC_BASILTON_PLAYER_0cbe03e3-bdcd-4c40-a428-1d1f0069866a_HEROIC	Dobbiamo sterminarli finché resta una speranza.
+NPC_BASILTON_PLAYER_0cbe03e3-bdcd-4c40-a428-1d1f0069866a_JOKER	Facciamo fuori i goblin prima che anche la speranza tolga il disturbo.
+NPC_BASILTON_PLAYER_0cbe03e3-bdcd-4c40-a428-1d1f0069866a_SCHOLAR	I goblin vanno eliminati ora, finché le probabilità consentono di sperare.
+NPC_BASILTON_PLAYER_0cbe03e3-bdcd-4c40-a428-1d1f0069866a_STOIC	Sterminiamo i goblin. Finché c'è speranza.
+NPC_BASILTON_PLAYER_0f03c3e8-1fb8-4769-94b7-d4ad1c2fbe02_BASE	Perché non vai a prenderne al villaggio?
+NPC_BASILTON_PLAYER_10d84df9-45f6-477f-9335-bb839f9cd0a7_HEROIC	È un luogo orribile, soprattutto sotto l'ombra degli elfi imperiali.
+NPC_BASILTON_PLAYER_10d84df9-45f6-477f-9335-bb839f9cd0a7_JOKER	Un posto orribile. A meno che tu non sia un elfo imperiale: in quel caso, ordinaria amministrazione.
+NPC_BASILTON_PLAYER_10d84df9-45f6-477f-9335-bb839f9cd0a7_SCHOLAR	Un luogo orribile, e ancor più se a costruirlo sono stati gli elfi imperiali.
+NPC_BASILTON_PLAYER_10d84df9-45f6-477f-9335-bb839f9cd0a7_STOIC	Un posto orribile. Peggio ancora se è degli elfi imperiali.
+NPC_BASILTON_PLAYER_1725ae5f-9252-4bd2-a721-b3fcd2516582_HEROIC	A cosa possono servirmi delle piante in questo luogo?
+NPC_BASILTON_PLAYER_1725ae5f-9252-4bd2-a721-b3fcd2516582_JOKER	Perché dovrei ingombrare il posto di piante?
+NPC_BASILTON_PLAYER_1725ae5f-9252-4bd2-a721-b3fcd2516582_SCHOLAR	E quale utilità avrebbero qui le piante, in termini pratici?
+NPC_BASILTON_PLAYER_1725ae5f-9252-4bd2-a721-b3fcd2516582_STOIC	A che mi servono le piante, qui?
+NPC_BASILTON_PLAYER_187d37d8-2e95-4178-934b-fafa5f8ec501_HEROIC	Benvenuto, Basilton. Che cosa hai intenzione di fare qui?
+NPC_BASILTON_PLAYER_187d37d8-2e95-4178-934b-fafa5f8ec501_JOKER	Benvenuto, Basilton. Hai grandi progetti per questo posto?
+NPC_BASILTON_PLAYER_187d37d8-2e95-4178-934b-fafa5f8ec501_SCHOLAR	Benvenuto, Basilton. Che cosa coltiverai per prima cosa?
+NPC_BASILTON_PLAYER_187d37d8-2e95-4178-934b-fafa5f8ec501_STOIC	Benvenuto, Basilton. Che progetti hai?
+NPC_BASILTON_PLAYER_1b2d6f8b-cf80-41e2-b3f7-208ce78d066f_HEROIC	Cosa li ha spinti a un simile gesto?
+NPC_BASILTON_PLAYER_1b2d6f8b-cf80-41e2-b3f7-208ce78d066f_JOKER	Che gli è preso, per fare una cosa del genere?
+NPC_BASILTON_PLAYER_1b2d6f8b-cf80-41e2-b3f7-208ce78d066f_SCHOLAR	Ma perché proprio questo? Per puro rancore, o miravano a qualcosa?
+NPC_BASILTON_PLAYER_1b2d6f8b-cf80-41e2-b3f7-208ce78d066f_STOIC	Perché l'hanno fatto?
+NPC_BASILTON_PLAYER_1b91743f-f0fa-472b-a63c-f5231781c466_BASE	Cosa sai della corruzione?
+NPC_BASILTON_PLAYER_1bea40c8-a342-4e70-ba91-1ade280790b2_HEROIC	Questo doveva essere un luogo degli antichi elfi, e di grande importanza.
+NPC_BASILTON_PLAYER_1bea40c8-a342-4e70-ba91-1ade280790b2_JOKER	Quindi era qui che gli antichi elfi si mettevano comodi.
+NPC_BASILTON_PLAYER_1bea40c8-a342-4e70-ba91-1ade280790b2_SCHOLAR	Quasi certamente opera degli antichi elfi. Le pietre ne rivelano le consuetudini.
+NPC_BASILTON_PLAYER_1bea40c8-a342-4e70-ba91-1ade280790b2_STOIC	Doveva essere un luogo degli antichi elfi.
+NPC_BASILTON_PLAYER_1c490c3f-f775-46cf-bd56-905f8ca530f3_HEROIC	Queste rovine e queste piante valgono poco, non abbastanza da giustificare il rischio.
+NPC_BASILTON_PLAYER_1c490c3f-f775-46cf-bd56-905f8ca530f3_JOKER	Insomma, rovine e un po' di verde. Non mi sembra il caso di rimetterci la pelle.
+NPC_BASILTON_PLAYER_1c490c3f-f775-46cf-bd56-905f8ca530f3_SCHOLAR	Rovine e piante. Ciò che potrebbero insegnarci non giustifica il rischio.
+NPC_BASILTON_PLAYER_1c490c3f-f775-46cf-bd56-905f8ca530f3_STOIC	Rovine e piante. Non vale il pericolo.
+NPC_BASILTON_PLAYER_1da654c2-6be6-49c8-9b9c-fda3ff588a73_HEROIC	Mi chiedo: ha un nome?
+NPC_BASILTON_PLAYER_1da654c2-6be6-49c8-9b9c-fda3ff588a73_JOKER	Ma ce l'ha almeno un nome?
+NPC_BASILTON_PLAYER_1da654c2-6be6-49c8-9b9c-fda3ff588a73_SCHOLAR	Un essere pensante merita un nome. Ne ha uno?
+NPC_BASILTON_PLAYER_1da654c2-6be6-49c8-9b9c-fda3ff588a73_STOIC	Ha un nome?
+NPC_BASILTON_PLAYER_21ff9083-1b2a-4bf5-b586-a2ea3a0f6006_HEROIC	Lasciali andare, golem. Rivolgi piuttosto la tua rabbia contro la corruzione.
+NPC_BASILTON_PLAYER_21ff9083-1b2a-4bf5-b586-a2ea3a0f6006_JOKER	Lasciali andare, golem. Sfoga quel caratterino sulla corruzione.
+NPC_BASILTON_PLAYER_21ff9083-1b2a-4bf5-b586-a2ea3a0f6006_SCHOLAR	Lasciali andare, golem. Il vero bersaglio è la corruzione.
+NPC_BASILTON_PLAYER_21ff9083-1b2a-4bf5-b586-a2ea3a0f6006_STOIC	Lasciali andare, golem. Rivolgi la rabbia contro la causa. Dobbiamo eliminare la corruzione.
+NPC_BASILTON_PLAYER_283b9203-fdbc-434f-943d-f5cfe4be2f2e_HEROIC	Va', che la fortuna ti assista, e non cadere di nuovo nelle loro mani.
+NPC_BASILTON_PLAYER_283b9203-fdbc-434f-943d-f5cfe4be2f2e_JOKER	Va' pure. Meglio non farsi acciuffare due volte di fila.
+NPC_BASILTON_PLAYER_283b9203-fdbc-434f-943d-f5cfe4be2f2e_SCHOLAR	Va', e bada al cammino. Una seconda cattura indicherebbe una certa ricorrenza.
+NPC_BASILTON_PLAYER_283b9203-fdbc-434f-943d-f5cfe4be2f2e_STOIC	Va', allora. Buona fortuna. Non farti catturare di nuovo.
+NPC_BASILTON_PLAYER_29daea74-fe2b-4298-842e-8d95fe084930_BASE	Cosa posso fare con le piante?
+NPC_BASILTON_PLAYER_2c97318a-6db6-4ec5-93bd-dbd3b47b1e83_HEROIC	Eravate legati?
+NPC_BASILTON_PLAYER_2c97318a-6db6-4ec5-93bd-dbd3b47b1e83_JOKER	Lo conoscevi, o conoscevi solo le storie?
+NPC_BASILTON_PLAYER_2c97318a-6db6-4ec5-93bd-dbd3b47b1e83_SCHOLAR	Che rapporto avevi con lui, prima di tutto questo?
+NPC_BASILTON_PLAYER_2c97318a-6db6-4ec5-93bd-dbd3b47b1e83_STOIC	Lo conoscevi?
+NPC_BASILTON_PLAYER_2d93451a-5225-44b1-8ec8-9c4a9496f615_HEROIC	Non posso attardarmi a parlare con una bestia gigantesca.
+NPC_BASILTON_PLAYER_2d93451a-5225-44b1-8ec8-9c4a9496f615_JOKER	Fare conversazione con una bestia gigantesca non era nei programmi di oggi.
+NPC_BASILTON_PLAYER_2d93451a-5225-44b1-8ec8-9c4a9496f615_SCHOLAR	Il tempo non mi consente una conversazione con una bestia gigantesca.
+NPC_BASILTON_PLAYER_2d93451a-5225-44b1-8ec8-9c4a9496f615_STOIC	Non ho tempo per parlare con una bestia gigantesca.
+NPC_BASILTON_PLAYER_2e927780-1eab-45bb-b3e1-9ac5a0b8c221_HEROIC	I goblin hanno lasciato il segno, qui.
+NPC_BASILTON_PLAYER_2e927780-1eab-45bb-b3e1-9ac5a0b8c221_JOKER	I goblin sono passati a fare una visitina, si vede.
+NPC_BASILTON_PLAYER_2e927780-1eab-45bb-b3e1-9ac5a0b8c221_SCHOLAR	Opera dei goblin. I segni sono ovunque.
+NPC_BASILTON_PLAYER_2e927780-1eab-45bb-b3e1-9ac5a0b8c221_STOIC	Ci sono arrivati i goblin.
+NPC_BASILTON_PLAYER_2f35d498-5020-470c-beef-e68ba23a3425_HEROIC	Ci torni mai?
+NPC_BASILTON_PLAYER_2f35d498-5020-470c-beef-e68ba23a3425_JOKER	Ogni tanto ci vai, o tu e la tavoletta vi scambiate lunghi silenzi?
+NPC_BASILTON_PLAYER_2f35d498-5020-470c-beef-e68ba23a3425_SCHOLAR	Con quale frequenza torni in quel luogo?
+NPC_BASILTON_PLAYER_2f35d498-5020-470c-beef-e68ba23a3425_STOIC	La visiti mai?
+NPC_BASILTON_PLAYER_3203386e-42d1-4a4e-a7dc-30bda3df60f5_BASE	Quali semi potrei comprare?
+NPC_BASILTON_PLAYER_3252792c-225c-4fa9-a000-494ad67cdbd1_HEROIC	È un pensiero saggio. Chi sei?
+NPC_BASILTON_PLAYER_3252792c-225c-4fa9-a000-494ad67cdbd1_JOKER	Curiosa, questa idea. E tu chi saresti?
+NPC_BASILTON_PLAYER_3252792c-225c-4fa9-a000-494ad67cdbd1_SCHOLAR	Un pensiero affascinante. Chi sei?
+NPC_BASILTON_PLAYER_3252792c-225c-4fa9-a000-494ad67cdbd1_STOIC	Interessante. Chi sei?
+NPC_BASILTON_PLAYER_37bf5871-fc9d-4b49-8036-2aca5e29c00e_BASE	Quanti anni hai?
+NPC_BASILTON_PLAYER_3adc03f9-4c21-43c2-a37c-47600752efdf_HEROIC	Lascia che ti temano: è proprio quel timore a dimostrare la tua forza.
+NPC_BASILTON_PLAYER_3adc03f9-4c21-43c2-a37c-47600752efdf_JOKER	Le driadi ti temono. Beh, c'è chi ha una reputazione peggiore.
+NPC_BASILTON_PLAYER_3adc03f9-4c21-43c2-a37c-47600752efdf_SCHOLAR	Le driadi ti temono. Il timore protegge un giardino meglio dei recinti.
+NPC_BASILTON_PLAYER_3adc03f9-4c21-43c2-a37c-47600752efdf_STOIC	Le driadi ti temono. È un bene.
+NPC_BASILTON_PLAYER_3ec2d0a7-514c-4a84-9b8e-84dc30e96741_HEROIC	Avresti dovuto tenerli. La carne è carne.
+NPC_BASILTON_PLAYER_3ec2d0a7-514c-4a84-9b8e-84dc30e96741_JOKER	Dovevi prenderli al laccio. La cena era già lì.
+NPC_BASILTON_PLAYER_3ec2d0a7-514c-4a84-9b8e-84dc30e96741_SCHOLAR	Avresti dovuto trattenerli. È raro che le provviste abbiano modo di andarsene da sole.
+NPC_BASILTON_PLAYER_3ec2d0a7-514c-4a84-9b8e-84dc30e96741_STOIC	Dovevi intrappolarli. Per mangiarli più tardi.
+NPC_BASILTON_PLAYER_439fad4a-9a83-46e4-9be8-8b9bd60f1103_HEROIC	Questo luogo ha una bellezza rara. Anch'io ho provato quella pace quando ci sono stato.
+NPC_BASILTON_PLAYER_439fad4a-9a83-46e4-9be8-8b9bd60f1103_JOKER	Lì mi sono sentito calmo persino io, e di solito la calma mi evita.
+NPC_BASILTON_PLAYER_439fad4a-9a83-46e4-9be8-8b9bd60f1103_SCHOLAR	Un luogo splendido. Quando vi sono stato, ho avvertito la medesima quiete.
+NPC_BASILTON_PLAYER_439fad4a-9a83-46e4-9be8-8b9bd60f1103_STOIC	È un bel posto. Lì ho provato la stessa calma.
+NPC_BASILTON_PLAYER_442ae0ac-8561-430c-9b9a-3594ab8809ce_HEROIC	Lascia che appartenga al passato, e prosegui il cammino.
+NPC_BASILTON_PLAYER_442ae0ac-8561-430c-9b9a-3594ab8809ce_JOKER	Meglio lasciar perdere e tirare dritto.
+NPC_BASILTON_PLAYER_442ae0ac-8561-430c-9b9a-3594ab8809ce_SCHOLAR	Il dolore consuma tempo che non abbiamo. Lascialo andare.
+NPC_BASILTON_PLAYER_442ae0ac-8561-430c-9b9a-3594ab8809ce_STOIC	Dimentica. Va' avanti.
+NPC_BASILTON_PLAYER_461915a3-d506-46dd-a0cd-49a19727c375_BASE	Conosco Befr. Da quanto tempo lo conosci?
+NPC_BASILTON_PLAYER_4a670ee5-037e-4d6e-ab95-025bdeee993a_HEROIC	Non badare a loro, Basilton. La presenza di Myrll in tutti questi anni è stata una vera benedizione.
+NPC_BASILTON_PLAYER_4a670ee5-037e-4d6e-ab95-025bdeee993a_JOKER	Non farci caso, Basilton. Almeno Myrll ti è rimasta accanto negli anni: la lealtà, di questi tempi, è merce rara.
+NPC_BASILTON_PLAYER_4a670ee5-037e-4d6e-ab95-025bdeee993a_SCHOLAR	Non dar loro peso, Basilton. Myrll è rimasta. Sono gli altri ad averci perso.
+NPC_BASILTON_PLAYER_4a670ee5-037e-4d6e-ab95-025bdeee993a_STOIC	Non badare a loro, Basilton. Myrll è rimasta, negli anni.
+NPC_BASILTON_PLAYER_4b836a8f-82e7-435d-bd1e-b134b332b8a2_BASE	Cosa sai di quella Tavoletta Elfica nella Pozza del Ricordo?
+NPC_BASILTON_PLAYER_4d8a0e1c-ae0f-4e29-943a-e2cb1cdf9ee5_HEROIC	Un bel giardino. Un luogo così merita la sua quiete.
+NPC_BASILTON_PLAYER_4d8a0e1c-ae0f-4e29-943a-e2cb1cdf9ee5_JOKER	Un giardino per coltivare pensieri oltre che fiori. Ingegnoso.
+NPC_BASILTON_PLAYER_4d8a0e1c-ae0f-4e29-943a-e2cb1cdf9ee5_SCHOLAR	Un giardino incantevole. Quieto, ordinato. Qui il pensiero potrebbe fiorire.
+NPC_BASILTON_PLAYER_4d8a0e1c-ae0f-4e29-943a-e2cb1cdf9ee5_STOIC	Un bel giardino. Ottimo per pensare.
+NPC_BASILTON_PLAYER_507bd768-4b39-4cb0-bded-16aac905d418_HEROIC	Ti darò il mezzo per raggiungerlo. Il Varco incanala la magia degli Antichi.
+NPC_BASILTON_PLAYER_507bd768-4b39-4cb0-bded-16aac905d418_JOKER	Pronto per una scorciatoia? Con la magia degli Antichi e un Varco, sarai lì in un lampo.
+NPC_BASILTON_PLAYER_507bd768-4b39-4cb0-bded-16aac905d418_SCHOLAR	Il dono è la magia degli Antichi. Un Varco ti condurrà fin là.
+NPC_BASILTON_PLAYER_507bd768-4b39-4cb0-bded-16aac905d418_STOIC	Ti darò la capacità di teletrasportarti lì. Magia degli Antichi. Usa un Varco.
+NPC_BASILTON_PLAYER_5b2f3d34-aac3-4ad2-9837-436c7aa960af_BASE	Cosa sai delle sue origini?
+NPC_BASILTON_PLAYER_5bbde4d4-80f2-4a71-a301-6c133cbe5f39_HEROIC	Sì, la tua presenza mi dà sollievo, anche se mi addolorano le sofferenze che ti hanno condotto qui.
+NPC_BASILTON_PLAYER_5bbde4d4-80f2-4a71-a301-6c133cbe5f39_JOKER	Sì, sono felice che tu ce l'abbia fatta, anche se la strada non ti ha certo trattato coi guanti.
+NPC_BASILTON_PLAYER_5bbde4d4-80f2-4a71-a301-6c133cbe5f39_SCHOLAR	Sì, mi fa piacere che tu sia qui, benché non per il motivo che ti ha condotto fin qua.
+NPC_BASILTON_PLAYER_5bbde4d4-80f2-4a71-a301-6c133cbe5f39_STOIC	Sì, anche a me fa piacere. Ma mi dispiace per ciò che ti ha portato qui.
+NPC_BASILTON_PLAYER_5d3acd23-02a7-4060-86e6-4e5396931cdc_BASE	Pensi che i goblin attaccheranno di nuovo?
+NPC_BASILTON_PLAYER_621f7188-a4ac-47e8-b205-c050e6c9df26_HEROIC	Un giardino splendido, Basilton. Un lavoro di cui essere fieri.
+NPC_BASILTON_PLAYER_621f7188-a4ac-47e8-b205-c050e6c9df26_JOKER	Un giardino da far invidia alle erbacce, Basilton.
+NPC_BASILTON_PLAYER_621f7188-a4ac-47e8-b205-c050e6c9df26_SCHOLAR	Questo giardino è davvero magnifico, Basilton.
+NPC_BASILTON_PLAYER_621f7188-a4ac-47e8-b205-c050e6c9df26_STOIC	Un bel giardino, Basilton.
+NPC_BASILTON_PLAYER_62874ee2-849c-411f-abe0-f057d8089923_HEROIC	Non voglio illuderti: roccia, un campo e lavoro da fare. Il Varco ti ci porterà, se lo vuoi ancora.
+NPC_BASILTON_PLAYER_62874ee2-849c-411f-abe0-f057d8089923_JOKER	Chiamalo giardino e si metteranno a ridere anche i sassi. C'è un Varco, se la nuda roccia fa per te.
+NPC_BASILTON_PLAYER_62874ee2-849c-411f-abe0-f057d8089923_SCHOLAR	Per ora è terra senza giardiniere. Il Varco ti ci condurrà, se ti basta questo.
+NPC_BASILTON_PLAYER_62874ee2-849c-411f-abe0-f057d8089923_STOIC	Non è ancora un giardino. Roccia e un campo. C'è un Varco, se vuoi ancora andarci.
+NPC_BASILTON_PLAYER_6295b246-8560-4b0e-854e-3c904721331d_BASE	Conosci la driade Myrll?
+NPC_BASILTON_PLAYER_63f0ed59-6ee8-4ea8-aa0f-913ea80396f0_HEROIC	È un piacere incontrarti. Qualunque cosa tu abbia scoperto, voglio ascoltare tutto.
+NPC_BASILTON_PLAYER_63f0ed59-6ee8-4ea8-aa0f-913ea80396f0_JOKER	Piacere di conoscerti. Avanti, stupiscimi con la tua scoperta.
+NPC_BASILTON_PLAYER_63f0ed59-6ee8-4ea8-aa0f-913ea80396f0_SCHOLAR	È un piacere conoscerti. Che cosa hai scoperto, esattamente?
+NPC_BASILTON_PLAYER_63f0ed59-6ee8-4ea8-aa0f-913ea80396f0_STOIC	Lieto di conoscerti. Dimmi cosa hai scoperto.
+NPC_BASILTON_PLAYER_6781b7bc-7efd-45db-a9f5-e13c534eab07_HEROIC	È notevole che tu abbia mantenuto un simile ordine con i goblin nelle vicinanze.
+NPC_BASILTON_PLAYER_6781b7bc-7efd-45db-a9f5-e13c534eab07_JOKER	Goblin dappertutto, eppure neanche un granello fuori posto. Insegnami il trucco.
+NPC_BASILTON_PLAYER_6781b7bc-7efd-45db-a9f5-e13c534eab07_SCHOLAR	Tutto pulito, malgrado i goblin. Ci vuole metodo. Qual è il tuo?
+NPC_BASILTON_PLAYER_6781b7bc-7efd-45db-a9f5-e13c534eab07_STOIC	Notevole tenerlo così pulito con tutti questi goblin in giro.
+NPC_BASILTON_PLAYER_6c126798-c831-4f73-a5b5-86db30e1c46a_HEROIC	Sei ferito? Raccontami tutto.
+NPC_BASILTON_PLAYER_6c126798-c831-4f73-a5b5-86db30e1c46a_JOKER	Sei tutto intero? Che è successo là fuori?
+NPC_BASILTON_PLAYER_6c126798-c831-4f73-a5b5-86db30e1c46a_SCHOLAR	Stai bene? Raccontami l'accaduto, con ordine.
+NPC_BASILTON_PLAYER_6c126798-c831-4f73-a5b5-86db30e1c46a_STOIC	Tutto bene? Cos'è successo?
+NPC_BASILTON_PLAYER_73101d97-657f-4a78-a48f-6a6fedf5cd46_BASE	"Cosa sai di quelle rovine qui vicino?"
+NPC_BASILTON_PLAYER_7575db1d-de26-49ab-9d67-e5e31f9e2471_HEROIC	Ci rifletterò, ma questo non è il momento.
+NPC_BASILTON_PLAYER_7575db1d-de26-49ab-9d67-e5e31f9e2471_JOKER	Allettante, ma il momento è proprio quello sbagliato.
+NPC_BASILTON_PLAYER_7575db1d-de26-49ab-9d67-e5e31f9e2471_SCHOLAR	Merita una riflessione, ma non oggi.
+NPC_BASILTON_PLAYER_7575db1d-de26-49ab-9d67-e5e31f9e2471_STOIC	Forse più tardi. Ora no.
+NPC_BASILTON_PLAYER_7737050c-93af-4b70-8bb3-6069721361c0_HEROIC	Le driadi avranno doveri più urgenti che occuparsi di un giardino.
+NPC_BASILTON_PLAYER_7737050c-93af-4b70-8bb3-6069721361c0_JOKER	Le driadi saranno impegnate. Un giardino di rado è un'emergenza.
+NPC_BASILTON_PLAYER_7737050c-93af-4b70-8bb3-6069721361c0_SCHOLAR	Le driadi devono badare alle foreste. Un giardino ha scarsa priorità.
+NPC_BASILTON_PLAYER_7737050c-93af-4b70-8bb3-6069721361c0_STOIC	Le driadi avranno altro da fare che visitare un giardino.
+NPC_BASILTON_PLAYER_7aa461aa-9697-47ca-90a0-13f21a75bcc6_HEROIC	Era diventato una bestia folle, ed è stato necessario abbatterlo.
+NPC_BASILTON_PLAYER_7aa461aa-9697-47ca-90a0-13f21a75bcc6_JOKER	Una bestia folle resta una bestia folle. Abbatterlo era l'unica.
+NPC_BASILTON_PLAYER_7aa461aa-9697-47ca-90a0-13f21a75bcc6_SCHOLAR	Ormai era una bestia folle. Abbatterlo ne è stata la conseguenza necessaria.
+NPC_BASILTON_PLAYER_7aa461aa-9697-47ca-90a0-13f21a75bcc6_STOIC	Era una bestia folle. Andava abbattuto.
+NPC_BASILTON_PLAYER_7b4145b4-025f-4973-af9a-8eae4b254ed5_HEROIC	Ti attaccano, eppure rimani. Il coraggio speso male è follia.
+NPC_BASILTON_PLAYER_7b4145b4-025f-4973-af9a-8eae4b254ed5_JOKER	Ti attaccano e tu resti qui. Una sciocchezza, a meno che non ti piacciano i brividi.
+NPC_BASILTON_PLAYER_7b4145b4-025f-4973-af9a-8eae4b254ed5_SCHOLAR	Ti attaccano e tu rimani. Spiegami il ragionamento, perché io non lo comprendo.
+NPC_BASILTON_PLAYER_7b4145b4-025f-4973-af9a-8eae4b254ed5_STOIC	Ti attaccano e resti. Stolto.
+NPC_BASILTON_PLAYER_7bcb065d-79eb-48d1-8481-9129f26d565d_HEROIC	Myrll deve essersi assicurata che gli animali rispettassero il tuo giardino.
+NPC_BASILTON_PLAYER_7bcb065d-79eb-48d1-8481-9129f26d565d_JOKER	Myrll deve aver dettato legge: adesso nessun animale osa dare un morso al tuo giardino.
+NPC_BASILTON_PLAYER_7bcb065d-79eb-48d1-8481-9129f26d565d_SCHOLAR	Dunque Myrll ha stabilito la regola, e gli animali la osservano.
+NPC_BASILTON_PLAYER_7bcb065d-79eb-48d1-8481-9129f26d565d_STOIC	Myrll avrà vietato agli animali di mangiare le tue piante.
+NPC_BASILTON_PLAYER_7d287036-8207-4291-a9cd-6577108915bd_HEROIC	Mi addolora che non ci sia più. Davvero.
+NPC_BASILTON_PLAYER_7d287036-8207-4291-a9cd-6577108915bd_JOKER	Non c'è più, e mi mancherà, a modo mio. Per quanto storto.
+NPC_BASILTON_PLAYER_7d287036-8207-4291-a9cd-6577108915bd_SCHOLAR	Mi dispiace che sia scomparso. Senza di lui, la foresta avrà un altro significato.
+NPC_BASILTON_PLAYER_7d287036-8207-4291-a9cd-6577108915bd_STOIC	Mi dispiace che non ci sia più.
+NPC_BASILTON_PLAYER_80d6533c-b7db-4fdd-a331-0c9d01ce654a_HEROIC	A mio giudizio, è una perdita di tempo.
+NPC_BASILTON_PLAYER_80d6533c-b7db-4fdd-a331-0c9d01ce654a_JOKER	Se perdere tempo fosse un'arte, questo sarebbe il capolavoro.
+NPC_BASILTON_PLAYER_80d6533c-b7db-4fdd-a331-0c9d01ce654a_SCHOLAR	Per quanto riesco a valutare, è tempo sprecato.
+NPC_BASILTON_PLAYER_80d6533c-b7db-4fdd-a331-0c9d01ce654a_STOIC	Sembra una perdita di tempo.
+NPC_BASILTON_PLAYER_87e4487f-2773-447c-8727-f0c3e23f7153_HEROIC	Una bestia come te è fatta per la battaglia. Sei sprecato in un giardino.
+NPC_BASILTON_PLAYER_87e4487f-2773-447c-8727-f0c3e23f7153_JOKER	Una bestia con la tua forza dovrebbe stare in battaglia, mica a coccolare le aiuole.
+NPC_BASILTON_PLAYER_87e4487f-2773-447c-8727-f0c3e23f7153_SCHOLAR	Una forza come la tua trova impiego in battaglia. Il giardino la disperde.
+NPC_BASILTON_PLAYER_87e4487f-2773-447c-8727-f0c3e23f7153_STOIC	Una bestia come te dovrebbe usare la forza in battaglia, non in giardino.
+NPC_BASILTON_PLAYER_888601c0-6aed-4e97-8ba3-9ad6b661b973_BASE	Il Re della Foresta è stato ucciso.
+NPC_BASILTON_PLAYER_899b4f84-0449-48b7-b459-7d5881739b4d_HEROIC	È un modo saggio di vedere le cose, Basilton.
+NPC_BASILTON_PLAYER_899b4f84-0449-48b7-b459-7d5881739b4d_JOKER	Questo sì che è vedere il lato buono, Basilton.
+NPC_BASILTON_PLAYER_899b4f84-0449-48b7-b459-7d5881739b4d_SCHOLAR	Questa prospettiva regge, Basilton. Potrei farla mia.
+NPC_BASILTON_PLAYER_899b4f84-0449-48b7-b459-7d5881739b4d_STOIC	Una visione sensata, Basilton.
+NPC_BASILTON_PLAYER_8a997a07-6848-407a-ac6b-f8ecd9c4a493_HEROIC	Basilton, mi addolora questa perdita.
+NPC_BASILTON_PLAYER_8a997a07-6848-407a-ac6b-f8ecd9c4a493_JOKER	Basilton, ti devo delle scuse. Eccole qui.
+NPC_BASILTON_PLAYER_8a997a07-6848-407a-ac6b-f8ecd9c4a493_SCHOLAR	Ti prego di accettare le mie scuse, Basilton.
+NPC_BASILTON_PLAYER_8a997a07-6848-407a-ac6b-f8ecd9c4a493_STOIC	Le mie scuse, Basilton.
+NPC_BASILTON_PLAYER_8a9a5168-1a7f-4806-8e0a-e83375a85141_HEROIC	Quale forza potrebbe far ammalare le piante?
+NPC_BASILTON_PLAYER_8a9a5168-1a7f-4806-8e0a-e83375a85141_JOKER	Cos'hanno le piante da stare così giù?
+NPC_BASILTON_PLAYER_8a9a5168-1a7f-4806-8e0a-e83375a85141_SCHOLAR	Cosa le fa ammalare? Il terreno, o qualcosa che lo attraversa?
+NPC_BASILTON_PLAYER_8a9a5168-1a7f-4806-8e0a-e83375a85141_STOIC	Cosa fa ammalare le piante?
+NPC_BASILTON_PLAYER_8d3ca7d8-81d1-428d-9dd3-bcf69bb24b03_HEROIC	Non occorre ringraziarmi. I goblin devono essere sconfitti.
+NPC_BASILTON_PLAYER_8d3ca7d8-81d1-428d-9dd3-bcf69bb24b03_JOKER	Ma figurati. Qualcuno dovrà pur far fuori i goblin.
+NPC_BASILTON_PLAYER_8d3ca7d8-81d1-428d-9dd3-bcf69bb24b03_SCHOLAR	Non occorre parlarne. I goblin sono una quantità da sottrarre a qualsiasi equazione.
+NPC_BASILTON_PLAYER_8d3ca7d8-81d1-428d-9dd3-bcf69bb24b03_STOIC	Non serve dirlo. I goblin vanno uccisi.
+NPC_BASILTON_PLAYER_8dcc5fa9-293b-419a-a67b-81233e25750b_HEROIC	Andava fatto, Basilton. E lo rifarei.
+NPC_BASILTON_PLAYER_8dcc5fa9-293b-419a-a67b-81233e25750b_JOKER	Felice di averti dato una mano, Basilton.
+NPC_BASILTON_PLAYER_8dcc5fa9-293b-419a-a67b-81233e25750b_SCHOLAR	Era un compito adatto a me, Basilton.
+NPC_BASILTON_PLAYER_8dcc5fa9-293b-419a-a67b-81233e25750b_STOIC	Lieto di aiutarti, Basilton.
+NPC_BASILTON_PLAYER_8ded4375-7e8c-4a1f-b050-f693abb381a6_HEROIC	Coraggio. E non sei così temibile come credi.
+NPC_BASILTON_PLAYER_8ded4375-7e8c-4a1f-b050-f693abb381a6_JOKER	Coraggio, dici? Non montarti la testa, non fai così paura.
+NPC_BASILTON_PLAYER_8ded4375-7e8c-4a1f-b050-f693abb381a6_SCHOLAR	Coraggio. Non è saggio ritenersi degni di essere temuti.
+NPC_BASILTON_PLAYER_8ded4375-7e8c-4a1f-b050-f693abb381a6_STOIC	Coraggio. Non dovresti credere di meritare timore.
+NPC_BASILTON_PLAYER_910bed3f-e35d-4b78-80c8-6517b999d8c3_BASE	A cosa pensi?
+NPC_BASILTON_PLAYER_9146baba-0ffc-45ce-9cf3-60cff8dc2d03_BASE	Lo scoiattolo ha un nome?
+NPC_BASILTON_PLAYER_922fc0a3-9004-4bf4-8fc5-93aa6bafcc8c_HEROIC	Non ti hanno fatto del male?
+NPC_BASILTON_PLAYER_922fc0a3-9004-4bf4-8fc5-93aa6bafcc8c_JOKER	Ancora tutto intero?
+NPC_BASILTON_PLAYER_922fc0a3-9004-4bf4-8fc5-93aa6bafcc8c_SCHOLAR	Sei rimasto illeso?
+NPC_BASILTON_PLAYER_922fc0a3-9004-4bf4-8fc5-93aa6bafcc8c_STOIC	Stai bene?
+NPC_BASILTON_PLAYER_92cd4407-88bb-485c-9389-189652b5187c_HEROIC	Dovresti lasciarli alle spalle. Ci sono luoghi meno pericolosi.
+NPC_BASILTON_PLAYER_92cd4407-88bb-485c-9389-189652b5187c_JOKER	Lasciali perdere. Ci sono posti dove è meno facile finire sbranati.
+NPC_BASILTON_PLAYER_92cd4407-88bb-485c-9389-189652b5187c_SCHOLAR	Dovresti andartene. Esistono luoghi più sicuri, e sai dove sono.
+NPC_BASILTON_PLAYER_92cd4407-88bb-485c-9389-189652b5187c_STOIC	Dovresti lasciarli. Ci sono posti più sicuri.
+NPC_BASILTON_PLAYER_92f0ea0b-85cb-4170-8401-493e20a2e227_HEROIC	Non ha alcuna importanza. Sii fiero di ciò che sei.
+NPC_BASILTON_PLAYER_92f0ea0b-85cb-4170-8401-493e20a2e227_JOKER	Cambia davvero qualcosa? Sei sempre tu.
+NPC_BASILTON_PLAYER_92f0ea0b-85cb-4170-8401-493e20a2e227_SCHOLAR	La misura non cambia nulla. La tua natura rimane costante.
+NPC_BASILTON_PLAYER_92f0ea0b-85cb-4170-8401-493e20a2e227_STOIC	Non cambia niente. Sei ciò che sei.
+NPC_BASILTON_PLAYER_975c086a-69d8-4197-b467-900033cedcc7_HEROIC	Confido che tu sappia renderti più utile che restando immobile come una roccia.
+NPC_BASILTON_PLAYER_975c086a-69d8-4197-b467-900033cedcc7_JOKER	Cerca di non startene lì come un sasso. Il giardino ne ha già abbastanza.
+NPC_BASILTON_PLAYER_975c086a-69d8-4197-b467-900033cedcc7_SCHOLAR	Restare immobile come una roccia è un risultato modesto. Dimostrami di meglio.
+NPC_BASILTON_PLAYER_975c086a-69d8-4197-b467-900033cedcc7_STOIC	Fa' qualcosa di utile. Non stare lì come un sasso.
+NPC_BASILTON_PLAYER_9a9fd514-3cbf-4130-9839-e86252e8b83b_HEROIC	Non possiamo permetterci conflitti interiori. Rendi il cuore saldo quanto il tuo corpo.
+NPC_BASILTON_PLAYER_9a9fd514-3cbf-4130-9839-e86252e8b83b_JOKER	Se i conflitti interiori indurissero il cuore quanto il corpo, saremmo inarrestabili.
+NPC_BASILTON_PLAYER_9a9fd514-3cbf-4130-9839-e86252e8b83b_SCHOLAR	Il conflitto interiore è un costo insostenibile. Indurisci il cuore, come il corpo.
+NPC_BASILTON_PLAYER_9a9fd514-3cbf-4130-9839-e86252e8b83b_STOIC	Non c'è tempo per i conflitti interiori. Cuore duro, come il corpo.
+NPC_BASILTON_PLAYER_9b701a77-e152-4e2a-8bd0-c2a7cf805477_HEROIC	Questo farà davvero la differenza.
+NPC_BASILTON_PLAYER_9b701a77-e152-4e2a-8bd0-c2a7cf805477_JOKER	Una bella mano, non c'è che dire.
+NPC_BASILTON_PLAYER_9b701a77-e152-4e2a-8bd0-c2a7cf805477_SCHOLAR	Sarà di maggior aiuto di quanto immagini.
+NPC_BASILTON_PLAYER_9b701a77-e152-4e2a-8bd0-c2a7cf805477_STOIC	Sarà molto utile.
+NPC_BASILTON_PLAYER_9e940b42-35f7-4a0b-a302-ca3976d732a6_BASE	La corruzione colpisce anche te?
+NPC_BASILTON_PLAYER_a0eb3452-86c5-44b9-a6a7-6c9e2c5036ac_HEROIC	La tua mole è imponente, e accresce la forza che possiedi come golem.
+NPC_BASILTON_PLAYER_a0eb3452-86c5-44b9-a6a7-6c9e2c5036ac_JOKER	Grande o no, golem sei e golem resti. Non ci si scappa.
+NPC_BASILTON_PLAYER_a0eb3452-86c5-44b9-a6a7-6c9e2c5036ac_SCHOLAR	La tua statura non sminuisce in alcun modo la tua natura di golem.
+NPC_BASILTON_PLAYER_a0eb3452-86c5-44b9-a6a7-6c9e2c5036ac_STOIC	Sei grande. Ma non sei meno golem per questo.
+NPC_BASILTON_PLAYER_a34cfad6-527b-4be9-898b-e8ce873ed5ec_HEROIC	Ti ringrazio dell'offerta. Sono pronto ad accettare.
+NPC_BASILTON_PLAYER_a34cfad6-527b-4be9-898b-e8ce873ed5ec_JOKER	Grazie dell'offerta. Ci sto.
+NPC_BASILTON_PLAYER_a34cfad6-527b-4be9-898b-e8ce873ed5ec_SCHOLAR	Ti ringrazio per l'offerta. Sì, mi farebbe piacere.
+NPC_BASILTON_PLAYER_a34cfad6-527b-4be9-898b-e8ce873ed5ec_STOIC	Grazie dell'offerta. Accetto.
+NPC_BASILTON_PLAYER_a77be9d8-894f-441f-ae2d-e16e481053f7_BASE	Ti senti mai in colpa a raccogliere i loro frutti?
+NPC_BASILTON_PLAYER_a9387c61-a97b-49c4-a217-f17261400c4f_HEROIC	Ti servono protezioni magiche, e credo di poterti aiutare a trovarle.
+NPC_BASILTON_PLAYER_a9387c61-a97b-49c4-a217-f17261400c4f_JOKER	Protezioni magiche, eh? Conosco un posto che ne ha.
+NPC_BASILTON_PLAYER_a9387c61-a97b-49c4-a217-f17261400c4f_SCHOLAR	Occorrono protezioni magiche. Credo di sapere dove procurarne alcune.
+NPC_BASILTON_PLAYER_a9387c61-a97b-49c4-a217-f17261400c4f_STOIC	Ti servono protezioni magiche. So dove trovarle.
+NPC_BASILTON_PLAYER_ab5da7b1-cd8c-4fbb-80fe-4fff56e3e61a_HEROIC	Troverò il tuo fertilizzante e te lo riporterò. Hai la mia parola.
+NPC_BASILTON_PLAYER_ab5da7b1-cd8c-4fbb-80fe-4fff56e3e61a_JOKER	A caccia di fertilizzante, allora. La vita scintillante dell'avventuriero.
+NPC_BASILTON_PLAYER_ab5da7b1-cd8c-4fbb-80fe-4fff56e3e61a_SCHOLAR	Troverò il tuo fertilizzante. Descrivimi ciò che devo cercare.
+NPC_BASILTON_PLAYER_ab5da7b1-cd8c-4fbb-80fe-4fff56e3e61a_STOIC	Posso andare a prenderti il fertilizzante.
+NPC_BASILTON_PLAYER_ac4a1612-88aa-4bf3-95c7-55245eb312d6_BASE	Chiami le piante tue amiche?
+NPC_BASILTON_PLAYER_ad1b2699-1b4f-4ef5-900c-c0dd8d6c7c5a_HEROIC	Un oggetto inutile, conservato per affetto. Nient'altro.
+NPC_BASILTON_PLAYER_ad1b2699-1b4f-4ef5-900c-c0dd8d6c7c5a_JOKER	Un oggetto inutile, con un sovrappiù di sentimentalismo. Una combinazione rara, davvero.
+NPC_BASILTON_PLAYER_ad1b2699-1b4f-4ef5-900c-c0dd8d6c7c5a_SCHOLAR	Sembra un oggetto privo di utilità, apprezzato soltanto per il suo valore affettivo.
+NPC_BASILTON_PLAYER_ad1b2699-1b4f-4ef5-900c-c0dd8d6c7c5a_STOIC	Sembra inutile. Un ricordo affettivo.
+NPC_BASILTON_PLAYER_ae469e4c-bce6-49fd-b47c-1bf19dd59ee4_HEROIC	Ci attendono battaglie più importanti delle piante. Comunque, buona fortuna con il tuo giardino.
+NPC_BASILTON_PLAYER_ae469e4c-bce6-49fd-b47c-1bf19dd59ee4_JOKER	Tanti problemi urgenti, e pure le piante vogliono il loro momento. Buona fortuna col giardino.
+NPC_BASILTON_PLAYER_ae469e4c-bce6-49fd-b47c-1bf19dd59ee4_SCHOLAR	Al momento altre questioni hanno maggior rilievo delle piante. Buona fortuna con il tuo giardino.
+NPC_BASILTON_PLAYER_ae469e4c-bce6-49fd-b47c-1bf19dd59ee4_STOIC	Ci sono problemi ben più importanti delle piante. Buona fortuna col giardino.
+NPC_BASILTON_PLAYER_c0ab89b0-b3d3-4eb1-97c0-a7175b859d52_HEROIC	Ci sono questioni ben più urgenti da affrontare delle piante.
+NPC_BASILTON_PLAYER_c0ab89b0-b3d3-4eb1-97c0-a7175b859d52_JOKER	Le piante vengono dopo tutto il resto che mi vuole morto.
+NPC_BASILTON_PLAYER_c0ab89b0-b3d3-4eb1-97c0-a7175b859d52_SCHOLAR	In qualsiasi ragionevole ordine di priorità, le piante vengono dopo.
+NPC_BASILTON_PLAYER_c0ab89b0-b3d3-4eb1-97c0-a7175b859d52_STOIC	Ci sono cose più importanti a cui pensare delle piante.
+NPC_BASILTON_PLAYER_c1380340-baec-46ca-960d-b4e8cd8f9483_BASE	Dai un nome alle piante?
+NPC_BASILTON_PLAYER_c535ee27-1c31-4731-b3fe-5bbb030d949b_BASE	Ho recuperato i fertilizzanti.
+NPC_BASILTON_PLAYER_c660740f-a7e1-4e0c-9c33-a04c6844ee2b_HEROIC	Cosa impedisce alle altre driadi di visitare il tuo giardino?
+NPC_BASILTON_PLAYER_c660740f-a7e1-4e0c-9c33-a04c6844ee2b_JOKER	Le altre driadi si sono perse la strada per il tuo giardino?
+NPC_BASILTON_PLAYER_c660740f-a7e1-4e0c-9c33-a04c6844ee2b_SCHOLAR	Perché le altre driadi dovrebbero tenersi lontane? Un giardino non nuoce a nessuno.
+NPC_BASILTON_PLAYER_c660740f-a7e1-4e0c-9c33-a04c6844ee2b_STOIC	Perché le altre driadi non vengono nel tuo giardino?
+NPC_BASILTON_PLAYER_c6da149f-56f3-462f-be03-743ef5578a21_HEROIC	Entrambe, direi. La curiosità ha acceso la scintilla, la gentilezza l'ha alimentata.
+NPC_BASILTON_PLAYER_c6da149f-56f3-462f-be03-743ef5578a21_JOKER	La curiosità ha stretto la mano alla gentilezza, e siamo partiti.
+NPC_BASILTON_PLAYER_c6da149f-56f3-462f-be03-743ef5578a21_SCHOLAR	Probabilmente è stata un'unione di curiosità e gentilezza.
+NPC_BASILTON_PLAYER_c6da149f-56f3-462f-be03-743ef5578a21_STOIC	Curiosità e gentilezza, insieme.
+NPC_BASILTON_PLAYER_c7098bc6-b0dc-4723-9bfa-ef5f366b108f_HEROIC	Mentre lo percorrevo, non ho avvertito alcun fremito e il silenzio mi circondava.
+NPC_BASILTON_PLAYER_c7098bc6-b0dc-4723-9bfa-ef5f366b108f_JOKER	Mentre ci camminavo, persino l'eco mi stava alla larga.
+NPC_BASILTON_PLAYER_c7098bc6-b0dc-4723-9bfa-ef5f366b108f_SCHOLAR	Percorrendolo, non mi è giunto nulla. Nessuna sensazione, nessun suono.
+NPC_BASILTON_PLAYER_c7098bc6-b0dc-4723-9bfa-ef5f366b108f_STOIC	L'ho percorso. Non ho sentito né udito nulla.
+NPC_BASILTON_PLAYER_ca55455c-4fc4-4ae1-85b7-eeb18d043dd3_HEROIC	Hai tracciato da solo il tuo cammino. Non attribuire a nessuna divinità il merito di ciò che hai compiuto.
+NPC_BASILTON_PLAYER_ca55455c-4fc4-4ae1-85b7-eeb18d043dd3_JOKER	Ringrazia i tuoi piedi. Gli dèi non c'entrano niente.
+NPC_BASILTON_PLAYER_ca55455c-4fc4-4ae1-85b7-eeb18d043dd3_SCHOLAR	Il cammino è stato soltanto tuo. Nessuna divinità merita una parte del riconoscimento.
+NPC_BASILTON_PLAYER_ca55455c-4fc4-4ae1-85b7-eeb18d043dd3_STOIC	Ti sei fatto strada da solo. Non dare il merito a un dio.
+NPC_BASILTON_PLAYER_ccb6fbd0-7482-4f4e-922b-b8d10544d782_HEROIC	Non dobbiamo indugiare nel passato, se ci porta fuori strada.
+NPC_BASILTON_PLAYER_ccb6fbd0-7482-4f4e-922b-b8d10544d782_JOKER	Rimuginare sul passato è un ottimo modo per restarci impantanati.
+NPC_BASILTON_PLAYER_ccb6fbd0-7482-4f4e-922b-b8d10544d782_SCHOLAR	Soffermarsi sul passato raramente produce risultati.
+NPC_BASILTON_PLAYER_ccb6fbd0-7482-4f4e-922b-b8d10544d782_STOIC	Indugiare nel passato non è mai giusto.
+NPC_BASILTON_PLAYER_d0b75738-f20b-4b72-b834-5a990a64db75_BASE	Sei il primo golem che vedo da queste parti.
+NPC_BASILTON_PLAYER_d4ddd668-854b-4fb7-b143-64e628949ce3_HEROIC	Cosa ti turba, Basilton?
+NPC_BASILTON_PLAYER_d4ddd668-854b-4fb7-b143-64e628949ce3_JOKER	Che ti passa per la testa, Basilton?
+NPC_BASILTON_PLAYER_d4ddd668-854b-4fb7-b143-64e628949ce3_SCHOLAR	Quale questione ti preoccupa, Basilton?
+NPC_BASILTON_PLAYER_d4ddd668-854b-4fb7-b143-64e628949ce3_STOIC	Che c'è, Basilton?
+NPC_BASILTON_PLAYER_d8ae8ab9-1e0b-48d5-b56e-0a48c71d2c82_HEROIC	Questa è la tua casa. Non sembra esserci molto per cui vivere.
+NPC_BASILTON_PLAYER_d8ae8ab9-1e0b-48d5-b56e-0a48c71d2c82_JOKER	Questa è casa tua. Il divertimento dev'essere sepolto sul retro.
+NPC_BASILTON_PLAYER_d8ae8ab9-1e0b-48d5-b56e-0a48c71d2c82_SCHOLAR	Questa è la tua casa. Qui le ore devono trascorrere lentamente.
+NPC_BASILTON_PLAYER_d8ae8ab9-1e0b-48d5-b56e-0a48c71d2c82_STOIC	Questa è casa tua. Non c'è molto da fare.
+NPC_BASILTON_PLAYER_dee4cc04-cb91-4dec-8401-28b2bbfbd1f9_HEROIC	Conta su di me. Nessun mistero resiste a chi indaga con impegno.
+NPC_BASILTON_PLAYER_dee4cc04-cb91-4dec-8401-28b2bbfbd1f9_JOKER	Risolvere questo mistero sembra un bel modo di passare la giornata.
+NPC_BASILTON_PLAYER_dee4cc04-cb91-4dec-8401-28b2bbfbd1f9_SCHOLAR	Un mistero, e mani pronte a mettersi all'opera. Vorrei contribuire a risolverlo.
+NPC_BASILTON_PLAYER_dee4cc04-cb91-4dec-8401-28b2bbfbd1f9_STOIC	Ti aiuterò volentieri a risolvere il mistero.
+NPC_BASILTON_PLAYER_e09aaa04-8852-486c-aba0-c6e7181b24c2_HEROIC	Vieni a stare con me. Un giardino prospera con un custode come te.
+NPC_BASILTON_PLAYER_e09aaa04-8852-486c-aba0-c6e7181b24c2_JOKER	Vieni da me. Anche un giardino ha bisogno di qualcuno che sappia quel che fa.
+NPC_BASILTON_PLAYER_e09aaa04-8852-486c-aba0-c6e7181b24c2_SCHOLAR	Vieni a stare con me. Al mio giardino serve un custode che comprenda ciò che cresce.
+NPC_BASILTON_PLAYER_e09aaa04-8852-486c-aba0-c6e7181b24c2_STOIC	Vieni da me. Mi servirebbe un giardiniere come te.
+NPC_BASILTON_PLAYER_e2738bc0-741b-4f48-8731-d8042c2d070b_HEROIC	È un piacere conoscerti, Basilton. Cosa ti porta qui?
+NPC_BASILTON_PLAYER_e2738bc0-741b-4f48-8731-d8042c2d070b_JOKER	Piacere, Basilton. Ti sei perso per strada?
+NPC_BASILTON_PLAYER_e2738bc0-741b-4f48-8731-d8042c2d070b_SCHOLAR	Lieto di conoscerti, Basilton. Cosa trattiene un golem in un giardino?
+NPC_BASILTON_PLAYER_e2738bc0-741b-4f48-8731-d8042c2d070b_STOIC	Piacere, Basilton. Cosa fai qui?
+NPC_BASILTON_PLAYER_e3bd6e44-3ac8-4426-873c-183ec771f4db_BASE	È un giardino interessante.
+NPC_BASILTON_PLAYER_e6759de6-519c-4940-a580-31ee23c475b3_HEROIC	Forse onorano chi non c'è più attraverso il ricordo.
+NPC_BASILTON_PLAYER_e6759de6-519c-4940-a580-31ee23c475b3_JOKER	Magari si fermano un momento a ricordare chi non c'è più, in nome dei vecchi tempi.
+NPC_BASILTON_PLAYER_e6759de6-519c-4940-a580-31ee23c475b3_SCHOLAR	Commemorazione, forse. Chi è scomparso attira visitatori in modi singolari.
+NPC_BASILTON_PLAYER_e6759de6-519c-4940-a580-31ee23c475b3_STOIC	Forse ricordano chi hanno perduto.
+NPC_BASILTON_PLAYER_e6c9bc99-e0e2-4799-9640-754fb9eab801_HEROIC	Muoviamoci in fretta, ci ritroveremo là.
+NPC_BASILTON_PLAYER_e6c9bc99-e0e2-4799-9640-754fb9eab801_JOKER	Non stiamo qui a girarci i pollici, ci vediamo là.
+NPC_BASILTON_PLAYER_e6c9bc99-e0e2-4799-9640-754fb9eab801_SCHOLAR	Facciamo presto. Ti raggiungerò sul posto.
+NPC_BASILTON_PLAYER_e6c9bc99-e0e2-4799-9640-754fb9eab801_STOIC	Presto, andiamo. Ci vediamo là.
+NPC_BASILTON_PLAYER_e7e988c8-2e3d-4a3e-bcab-5591922aa77a_HEROIC	Unisciti a me. Mettiamo fine a questa corruzione, e coltiva ciò che ci servirà per affrontare quanto ci attende.
+NPC_BASILTON_PLAYER_e7e988c8-2e3d-4a3e-bcab-5591922aa77a_JOKER	Vieni con me. Spazziamo via questa corruzione e coltiviamo gli ingredienti per quel che ci aspetta.
+NPC_BASILTON_PLAYER_e7e988c8-2e3d-4a3e-bcab-5591922aa77a_SCHOLAR	Unisciti a me per porre fine alla corruzione. Coltivare ingredienti per le prossime battaglie sarebbe utile.
+NPC_BASILTON_PLAYER_e7e988c8-2e3d-4a3e-bcab-5591922aa77a_STOIC	Unisciti a me contro la corruzione. Puoi coltivare ingredienti per le battaglie future.
+NPC_BASILTON_PLAYER_edcf769f-4074-4495-8e6c-333ff93264a8_HEROIC	Il Santuario, su una montagna nascosta. Nessuna strada vi conduce. Un Varco sì, e te lo aprirò.
+NPC_BASILTON_PLAYER_edcf769f-4074-4495-8e6c-333ff93264a8_JOKER	Una montagna che nessuno riesce a trovare. Comodo. C'è un Varco, e posso insegnargli il tuo nome.
+NPC_BASILTON_PLAYER_edcf769f-4074-4495-8e6c-333ff93264a8_SCHOLAR	Un altopiano celato da antica magia: il Santuario. Le strade non lo raggiungono, un Varco sì. Posso metterti in sintonia con esso.
+NPC_BASILTON_PLAYER_edcf769f-4074-4495-8e6c-333ff93264a8_STOIC	Il Santuario. Una montagna nascosta. Nessuna strada, un Varco. Posso aprirtelo.
+NPC_BASILTON_PLAYER_f1bd28b3-1bb8-464e-9a9a-b3412fa032bd_HEROIC	In fretta, allora. Altri doveri reclamano il mio tempo.
+NPC_BASILTON_PLAYER_f1bd28b3-1bb8-464e-9a9a-b3412fa032bd_JOKER	Sbrigati, allora. Non tiriamola per le lunghe.
+NPC_BASILTON_PLAYER_f1bd28b3-1bb8-464e-9a9a-b3412fa032bd_SCHOLAR	Rapidamente, dunque. La giornata è già impegnata.
+NPC_BASILTON_PLAYER_f1bd28b3-1bb8-464e-9a9a-b3412fa032bd_STOIC	Fa' presto, allora.
+NPC_BASILTON_PLAYER_f21f6083-4204-40f0-b97f-91a8c6f8bb06_HEROIC	Che gli stendardi proteggano il tuo giardino da ogni male.
+NPC_BASILTON_PLAYER_f21f6083-4204-40f0-b97f-91a8c6f8bb06_JOKER	Speriamo che quegli stendardi facciano scappare chiunque voglia mettere le mani sul tuo giardino.
+NPC_BASILTON_PLAYER_f21f6083-4204-40f0-b97f-91a8c6f8bb06_SCHOLAR	Confido che gli stendardi garantiranno la sicurezza del tuo giardino.
+NPC_BASILTON_PLAYER_f21f6083-4204-40f0-b97f-91a8c6f8bb06_STOIC	Affida agli stendardi la protezione del giardino.
+NPC_BASILTON_PLAYER_fcbe9eae-7e57-429c-8df4-5e1bb8211b50_HEROIC	Cosa ha portato alla tua cattura?
+NPC_BASILTON_PLAYER_fcbe9eae-7e57-429c-8df4-5e1bb8211b50_JOKER	Come ti hanno incastrato, stavolta?
+NPC_BASILTON_PLAYER_fcbe9eae-7e57-429c-8df4-5e1bb8211b50_SCHOLAR	Ti hanno catturato, dunque. Come ci sono riusciti?
+NPC_BASILTON_PLAYER_fcbe9eae-7e57-429c-8df4-5e1bb8211b50_STOIC	Come ti hanno catturato?
+NPC_BASILTON_PLAYER_fe6209d0-bd49-4084-a7ec-5e88e4fa28aa_HEROIC	Siamo in guerra. Non possiamo permetterci di dedicare tempo a simili questioni.
+NPC_BASILTON_PLAYER_fe6209d0-bd49-4084-a7ec-5e88e4fa28aa_JOKER	Siamo in guerra, e il tempo è troppo impegnato a marciare per occuparsi di questo.
+NPC_BASILTON_PLAYER_fe6209d0-bd49-4084-a7ec-5e88e4fa28aa_SCHOLAR	Siamo in guerra. I misteri attendano il loro turno.
+NPC_BASILTON_PLAYER_fe6209d0-bd49-4084-a7ec-5e88e4fa28aa_STOIC	Siamo in guerra. Non abbiamo tempo per queste cose.
+NPC_BASILTON_PLAYER_fe76bb65-ab3c-498c-b84d-dd992b1403ef_HEROIC	Hai piantato tutto questo? Quanto tempo ti ci è voluto?
+NPC_BASILTON_PLAYER_fe76bb65-ab3c-498c-b84d-dd992b1403ef_JOKER	Tutta roba tua? Ma quanto ci hai messo?
+NPC_BASILTON_PLAYER_fe76bb65-ab3c-498c-b84d-dd992b1403ef_SCHOLAR	Tutto questo è opera tua? Quante stagioni sono occorse?
+NPC_BASILTON_PLAYER_fe76bb65-ab3c-498c-b84d-dd992b1403ef_STOIC	Le hai piantate tutte tu? Quanto tempo?
+NPC_BASILTON_RESPONSE_0b0215f4-3679-4661-be20-d3eb9cd51640	"Se vedi soltanto strumenti, da loro ricaverai soltanto utilità."<x1/><x2/>*Il tono rimane mite, ma fermo.*<x3/><x4/>"Preferirei mostrarti la loro generosità e lasciare che sia quella a farti cambiare idea."
+NPC_BASILTON_RESPONSE_11d3e6a4-cf50-4541-adeb-a9c8f3e2f8f7	"Lo piangerò, come sono certo farà tutta la foresta."
+NPC_BASILTON_RESPONSE_11e1c670-ba18-45f6-959c-5315ce3d6ca2	"Indugiare per sempre nel passato sarebbe poco saggio. Ma abbandonarlo del tutto? No. La memoria è uno dei modi in cui restiamo fedeli a chi abbiamo perduto."<x1/><x2/><x3/><x4/>"Mi addolora vederle così. So di non essere gradito in loro presenza, eppure desidero ancora aiutarle.<x5/><x6/><x7/><x8/>Non dirlo a nessuno, ma spesso andavo alle rovine di notte a curare i giovani alberi. Davo loro la mia terra incantata, perché crescessero forti nelle crepe."<x9/><x10/>*Abbassa lo sguardo, gravato dalla preoccupazione.*<x11/><x12/>"Questo prima che i goblin tornassero. Ora hanno divorato quasi tutto, lasciando il luogo spoglio. Restano soltanto le piante nascoste sotto le piastrelle, e senza sole né spazio per crescere non dureranno a lungo."
+NPC_BASILTON_RESPONSE_13226d02-a4df-4ebe-b4d6-1e2f09ff1490	"No. Un dono rifiutato può ferire quanto un ramo spezzato senza cura. Ricambiano le attenzioni ricevute, e io onoro il loro gesto accettando."
+NPC_BASILTON_RESPONSE_175c62f8-5f8f-46a2-b3df-fe3ebb0d2833	"Sì. Ci sono stato. La magia è forte, ma gentile. Richiama a sé gli esseri viventi e li acquieta."<x1/><x2/><x3/><x4/>"Una volta vi camminavo, mentre non vi era nessun altro nei pressi. Ho avvertito la presenza della dea della natura, colei che molti chiamano Ceres."<x5/><x6/>*La voce si abbassa, lenta e riverente.*<x7/><x8/>"Mi ha parlato. Mi ha confortato. Ha elogiato il mio giardino e mi ha detto che ero sulla strada giusta, anche quando la strada non era chiara.<x9/><x10/>Ecco perché tanti visitano quel luogo: creature, spiriti e mortali. È un luogo per tutti."
+NPC_BASILTON_RESPONSE_1af78fa3-f696-40e9-bd96-9070ebbfbe0d	"Il timore ha il suo posto, ma non lì. Non fra due anime gentili."<x1/><x2/><x3/><x4/>"Ricordo il giorno in cui trovò per la prima volta il coraggio di passeggiare nel mio giardino."<x5/><x6/>*Il sorriso si addolcisce, come se il ricordo avesse riscaldato una vecchia radice dentro di lui.*<x7/><x8/>"La seguivano tante piccole creature. Gli uccelli si posavano sulle zucche, i conigli si arrampicavano accanto a loro, e nessuno provava a mangiare nulla."
+NPC_BASILTON_RESPONSE_216bea6d-2739-401f-89cd-9666960e3a72	"Oh… temo che molti abitanti di questa generazione abbiano paura di me. I vecchi mi conoscono ancora. Ma i giovani non hanno conosciuto la foresta come i loro avi, e non conoscono me. Il timore ha il suo posto in questo mondo, ma tra me e gli abitanti del villaggio… no. Quello non è il posto che gli spetta."
+NPC_BASILTON_RESPONSE_252d3aa1-77e7-42e8-8410-f0ad5c01c8b8	"Indurire il cuore come il corpo? Ma io sono fatto di fango, caro amico. Non sono stato plasmato soltanto per essere duro."<x1/><x2/><x3/><x4/>"Devo confessarti qualcosa, mio piccolo amico. Non è un segreto oscuro, spero. Soltanto un segreto solitario.<x5/><x6/><x7/><x8/>Ne ho parlato solo alle mie piante. Sanno custodire i segreti, anche se da tempo desidero una risposta fatta di parole."
+NPC_BASILTON_RESPONSE_26fabd67-9ffc-4cce-bc35-57d797b19e94	"Ma certamente. Questo è il mio fedele amico, Acorn. Gli ho dato io il nome. La sua origine è tutta qui."
+NPC_BASILTON_RESPONSE_2a44d60e-5733-4f7f-bc37-9db83582cf5c	"Con gli stendardi protettivi, credo di no. Hanno attaccato perché la corruzione celava la mia presenza, mi faceva apparire più debole alle loro menti malvagie."<x1/><x2/>*Il petto si solleva mentre ritrova una postura salda.*<x3/><x4/>"Ora sapranno che sono qui. Il timore li terrà lontani."
+NPC_BASILTON_RESPONSE_2e31f02c-ac7a-45b2-bfc9-3fd02c3e1aa7	"Ah. Un ascolto gentile. Non lo sprecherò."<x1/><x2/><x3/><x4/>*Basilton rilassa le spalle. Acorn si muove sulla sua spalla. Basilton tiene fermo con un dito un tralcio pendente.*<x5/><x6/>"Il vento incontra la foglia, la foglia resiste e il vento ne viene mutato. Due cose si toccano, ed entrambe prendono nuova forma. È in quel mutamento che ha inizio la crescita."
+NPC_BASILTON_RESPONSE_2f4ea261-c4cc-477b-a2b1-ba7383e7e6d4	"Mi rallegra molto sentirlo."<x1/><x2/><x3/><x4/>"La cura non è mai sprecata, mio caro eroe. Né sulla terra, né sui semi, né su alcun essere vivente che desideri ancora crescere.<x5/><x6/><x7/><x8/>Ogni pianta dona a modo suo. Trova quelle i cui doni contano di più per te e abbine cura come di compagne di cammino."
+NPC_BASILTON_RESPONSE_2f517ba6-9c53-41c5-9d87-3f7118f8b6e1	"Così dicono in molti. Eppure ogni cosa importante che conosco è nata da qualcosa di piccolo nella terra. Ti auguro una buona giornata, amico."
+NPC_BASILTON_RESPONSE_2fb326b0-8f4e-40eb-b1fc-02503a866ad5	"Bene. Sarò qui vicino, se vorrai condividere ciò che affiora nella tua mente. Questo luogo ha aiutato i miei pensieri a mettere radici."
+NPC_BASILTON_RESPONSE_305b2f6f-4658-4ad6-a46b-a6668fd7f173	*Basilton si raddrizza subito, e la sua grande figura si anima di quieto orgoglio.*<x1/><x2/>"Vorresti passeggiare nel giardino? Potrei fare le dovute presentazioni. Tender, Plump, Rosary, Dandelion… ciascuno ha il proprio carattere."<x3/><x4/>"Le piante sono esseri generosi. Dona loro pazienza, acqua, un poco di riparo. Rispondono con foglie e frutti, semi e ombra."
+NPC_BASILTON_RESPONSE_328ad7fe-7ac6-44ed-a5d8-3ddab32ba032	"Sì. L'amicizia di Myrll è stata una grande gentilezza per Acorn e per me."<x1/><x2/><x3/><x4/>"Ricordo il giorno in cui trovò per la prima volta il coraggio di passeggiare nel mio giardino."<x5/><x6/>*Il sorriso si addolcisce, come se il ricordo avesse riscaldato una vecchia radice dentro di lui.*<x7/><x8/>"La seguivano tante piccole creature. Gli uccelli si posavano sulle zucche, i conigli si arrampicavano accanto a loro, e nessuno provava a mangiare nulla."
+NPC_BASILTON_RESPONSE_33000159-2226-49b8-a6a6-e3afe775585a	"Credo che lo abbia fatto. Myrll è così premurosa."<x1/><x2/>*Apre appena la mano, ricordandone il peso.*<x3/><x4/>"Dopo la passeggiata ho dato loro le bacche del mio giardino, e hanno mangiato dalla mia mano. Bei ricordi."
+NPC_BASILTON_RESPONSE_34626d91-8cab-45f8-8904-ec23c3cb6acc	*Gli occhi luminosi di Basilton si alzano a quel nome, e la terra del suo volto si muove in un sorriso ampio e affettuoso.*<x1/><x2/>"Ah, Myrll. Sì, la conosco. Un'anima gentile. In tutti i miei anni fra questi boschi, le altre driadi si sono limitate a guardare il mio giardino. Lei sola è venuta a sedersi al suo interno. Il suo cuore è una terra molto gentile."
+NPC_BASILTON_RESPONSE_34afd513-6828-4a5d-9749-7fefff1548b7	"I goblin, sì."<x1/><x2/>*La voce si indurisce per un istante, poi si addolcisce.*<x3/><x4/>"Ma sei stato comunque tu a portare qui questa gentilezza. Riscalda la mia terra."<x5/><x6/><x7/><x8/>"Concediti un poco di tempo qui. Siediti, se vuoi. Lascia posare i pensieri e respira l'aria e il polline, dolci di terra umida e fiori selvatici. Sei il benvenuto nel mio giardino, ogni volta che tornerai."
+NPC_BASILTON_RESPONSE_34e60f8f-37f4-48ee-a9f8-892ddd6d3a92	"Una buona miscela. Molte cose belle hanno inizio così."<x1/><x2/><x3/><x4/>"Da allora sono accadute molte cose. Ti ringrazio di avermi invitato qui. Sono grato di avere un posto, un nuovo giardino e nuovi amici.<x5/><x6/><x7/><x8/>Eppure piango ancora ciò che ho perduto. Nel vento le foglie possono volare in una sola direzione, ma il cuore può essere mosso in due direzioni insieme. Interessante, non trovi?"
+NPC_BASILTON_RESPONSE_37a166d1-f5e8-4180-a4a0-a15712116c1a	"Credo che sarà così, almeno per un breve periodo."
+NPC_BASILTON_RESPONSE_3846ac18-be90-4dc6-9961-4cc0c16a3ef4	"Vedi giusto. Un giardino è un buon maestro, se si ha pazienza."<x1/><x2/><x3/><x4/>"Purtroppo, le mie piante attraversano un momento di grande bisogno. Il mio vecchio amico Befr non è venuto a trovarmi di recente e non ha portato il fertilizzante di cui hanno bisogno per prosperare. La terra è sempre più corrotta. Senza il fertilizzante, molte moriranno ben prima del loro tempo."
+NPC_BASILTON_RESPONSE_391a2556-0870-4df3-8dcd-af03281fb0f3	"Restare immobile come una roccia ha la sua utilità, sai. Le rocce trattengono la terra e segnano i sentieri. Le piccole creature riposano al sicuro contro di esse."<x1/><x2/><x3/><x4/>"Sento la terra di questo luogo. Ha fame, povera cosa. Una terra affamata limita quanto si può coltivare.<x5/><x6/><x7/><x8/>La nutrirò. Con tempo e cura, potrai piantare molti più semi. A proposito di semi, Acorn e io possiamo venderti quelli che troviamo, anche se all'inizio la nostra scorta sarà modesta."
+NPC_BASILTON_RESPONSE_3cbce591-68cb-453e-8a85-0fbc80545925	"No, non cambia nulla. Un albero grande e uno piccolo sono entrambi alberi. Eppure… ci si può domandare perché uno sia cresciuto in modo tanto diverso."<x1/><x2/><x3/><x4/>"E vi è anche questo: sono nato a Wildwood, eppure non ho mai sentito di un altro golem nato qui. Neppure uno.<x5/><x6/><x7/><x8/>Perciò ti chiedo aiuto. La risposta non cambierà ciò che devo fare. Ma una vita dovrebbe conoscere la propria origine, se può. Sei diventato qualcuno a cui posso affidare questo desiderio."
+NPC_BASILTON_RESPONSE_40e6ca7a-6250-4608-bfda-13384aed47d1	"Orribile… hm. Una parola forte per un luogo che custodisce ancora bellezza. Forse tragico è il termine più adatto."<x1/><x2/><x3/><x4/>"Ho visto le driadi venire da sole alla Corte dei Frammenti. Non parlano. Piantano giovani alberi dove le piastrelle si sono crepate e pregano come se la pietra stessa ricordasse.<x5/><x6/><x7/><x8/>Non so cosa sia accaduto lì. Ma quel luogo porta con sé dolore, e sembra che loro lo portino dentro."
+NPC_BASILTON_RESPONSE_430e0a38-0bc7-42cb-a0f9-5d9bf320b315	"Hmm. 'Golem.' Sì, è così che chiamano quelli come me. Non ne ho visto un altro in questi boschi, in tutti i miei anni. Qui sono il solo della mia specie, di questo sono certo."
+NPC_BASILTON_RESPONSE_43cb1cd6-58d0-4f5c-b85e-5fb09c5860ff	"Un Varco… la magia degli Antichi."<x1/><x2/>*Gli occhi si socchiudono appena, pensierosi più che timorosi.*<x3/><x4/>"Sono trascorse molte generazioni da quando ho visto un'arte simile all'opera. Eppure eccola di nuovo, in questi giorni travagliati."<x5/><x6/>*Si volta verso ciò che resta del giardino. Acorn gli corre lungo il braccio e si sistema sulla spalla.*<x7/><x8/>"Concedimi un momento per salutare la mia casa e le piccole vite di cui mi sono preso cura qui. Poi ti raggiungeremo nella nostra nuova casa."<x9/><x10/>"Addio, caro amico."
+NPC_BASILTON_RESPONSE_4790ecdf-ca7e-4994-bc26-6552950d3dde	"Sì. È un luogo per chi sa sentire la bellezza e lasciare che trovi dimora dentro di sé."
+NPC_BASILTON_RESPONSE_480f9e0c-708f-41f8-956b-a4842017dcce	"Se abbandoniamo chi amiamo per combattere i nostri avversari, potremmo scoprire di non avere più nulla per cui lottare, amico. Ti prego, se trovi un modo per proteggere il giardino dalla corruzione, torna da me."
+NPC_BASILTON_RESPONSE_4a003ede-e969-4299-b848-c0a72d21c69f	"Volevano che il mio dolore diventasse rabbia, e la mia rabbia una lama."<x1/><x2/>*Basilton china il capo, trascinando le parole come terra bagnata.*<x3/><x4/>"Per abbattere le mura di Earlwood… uccidere i miei amici del villaggio… e uccidere te."<x5/><x6/><x7/><x8/>"Io… devo confessarlo. Non so cosa mi attenda, né dove dovrei andare."<x9/><x10/>*Il suo sguardo indugia sulla devastazione, poi si abbassa.*<x11/><x12/>"Non posso restare qui. La foresta si è rivoltata contro di me. La mia casa è distrutta, e il villaggio teme ancora ciò che sono."<x13/><x14/>*Basilton si lascia andare all'indietro, come se quel peso lo avesse infine raggiunto. Acorn gli sale sul ginocchio e guarda in su, piccolo e irrequieto.*<x15/><x16/>"Non vi è posto per me."
+NPC_BASILTON_RESPONSE_545a3968-43d4-4917-b739-9746b8b443ff	"È un incontro degli spiriti della foresta, un consiglio aperto. Un luogo dove la gente della foresta viene a parlare, e i boschi sono chiamati ad ascoltare."
+NPC_BASILTON_RESPONSE_59624858-8acf-44a0-b451-ca742c22013b	"Non molto, ai tuoi occhi. Ma vi è sempre qualcosa di cui prendersi cura, e sempre qualcosa da imparare."<x1/><x2/><x3/><x4/>"Purtroppo, le mie piante attraversano un momento di grande bisogno. Il mio vecchio amico Befr non è venuto a trovarmi di recente e non ha portato il fertilizzante di cui hanno bisogno per prosperare. La terra è sempre più corrotta. Senza il fertilizzante, molte moriranno ben prima del loro tempo."
+NPC_BASILTON_RESPONSE_5d2b31d3-08a7-45db-bf33-77cb2fe4bf80	"Questo giardino non desiderava nuocere ad alcuno. Neppure una spina avvelenata, neppure una radice fuori posto…"<x1/><x2/>*Solleva con cura una pianta morta. Acorn gli scende lungo il braccio e la tocca con le zampette, come se rifiutasse di accettarne l'immobilità.*<x3/><x4/>"E ora… questo."<x5/><x6/><x7/><x8/>*Basilton avvicina a sé la pianta morta, come per proteggerla dalla vista di ciò che li circonda. Acorn si appoggia al pollice di Basilton per tenersi in equilibrio.*<x9/><x10/>"Lo ricordo quando era un germoglio, tanto piccolo da nascondersi nella terra sulla mia schiena."<x11/><x12/>*Chiude gli occhi e inclina il capo all'indietro, cercando una stagione più gentile.*<x13/><x14/>"Acorn mi diceva quando era il momento di voltarlo verso il sole…"
+NPC_BASILTON_RESPONSE_6442decc-71f3-43d1-80df-14900fa2489d	"Una bestia può essere fatta per la battaglia. Ma io non sono soltanto forza."<x1/><x2/>*Apre una grande mano, con la terra scura nei solchi del palmo.*<x3/><x4/>"Sono fango, radici e terra paziente. Quale cosa migliore potrei fare che aiutare la vita a crescere?"
+NPC_BASILTON_RESPONSE_67531a61-b067-4ddc-9ed2-84ca3b20bb81	"È stata la mia verità più salda. Le cure offerte ritornano, anche se non sempre come ci aspettiamo."<x1/><x2/>*Gli occhi si addolciscono di gratitudine.*<x3/><x4/>"Grazie per avermi dato un luogo dove continuare a dimostrarlo."
+NPC_BASILTON_RESPONSE_687b3a89-a4ea-4a3f-91e8-72332d9cfcfe	"Andrò. E non mi lascerò più cogliere così alla sprovvista. Addio."
+NPC_BASILTON_RESPONSE_6d799be7-edc0-4719-b15f-f24485688c58	"Che domanda. Chi non ha bisogno di piante? Cibo e medicine, e anche conforto. Saziano molte forme di fame."<x1/><x2/><x3/><x4/>"La cura non è mai sprecata, mio caro eroe. Né sulla terra, né sui semi, né su alcun essere vivente che desideri ancora crescere.<x5/><x6/><x7/><x8/>Ogni pianta dona a modo suo. Trova quelle i cui doni contano di più per te e abbine cura come di compagne di cammino."
+NPC_BASILTON_RESPONSE_708237d9-6d3a-49c0-b687-92f000476ba5	*Il capo di Basilton ricade, poi si solleva di nuovo, con fermezza.*<x1/><x2/>"No. Questo è il luogo a cui appartengo."
+NPC_BASILTON_RESPONSE_740e704f-09f2-47bf-a543-27699e0fa3b1	"Inutile? No. Una cosa può essere silenziosa e custodire ugualmente potere. La magia di quel luogo è forte, e calma chi si avvicina."<x1/><x2/><x3/><x4/>"Una volta vi camminavo, mentre non vi era nessun altro nei pressi. Ho avvertito la presenza della dea della natura, colei che molti chiamano Ceres."<x5/><x6/>*La voce si abbassa, lenta e riverente.*<x7/><x8/>"Mi ha parlato. Mi ha confortato. Ha elogiato il mio giardino e mi ha detto che ero sulla strada giusta, anche quando la strada non era chiara.<x9/><x10/>Ecco perché tanti visitano quel luogo: creature, spiriti e mortali. È un luogo per tutti."
+NPC_BASILTON_RESPONSE_75a0c3eb-8342-444d-a140-8e0d8e3e3ea5	"Temo che tu sospetti già la risposta. Tuttavia, la dirò."<x1/><x2/><x3/><x4/>"È quella corruzione, opera dei Dei Oscuri. Si insinua nella terra come le radici di un albero velenoso, e cerca di mutare tutto ciò che tocca."<x5/><x6/>*Gli occhi si offuscano appena e l'attenzione passa per un istante ad Acorn prima di tornare su di te.*<x7/><x8/>"Neppure Acorn ne è immune. A volte sente il desiderio di distruggere, di strappare le piante. Finché resta vicino a me, è protetto."<x9/><x10/>*Basilton si fa immobile, come se scegliesse le parole più semplici.*<x11/><x12/>"Le piante… non posso proteggerle allo stesso modo. Anche quando le porto dentro di me, non serve a nulla…"
+NPC_BASILTON_RESPONSE_7962a3ac-5b55-4c90-becc-abd9a998025e	"Forse è così. La terra custodisce molte parole, se la si lascia posare. Ma sarò semplice. Questo luogo è la mia casa."<x1/><x2/><x3/><x4/>*Basilton indica il giardino con un lento movimento del braccio, pesante come un tronco caduto, eppure guidato con cauta misura. I rampicanti sulla pietra del suo corpo si spostano mentre si muove.*<x5/><x6/>"Benvenuto nel mio umile giardino, luogo di riposo e contemplazione. Ho piantato ciascuna di queste piante. Per molte generazioni le ho viste crescere, morire e lasciare discendenti che prendessero il loro posto."
+NPC_BASILTON_RESPONSE_7b9a5abf-e723-421b-9a3d-c08050a623fd	"Grazie, caro amico. Mi rallegra sapere che il giardino può essere visto come lo vedo io."
+NPC_BASILTON_RESPONSE_7e2296ff-7a24-4a1e-939f-49d8362a6030	*Basilton volta lentamente il capo, come se la domanda avesse smosso una radice sepolta in fondo alla memoria.*<x1/><x2/>"So soltanto poco. La tavoletta era già antica quando ho aperto gli occhi sulla foresta. È scritta in elfico antico, la lingua che le driadi sembrano comprendere. Potresti chiedere a loro, anche se ultimamente il dolore e il timore le hanno rese poco disposte ad ascoltare."
+NPC_BASILTON_RESPONSE_7e971177-c316-403e-be28-c6e2e7d021c2	*Gli occhi luminosi di Basilton si spalancano, e la loro luce si intensifica per un istante prima di tornare quieta.*<x1/><x2/>"Il mio fertilizzante… lo hai riportato. Grazie, amico. Il mio giardino respirerà meglio, e le mie fedeli piante non si spegneranno prima del loro tempo."
+NPC_BASILTON_RESPONSE_7f6db6b7-e733-41aa-9de5-7c4132759897	"Nella mia lunga vita non ho mai dimenticato ciò di cui mi sono preso cura."<x1/><x2/>*La mano si stringe attorno allo stelo, attenta a non schiacciarlo.*<x3/><x4/>"Anche quando la mente non riesce a custodirli, la terra lo fa ancora."<x5/><x6/><x7/><x8/>"Io… devo confessarlo. Non so cosa mi attenda, né dove dovrei andare."<x9/><x10/>*Il suo sguardo indugia sulla devastazione, poi si abbassa.*<x11/><x12/>"Non posso restare qui. La foresta si è rivoltata contro di me. La mia casa è distrutta, e il villaggio teme ancora ciò che sono."<x13/><x14/>*Basilton si lascia andare all'indietro, come se quel peso lo avesse infine raggiunto. Acorn gli sale sul ginocchio e guarda in su, piccolo e irrequieto.*<x15/><x16/>"Non vi è posto per me."
+NPC_BASILTON_RESPONSE_87db223b-941b-49fb-b64a-889ee6f1bc76	"Non soltanto loro. Le protezioni… riconosco che sono state spezzate dalla magia delle driadi."<x1/><x2/>*Le dita si chiudono attorno a una pianta morta, sollevandola delicatamente dalla terra.*<x3/><x4/>"Questo giardino non desiderava nuocere ad alcuno. Neppure una spina avvelenata, neppure una radice fuori posto…"<x5/><x6/><x7/><x8/>*Basilton avvicina a sé la pianta morta, come per proteggerla dalla vista di ciò che li circonda. Acorn si appoggia al pollice di Basilton per tenersi in equilibrio.*<x9/><x10/>"Lo ricordo quando era un germoglio, tanto piccolo da nascondersi nella terra sulla mia schiena."<x11/><x12/>*Chiude gli occhi e inclina il capo all'indietro, cercando una stagione più gentile.*<x13/><x14/>"Acorn mi diceva quando era il momento di voltarlo verso il sole…"
+NPC_BASILTON_RESPONSE_8a556fd0-ecb9-42d1-86a3-fa065dc00f9c	"Non molti, temo. Lino, per cominciare. Ma se mi porterai altre provviste, potrei riuscire a procurare semi migliori."
+NPC_BASILTON_RESPONSE_8e202abf-a63c-487b-9d71-ae994a5d4232	"Un nome. Sì. Ti ho sentito, anche se ho risposto male. Sono Basilton."<x1/><x2/><x3/><x4/>*Lo sguardo di Basilton si leva per un momento, come cercando un ricordo fra le chiome. Una grande mano si posa sul petto, con le dita semiaffondate nel muschio.*<x5/><x6/>"I mortali mi chiamano Basilton. Non ricordo da dove abbia avuto origine il nome. Mi fu dato molto tempo fa, e il tempo ne ha cancellato le tracce. Se non riusciamo a risalire all'inizio di una cosa… significa che è sempre esistita, o soltanto che il nostro sapere è limitato? Non sappiamo risalire neppure al primo passo degli dèi. Sono sempre stati qui… o siamo semplicemente arrivati tardi nella storia?"
+NPC_BASILTON_RESPONSE_8fbe45fa-c385-4cf6-a2dd-f3fc9da678dd	"Stolto sarebbe fuggire e lasciare che questo luogo venga conquistato."<x1/><x2/><x3/><x4/>"E tu hai collocato gli stendardi protettivi. Non potrò mai ringraziarti abbastanza. Sento già la corruzione ritirarsi."<x5/><x6/>*I suoi occhi luminosi si volgono verso la foresta.*<x7/><x8/>"Sa che questo non è il suo posto. Sa di non poter entrare. Eppure cerca ancora una via…"<x9/><x10/>*Si fa immobile, come in ascolto di ciò che verrà dopo il silenzio.*<x11/><x12/>"La corruzione continuerà a saggiare il confine. Se gli stendardi si indeboliranno, cercherò il Raduno della Foresta e chiederò il loro riparo e la loro forza."
+NPC_BASILTON_RESPONSE_91674dcc-f2e8-45f5-a98f-d7c0c405ea36	"Forse. Eppure ciò che tu giudichi insignificante è vita che lotta. Ascoltami un momento, poi va' dove devi."<x1/><x2/><x3/><x4/>"È quella corruzione, opera dei Dei Oscuri. Si insinua nella terra come le radici di un albero velenoso, e cerca di mutare tutto ciò che tocca."<x5/><x6/>*Gli occhi si offuscano appena e l'attenzione passa per un istante ad Acorn prima di tornare su di te.*<x7/><x8/>"Neppure Acorn ne è immune. A volte sente il desiderio di distruggere, di strappare le piante. Finché resta vicino a me, è protetto."<x9/><x10/>*Basilton si fa immobile, come se scegliesse le parole più semplici.*<x11/><x12/>"Le piante… non posso proteggerle allo stesso modo. Anche quando le porto dentro di me, non serve a nulla…"
+NPC_BASILTON_RESPONSE_929e3ffa-1418-4b8f-b7b8-a81ff7620363	"Lo faresti? Allora Acorn e io ti considereremmo un caro amico. Befr dimora ancora nel villaggio. Va' da lui e chiedigli del mio giardino."
+NPC_BASILTON_RESPONSE_94fe520a-dd57-4da7-bfc0-a741866dd359	"Sì. È importante. Un seme può crescere anche senza conoscere il proprio nome, ma io vorrei sapere da quale radice provengo."<x1/><x2/><x3/><x4/>"E vi è anche questo: sono nato a Wildwood, eppure non ho mai sentito di un altro golem nato qui. Neppure uno.<x5/><x6/><x7/><x8/>Perciò ti chiedo aiuto. La risposta non cambierà ciò che devo fare. Ma una vita dovrebbe conoscere la propria origine, se può. Sei diventato qualcuno a cui posso affidare questo desiderio."
+NPC_BASILTON_RESPONSE_985bf850-6a9c-4d23-b75a-c11a553dc499	"I goblin. Non vengono qui. Mi temono, e quel timore li tiene ai margini. Il timore ha il suo posto in questo mondo. Fra il mio giardino e quegli esseri è il luogo giusto in cui può dimorare."<x1/><x2/><x3/><x4/>"Purtroppo, le mie piante attraversano un momento di grande bisogno. Il mio vecchio amico Befr non è venuto a trovarmi di recente e non ha portato il fertilizzante di cui hanno bisogno per prosperare. La terra è sempre più corrotta. Senza il fertilizzante, molte moriranno ben prima del loro tempo."
+NPC_BASILTON_RESPONSE_9a092766-4aa3-4a88-8bf6-50fb8edde87a	"Allora va' dove devi. L'offerta rimane. Sei il benvenuto qui, ogni volta che tornerai."
+NPC_BASILTON_RESPONSE_9f1b3952-c9b3-4d7e-895e-2b77ba5d011d	"Sono andato a parlare al Raduno della Foresta. In tutta la mia vita non mi era mai stato concesso di partecipare. Questa volta mi hanno accolto."<x1/><x2/>*La mano si chiude a pugno, con un gesto trattenuto ma feroce.*<x3/><x4/>"Eppure… sembra che fosse tutto un inganno."<x5/><x6/><x7/><x8/>*Gli occhi di Basilton si spalancano, poi si velano di preoccupazione, come se i pensieri fossero corsi avanti.*<x9/><x10/>"Il mio giardino… sono rimasto lontano troppo a lungo. Senza la mia presenza, senza la mia protezione, qualunque cosa potrebbe avervi messo radici. Devo tornare."
+NPC_BASILTON_RESPONSE_a18b83cd-0098-4c45-8b5c-613d8c133c3e	"La conosco. L'ho vista molte volte, in molti cicli. Nel fluire del tempo potrebbe avere un suo posto, ma ne oltrepassa sempre i confini e cerca di dominare ogni cosa."<x1/><x2/>*Espira lentamente, come tornando in sé.*<x3/><x4/>"Ah. Mi sono allontanato dall'argomento. Sì, la conosco."
+NPC_BASILTON_RESPONSE_a2d5853a-5118-4e88-bd4b-7db6bb01acd6	"Era perduto, e aveva bisogno di misericordia. Lo comprendo. Ma non sminuirlo chiamandolo soltanto una bestia."<x1/><x2/><x3/><x4/>"Non lo conoscevo... non come un amico ne conosce un altro. Eppure penso che lui conoscesse me.<x5/><x6/><x7/><x8/>Ricordi quando ti ho raccontato come è nato il mio giardino? Allora ero smarrito, senza uno scopo, quando ho trovato questo luogo e i primi semi sparsi qui."<x9/><x10/>*Lo sguardo di Basilton vaga, seguendo nell'aria un vecchio ricordo.*<x11/><x12/>"Quel giorno ho avvertito una presenza potente nei paraggi. Ho visto fra le foglie la sagoma che molti dicono riveli il suo passaggio. Credo abbia lasciato quei semi per me, o li abbia fatti lasciare, come un gesto silenzioso per guidarmi verso il mio scopo.<x13/><x14/><x15/><x16/>Pur non avendolo mai incontrato, penso che vegliasse su di me."
+NPC_BASILTON_RESPONSE_a2f84a8c-66aa-4c0f-b149-dec932ffb6c2	"Non lo so con esattezza. Il tempo e io non abbiamo mai avuto un'amicizia ordinata. Ma vivevo nella foresta prima che arrivassero i primi coloni di Earlwood. Molto prima."
+NPC_BASILTON_RESPONSE_a513923a-30cd-47b9-8ced-8b2784b6c3d7	"In fretta, dunque. O con la fretta con cui una vecchia radice riesce a districarsi."<x1/><x2/><x3/><x4/>"È… difficile dirlo ad alta voce. Non so davvero che cosa sono.<x5/><x6/><x7/><x8/>La gente mi chiama golem, e forse è abbastanza corretto. Eppure non ne ho mai incontrato uno della mia taglia, né uno che abbia vissuto quanto sembra abbia vissuto io. Befr dice che i golem comuni non durano tanto."
+NPC_BASILTON_RESPONSE_a54645ee-2c55-4870-9b72-5d58c15dbc1d	"Hmm. Pensavo a te, mio piccolo amico. Alla prima volta che mi hai guardato e hai scelto di avvicinarti.<x1/><x2/><x3/><x4/>I più vedono la mia mole prima di vedere me. Tu non lo hai fatto, oppure non hai lasciato che ti fermasse. Mi domando cosa ti abbia mosso allora: curiosità, coraggio, gentilezza… forse tutti e tre."
+NPC_BASILTON_RESPONSE_a9855c55-fd5f-4c17-ac5a-eed31cc091b7	"Anche tu lo chiami amico? È una cosa bella. Conosco Befr da molto tempo. Un essere buono dovrebbe tornare in molti luoghi, lasciando ciascuno un poco migliore. Befr cerca di farlo."
+NPC_BASILTON_RESPONSE_ab16ccb3-3709-4c53-a438-d9546a42b46d	*Le spalle di Basilton si abbassano, pesanti di delusione.*<x1/><x2/>"Uno spreco? No. Un giardino è tempo restituito in fiore."<x3/><x4/><x5/><x6/>"Ho cominciato poco dopo il mio primo risveglio al mondo. O forse molto dopo. La memoria è una terra strana. Alcune radici si allungano più di quanto dovrebbero, altre svaniscono nell'oscurità."<x7/><x8/>"Allora ero solo. Non conoscevo il mio posto, e le creature della foresta non sapevano ancora cosa pensare di me."<x9/><x10/>"Poi ho trovato dei semi qui, in attesa, come se qualcuno li avesse posati per me."<x11/><x12/>*La voce di Basilton si addolcisce, pensosa più che sicura.*<x13/><x14/>"Li ho messi nella terra del mio corpo e sono cresciuti. Ben presto riuscivo a sentirli, quieti e vivi. Da lì è nato il giardino."
+NPC_BASILTON_RESPONSE_ac8238a2-2284-48ed-8065-1ca3f30569cc	"Comprendo. Il mondo preme forte quando si è piccoli. Allora sarò breve."<x1/><x2/><x3/><x4/>*Basilton rilassa le spalle. Acorn si muove sulla sua spalla. Basilton tiene fermo con un dito un tralcio pendente.*<x5/><x6/>"Il vento incontra la foglia, la foglia resiste e il vento ne viene mutato. Due cose si toccano, ed entrambe prendono nuova forma. È in quel mutamento che ha inizio la crescita."
+NPC_BASILTON_RESPONSE_acf86ff2-8dc8-445c-8470-ae304afc020e	"Sì. Un nome dà a una cosa un posto nel cuore. Le creature che camminano non sono le sole ad avere bisogno di questa cura."
+NPC_BASILTON_RESPONSE_b2ecbab0-dc07-4ebe-9490-f08b38f3446e	"Sì. Prima le ho portate nella terra del mio corpo. Poi, quando erano pronte, le ho affidate al suolo."<x1/><x2/><x3/><x4/>"Ho cominciato poco dopo il mio primo risveglio al mondo. O forse molto dopo. La memoria è una terra strana. Alcune radici si allungano più di quanto dovrebbero, altre svaniscono nell'oscurità."<x5/><x6/>"Allora ero solo. Non conoscevo il mio posto, e le creature della foresta non sapevano ancora cosa pensare di me."<x7/><x8/>"Poi ho trovato dei semi qui, in attesa, come se qualcuno li avesse posati per me."<x9/><x10/>*La voce di Basilton si addolcisce, pensosa più che sicura.*<x11/><x12/>"Li ho messi nella terra del mio corpo e sono cresciuti. Ben presto riuscivo a sentirli, quieti e vivi. Da lì è nato il giardino."
+NPC_BASILTON_RESPONSE_b48ae43e-2e17-4748-819f-6072170c34d6	"No. Non mi colpisce."<x1/><x2/>*Gira la mano, con il palmo verso l'esterno, come lasciando scivolare via qualcosa.*<x3/><x4/>"Rimbalza via, come api contro la corteccia."<x5/><x6/>"Qualunque cosa mi animi, è una magia più forte della sua, almeno finché i suoi padroni sono lontani."
+NPC_BASILTON_RESPONSE_b6c4e38d-7fe5-42b5-bd88-48b3c9b764ce	"Hm. Ma se non proteggiamo le piccole gioie della vita e i ricordi che vi hanno radici, per cos'altro possiamo lottare? Un pensiero da portare con te."
+NPC_BASILTON_RESPONSE_b73f69ce-5a24-4fb2-841f-6b31cfa9501e	"Mi attribuisci troppo merito, e troppo poco al mondo invisibile. Il nostro cammino e le mani che ci guidano sono spesso radici dello stesso albero."
+NPC_BASILTON_RESPONSE_be580fa6-9b3d-45a4-a167-eaa7299688f1	*Basilton abbassa il capo, unendo dolore e risolutezza.*<x1/><x2/>"Allora cercherò in silenzio, quando potrò. La guerra non rende la domanda meno importante. Rende soltanto più difficile trovare il tempo."
+NPC_BASILTON_RESPONSE_be5fc160-8ef3-400f-84fa-b626afc407e6	"Me lo sono domandato anche io. Guardavano da lontano, ma non si avvicinavano."<x1/><x2/><x3/><x4/>"Venivano ai margini del giardino e guardavano dentro. Quando alzavo una mano in segno di saluto, fuggivano.<x5/><x6/><x7/><x8/>Così ho imparato una piccola cosa triste: amavano di più il giardino quando io non vi ero. Se me lo avessero chiesto, mi sarei allontanato. La bellezza non dovrebbe essere negata agli altri perché ne temono il custode."
+NPC_BASILTON_RESPONSE_bf59a7f5-8f05-4499-9c8a-a0cba4646a76	*Un barlume di speranza attraversa il dolore nei suoi occhi.*<x1/><x2/>"Un giardino tuo… e un posto per me al suo interno?"<x3/><x4/><x5/><x6/>"Sì… questa è la strada giusta per me, ora."<x7/><x8/>*Si raddrizza, assumendo una postura risoluta.*<x9/><x10/>"Dimmi dove si trova la tua casa, e verrò."
+NPC_BASILTON_RESPONSE_c24bf2c5-e03f-40f3-ac68-f9c940515da0	"Forse è così. Le driadi hanno una storia antica, e le storie antiche raccolgono molti nomi per il dolore."<x1/><x2/><x3/><x4/>"Mi addolora vederle così. So di non essere gradito in loro presenza, eppure desidero ancora aiutarle.<x5/><x6/><x7/><x8/>Non dirlo a nessuno, ma spesso andavo alle rovine di notte a curare i giovani alberi. Davo loro la mia terra incantata, perché crescessero forti nelle crepe."<x9/><x10/>*Abbassa lo sguardo, gravato dalla preoccupazione.*<x11/><x12/>"Questo prima che i goblin tornassero. Ora hanno divorato quasi tutto, lasciando il luogo spoglio. Restano soltanto le piante nascoste sotto le piastrelle, e senza sole né spazio per crescere non dureranno a lungo."
+NPC_BASILTON_RESPONSE_c31246bb-ae92-47b6-adbb-dd6600f4355d	"No. Eppure… questa risposta non è del tutto sincera."<x1/><x2/><x3/><x4/>"Non lo conoscevo... non come un amico ne conosce un altro. Eppure penso che lui conoscesse me.<x5/><x6/><x7/><x8/>Ricordi quando ti ho raccontato come è nato il mio giardino? Allora ero smarrito, senza uno scopo, quando ho trovato questo luogo e i primi semi sparsi qui."<x9/><x10/>*Lo sguardo di Basilton vaga, seguendo nell'aria un vecchio ricordo.*<x11/><x12/>"Quel giorno ho avvertito una presenza potente nei paraggi. Ho visto fra le foglie la sagoma che molti dicono riveli il suo passaggio. Credo abbia lasciato quei semi per me, o li abbia fatti lasciare, come un gesto silenzioso per guidarmi verso il mio scopo.<x13/><x14/><x15/><x16/>Pur non avendolo mai incontrato, penso che vegliasse su di me."
+NPC_BASILTON_RESPONSE_c4808bfb-e454-4aa6-9682-e37be135e0d6	"Hm. Sì. È così. In tutti i miei anni, i goblin sono stati una piaga. Non ne ho mai visto uno mostrare gentilezza o premura. Neppure una volta."
+NPC_BASILTON_RESPONSE_c77536b5-e406-4ecf-96aa-979b38173618	*Basilton si ferma, la sua grande figura si fa quieta. Inclina il capo all'indietro, poi lo abbassa lentamente, come se il dolore fosse penetrato in lui come pioggia nella terra.*<x1/><x2/>"La foresta lo sapeva prima di me. Ho sentito il cambiamento nelle sue radici."<x3/><x4/>*Ti guarda, addolorato ma saldo.*<x5/><x6/>"E ora tu gli dai parole. So che cosa era diventato."
+NPC_BASILTON_RESPONSE_cc9c1687-a3ee-4fb3-ba6e-52c572c5a650	"Le rovine? Hm. Non molto, temo. Soltanto un nome sussurrato: la Corte dei Frammenti. Befr mi disse una volta che era una dimora degli antichi elfi.<x1/><x2/><x3/><x4/>Era qui molto prima di me. Dovevano essere davvero antichi, per aver vissuto prima che io aprissi gli occhi sulla foresta."
+NPC_BASILTON_RESPONSE_ce2b2fe2-9b7b-433c-8fd0-4f6905876f16	*La bocca di fango di Basilton si addolcisce in un sorriso.*<x1/><x2/>"Quella gentilezza giunge in profondità. Grazie, mio caro piccolo amico."
+NPC_BASILTON_RESPONSE_cf8f34df-05d3-4b45-a106-541639591633	"E io sono lieto di averti incontrato, nuovo amico."<x1/><x2/><x3/><x4/>"Concediti un poco di tempo qui. Siediti, se vuoi. Lascia posare i pensieri e respira l'aria e il polline, dolci di terra umida e fiori selvatici. Sei il benvenuto nel mio giardino, ogni volta che tornerai."
+NPC_BASILTON_RESPONSE_d6b7b3fe-9dc7-426a-a94e-eaba09feb2b3	"Sì. E anche i miei amici sono illesi, perché ti sei frapposto fra loro e il pericolo."<x1/><x2/><x3/><x4/>"E tu hai collocato gli stendardi protettivi. Non potrò mai ringraziarti abbastanza. Sento già la corruzione ritirarsi."<x5/><x6/>*I suoi occhi luminosi si volgono verso la foresta.*<x7/><x8/>"Sa che questo non è il suo posto. Sa di non poter entrare. Eppure cerca ancora una via…"<x9/><x10/>*Si fa immobile, come in ascolto di ciò che verrà dopo il silenzio.*<x11/><x12/>"La corruzione continuerà a saggiare il confine. Se gli stendardi si indeboliranno, cercherò il Raduno della Foresta e chiederò il loro riparo e la loro forza."
+NPC_BASILTON_RESPONSE_d968e059-9e17-4da9-a935-0507adcdc53c	"Ah, sì. Mi comprendi. Mi rallegra davvero che sia così."<x1/><x2/><x3/><x4/>"Devo confessarti qualcosa, mio piccolo amico. Non è un segreto oscuro, spero. Soltanto un segreto solitario.<x5/><x6/><x7/><x8/>Ne ho parlato solo alle mie piante. Sanno custodire i segreti, anche se da tempo desidero una risposta fatta di parole."
+NPC_BASILTON_RESPONSE_dabf15c2-2796-4b84-86a0-721c3371c23d	"Antichi elfi, dici? Qui non sento parlare molto di loro. Ma, del resto, pochi mi parlano del passato."<x1/><x2/><x3/><x4/>"Ho visto le driadi venire da sole alla Corte dei Frammenti. Non parlano. Piantano giovani alberi dove le piastrelle si sono crepate e pregano come se la pietra stessa ricordasse.<x5/><x6/><x7/><x8/>Non so cosa sia accaduto lì. Ma quel luogo porta con sé dolore, e sembra che loro lo portino dentro."
+NPC_BASILTON_RESPONSE_dcceabbc-35b7-4e9f-89b9-185fb3c0b6a1	"Non prenderei mai in considerazione una cosa simile."<x1/><x2/>*Quel pensiero sembra turbarlo profondamente.*<x3/><x4/>"Erano ospiti."
+NPC_BASILTON_RESPONSE_de089ec2-4b61-4965-b1e8-90dafed998c4	"Per la mia stessa gioia, temo. In tutti i miei anni, il Raduno della Foresta non mi aveva mai permesso di partecipare. Quando è giunto l'invito, non mi sono fermato a domandarne il motivo."<x1/><x2/>*La mano si chiude a pugno, con un gesto trattenuto ma feroce.*<x3/><x4/>"Eppure… sembra che fosse tutto un inganno."<x5/><x6/><x7/><x8/>*Gli occhi di Basilton si spalancano, poi si velano di preoccupazione, come se i pensieri fossero corsi avanti.*<x9/><x10/>"Il mio giardino… sono rimasto lontano troppo a lungo. Senza la mia presenza, senza la mia protezione, qualunque cosa potrebbe avervi messo radici. Devo tornare."
+NPC_BASILTON_RESPONSE_e0d661e8-6d9f-45c6-abaa-3aa1f1fc5fc2	"Sì. In fretta. Raggiungimi al giardino, e grazie, amico."
+NPC_BASILTON_RESPONSE_e0e3aefa-3557-4e2b-9c44-ea90bf4b7e44	"Forse. Le driadi hanno molti doveri. Eppure la bellezza non è cosa da poco. Cura lo spirito, come la pioggia cura la radice."<x1/><x2/><x3/><x4/>"Venivano ai margini del giardino e guardavano dentro. Quando alzavo una mano in segno di saluto, fuggivano.<x5/><x6/><x7/><x8/>Così ho imparato una piccola cosa triste: amavano di più il giardino quando io non vi ero. Se me lo avessero chiesto, mi sarei allontanato. La bellezza non dovrebbe essere negata agli altri perché ne temono il custode."
+NPC_BASILTON_RESPONSE_e1dd3d9f-b3c0-4359-ba7d-8b57c117efe7	"Oh, molti progetti. Per prima cosa devo comprendere di cosa abbia bisogno questo luogo. Poi lo aiuterò a crescere."<x1/><x2/><x3/><x4/>"Sento la terra di questo luogo. Ha fame, povera cosa. Una terra affamata limita quanto si può coltivare.<x5/><x6/><x7/><x8/>La nutrirò. Con tempo e cura, potrai piantare molti più semi. A proposito di semi, Acorn e io possiamo venderti quelli che troviamo, anche se all'inizio la nostra scorta sarà modesta."
+NPC_BASILTON_RESPONSE_e4a64eb9-3792-4812-b0a1-a37cc062d0fe	"No. Non ritengo di meritare timore. Ma porto quello degli altri da molto tempo."<x1/><x2/><x3/><x4/>"Da allora sono accadute molte cose. Ti ringrazio di avermi invitato qui. Sono grato di avere un posto, un nuovo giardino e nuovi amici.<x5/><x6/><x7/><x8/>Eppure piango ancora ciò che ho perduto. Nel vento le foglie possono volare in una sola direzione, ma il cuore può essere mosso in due direzioni insieme. Interessante, non trovi?"
+NPC_BASILTON_RESPONSE_e6a8eaf8-bffa-4af2-9581-92a5fdeba843	"Sì. Le considero amiche, tutte, senza eccezione. Molte sono persino cresciute nella terra del mio corpo, quando ne avevano bisogno. Ho udito le loro voci nelle radici dentro di me."
+NPC_BASILTON_RESPONSE_eb207f08-ddfb-4922-a76f-5ceb0c7000be	"Ah. Mi fai posto con tanta naturalezza. È una gentilezza."<x1/><x2/><x3/><x4/>"È… difficile dirlo ad alta voce. Non so davvero che cosa sono.<x5/><x6/><x7/><x8/>La gente mi chiama golem, e forse è abbastanza corretto. Eppure non ne ho mai incontrato uno della mia taglia, né uno che abbia vissuto quanto sembra abbia vissuto io. Befr dice che i golem comuni non durano tanto."
+NPC_BASILTON_RESPONSE_ee774cd3-4627-4176-8398-0108452cc15a	"Moltissime cose. Gli avventurieri hanno bisogno di cibo, e un cibo migliore ti renderà più forte. Anche le pozioni richiedono piante, così come molti altri strumenti utili."
+NPC_BASILTON_RESPONSE_eecef0b4-a23c-444b-be2a-c23b3545d0a2	"Protezioni magiche… Una buona idea. Ne ho viste in tutta la foresta, e la loro magia mi è sempre parsa potente. Ti prego, portane qui alcune."
+NPC_BASILTON_RESPONSE_f093007b-e912-4dfc-ab80-0ac6f8e9e1ec	"Il piacere è mio, nuovo amico. Questo luogo è la mia casa."<x1/><x2/><x3/><x4/>*Basilton indica il giardino con un lento movimento del braccio, pesante come un tronco caduto, eppure guidato con cauta misura. I rampicanti sulla pietra del suo corpo si spostano mentre si muove.*<x5/><x6/>"Benvenuto nel mio umile giardino, luogo di riposo e contemplazione. Ho piantato ciascuna di queste piante. Per molte generazioni le ho viste crescere, morire e lasciare discendenti che prendessero il loro posto."
+NPC_BASILTON_RESPONSE_f8de3a49-081f-4fc1-8e5b-e349f03e008d	"È un peccato. La prossima volta potresti ascoltare con maggiore delicatezza. Non si sa mai quale essere cerchi di entrare in contatto con noi."
+NPC_BASILTON_RESPONSE_faacff59-8746-4250-8067-5aa9415ad3eb	"Non cerco battaglia. Cerco riparo e la salvaguardia della vita."<x1/><x2/>*La voce si fa ferma, sommessa.*<x3/><x4/>"Ma se porre fine a questa corruzione è il modo per proteggere ciò che resta… allora sì. Ti aiuterò."<x5/><x6/><x7/><x8/>"Sì… questa è la strada giusta per me, ora."<x9/><x10/>*Si raddrizza, assumendo una postura risoluta.*<x11/><x12/>"Dimmi dove si trova la tua casa, e verrò."
+NPC_BASILTON_RESPONSE_fbb2da07-f7a3-4c27-9738-120167ce84fb	"Hmm? Sì. Dovrei cominciare dal principio. Sono Basilton."<x1/><x2/><x3/><x4/>*Lo sguardo di Basilton si leva per un momento, come cercando un ricordo fra le chiome. Una grande mano si posa sul petto, con le dita semiaffondate nel muschio.*<x5/><x6/>"I mortali mi chiamano Basilton. Non ricordo da dove abbia avuto origine il nome. Mi fu dato molto tempo fa, e il tempo ne ha cancellato le tracce. Se non riusciamo a risalire all'inizio di una cosa… significa che è sempre esistita, o soltanto che il nostro sapere è limitato? Non sappiamo risalire neppure al primo passo degli dèi. Sono sempre stati qui… o siamo semplicemente arrivati tardi nella storia?"
+NPC_BASILTON_RESPONSE_fde29186-6b24-48e2-916a-3a05bb08dc0f	"Ne conosco le origini. I suoi artefici erano un tempo divinità minori al servizio di Ceres e del suo signore."<x1/><x2/>*La voce si fa più sommessa, più grave.*<x3/><x4/>"Ora che il suo potere è diminuito, le divinità minori, buone e malvagie, lottano per imporre la propria volontà."<x5/><x6/>"Questa corruzione è lo strumento di coloro ai quali dobbiamo opporci."
+NPC_BASILTON_TITLE	Il Golem di Wildwood
+NPC_TAMSIN_GREETING_2cf4372a-67f9-4d68-bb70-123b899a95df	*Tamsin alza lo sguardo con un sorriso gentile, portandosi una ciocca di capelli dietro l'orecchio.*<x1/><x2/>"Già di ritorno? Spero che la foresta non ti abbia trattato troppo male."
+NPC_TAMSIN_GREETING_53bc639b-b530-4caf-a3a7-fc7ce7dacfb8	*Noti che Tamsin non ha la sua solita aria solare. È immobile, con le spalle rigide, e si sforza di assumere un'espressione cortese che non arriva mai davvero agli occhi.*<x1/><x2/>"Oh… ciao. Bentornato. Come posso aiutarti oggi? Libri degli incantesimi, o una mano?"
+NPC_TAMSIN_GREETING_8238e5fd-03e5-4e89-9931-0dcb5476e191	*Sorprendi la ragazza mentre lavora al bordo di uno stendardo, con il filo fra le dita e le mani che brillano debolmente. Si accorge di te e il viso le si illumina all'istante.*<x1/><x2/>"Oh! Un volto nuovo, che bello! Benvenuto. Sono Tamsin Fairweather. Tesso e incanto gli stendardi di Earlwood. Ti serve un incantesimo cucito nella stoffa? Ci penso io."
+NPC_TAMSIN_GREETING_828c47f6-e9e9-4f17-9705-e8a14b4a7527	*Il sorriso di Tamsin sboccia appena ti vede. Si raddrizza tutta attenta e fa un rapido mezzo passo verso di te, facendo rimbalzare le ciocche sciolte, come se stesse per parlare prima ancora di fermarsi.*<x1/><x2/>“Sei tornato! Oh, che bello vederti, davvero. Ho una notizia fantastica. I miei genitori mi hanno mandato uno dei fusi di famiglia da Aldoria. Non riesco a stare ferma, al pensiero di tutto quello che potrò tesserci.”
+NPC_TAMSIN_PLAYER_0ca9ab03-1651-427e-a8a8-17d29341b331_HEROIC	Un albero contorto. Non mi serve uno studioso per capire che qualcosa non andava.
+NPC_TAMSIN_PLAYER_0ca9ab03-1651-427e-a8a8-17d29341b331_JOKER	Un albero, contorto come se soffrisse. Non sono un giardiniere, ma di solito gli alberi non lo fanno.
+NPC_TAMSIN_PLAYER_0ca9ab03-1651-427e-a8a8-17d29341b331_SCHOLAR	Un albero contorto contro la propria venatura. La crescita non provoca questo. È stato qualcos'altro.
+NPC_TAMSIN_PLAYER_0ca9ab03-1651-427e-a8a8-17d29341b331_STOIC	Un albero. Contorto. Innaturale. Questo è il dettaglio.
+NPC_TAMSIN_PLAYER_0d5a3a2f-8a6c-4a69-b46b-313e5facc727_HEROIC	Deve restare lucido, se vuole sopravvivere.
+NPC_TAMSIN_PLAYER_0d5a3a2f-8a6c-4a69-b46b-313e5facc727_JOKER	Speriamo che eviti passi falsi mortali.
+NPC_TAMSIN_PLAYER_0d5a3a2f-8a6c-4a69-b46b-313e5facc727_SCHOLAR	Temo che la sua fortuna si esaurisca prima della sua energia.
+NPC_TAMSIN_PLAYER_0d5a3a2f-8a6c-4a69-b46b-313e5facc727_STOIC	Spero solo che non si faccia ammazzare.
+NPC_TAMSIN_PLAYER_0fb3f517-9671-4c93-b832-ec61d83e6b56_HEROIC	Sarà meglio che ne valga il tempo impiegato.
+NPC_TAMSIN_PLAYER_0fb3f517-9671-4c93-b832-ec61d83e6b56_JOKER	Speriamo di non stare per buttare via il tempo con tanto impegno.
+NPC_TAMSIN_PLAYER_0fb3f517-9671-4c93-b832-ec61d83e6b56_SCHOLAR	Presto sapremo se questo sforzo giustifica il suo costo.
+NPC_TAMSIN_PLAYER_0fb3f517-9671-4c93-b832-ec61d83e6b56_STOIC	Speriamo non sia tempo perso.
+NPC_TAMSIN_PLAYER_13f764c8-cde6-4db5-ac38-03e7d1e70214_BASE	Raccontami questa storia di JJ.
+NPC_TAMSIN_PLAYER_15eea7cd-3981-41f1-bba1-1a1a278d3c69_HEROIC	Ti aiuto volentieri. Siamo uniti contro lo stesso nemico.
+NPC_TAMSIN_PLAYER_15eea7cd-3981-41f1-bba1-1a1a278d3c69_JOKER	Sempre felice di dare una mano. Niente unisce la gente come un nemico in comune.
+NPC_TAMSIN_PLAYER_15eea7cd-3981-41f1-bba1-1a1a278d3c69_SCHOLAR	Ti aiuto volentieri. Condividiamo un nemico, il che semplifica tutto.
+NPC_TAMSIN_PLAYER_15eea7cd-3981-41f1-bba1-1a1a278d3c69_STOIC	Lieto di aiutare. Combattiamo tutti lo stesso nemico.
+NPC_TAMSIN_PLAYER_16b4fa09-92aa-419e-ba17-b851d8edda10_HEROIC	Non sono d'accordo. Non si deve abbandonare la gentilezza per colpa di un malintenzionato. Tutti la meritano.
+NPC_TAMSIN_PLAYER_16b4fa09-92aa-419e-ba17-b851d8edda10_JOKER	Non sono d'accordo. Lasciare che un malintenzionato rovini la gentilezza per tutti è un pessimo affare.
+NPC_TAMSIN_PLAYER_16b4fa09-92aa-419e-ba17-b851d8edda10_SCHOLAR	Non concordo. Un solo malintenzionato non è una ragione valida per razionare la gentilezza.
+NPC_TAMSIN_PLAYER_16b4fa09-92aa-419e-ba17-b851d8edda10_STOIC	Non sono d'accordo. Un malintenzionato non giustifica smettere di essere gentili con tutti.
+NPC_TAMSIN_PLAYER_1a4a3d03-fabd-419d-90ea-0d749d6d748e_HEROIC	Una cosa mi ha colpito. Un albero, contorto come se qualcosa ci fosse entrato dentro.
+NPC_TAMSIN_PLAYER_1a4a3d03-fabd-419d-90ea-0d749d6d748e_JOKER	Una cosa si notava: un albero che sembrava avere delle idee. Contorte.
+NPC_TAMSIN_PLAYER_1a4a3d03-fabd-419d-90ea-0d749d6d748e_SCHOLAR	Un dettaglio. Un albero contorto in un modo che la crescita non spiega. Qualcosa era al suo interno.
+NPC_TAMSIN_PLAYER_1a4a3d03-fabd-419d-90ea-0d749d6d748e_STOIC	Una cosa. Un albero contorto.
+NPC_TAMSIN_PLAYER_1c64b06c-9eb8-46cc-b0c8-d3d454ab525b_HEROIC	Se li trovo, li eliminerò. È una promessa.
+NPC_TAMSIN_PLAYER_1c64b06c-9eb8-46cc-b0c8-d3d454ab525b_JOKER	Se li trovo, hanno i giorni contati. Contatissimi.
+NPC_TAMSIN_PLAYER_1c64b06c-9eb8-46cc-b0c8-d3d454ab525b_SCHOLAR	Se li trovo, il ritrovamento coinciderà con la loro fine.
+NPC_TAMSIN_PLAYER_1c64b06c-9eb8-46cc-b0c8-d3d454ab525b_STOIC	Se li trovo, non vedranno un altro giorno.
+NPC_TAMSIN_PLAYER_1d26573b-719e-459e-8b9e-f805ba577e4f_HEROIC	Provieni da Aldoria, dunque?
+NPC_TAMSIN_PLAYER_1d26573b-719e-459e-8b9e-f805ba577e4f_JOKER	Addirittura da Aldoria, eh?
+NPC_TAMSIN_PLAYER_1d26573b-719e-459e-8b9e-f805ba577e4f_SCHOLAR	Aldoria, dunque? Quanto hai viaggiato?
+NPC_TAMSIN_PLAYER_1d26573b-719e-459e-8b9e-f805ba577e4f_STOIC	Sei di Aldoria?
+NPC_TAMSIN_PLAYER_1dbb7f6a-46a2-40a5-82b2-859b6cc5e72f_HEROIC	La sua incoscienza mette tutti in pericolo, e non possiamo ignorarla.
+NPC_TAMSIN_PLAYER_1dbb7f6a-46a2-40a5-82b2-859b6cc5e72f_JOKER	Con la sua incoscienza, ai guai manca solo che mandi un invito scritto.
+NPC_TAMSIN_PLAYER_1dbb7f6a-46a2-40a5-82b2-859b6cc5e72f_SCHOLAR	La sua avventatezza ha un costo, e saranno altri a pagarlo.
+NPC_TAMSIN_PLAYER_1dbb7f6a-46a2-40a5-82b2-859b6cc5e72f_STOIC	La sua incoscienza è un rischio per tutti.
+NPC_TAMSIN_PLAYER_2cadd69c-777e-47dd-9b29-b886a8590bfa_HEROIC	Devo rifletterci bene. Con tutto ciò che accade, merita attenzione.
+NPC_TAMSIN_PLAYER_2cadd69c-777e-47dd-9b29-b886a8590bfa_JOKER	Devo pensarci. C'è parecchia carne al fuoco, adesso.
+NPC_TAMSIN_PLAYER_2cadd69c-777e-47dd-9b29-b886a8590bfa_SCHOLAR	Devo valutarlo con cura. Al momento troppe cose sono in evoluzione.
+NPC_TAMSIN_PLAYER_2cadd69c-777e-47dd-9b29-b886a8590bfa_STOIC	Devo pensarci. Stanno accadendo molte cose.
+NPC_TAMSIN_PLAYER_2d44a9f1-bc3d-48df-9392-0a14ec84b8a2_HEROIC	Parla chiaro: cosa devo fare?
+NPC_TAMSIN_PLAYER_2d44a9f1-bc3d-48df-9392-0a14ec84b8a2_JOKER	Saltiamo il prologo. Che c'è da fare?
+NPC_TAMSIN_PLAYER_2d44a9f1-bc3d-48df-9392-0a14ec84b8a2_SCHOLAR	Una sintesi, per favore. Di quale intervento hai bisogno?
+NPC_TAMSIN_PLAYER_2d44a9f1-bc3d-48df-9392-0a14ec84b8a2_STOIC	Al punto. Cosa devo fare?
+NPC_TAMSIN_PLAYER_2d47d1fd-1c32-47dc-849c-69ca085842cd_HEROIC	Sperare non cambia nulla. Che cos'è la magia corrotta?
+NPC_TAMSIN_PLAYER_2d47d1fd-1c32-47dc-849c-69ca085842cd_JOKER	La speranza è una bella cosa, ma non ha mai raddrizzato un albero. Cos'è la magia corrotta?
+NPC_TAMSIN_PLAYER_2d47d1fd-1c32-47dc-849c-69ca085842cd_SCHOLAR	La speranza non è una prova. Definisci la magia corrotta.
+NPC_TAMSIN_PLAYER_2d47d1fd-1c32-47dc-849c-69ca085842cd_STOIC	Sperare non serve. Che cos'è?
+NPC_TAMSIN_PLAYER_2e9c4a7f-1b6d-8f3a-5c0e-9d1b7a4c2f6e_BASE	Alaric ha detto che potresti aver bisogno d'aiuto con il rito.
+NPC_TAMSIN_PLAYER_3101f2d0-fa61-41b5-b535-7433e6a92eef_HEROIC	Sì, i principi mi guidano dalla nascita.
+NPC_TAMSIN_PLAYER_3101f2d0-fa61-41b5-b535-7433e6a92eef_JOKER	Io e i principi ci siamo conosciuti alla nascita. Siamo rimasti in contatto.
+NPC_TAMSIN_PLAYER_3101f2d0-fa61-41b5-b535-7433e6a92eef_SCHOLAR	Sì, l'adesione ai principi mi ha plasmato fin dalla nascita.
+NPC_TAMSIN_PLAYER_3101f2d0-fa61-41b5-b535-7433e6a92eef_STOIC	Sì. Seguo i principi dalla nascita.
+NPC_TAMSIN_PLAYER_31b91746-e5a3-4781-9875-7ead1d8df0dc_BASE	Dove dimorano gli dèi?
+NPC_TAMSIN_PLAYER_337bf65c-51de-47a1-94df-7531897eb741_HEROIC	No. A quella religione manca la forza delle antiche usanze. La giusta via è nella tradizione.
+NPC_TAMSIN_PLAYER_337bf65c-51de-47a1-94df-7531897eb741_JOKER	No. Quella religione non sta in piedi. Le vecchie usanze sì.
+NPC_TAMSIN_PLAYER_337bf65c-51de-47a1-94df-7531897eb741_SCHOLAR	No. Quella religione è debole. Le antiche usanze restano la via corretta.
+NPC_TAMSIN_PLAYER_337bf65c-51de-47a1-94df-7531897eb741_STOIC	No. Una religione debole. La vecchia via è quella giusta.
+NPC_TAMSIN_PLAYER_33cfda11-c7f4-40ad-9437-6c991058606e_HEROIC	Il tè in un momento simile. Ti comporti da sciocca.
+NPC_TAMSIN_PLAYER_33cfda11-c7f4-40ad-9437-6c991058606e_JOKER	Il tè, proprio adesso. Ne spari di assurdità, e pure con convinzione.
+NPC_TAMSIN_PLAYER_33cfda11-c7f4-40ad-9437-6c991058606e_SCHOLAR	Il tè in una simile circostanza. Sei priva di ogni buon senso.
+NPC_TAMSIN_PLAYER_33cfda11-c7f4-40ad-9437-6c991058606e_STOIC	Il tè in un momento così. Sei ridicola.
+NPC_TAMSIN_PLAYER_36007b77-102b-4fba-8d60-7835e72611a4_HEROIC	Gli abitanti di Earlwood possiedono una cultura davvero notevole. Si distingue da tutto ciò che ho incontrato.
+NPC_TAMSIN_PLAYER_36007b77-102b-4fba-8d60-7835e72611a4_JOKER	Quelli di Earlwood sanno come tenere viva l'atmosfera. Non c'è proprio paragone.
+NPC_TAMSIN_PLAYER_36007b77-102b-4fba-8d60-7835e72611a4_SCHOLAR	Le consuetudini di Earlwood non somigliano a nulla che abbia documentato altrove. Sono davvero singolari.
+NPC_TAMSIN_PLAYER_36007b77-102b-4fba-8d60-7835e72611a4_STOIC	Earlwood ha una cultura unica. Mai visto niente di simile.
+NPC_TAMSIN_PLAYER_372fdf5b-e67b-4ade-9b55-cf7f3a61d00e_HEROIC	Devo concentrarmi su altro. Non posso dedicare tempo a cercare piante nella foresta.
+NPC_TAMSIN_PLAYER_372fdf5b-e67b-4ade-9b55-cf7f3a61d00e_JOKER	Magari avessi ore per andare a spasso nella foresta dietro alle piante. Ma il tempo non è d'accordo.
+NPC_TAMSIN_PLAYER_372fdf5b-e67b-4ade-9b55-cf7f3a61d00e_SCHOLAR	Cercare piante sarebbe un impiego poco proficuo delle ore che mi restano.
+NPC_TAMSIN_PLAYER_372fdf5b-e67b-4ade-9b55-cf7f3a61d00e_STOIC	Non ho tempo di cercare piante per la foresta.
+NPC_TAMSIN_PLAYER_38805466-8784-4f4f-ac32-fb7dd140de61_BASE	Conoscevi dei minotauri nella tua terra?
+NPC_TAMSIN_PLAYER_3afbe05b-8825-49be-9818-fa072a7b6b8c_HEROIC	Grazie, Tamsin. Porterò a termine il compito.
+NPC_TAMSIN_PLAYER_3afbe05b-8825-49be-9818-fa072a7b6b8c_JOKER	Grazie, Tamsin. Consideralo fatto, con più o meno eleganza.
+NPC_TAMSIN_PLAYER_3afbe05b-8825-49be-9818-fa072a7b6b8c_SCHOLAR	Ti ringrazio, Tamsin. Me ne occuperò con cura.
+NPC_TAMSIN_PLAYER_3afbe05b-8825-49be-9818-fa072a7b6b8c_STOIC	Grazie, Tamsin. Ci penso io.
+NPC_TAMSIN_PLAYER_3b6dacd8-af03-4c3c-b035-f2b7e8784374_HEROIC	Quali scoperte hai fatto?
+NPC_TAMSIN_PLAYER_3b6dacd8-af03-4c3c-b035-f2b7e8784374_JOKER	Che tesori hai scovato, allora?
+NPC_TAMSIN_PLAYER_3b6dacd8-af03-4c3c-b035-f2b7e8784374_SCHOLAR	Che cosa hai trovato, e con quale grado di certezza?
+NPC_TAMSIN_PLAYER_3b6dacd8-af03-4c3c-b035-f2b7e8784374_STOIC	Cos'hai trovato?
+NPC_TAMSIN_PLAYER_3eb4a32f-07dd-4bb4-a5af-73165530406b_HEROIC	Earlwood al posto dell'accademia. Nemmeno io avrei capito la tua scelta.
+NPC_TAMSIN_PLAYER_3eb4a32f-07dd-4bb4-a5af-73165530406b_JOKER	Hai scambiato un'accademia con un villaggio infestato dai goblin. Su questo sto coi tuoi.
+NPC_TAMSIN_PLAYER_3eb4a32f-07dd-4bb4-a5af-73165530406b_SCHOLAR	Earlwood anziché l'accademia. Non è la scelta più ovvia. Cosa ti ha convinta?
+NPC_TAMSIN_PLAYER_3eb4a32f-07dd-4bb4-a5af-73165530406b_STOIC	Earlwood invece dell'accademia. Non avrei capito neanch'io.
+NPC_TAMSIN_PLAYER_3f285ffc-5945-41bc-ace5-1ae5966a5104_HEROIC	La casa di un golem nella foresta è priva di difese. Gli stendardi sono per lui.
+NPC_TAMSIN_PLAYER_3f285ffc-5945-41bc-ace5-1ae5966a5104_JOKER	A un golem nella foresta servono per tenere in piedi casa sua.
+NPC_TAMSIN_PLAYER_3f285ffc-5945-41bc-ace5-1ae5966a5104_SCHOLAR	Per un golem nella foresta. La sua casa si trova sul percorso della corruzione.
+NPC_TAMSIN_PLAYER_3f285ffc-5945-41bc-ace5-1ae5966a5104_STOIC	Un golem nella foresta ne ha bisogno per proteggere la casa.
+NPC_TAMSIN_PLAYER_3f35f5be-e606-43a5-9160-ecd0880d065c_HEROIC	Restiamo al punto, Tamsin.
+NPC_TAMSIN_PLAYER_3f35f5be-e606-43a5-9160-ecd0880d065c_JOKER	Niente giro panoramico, Tamsin. Solo il punto.
+NPC_TAMSIN_PLAYER_3f35f5be-e606-43a5-9160-ecd0880d065c_SCHOLAR	Prima la conclusione, Tamsin. Il procedimento può seguire.
+NPC_TAMSIN_PLAYER_3f35f5be-e606-43a5-9160-ecd0880d065c_STOIC	Va' al punto, Tamsin.
+NPC_TAMSIN_PLAYER_3f489de0-1271-4a3f-b758-fc2466db9eb7_BASE	"Ho scoperto cosa stava prosciugando gli incantamenti."
+NPC_TAMSIN_PLAYER_3f51f749-382f-4ac5-b70b-5ceee5559c81_HEROIC	Dimmi soltanto quali reagenti servono, e porterò a termine il compito.
+NPC_TAMSIN_PLAYER_3f51f749-382f-4ac5-b70b-5ceee5559c81_JOKER	Dimmi solo i reagenti, così la smettiamo di tirarla in lungo.
+NPC_TAMSIN_PLAYER_3f51f749-382f-4ac5-b70b-5ceee5559c81_SCHOLAR	I reagenti, elencati chiaramente. Poi abbiamo finito.
+NPC_TAMSIN_PLAYER_3f51f749-382f-4ac5-b70b-5ceee5559c81_STOIC	Dimmi quali sono i reagenti. Voglio farla finita.
+NPC_TAMSIN_PLAYER_405f017a-1550-430f-a0ef-6a1ce7ca3587_BASE	Di nulla, Tamsin. Non so resistere alla voglia di aiutarti.
+NPC_TAMSIN_PLAYER_4232d3c9-117c-4b5a-bf76-0f2b69e7ec3c_HEROIC	Cosa ti ha portata a Earlwood?
+NPC_TAMSIN_PLAYER_4232d3c9-117c-4b5a-bf76-0f2b69e7ec3c_JOKER	Cos'è che ti ha fatto scegliere proprio Earlwood, fra tutti i posti?
+NPC_TAMSIN_PLAYER_4232d3c9-117c-4b5a-bf76-0f2b69e7ec3c_SCHOLAR	Per quale ragione sei venuta a Earlwood?
+NPC_TAMSIN_PLAYER_4232d3c9-117c-4b5a-bf76-0f2b69e7ec3c_STOIC	Perché sei venuta a Earlwood?
+NPC_TAMSIN_PLAYER_445545cf-8301-4289-930c-8005edc5a806_HEROIC	La tua dedizione è evidente, Tamsin. Ti lascio tornare al lavoro.
+NPC_TAMSIN_PLAYER_445545cf-8301-4289-930c-8005edc5a806_JOKER	Il lavoro ti ha rapita, Tamsin. Vi lascio soli.
+NPC_TAMSIN_PLAYER_445545cf-8301-4289-930c-8005edc5a806_SCHOLAR	Il lavoro assorbe tutta la tua attenzione, Tamsin. Te la restituisco.
+NPC_TAMSIN_PLAYER_445545cf-8301-4289-930c-8005edc5a806_STOIC	Sei concentrata sul lavoro. Ti lascio fare, Tamsin.
+NPC_TAMSIN_PLAYER_4a7f99bc-0779-495a-a757-c6f15b7d5724_HEROIC	Che cosa ti pesa sul cuore, oggi?
+NPC_TAMSIN_PLAYER_4a7f99bc-0779-495a-a757-c6f15b7d5724_JOKER	Qualcosa ti ha già messo i bastoni fra le ruote, oggi?
+NPC_TAMSIN_PLAYER_4a7f99bc-0779-495a-a757-c6f15b7d5724_SCHOLAR	Qualcosa ha guastato la giornata. Di cosa si tratta?
+NPC_TAMSIN_PLAYER_4a7f99bc-0779-495a-a757-c6f15b7d5724_STOIC	Cos'hai oggi?
+NPC_TAMSIN_PLAYER_4b2416bd-f75a-4f52-8b19-b98fae70bef4_HEROIC	La sua premura conta molto. Avere qui qualcuno che ti sostiene così è una vera benedizione.
+NPC_TAMSIN_PLAYER_4b2416bd-f75a-4f52-8b19-b98fae70bef4_JOKER	Difficile non apprezzare uno che si mette così vicino ai guai per te.
+NPC_TAMSIN_PLAYER_4b2416bd-f75a-4f52-8b19-b98fae70bef4_SCHOLAR	Gli sono grato per la cura che ha di te. Un sostegno simile è raro, qui.
+NPC_TAMSIN_PLAYER_4b2416bd-f75a-4f52-8b19-b98fae70bef4_STOIC	Gli sono grato. Bene che tu abbia un sostegno, qui.
+NPC_TAMSIN_PLAYER_4d1b271f-0544-4899-9f2e-4e6ae2a4c218_BASE	"Alaric ha detto che ti servirebbe aiuto?"
+NPC_TAMSIN_PLAYER_4f2add8c-d924-4c2a-85b7-48445284a0e5_HEROIC	La tua generosità incauta ha permesso che i rifugiati venissero sfruttati.
+NPC_TAMSIN_PLAYER_4f2add8c-d924-4c2a-85b7-48445284a0e5_JOKER	Tu donavi senza pensarci, e gli avvoltoi banchettavano. È andata così.
+NPC_TAMSIN_PLAYER_4f2add8c-d924-4c2a-85b7-48445284a0e5_SCHOLAR	Donare senza cautela ha favorito tutto questo. Ne hanno pagato il prezzo i rifugiati.
+NPC_TAMSIN_PLAYER_4f2add8c-d924-4c2a-85b7-48445284a0e5_STOIC	Hai donato senza cautela. Così i rifugiati sono stati sfruttati.
+NPC_TAMSIN_PLAYER_52f2ff9d-ec4c-4ef8-9e04-b9efdea6e0ee_HEROIC	L'ho cacciato e gli ho detto di non tornare.
+NPC_TAMSIN_PLAYER_52f2ff9d-ec4c-4ef8-9e04-b9efdea6e0ee_JOKER	Adesso si sta facendo una lunga passeggiata nella foresta. Di sola andata.
+NPC_TAMSIN_PLAYER_52f2ff9d-ec4c-4ef8-9e04-b9efdea6e0ee_SCHOLAR	L'ho mandato nella foresta con l'ordine di non ripresentarsi.
+NPC_TAMSIN_PLAYER_52f2ff9d-ec4c-4ef8-9e04-b9efdea6e0ee_STOIC	Gli ho detto di fuggire nella foresta e non tornare mai più.
+NPC_TAMSIN_PLAYER_53c121ae-7bd6-4cd3-91f6-fbef2774d131_HEROIC	È terribile. Chi è stato?
+NPC_TAMSIN_PLAYER_53c121ae-7bd6-4cd3-91f6-fbef2774d131_JOKER	È terribile. Chi si sveglia e pensa: oggi faccio una cosa del genere?
+NPC_TAMSIN_PLAYER_53c121ae-7bd6-4cd3-91f6-fbef2774d131_SCHOLAR	È terribile. Cosa spinge una persona ad agire in questo modo?
+NPC_TAMSIN_PLAYER_53c121ae-7bd6-4cd3-91f6-fbef2774d131_STOIC	È terribile. Chi farebbe una cosa così?
+NPC_TAMSIN_PLAYER_54f8eaba-b0f0-4b1e-836c-36d3b6dfc72d_HEROIC	Di certo porta con sé un grande slancio.
+NPC_TAMSIN_PLAYER_54f8eaba-b0f0-4b1e-836c-36d3b6dfc72d_JOKER	Con tutta quell'energia potrebbe far girare un mulino.
+NPC_TAMSIN_PLAYER_54f8eaba-b0f0-4b1e-836c-36d3b6dfc72d_SCHOLAR	Energico, sì. Mi domando come sia a riposo, ammesso che riposi.
+NPC_TAMSIN_PLAYER_54f8eaba-b0f0-4b1e-836c-36d3b6dfc72d_STOIC	Sembra molto energico.
+NPC_TAMSIN_PLAYER_56e3a6ed-c822-47a3-8e16-390597f3a5b5_HEROIC	Forse gli manca l'intelligenza, ma sfoggia certo con orgoglio la sua bellezza.
+NPC_TAMSIN_PLAYER_56e3a6ed-c822-47a3-8e16-390597f3a5b5_JOKER	Mancherà il cervello, ma con quell'aspetto potrebbe vincere un concorso.
+NPC_TAMSIN_PLAYER_56e3a6ed-c822-47a3-8e16-390597f3a5b5_SCHOLAR	Ciò che gli manca in acume lo compensa in bellezza. Un bilancio in pareggio.
+NPC_TAMSIN_PLAYER_56e3a6ed-c822-47a3-8e16-390597f3a5b5_STOIC	Avrà poco cervello, ma è senz'altro bello.
+NPC_TAMSIN_PLAYER_57c2ff44-4027-4ce6-8dcc-d59b2eb352af_HEROIC	Recupererò volentieri il Glimmerflax per te.
+NPC_TAMSIN_PLAYER_57c2ff44-4027-4ce6-8dcc-d59b2eb352af_JOKER	Volentieri, vado a caccia di Glimmerflax. Darà un po' di luce alla giornata.
+NPC_TAMSIN_PLAYER_57c2ff44-4027-4ce6-8dcc-d59b2eb352af_SCHOLAR	Procurerò il Glimmerflax. Spiegami come riconoscerlo a vista.
+NPC_TAMSIN_PLAYER_57c2ff44-4027-4ce6-8dcc-d59b2eb352af_STOIC	Posso recuperarti il Glimmerflax.
+NPC_TAMSIN_PLAYER_5a20e342-e3cb-439f-a113-90ce3bb6231d_HEROIC	Sono certo che i tuoi genitori siano molto preoccupati per te.
+NPC_TAMSIN_PLAYER_5a20e342-e3cb-439f-a113-90ce3bb6231d_JOKER	Scommetto che i tuoi stanno scavando solchi nel pavimento, a furia di pensare a te.
+NPC_TAMSIN_PLAYER_5a20e342-e3cb-439f-a113-90ce3bb6231d_SCHOLAR	I tuoi genitori devono chiedersi ogni notte dove tu dorma.
+NPC_TAMSIN_PLAYER_5a20e342-e3cb-439f-a113-90ce3bb6231d_STOIC	I tuoi saranno in pena per te.
+NPC_TAMSIN_PLAYER_5b994b11-1d85-4463-b6e0-827b4aea9bd9_BASE	Perché è qui, se ha una taverna nel villaggio?
+NPC_TAMSIN_PLAYER_5f4c10d9-ee2d-4897-8c1f-5ea8c939677a_BASE	Perché le guardie la lasciano passare?
+NPC_TAMSIN_PLAYER_64632bd6-bec9-44e3-9f01-87e6674fe693_HEROIC	Ho capito. Porteremo a termine il compito.
+NPC_TAMSIN_PLAYER_64632bd6-bec9-44e3-9f01-87e6674fe693_JOKER	Ricevuto. Niente come una lista per rallegrare la giornata.
+NPC_TAMSIN_PLAYER_64632bd6-bec9-44e3-9f01-87e6674fe693_SCHOLAR	Compreso. Prima si comincia, prima si conclude.
+NPC_TAMSIN_PLAYER_64632bd6-bec9-44e3-9f01-87e6674fe693_STOIC	Capito. Finiamola.
+NPC_TAMSIN_PLAYER_6554217a-d779-41e0-b355-f579a0b73392_BASE	"Grazie. Farò così."
+NPC_TAMSIN_PLAYER_69b1419f-256c-47ba-ae59-f3c8c2937d47_HEROIC	Se hai a cuore il villaggio, devi dimostrare la tua forza senza dipendere dai tuoi genitori.
+NPC_TAMSIN_PLAYER_69b1419f-256c-47ba-ae59-f3c8c2937d47_JOKER	Se sei in pensiero per il villaggio, mi sa che per una volta dovrai lavorare più dei tuoi.
+NPC_TAMSIN_PLAYER_69b1419f-256c-47ba-ae59-f3c8c2937d47_SCHOLAR	Se il villaggio ti preoccupa, l'impegno è più utile del nome dei tuoi genitori.
+NPC_TAMSIN_PLAYER_69b1419f-256c-47ba-ae59-f3c8c2937d47_STOIC	Se ti importa del villaggio, lavora di più. Non contare sui tuoi.
+NPC_TAMSIN_PLAYER_6c322663-79b6-4ac7-b774-b2b64f5b7f3d_HEROIC	Ho capito. Tornerò dopo aver controllato gli stendardi.
+NPC_TAMSIN_PLAYER_6c322663-79b6-4ac7-b774-b2b64f5b7f3d_JOKER	Ricevuto. Vediamo che cosa hanno da dire gli stendardi a loro discolpa.
+NPC_TAMSIN_PLAYER_6c322663-79b6-4ac7-b774-b2b64f5b7f3d_SCHOLAR	Compreso. Esaminerò gli stendardi uno per uno e ti riferirò i risultati.
+NPC_TAMSIN_PLAYER_6c322663-79b6-4ac7-b774-b2b64f5b7f3d_STOIC	Capito. Controllo gli stendardi e torno.
+NPC_TAMSIN_PLAYER_6c4c8377-1782-4dd1-9822-99c57e91f84d_HEROIC	Smettere di aiutare gli altri per questo sarebbe sbagliato.
+NPC_TAMSIN_PLAYER_6c4c8377-1782-4dd1-9822-99c57e91f84d_JOKER	Appendere la gentilezza al chiodo per un solo furfante? Non mi torna.
+NPC_TAMSIN_PLAYER_6c4c8377-1782-4dd1-9822-99c57e91f84d_SCHOLAR	Un ladro non dovrebbe pesare più di tutti quelli che hai aiutato. I conti non tornano.
+NPC_TAMSIN_PLAYER_6c4c8377-1782-4dd1-9822-99c57e91f84d_STOIC	Non mi sembra giusto smettere di aiutare per questo.
+NPC_TAMSIN_PLAYER_6e274403-6f66-4b57-a623-de6b16ed8093_HEROIC	Tamsin, i minotauri sono pericolosi. È saggio essere prudenti prima di fidarsi.
+NPC_TAMSIN_PLAYER_6e274403-6f66-4b57-a623-de6b16ed8093_JOKER	Tamsin, i minotauri sono pericolosi. A meno che non ti piacciano le sorprese selvagge.
+NPC_TAMSIN_PLAYER_6e274403-6f66-4b57-a623-de6b16ed8093_SCHOLAR	Tamsin, le prove sono chiare. I minotauri sono pericolosi, e fidarsi è imprudente.
+NPC_TAMSIN_PLAYER_6e274403-6f66-4b57-a623-de6b16ed8093_STOIC	I minotauri sono pericolosi, Tamsin. Non fidarti.
+NPC_TAMSIN_PLAYER_6ecd8c21-d976-4bde-a0e4-9415f9a4307f_HEROIC	È la strada giusta, e l'hai trovata da sola, Tamsin.
+NPC_TAMSIN_PLAYER_6ecd8c21-d976-4bde-a0e4-9415f9a4307f_JOKER	Anche la strada giusta ha trovato te, Tamsin. Mi sembra che torni.
+NPC_TAMSIN_PLAYER_6ecd8c21-d976-4bde-a0e4-9415f9a4307f_SCHOLAR	Un ragionamento solido. Sono lieto che tu abbia trovato la via giusta, Tamsin.
+NPC_TAMSIN_PLAYER_6ecd8c21-d976-4bde-a0e4-9415f9a4307f_STOIC	Mi sembra giusto. Bene che tu abbia trovato la strada, Tamsin.
+NPC_TAMSIN_PLAYER_6fd02fc9-75e7-4893-926c-18a04eeb31c3_BASE	"Ho trovato in biblioteca un quaderno con i tuoi appunti sulla storia di Aldoria."
+NPC_TAMSIN_PLAYER_706a524b-57a0-4f0a-9c27-f227c12862fd_BASE	Com'era l'accademia?
+NPC_TAMSIN_PLAYER_7097b42a-46f0-4578-aeb1-6a06f2c75a12_HEROIC	Cosa rende un fuso tanto entusiasmante?
+NPC_TAMSIN_PLAYER_7097b42a-46f0-4578-aeb1-6a06f2c75a12_JOKER	Davvero un fuso si è guadagnato tutto questo entusiasmo?
+NPC_TAMSIN_PLAYER_7097b42a-46f0-4578-aeb1-6a06f2c75a12_SCHOLAR	Quale particolarità di questo fuso ti entusiasma tanto?
+NPC_TAMSIN_PLAYER_7097b42a-46f0-4578-aeb1-6a06f2c75a12_STOIC	Perché tanto entusiasmo per uno stupido fuso?
+NPC_TAMSIN_PLAYER_72efd4ff-4860-4c9b-8382-d6ce02fdde2d_HEROIC	Non posso rivelarti la ragione, ma ho bisogno della tua fiducia.
+NPC_TAMSIN_PLAYER_72efd4ff-4860-4c9b-8382-d6ce02fdde2d_JOKER	Il motivo non posso spiattellarlo. Devi solo fidarti di me, per quanto suoni strano.
+NPC_TAMSIN_PLAYER_72efd4ff-4860-4c9b-8382-d6ce02fdde2d_SCHOLAR	Non posso fornirti una ragione. Dovrai accordarmi fiducia senza spiegazioni.
+NPC_TAMSIN_PLAYER_72efd4ff-4860-4c9b-8382-d6ce02fdde2d_STOIC	Non posso dirti perché. Devi fidarti di me.
+NPC_TAMSIN_PLAYER_77a0c602-6b40-40cf-99d8-4802ca47671c_HEROIC	Il luogo più sicuro che conosci, e te lo sei lasciato alle spalle.
+NPC_TAMSIN_PLAYER_77a0c602-6b40-40cf-99d8-4802ca47671c_JOKER	Il posto più sicuro del mondo, e tu l'hai scambiato coi goblin. I tuoi saranno entusiasti.
+NPC_TAMSIN_PLAYER_77a0c602-6b40-40cf-99d8-4802ca47671c_SCHOLAR	Lo definisci il luogo più sicuro che conosci, eppure lo hai lasciato. Non possono averlo compreso.
+NPC_TAMSIN_PLAYER_77a0c602-6b40-40cf-99d8-4802ca47671c_STOIC	Il posto più sicuro che conosci. E te ne sei andata.
+NPC_TAMSIN_PLAYER_77b09b24-6503-4f7c-9f3f-e5c97e57c499_BASE	"Voglio solo andarmene da questo villaggio il prima possibile."
+NPC_TAMSIN_PLAYER_78092816-b7f5-4928-a13d-0aaf7d0af82e_HEROIC	Queste storie superstiziose, aggrappate a dèi assenti, non aiutano nessuno a trovare una strada.
+NPC_TAMSIN_PLAYER_78092816-b7f5-4928-a13d-0aaf7d0af82e_JOKER	Storie di superstizione, tutte a sperare che gli dèi ascoltino, anche quando non si vedono da nessuna parte.
+NPC_TAMSIN_PLAYER_78092816-b7f5-4928-a13d-0aaf7d0af82e_SCHOLAR	Superstizione codificata. Una fede che supplica dèi che non rispondono mai.
+NPC_TAMSIN_PLAYER_78092816-b7f5-4928-a13d-0aaf7d0af82e_STOIC	Racconti superstiziosi di una fede che invoca dèi assenti.
+NPC_TAMSIN_PLAYER_781b991b-783e-4ce7-a9b3-b1dc8d4e4a3c_BASE	"Cosa pensi di Eldorian?"
+NPC_TAMSIN_PLAYER_79c3a08e-faeb-4cef-98c7-14c7eddad662_HEROIC	Hai vacillato quando serviva vigilanza. Impara da questo e cerca di migliorare.
+NPC_TAMSIN_PLAYER_79c3a08e-faeb-4cef-98c7-14c7eddad662_JOKER	Incuria e cecità: una pessima ricetta. Cucina qualcosa di meglio.
+NPC_TAMSIN_PLAYER_79c3a08e-faeb-4cef-98c7-14c7eddad662_SCHOLAR	È stata l'incuria a causare tutto questo, nient'altro. Comprendine il prezzo e migliora.
+NPC_TAMSIN_PLAYER_79c3a08e-faeb-4cef-98c7-14c7eddad662_STOIC	Sei stata incauta e cieca. È questa la causa. Migliora.
+NPC_TAMSIN_PLAYER_7af582f5-5753-41a9-80e6-42cb42e1f6ac_HEROIC	Mi sembra una persona dura.
+NPC_TAMSIN_PLAYER_7af582f5-5753-41a9-80e6-42cb42e1f6ac_JOKER	Ha un caratterino un po' spigoloso, eh?
+NPC_TAMSIN_PLAYER_7af582f5-5753-41a9-80e6-42cb42e1f6ac_SCHOLAR	È brusca, anche se sospetto sia una corazza più che la sua natura.
+NPC_TAMSIN_PLAYER_7af582f5-5753-41a9-80e6-42cb42e1f6ac_STOIC	Sembra scontrosa.
+NPC_TAMSIN_PLAYER_7be8e064-1436-42cf-b1f2-73a2b90524fb_HEROIC	Dimmi cosa c'è da fare.
+NPC_TAMSIN_PLAYER_7be8e064-1436-42cf-b1f2-73a2b90524fb_JOKER	Che c'è da fare, e quanto siamo messi male?
+NPC_TAMSIN_PLAYER_7be8e064-1436-42cf-b1f2-73a2b90524fb_SCHOLAR	Il compito, dunque. Prima i dettagli, per evitare sprechi.
+NPC_TAMSIN_PLAYER_7be8e064-1436-42cf-b1f2-73a2b90524fb_STOIC	Cosa devo fare?
+NPC_TAMSIN_PLAYER_7da66c86-0de7-48db-b33d-f51653b83f1f_BASE	A cosa pensi?
+NPC_TAMSIN_PLAYER_7e2b9c4a-5d1f-8a3e-6c0b-2f7d1a9c3e4b_BASE	Ho trovato del Glimmerflax per te.
+NPC_TAMSIN_PLAYER_7efbf808-7403-48fb-a4d2-501ecee18d0b_HEROIC	Non sono qui per essere il salvatore di nessuno.
+NPC_TAMSIN_PLAYER_7efbf808-7403-48fb-a4d2-501ecee18d0b_JOKER	Salvatore? Non mi starebbero i panni.
+NPC_TAMSIN_PLAYER_7efbf808-7403-48fb-a4d2-501ecee18d0b_SCHOLAR	Salvatore è un termine inesatto per ciò che faccio.
+NPC_TAMSIN_PLAYER_7efbf808-7403-48fb-a4d2-501ecee18d0b_STOIC	Non sono il salvatore di nessuno.
+NPC_TAMSIN_PLAYER_81b0855a-2d63-434a-b9cf-a8d8469fe16a_BASE	Cos'altro puoi dirmi dei Principi Primi?
+NPC_TAMSIN_PLAYER_82cbed47-22c8-4eae-a679-14d5e69904c3_BASE	Non potrei desiderare altro che un posto nel tuo cuore.
+NPC_TAMSIN_PLAYER_87794026-031b-4683-9afe-a684f5b6d0dd_HEROIC	Ora devo congedarmi. Addio.
+NPC_TAMSIN_PLAYER_87794026-031b-4683-9afe-a684f5b6d0dd_JOKER	Questo è il mio segnale per uscire di scena. Addio.
+NPC_TAMSIN_PLAYER_87794026-031b-4683-9afe-a684f5b6d0dd_SCHOLAR	Prendo congedo. Addio.
+NPC_TAMSIN_PLAYER_87794026-031b-4683-9afe-a684f5b6d0dd_STOIC	Ora vado. Addio.
+NPC_TAMSIN_PLAYER_89408d7d-f0d2-486a-affa-98ab016f6f80_BASE	Cosa pensi di Saqi?
+NPC_TAMSIN_PLAYER_8bca7555-d06e-4529-9c8b-d24497a1d2b0_HEROIC	Queste rovine non mi servono a nulla, e non vi trovo alcun significato.
+NPC_TAMSIN_PLAYER_8bca7555-d06e-4529-9c8b-d24497a1d2b0_JOKER	Rovine del genere… Difficile appassionarsi, se non significano niente.
+NPC_TAMSIN_PLAYER_8bca7555-d06e-4529-9c8b-d24497a1d2b0_SCHOLAR	Rovine senza documenti sono soltanto pietre. Queste non avevano nulla da offrire.
+NPC_TAMSIN_PLAYER_8bca7555-d06e-4529-9c8b-d24497a1d2b0_STOIC	Non mi interessano queste rovine. Non significano nulla.
+NPC_TAMSIN_PLAYER_8c273ec5-2f2f-421e-bd94-25916d1c874e_HEROIC	Affidati a me. Li troverò.
+NPC_TAMSIN_PLAYER_8c273ec5-2f2f-421e-bd94-25916d1c874e_JOKER	Tocca a me, allora. Li scovo io.
+NPC_TAMSIN_PLAYER_8c273ec5-2f2f-421e-bd94-25916d1c874e_SCHOLAR	Permettimi di occuparmene. Li troverò.
+NPC_TAMSIN_PLAYER_8c273ec5-2f2f-421e-bd94-25916d1c874e_STOIC	Lascia fare a me. Li troverò.
+NPC_TAMSIN_PLAYER_8c81b8f6-6be0-421a-bc51-b4b52098d7e3_BASE	Cosa pensi di Manga?
+NPC_TAMSIN_PLAYER_8c8c8d5b-c96d-49c6-b3de-4e727168ec25_HEROIC	C'è voluto coraggio, Tamsin. Più di quanto ne abbiano molti.
+NPC_TAMSIN_PLAYER_8c8c8d5b-c96d-49c6-b3de-4e727168ec25_JOKER	Guardati, Tamsin: più coraggiosa di quasi tutti.
+NPC_TAMSIN_PLAYER_8c8c8d5b-c96d-49c6-b3de-4e727168ec25_SCHOLAR	Hai mostrato più coraggio di quanto tu stessa riconosca, Tamsin.
+NPC_TAMSIN_PLAYER_8c8c8d5b-c96d-49c6-b3de-4e727168ec25_STOIC	Sei molto coraggiosa, Tamsin.
+NPC_TAMSIN_PLAYER_90615ce2-a5f1-4d4e-a52a-17bff6ba8159_BASE	Cosa sono queste grandi radici?
+NPC_TAMSIN_PLAYER_943b9c5b-5c07-4864-a274-acfeb91e165e_HEROIC	Chi non sa combattere è un peso morto quando arriva la guerra.
+NPC_TAMSIN_PLAYER_943b9c5b-5c07-4864-a274-acfeb91e165e_JOKER	Insomma, se non sai usare una spada, tanto vale essere invisibile quando i guai bussano.
+NPC_TAMSIN_PLAYER_943b9c5b-5c07-4864-a274-acfeb91e165e_SCHOLAR	In guerra, chi è disarmato non conta nulla. È semplice aritmetica.
+NPC_TAMSIN_PLAYER_943b9c5b-5c07-4864-a274-acfeb91e165e_STOIC	Chi non sa combattere non vale nulla in un conflitto.
+NPC_TAMSIN_PLAYER_96d7eb06-a712-4660-998d-ad3781214337_HEROIC	È estenuante. Di buon cuore, ma estenuante.
+NPC_TAMSIN_PLAYER_96d7eb06-a712-4660-998d-ad3781214337_JOKER	È estenuante. Mi sono stancato solo a stargli vicino.
+NPC_TAMSIN_PLAYER_96d7eb06-a712-4660-998d-ad3781214337_SCHOLAR	È estenuante. Dipende dalla giovinezza o dall'essere elfo?
+NPC_TAMSIN_PLAYER_96d7eb06-a712-4660-998d-ad3781214337_STOIC	È sfiancante.
+NPC_TAMSIN_PLAYER_97d8fda4-4ec1-4976-b49d-b1aa58704d41_BASE	Mi racconti qualcosa di più della tua famiglia?
+NPC_TAMSIN_PLAYER_9878aade-9ee8-4fc3-92d6-e161aa99aae1_HEROIC	Non è una richiesta della Gilda. Ma è urgente. Il giardino va protetto dalla corruzione.
+NPC_TAMSIN_PLAYER_9878aade-9ee8-4fc3-92d6-e161aa99aae1_JOKER	Non è una richiesta della Gilda. Di questi tempi bisogna difendere pure i giardini.
+NPC_TAMSIN_PLAYER_9878aade-9ee8-4fc3-92d6-e161aa99aae1_SCHOLAR	Non è una richiesta della Gilda. Un giardino necessita di protezioni contro la corruzione.
+NPC_TAMSIN_PLAYER_9878aade-9ee8-4fc3-92d6-e161aa99aae1_STOIC	Non è per la Gilda. Servono a proteggere un giardino dalla corruzione.
+NPC_TAMSIN_PLAYER_9b92b4f5-c7f5-45c3-967a-c1b453a1b2d2_HEROIC	Corrotta in che modo? A cosa sto andando incontro?
+NPC_TAMSIN_PLAYER_9b92b4f5-c7f5-45c3-967a-c1b453a1b2d2_JOKER	Magia corrotta? È peggio di quella normale?
+NPC_TAMSIN_PLAYER_9b92b4f5-c7f5-45c3-967a-c1b453a1b2d2_SCHOLAR	Magia corrotta. Da che cosa, e trasformata in cosa?
+NPC_TAMSIN_PLAYER_9b92b4f5-c7f5-45c3-967a-c1b453a1b2d2_STOIC	Magia corrotta? Che significa?
+NPC_TAMSIN_PLAYER_9c4e7a2f-1b8d-6e3c-0a5f-7d2b9e1c4a6f_BASE	Ho trovato il rivenditore.
+NPC_TAMSIN_PLAYER_9c6a0fc8-3165-42e6-ab4e-6684c96eec20_HEROIC	Brutta, e probabilmente velenosa. Sto alla larga da entrambe le cose.
+NPC_TAMSIN_PLAYER_9c6a0fc8-3165-42e6-ab4e-6684c96eec20_JOKER	Che brutta pianta. Con la fortuna che ho, sarà pure velenosa.
+NPC_TAMSIN_PLAYER_9c6a0fc8-3165-42e6-ab4e-6684c96eec20_SCHOLAR	Una pianta sgradevole. In natura, bruttezza e veleno vanno spesso insieme.
+NPC_TAMSIN_PLAYER_9c6a0fc8-3165-42e6-ab4e-6684c96eec20_STOIC	Brutta pianta. Forse velenosa.
+NPC_TAMSIN_PLAYER_a3128161-e10b-436d-a774-ab869c5d213c_BASE	Mi stai invitando a un appuntamento, Tamsin? Certo che accetto. Mi piacerebbe passare un po' di tempo insieme.
+NPC_TAMSIN_PLAYER_a399a6e7-51b0-447a-8bc4-4950002e12b4_BASE	Ho trovato questo libro. Ne sai qualcosa?
+NPC_TAMSIN_PLAYER_a4eb756a-912a-4505-8e65-6769c0ccc931_HEROIC	Idolatrare gli eroi non fa bene. Prima o poi ti deluderanno.
+NPC_TAMSIN_PLAYER_a4eb756a-912a-4505-8e65-6769c0ccc931_JOKER	Idolatrare gli eroi è un vizio rischioso. Da vicino, gli eroi tendono a rimpicciolirsi.
+NPC_TAMSIN_PLAYER_a4eb756a-912a-4505-8e65-6769c0ccc931_SCHOLAR	L'idolatria degli eroi non è salutare. Aspettative così elevate conducono sempre a cadute dolorose.
+NPC_TAMSIN_PLAYER_a4eb756a-912a-4505-8e65-6769c0ccc931_STOIC	Idolatrare gli eroi non fa bene. Un giorno ti deluderanno.
+NPC_TAMSIN_PLAYER_a5d00e7e-c377-44db-934d-58ead7d2e903_HEROIC	Aldoria è la tua casa, dunque. Mi piacerebbe sentirne parlare.
+NPC_TAMSIN_PLAYER_a5d00e7e-c377-44db-934d-58ead7d2e903_JOKER	Aldoria, così lontana. Raccontamela prima che ti riprenda la nostalgia.
+NPC_TAMSIN_PLAYER_a5d00e7e-c377-44db-934d-58ead7d2e903_SCHOLAR	Aldoria. Di quale zona, e che cosa studiavi lì?
+NPC_TAMSIN_PLAYER_a5d00e7e-c377-44db-934d-58ead7d2e903_STOIC	La tua casa è Aldoria. Raccontamela.
+NPC_TAMSIN_PLAYER_a65ed47c-8c5a-4995-8aa6-3529ecb445be_HEROIC	È difficile capire cosa possa spingere qualcuno a venire qui.
+NPC_TAMSIN_PLAYER_a65ed47c-8c5a-4995-8aa6-3529ecb445be_JOKER	Chissà che cosa ci trovano di tanto invitante, in questo posto.
+NPC_TAMSIN_PLAYER_a65ed47c-8c5a-4995-8aa6-3529ecb445be_SCHOLAR	Non mi è chiaro per quale ragione qualcuno sceglierebbe di venire qui.
+NPC_TAMSIN_PLAYER_a65ed47c-8c5a-4995-8aa6-3529ecb445be_STOIC	Non so perché qualcuno vorrebbe venire qui.
+NPC_TAMSIN_PLAYER_a832e6d2-1f8e-4b5d-8884-02d91dc6156e_BASE	"Mi sono imbattuto in un gigantesco uovo di pietra nella Foresta di Wildwood."
+NPC_TAMSIN_PLAYER_a92a917d-636a-4bee-9fcc-4af9d1a014e7_HEROIC	Notevole. Parlami di questi reagenti: dove potrei cercarli?
+NPC_TAMSIN_PLAYER_a92a917d-636a-4bee-9fcc-4af9d1a014e7_JOKER	Affascinante. Che reagenti sono, e dove vado a caccia?
+NPC_TAMSIN_PLAYER_a92a917d-636a-4bee-9fcc-4af9d1a014e7_SCHOLAR	Interessante. Elenca i reagenti e il luogo in cui è più probabile trovare ciascuno.
+NPC_TAMSIN_PLAYER_a92a917d-636a-4bee-9fcc-4af9d1a014e7_STOIC	Affascinante. Quali reagenti? Dove li trovo?
+NPC_TAMSIN_PLAYER_aB7k9D2f-X3pQ-8mL0-zT5v-Nc92Hq7R4yKs_BASE	Hai altri stendardi protettivi?
+NPC_TAMSIN_PLAYER_ac0a4b2d-67bd-455f-bcab-16d80ed8aeb2_HEROIC	Cosa cambierai nel tuo modo di agire?
+NPC_TAMSIN_PLAYER_ac0a4b2d-67bd-455f-bcab-16d80ed8aeb2_JOKER	E il nuovo piano sarebbe?
+NPC_TAMSIN_PLAYER_ac0a4b2d-67bd-455f-bcab-16d80ed8aeb2_SCHOLAR	Con cosa lo sostituirai? E in base a cosa deciderai?
+NPC_TAMSIN_PLAYER_ac0a4b2d-67bd-455f-bcab-16d80ed8aeb2_STOIC	Cosa farai, invece?
+NPC_TAMSIN_PLAYER_af31af65-43e8-4356-97c9-47f264f14fb6_BASE	Ho trovato delle strane piante là fuori. Le conosci?
+NPC_TAMSIN_PLAYER_b28bb761-ff0c-4cbe-8311-0c9109e900d6_BASE	In quali rovine dovrei cercare la gemma?
+NPC_TAMSIN_PLAYER_b7898f93-c55e-4214-a0f3-e06a0ea99b88_HEROIC	È stato davvero affascinante.
+NPC_TAMSIN_PLAYER_b7898f93-c55e-4214-a0f3-e06a0ea99b88_JOKER	Affascinante, e anche qualcosa di più.
+NPC_TAMSIN_PLAYER_b7898f93-c55e-4214-a0f3-e06a0ea99b88_SCHOLAR	È stato, senza dubbio, affascinante.
+NPC_TAMSIN_PLAYER_b7898f93-c55e-4214-a0f3-e06a0ea99b88_STOIC	Sì. Affascinante.
+NPC_TAMSIN_PLAYER_b81d3c07-2c9b-4a07-9a02-299dbe8d8bdf_HEROIC	Non devi ringraziarmi. L'ho semplicemente trovato nella foresta e riportato qui.
+NPC_TAMSIN_PLAYER_b81d3c07-2c9b-4a07-9a02-299dbe8d8bdf_JOKER	È saltato fuori nella foresta. Non proprio una grande impresa, ecco.
+NPC_TAMSIN_PLAYER_b81d3c07-2c9b-4a07-9a02-299dbe8d8bdf_SCHOLAR	Non mi devi nulla. La foresta lo ha fornito, io l'ho trasportato.
+NPC_TAMSIN_PLAYER_b81d3c07-2c9b-4a07-9a02-299dbe8d8bdf_STOIC	Non serve ringraziare. Ero nella foresta e l'ho trovato.
+NPC_TAMSIN_PLAYER_b9928df5-1529-42ce-b4f2-e4a993af990a_BASE	Mi dici di più su queste pietre protettive?
+NPC_TAMSIN_PLAYER_c0cffc5b-d053-40f2-9eff-9a2a0ff14e45_BASE	Sembri molto preoccupata per il villaggio.
+NPC_TAMSIN_PLAYER_c4628495-3752-45f4-bbbb-ef5c9b610aec_HEROIC	Riconosco quel genere di persone. Sono davvero eccezionali.
+NPC_TAMSIN_PLAYER_c4628495-3752-45f4-bbbb-ef5c9b610aec_JOKER	Conosco quel tipo di persone. Una vale dieci degli altri.
+NPC_TAMSIN_PLAYER_c4628495-3752-45f4-bbbb-ef5c9b610aec_SCHOLAR	Conosco quel genere di persone. Sono loro a far funzionare il mondo.
+NPC_TAMSIN_PLAYER_c4628495-3752-45f4-bbbb-ef5c9b610aec_STOIC	Conosco quel tipo di persone. Sono le migliori.
+NPC_TAMSIN_PLAYER_c6718d49-64d1-45c7-8aaf-39ffd7248dcf_HEROIC	Hai una grande stima di lei.
+NPC_TAMSIN_PLAYER_c6718d49-64d1-45c7-8aaf-39ffd7248dcf_JOKER	L'hai messa su un bel piedistallo.
+NPC_TAMSIN_PLAYER_c6718d49-64d1-45c7-8aaf-39ffd7248dcf_SCHOLAR	La ammiri. Più di quanto tu abbia dichiarato apertamente, credo.
+NPC_TAMSIN_PLAYER_c6718d49-64d1-45c7-8aaf-39ffd7248dcf_STOIC	La rispetti.
+NPC_TAMSIN_PLAYER_cd4aec67-6da4-425a-ad9c-980f3a8dacde_HEROIC	Ti ringrazio, Tamsin. Sei stata generosa con il tuo tempo.
+NPC_TAMSIN_PLAYER_cd4aec67-6da4-425a-ad9c-980f3a8dacde_JOKER	È sempre un piacere rubarti un po' di tempo, Tamsin.
+NPC_TAMSIN_PLAYER_cd4aec67-6da4-425a-ad9c-980f3a8dacde_SCHOLAR	Grazie dell'ora che mi hai dedicato, Tamsin. È stata ben spesa.
+NPC_TAMSIN_PLAYER_cd4aec67-6da4-425a-ad9c-980f3a8dacde_STOIC	Grazie del tuo tempo, Tamsin.
+NPC_TAMSIN_PLAYER_cfa523c8-e942-42eb-908d-b2a64bdf089d_HEROIC	Puoi spiegarmi quale significato vi trovi?
+NPC_TAMSIN_PLAYER_cfa523c8-e942-42eb-908d-b2a64bdf089d_JOKER	Di che genere di significato stiamo parlando?
+NPC_TAMSIN_PLAYER_cfa523c8-e942-42eb-908d-b2a64bdf089d_SCHOLAR	Quale tipo di significato? Rituale o pratico?
+NPC_TAMSIN_PLAYER_cfa523c8-e942-42eb-908d-b2a64bdf089d_STOIC	A quale significato ti riferisci?
+NPC_TAMSIN_PLAYER_d34c2d67-6b9c-47ae-a67c-0a1a0e6c5f88_HEROIC	Cosa potrebbe prosciugare la magia?
+NPC_TAMSIN_PLAYER_d34c2d67-6b9c-47ae-a67c-0a1a0e6c5f88_JOKER	Chi ha preso gusto alla magia, da queste parti?
+NPC_TAMSIN_PLAYER_d34c2d67-6b9c-47ae-a67c-0a1a0e6c5f88_SCHOLAR	Cosa la prosciuga? Gli stendardi stessi, o qualcosa che se ne nutre?
+NPC_TAMSIN_PLAYER_d34c2d67-6b9c-47ae-a67c-0a1a0e6c5f88_STOIC	Cosa prosciuga la magia?
+NPC_TAMSIN_PLAYER_d3768e6e-5aea-4558-8774-7f5e2e43bbf8_HEROIC	Forse sei stata incauta, ma ti hanno ingannata. La responsabilità è loro.
+NPC_TAMSIN_PLAYER_d3768e6e-5aea-4558-8774-7f5e2e43bbf8_JOKER	Tu sei scivolata, loro hanno spinto. La colpa sta dalla loro parte.
+NPC_TAMSIN_PLAYER_d3768e6e-5aea-4558-8774-7f5e2e43bbf8_SCHOLAR	Incauta, forse. Ma l'inganno è stato loro, e così la colpa.
+NPC_TAMSIN_PLAYER_d3768e6e-5aea-4558-8774-7f5e2e43bbf8_STOIC	Sarai stata incauta, ma ti hanno ingannata. La colpa è loro.
+NPC_TAMSIN_PLAYER_d6d3a1d2-e1ea-4a3f-b2aa-c1706b5405ec_HEROIC	Earlwood vale il viaggio. Hai fatto bene a venire.
+NPC_TAMSIN_PLAYER_d6d3a1d2-e1ea-4a3f-b2aa-c1706b5405ec_JOKER	Earlwood è un bel vedere. Ci credo che ti sei fatta il viaggio.
+NPC_TAMSIN_PLAYER_d6d3a1d2-e1ea-4a3f-b2aa-c1706b5405ec_SCHOLAR	Earlwood si merita la sua fama di bellezza. Non sorprende che ti abbia attirata qui.
+NPC_TAMSIN_PLAYER_d6d3a1d2-e1ea-4a3f-b2aa-c1706b5405ec_STOIC	Earlwood è bella. Capisco perché sei venuta.
+NPC_TAMSIN_PLAYER_d7ec4cb7-a939-426d-8a41-40e9aa844672_HEROIC	Tamsin, qualcosa ti pesa molto sul cuore. Cosa ti turba?
+NPC_TAMSIN_PLAYER_d7ec4cb7-a939-426d-8a41-40e9aa844672_JOKER	Tamsin, sembra che la sciagura ti abbia appena bussato alla porta. Che succede?
+NPC_TAMSIN_PLAYER_d7ec4cb7-a939-426d-8a41-40e9aa844672_SCHOLAR	Tamsin, è accaduto qualcosa. Il tuo viso lo rivela chiaramente. Di cosa si tratta?
+NPC_TAMSIN_PLAYER_d7ec4cb7-a939-426d-8a41-40e9aa844672_STOIC	Tamsin, sembra sia successo qualcosa di terribile. Che c'è?
+NPC_TAMSIN_PLAYER_d8f106de-9553-4da8-876a-23c8424adbfc_HEROIC	Deve risponderne davanti ad Alaric. Gli ho detto di andare e affrontare le conseguenze.
+NPC_TAMSIN_PLAYER_d8f106de-9553-4da8-876a-23c8424adbfc_JOKER	I suoi guai sono andati dritti da Alaric. Su mio consiglio.
+NPC_TAMSIN_PLAYER_d8f106de-9553-4da8-876a-23c8424adbfc_SCHOLAR	Gli ho ordinato di consegnarsi ad Alaric.
+NPC_TAMSIN_PLAYER_d8f106de-9553-4da8-876a-23c8424adbfc_STOIC	Gli ho detto di costituirsi da Alaric.
+NPC_TAMSIN_PLAYER_da0a580b-9357-41f4-ae2f-bb36539d36df_BASE	Mi ricordi chi sono Ceres e Marina?
+NPC_TAMSIN_PLAYER_da92a55c-02c1-4e70-a0e1-621c447e1447_BASE	Mi racconti meglio cosa ti ha detto l'anziana?
+NPC_TAMSIN_PLAYER_dcbb21c8-1fb5-457b-9ca5-1ef8af5e4483_HEROIC	Gli ho imposto di restituire tutto ciò che ha rubato e donare i guadagni per fare ammenda.
+NPC_TAMSIN_PLAYER_dcbb21c8-1fb5-457b-9ca5-1ef8af5e4483_JOKER	Gli ho detto di restituire il bottino e distribuire i guadagni. Mi pareva meglio di una predica.
+NPC_TAMSIN_PLAYER_dcbb21c8-1fb5-457b-9ca5-1ef8af5e4483_SCHOLAR	Restituirà tutto il maltolto, e i guadagni andranno a chi ha danneggiato.
+NPC_TAMSIN_PLAYER_dcbb21c8-1fb5-457b-9ca5-1ef8af5e4483_STOIC	Gli ho detto di restituire il furto e donare i guadagni.
+NPC_TAMSIN_PLAYER_e35a5f5a-ec77-4208-8012-e690d77e632d_HEROIC	Sono lieto di averti dato una mano.
+NPC_TAMSIN_PLAYER_e35a5f5a-ec77-4208-8012-e690d77e632d_JOKER	Aiutare è quello che mi riesce meglio. Beh, è fra le prime tre cose.
+NPC_TAMSIN_PLAYER_e35a5f5a-ec77-4208-8012-e690d77e632d_SCHOLAR	Sono lieto sia servito. Trovarlo è stata la parte semplice.
+NPC_TAMSIN_PLAYER_e35a5f5a-ec77-4208-8012-e690d77e632d_STOIC	Lieto di aiutare.
+NPC_TAMSIN_PLAYER_e98b9eb5-5e2a-4e2c-9795-6eeada72628b_HEROIC	Non hai fatto nulla di male, Tamsin. Hanno piegato la tua gentilezza ai loro scopi.
+NPC_TAMSIN_PLAYER_e98b9eb5-5e2a-4e2c-9795-6eeada72628b_JOKER	Tu non hai fatto niente di male, Tamsin. Hanno visto la gentilezza e ci si sono infilati.
+NPC_TAMSIN_PLAYER_e98b9eb5-5e2a-4e2c-9795-6eeada72628b_SCHOLAR	Non hai commesso alcun errore, Tamsin. L'inganno ha trovato nella tua gentilezza uno strumento.
+NPC_TAMSIN_PLAYER_e98b9eb5-5e2a-4e2c-9795-6eeada72628b_STOIC	Non hai sbagliato, Tamsin. Ti hanno ingannata. Hanno usato la tua gentilezza e il tuo lavoro per sfruttare gli altri.
+NPC_TAMSIN_PLAYER_eb84b85d-17da-43dc-9066-9f4b93914040_BASE	Fuori dal villaggio non è pericoloso? Come fanno a vendere là fuori?
+NPC_TAMSIN_PLAYER_ec8431bf-0427-460f-84d1-8896e1994462_HEROIC	Dimostra una fermezza davvero notevole.
+NPC_TAMSIN_PLAYER_ec8431bf-0427-460f-84d1-8896e1994462_JOKER	Ha una volontà così salda che ci potresti inciampare.
+NPC_TAMSIN_PLAYER_ec8431bf-0427-460f-84d1-8896e1994462_SCHOLAR	Definirla risoluta mi sembra riduttivo.
+NPC_TAMSIN_PLAYER_ec8431bf-0427-460f-84d1-8896e1994462_STOIC	Sembra molto tenace.
+NPC_TAMSIN_PLAYER_ecaadbd5-f2b2-45fd-b733-ce8d9cdc9f24_HEROIC	Non stai deludendo nessuno, Tamsin. Come posso sostenerti?
+NPC_TAMSIN_PLAYER_ecaadbd5-f2b2-45fd-b733-ce8d9cdc9f24_JOKER	Non stai deludendo nessuno, Tamsin. Ti serve una mano con qualcosa?
+NPC_TAMSIN_PLAYER_ecaadbd5-f2b2-45fd-b733-ce8d9cdc9f24_SCHOLAR	Non stai deludendo nessuno, Tamsin. Quale aiuto sarebbe più utile?
+NPC_TAMSIN_PLAYER_ecaadbd5-f2b2-45fd-b733-ce8d9cdc9f24_STOIC	Non deludi nessuno, Tamsin. Posso aiutarti?
+NPC_TAMSIN_PLAYER_ed032611-c620-412d-baca-79fc7a49101d_HEROIC	Allora accertiamocene. Che aspetto ha la magia corrotta?
+NPC_TAMSIN_PLAYER_ed032611-c620-412d-baca-79fc7a49101d_JOKER	Allora scopriamolo prima che lei scopra noi. Che aspetto ha la magia corrotta?
+NPC_TAMSIN_PLAYER_ed032611-c620-412d-baca-79fc7a49101d_SCHOLAR	Allora verifichiamo. Quali sono i segni della magia corrotta?
+NPC_TAMSIN_PLAYER_ed032611-c620-412d-baca-79fc7a49101d_STOIC	Allora controlliamo. Che aspetto ha?
+NPC_TAMSIN_PLAYER_ed21a2f4-f2f0-487f-9ec1-1cb5b2bc92d6_BASE	"Grazie. Tornerò: il tuo sorriso è troppo incantevole per resistergli."
+NPC_TAMSIN_PLAYER_ef4dae89-d934-46ab-b2d1-303641eaeb7a_HEROIC	Li conosco da poco, e concordo. Vale la pena seguire uomini così.
+NPC_TAMSIN_PLAYER_ef4dae89-d934-46ab-b2d1-303641eaeb7a_JOKER	Li conosco appena e sono già d'accordo. Grandi uomini, e per giunta umili.
+NPC_TAMSIN_PLAYER_ef4dae89-d934-46ab-b2d1-303641eaeb7a_SCHOLAR	Li ho frequentati brevemente, e concordo. Una simile grandezza è rara.
+NPC_TAMSIN_PLAYER_ef4dae89-d934-46ab-b2d1-303641eaeb7a_STOIC	Non li conosco da molto, ma concordo. Sono grandi uomini.
+NPC_TAMSIN_PLAYER_f00b5827-8e4c-4976-8fcf-bb3c47f75965_HEROIC	Non occorrono ringraziamenti. Libero la strada perché deve essere libera.
+NPC_TAMSIN_PLAYER_f00b5827-8e4c-4976-8fcf-bb3c47f75965_JOKER	Figurati. L'affetto per questo posto non è proprio il mio forte. Sto solo sgombrando il passaggio.
+NPC_TAMSIN_PLAYER_f00b5827-8e4c-4976-8fcf-bb3c47f75965_SCHOLAR	Non occorre. Questo luogo conta poco per me. Le strade libere contano di più.
+NPC_TAMSIN_PLAYER_f00b5827-8e4c-4976-8fcf-bb3c47f75965_STOIC	Non serve ringraziare. Non amo questo posto. Libero solo la strada.
+NPC_TAMSIN_PLAYER_f0ff105a-6e8e-472c-9211-8f01d56e025f_HEROIC	Anche tu porti molto bene in questo luogo, Tamsin.
+NPC_TAMSIN_PLAYER_f0ff105a-6e8e-472c-9211-8f01d56e025f_JOKER	Con te in giro, di cose buone qui se ne fanno parecchie, Tamsin.
+NPC_TAMSIN_PLAYER_f0ff105a-6e8e-472c-9211-8f01d56e025f_SCHOLAR	Qui fai più bene di quanto tu stessa riconosca, Tamsin.
+NPC_TAMSIN_PLAYER_f0ff105a-6e8e-472c-9211-8f01d56e025f_STOIC	Anche tu fai molto bene qui, Tamsin.
+NPC_TAMSIN_PLAYER_f3bd750e-9b8d-456a-9e90-71c5e88cfc3d_HEROIC	C'era un albero nei pressi. Contorto. Il suo aspetto non mi piaceva.
+NPC_TAMSIN_PLAYER_f3bd750e-9b8d-456a-9e90-71c5e88cfc3d_JOKER	Quell'albero era così contorto da far sembrare normale tutto il resto.
+NPC_TAMSIN_PLAYER_f3bd750e-9b8d-456a-9e90-71c5e88cfc3d_SCHOLAR	C'era un albero nei pressi, contorto in un modo che non può verificarsi spontaneamente.
+NPC_TAMSIN_PLAYER_f3bd750e-9b8d-456a-9e90-71c5e88cfc3d_STOIC	C'era un albero vicino. Contorto. Innaturale.
+NPC_TAMSIN_PLAYER_f3e798e5-f8a9-4406-9d4d-99d431c0354d_HEROIC	Mi fa piacere, Tamsin. In che modo ti aiuta il fuso?
+NPC_TAMSIN_PLAYER_f3e798e5-f8a9-4406-9d4d-99d431c0354d_JOKER	Mi fa piacere, Tamsin. Quel fuso ha qualche bel trucco in serbo?
+NPC_TAMSIN_PLAYER_f3e798e5-f8a9-4406-9d4d-99d431c0354d_SCHOLAR	Sono lieto di sentirlo, Tamsin. Che cosa fa esattamente il fuso?
+NPC_TAMSIN_PLAYER_f3e798e5-f8a9-4406-9d4d-99d431c0354d_STOIC	Bene, Tamsin. A cosa serve il fuso?
+NPC_TAMSIN_RESPONSE_00b288ac-8b86-4a02-91e5-064a5afa8698	"Vero? Sono proprio contenta che tu sia d'accordo."
+NPC_TAMSIN_RESPONSE_019d2f47-f67d-4af3-ae63-115225fb401e	"Oh. Capisco. Mi sembra un po' poco… però significa che dovrà affrontare quello che ha fatto, e potrò affrontarlo anch'io. Vorrei proprio dirgliene quattro, come si deve."<x1/><x2/><x3/><x4/>"Mentre eri via, ho riflettuto. Devo fermarmi e fare più attenzione. Non posso continuare ad aiutare chiunque me lo chieda, senza badare a chi sia. Adesso lo vedo. Del mio lavoro si può abusare. La mia gentilezza può diventare uno strumento di crudeltà. E io… io mi consumo per persone che vogliono soltanto prendere."
+NPC_TAMSIN_RESPONSE_0263717b-cadf-42c7-82ef-21733d562e5b	"Certo. Sono contenta di averti aiutato."
+NPC_TAMSIN_RESPONSE_02c35a43-1654-40c9-884c-6234b9bc6dbf	"Ah? Intendi quell'enorme uovo degli Antichi nelle rovine? Affascinante, vero?"<x1/><x2/>"Non ho ancora avuto modo di studiarlo per bene. Nessuno sa davvero a cosa servissero le uova, ma qualunque cosa contenessero era chiaramente enorme."
+NPC_TAMSIN_RESPONSE_03abeb99-cdd0-43b9-bd61-c201a3040ec0	"Ahia. Beh, non è un fuso qualunque. È messo a punto per stendardi e protezioni, e quando tessi una protezione non puoi permetterti un fuso che slitta. Capirai cosa intendo."<x1/><x2/><x3/><x4/>"Con questo fuso potrò proteggere il villaggio molto meglio. Che sollievo. Continuavo a temere di deludere tutti, e poi mi dicevo che ero sciocca. Però."
+NPC_TAMSIN_RESPONSE_09395e9c-b7f1-48e2-930b-4e9f6328495b	*Il viso le si illumina di gioia.*<x1/><x2/>"Esatto! Earlwood è speciale. Non possiamo lasciare che le succeda qualcosa."
+NPC_TAMSIN_RESPONSE_0b33d8f1-b86b-4c96-8a09-0f680847c34d	"Mi fa piacere che la pensi così. Se vogliamo davvero un futuro migliore, dobbiamo imparare dal nostro passato."
+NPC_TAMSIN_RESPONSE_0b98b358-6d9a-4611-96da-c5b87e07d5b9	"Capisco. Ma questo non toglie nulla al bene che hai fatto qui. O a ciò che ha significato per me."<x1/><x2/><x3/><x4/>*Tamsin stringe e scioglie le mani mentre parla, come se cercasse di non riversare fuori i pensieri troppo in fretta.*<x5/><x6/>"Dovevo dirtelo prima di convincermi a lasciar perdere."<x7/><x8/>"La gente non dice grazie abbastanza. La gratitudine la sente, credo. Solo che è sempre tutto urgente."<x9/><x10/>"E continuo a sentire il tuo nome. Sei ovunque, nelle piccole storie."<x11/><x12/>"Nel modo in cui aiuti, in cui resti. In cui ti fai carico dei problemi che gli altri sono troppo stanchi per affrontare."<x13/><x14/>"Facciamo tutti il possibile, ma certi giorni… certi giorni sembra che stiamo solo resistendo."<x15/><x16/>"E tu ci fai sentire che potremmo reagire."
+NPC_TAMSIN_RESPONSE_0c2b6507-c8bb-476e-abbc-f4c1a92acafa	"Non lo è, non davvero. È solo chiassosa. E se qualcuno parla con decisione, non significa che non gli importi."<x1/><x2/><x3/><x4/>*La voce di Tamsin si addolcisce mentre parla. L'entusiasmo c'è ancora, ma temperato da qualcosa di più personale. Giocherella con le dita come se torcesse un filo sciolto per rimetterlo in ordine.*<x5/><x6/>"È stata lei a insegnarmi che puoi essere utile senza mai impugnare un'arma. Quando sono arrivata a Earlwood non conoscevo nessuno. Non parlavo con nessuno. Saqi mi aveva vista in giro e mi salutava, ma senza insistere. Poi una sera ho finalmente trovato il coraggio di entrare nella taverna. Mi ha guardata dritta negli occhi e ha sorriso come se se lo aspettasse. Come se sapesse che ero pronta. Mi ha presentata a tutti. Abbiamo mangiato, bevuto, parlato, e da allora… non ero più sola."<x7/><x8/>"Tiene alto il morale. Trasforma un villaggio in una comunità che vale la pena proteggere. E mentre Alaric ci tiene al sicuro, Saqi ci fa sentire a casa."
+NPC_TAMSIN_RESPONSE_1553378b-8449-4cd9-ba4a-c8f9b4c9d679	"Oh, giusto. Scusa. Ti cerco il passaggio."<x1/><x2/><x3/><x4/>*Tamsin volta in fretta qualche altra pagina, con una mezza dozzina di segnalibri che spuntano storti, mentre scorre righe di scrittura fitta.*<x5/><x6/>"Eccola, la lista. Allora, tre reagenti. Primo: linfa dell'albero antico, estratta direttamente da una delle grandi radici che passano sotto Wildwood. Secondo: acqua toccata dalle driadi, che dovrebbe venire dalla pozza di una Rivercaller. Di solito viene donata, ma non abbiamo tempo per le cerimonie. E terzo: una gemma del custode, un'antica gemma elfica legata alla tutela della foresta. Di solito si trovano nascoste nelle rovine elfiche, dove ormai quasi nessuno che abbia un po' di buon senso mette più piede."
+NPC_TAMSIN_RESPONSE_157b1d8d-27fb-4f8b-bc9f-7f10e4af3ac8	*Un'ombra le attraversa il viso e si preme piano le dita sulle labbra.*<x1/><x2/>"Un albero? È preoccupante. Non sarà mica… Magia corrotta qui a Earlwood. Spero proprio di no."
+NPC_TAMSIN_RESPONSE_19e3e2c1-5223-46f5-a6fd-3522af2579ed	*Gli occhi le si allargano appena e il sorriso vacilla un po'.*<x1/><x2/>"Oh, beh. Immagino che non tutti trovino conforto qui."
+NPC_TAMSIN_RESPONSE_1b1e99ff-cb57-4416-bc9f-eaa928a12126	"Potrà sembrare impulsivo, ma in combattimento è più capace di quanto sembri."<x1/><x2/>"Non è Alaric; non farglielo sentire. Però non è facile metterlo al tappeto."
+NPC_TAMSIN_RESPONSE_1d6371d9-3307-404a-ab6e-4bc7c04b52bf	"Incauta. Sì. È la parola che continua a girarmi in testa."<x1/><x2/><x3/><x4/>"Penso che la causa sia io. Per colpa mia i rifugiati vengono sfruttati proprio qui, nel nostro villaggio. Ho passato notti senza dormire, a tessere e tessere, perché pensavo che non avessimo abbastanza scorte. E ora le coperte vengono rivendute in cambio delle razioni della gente, e qualcuno resta senza mangiare. Sono furiosa. E ferita. E sto male al pensiero di aver contribuito a tutto questo. Oh, scusa. Non avrei dovuto rovesciarti tutto addosso così. Dovrei cavarmela da sola…"
+NPC_TAMSIN_RESPONSE_202936c6-c3e4-4e51-be59-fb3dfc3217ab	"Un golem?"<x1/><x2/>*Gli occhi le si spalancano di vivace curiosità.*<x3/><x4/>"È un motivo valido quanto qualunque altro. Accidenti, è da troppo che non parlo con un golem. Quand'è stata l'ultima volta… probabilmente all'Accademia. Avevo un professore golem, in effetti. Scusa. Sto divagando. Ecco, prendine un po'. Gratis."
+NPC_TAMSIN_RESPONSE_267d57be-f70a-4e55-b2a5-7396b92c6c06	"L'accademia era piena di persone affascinanti. Maghi da tutta Mirkea, alcuni giovani, altri anziani, tutti brillanti."<x1/><x2/>"Ma in fondo sapevo che le lezioni non mi bastavano. Volevo una vita di avventure vere."
+NPC_TAMSIN_RESPONSE_29cc8b32-5c92-4e57-bc5f-8fd977c386fb	*Tamsin ti guarda incuriosita, inclinando il viso gentile di lato.*<x1/><x2/>"Certo che ho altri stendardi protettivi. Ma a cosa ti servono?"<x3/><x4/>"È una richiesta della Gilda?"
+NPC_TAMSIN_RESPONSE_318c96e3-24a5-4e51-9c31-9398cb2e5e14	"È proprio questo il punto: non so cosa lo provochi. Da qui ho provato tutto il possibile, ma non posso uscire a indagare di persona, non adesso. Per questo mi serve una mano."<x1/><x2/>"Questi sono i luoghi che mi preoccupano di più. Te li ho segnati. Dimmi cosa trovi."
+NPC_TAMSIN_RESPONSE_3545e0b1-ccd3-4379-95ae-5f1408bd5b4c	"Mi ha cercata nella sala e mi ha chiesto se sapevo che le coperte venivano rivendute. Ho detto di no e le ho chiesto di spiegarsi. Mi ha raccontato che da tempo i rifugiati parlano di un venditore fuori dal villaggio, nelle terre coltivate. Si scambiano perfino consigli sui percorsi più sicuri, ma serve di rado. La gente continua a farsi male. Continua a perdere le coperte. Le prendono i goblin, oppure le persone non tornano affatto. Eppure continuano ad andarci."
+NPC_TAMSIN_RESPONSE_35d4466e-c865-4a44-b158-c44b1655db2e	"Sono nata ad Aldoron, in Aldoria. Ho studiato anche all'accademia, ma non torno a casa da anni."<x1/><x2/>"A volte mi preoccupo per i miei genitori, ma Aldoron resta il posto più sicuro che conosca."
+NPC_TAMSIN_RESPONSE_3740b998-3db4-4776-b386-445d4d11df8e	"Vuoi sentirla? Va bene. Da quando sono arrivata, me l'ha raccontata una dolce nonnina dopo l'altra."<x1/><x2/>"Si dice che un tempo Earlwood abbia abbattuto gli alberi della costa, attirandosi lo scontento di Ceres. I raccolti andarono perduti e i worp erano l'unica cosa che cresceva ancora. I pescatori li portavano nei lunghi viaggi. Li mordevano, sputavano in mare quei bocconi disgustosi e scoprivano che i pesci accorrevano, attirati dal sapore. La pesca prosperò."<x3/><x4/>"Poi due fratelli avidi misero esche con una doppia dose di worp su entrambi i lati della barca, sperando di prendere qualcosa di enorme. JJ abboccò a tutte e quattro le esche. Due ami fecero presa. I fratelli si contesero il pescato finché la barca si rovesciò. I worp caddero in acqua e i fratelli andarono alla deriva per quattro giorni. Alla fine, il pesce li guidò a casa. Giurarono di rinunciare all'avidità e all'invidia."<x5/><x6/>"Così gli abitanti venerano JJ come un emissario di Marina per conto di Ceres. Coltivano i worp accanto a spaventapasseri a forma di pesce, con le sembianze di JJ, e ogni anno offrono worp all'oceano, convinti che le dee abbiano perdonato Earlwood e ridato vita ai suoi raccolti. Ecco cosa sono quei buffi spaventapasseri. Sono JJ."
+NPC_TAMSIN_RESPONSE_3c95e3ff-ef82-4994-a8ca-2c5a9b1ea0aa	"Raccontami tutto. Anche il più piccolo dettaglio potrebbe contare più di quanto pensiamo."
+NPC_TAMSIN_RESPONSE_3db0640d-51eb-4740-bdcf-cf99112f7704	"Piante di Worp, sì! Una di quelle cose di Earlwood che capisci solo quando qualcuno te le spiega. Sono originarie di qui. Non le troverai negli altri villaggi, e per la gente del posto hanno… un gran significato."
+NPC_TAMSIN_RESPONSE_3fb0c6c3-2cf1-48e5-a897-3416b05c91e8	"Un appuntamento?"<x1/><x2/>*Resta immobile per un battito, poi si lascia sfuggire una risatina sorpresa.*<x3/><x4/>"Non pensavo di chiamarlo così, ma… è una bella idea. Sì. Puoi contarci."
+NPC_TAMSIN_RESPONSE_40a3aeaf-6d14-4341-a39f-c06b91b5c493	*Tamsin scoppia in una risata gioiosa.*<x1/><x2/>"Colpo di fulmine per il suo fascino elfico, eh? Ti capisco benissimo."<x3/><x4/>"Ma buona fortuna: è ottuso quanto il didietro di un golem."
+NPC_TAMSIN_RESPONSE_4275c500-6c1c-49f6-a8c1-c9851e765691	"Sì. È proprio questa la crudeltà. Costringere persone disperate a uscire dal villaggio solo per ricomprare ciò che doveva essere un dono. Alcuni tornano feriti. È così che si è cominciato a parlarne. Non lo sopporto."
+NPC_TAMSIN_RESPONSE_45040302-bca0-4c14-931d-982f13a719f0	"I Principi Primi e le Grandi Iniquità vanno a coppie. A ogni Principio si oppone un'Iniquità. Adlan, giustizia. Ira, ira."<x1/><x2/>"Non sono metafore. Sono forze vere, con un'influenza reale."<x3/><x4/>"Il Codex ti aiuta a riconoscere la loro pressione nelle tue scelte, così puoi resistere prima che ti trascini."
+NPC_TAMSIN_RESPONSE_4509f651-0c6a-4475-97b4-f36db0f63893	*Si apre in un sorriso radioso e agita allegramente le dita per salutarti mentre ti volti per andare via.*
+NPC_TAMSIN_RESPONSE_45465754-8e00-433e-9602-490ca18f204a	"In effetti… una cosa c'è."<x1/><x2/>"Volevo ringraziarti. Per quello che hai fatto per il villaggio, e per me."<x3/><x4/>"Prima gli stendardi, poi… quello che hai fatto quando le mie donazioni venivano usate per sfruttare la gente."<x5/><x6/>"Continuo a cercare le parole giuste e continuano a sfuggirmi, ma ho bisogno che te lo dica io."<x7/><x8/>"Noi… io non ce l'avrei fatta a reggere tutto questo senza di te."
+NPC_TAMSIN_RESPONSE_45c26219-22e0-4718-9d2c-8808fe88d206	"Le grandi radici sono quelle radici enormi che vedi spuntare dal terreno in tutta la foresta. Appartengono tutte all'albero antico presso il Trono della Foresta. Da alcune cola linfa dove la corteccia è danneggiata. È quella che cerchi."
+NPC_TAMSIN_RESPONSE_471a421d-57de-4864-80b9-00308309ef9d	"Sono contenta che tu mi abbia aiutata. Davvero."<x1/><x2/><x3/><x4/>"Ora… cosa ne faccio? Un gagliardetto per risollevare il morale, stendardi protettivi per i Margini della Foresta, o uno stendardo di luce per gli esploratori sui sentieri più bui. Il Glimmerflax apre così tante possibilità, e io continuo a volerle provare tutte insieme."
+NPC_TAMSIN_RESPONSE_47e66ee0-dbfb-43a4-a618-0567845eb198	"È proprio vero. È tutto diverso da Aldoria. Un po' strani, sì, ma è quello che dà loro carattere."
+NPC_TAMSIN_RESPONSE_4917c392-c7f6-4706-a1e7-93c1b9a4db1b	*Sorride, con un misto di gioia e nostalgia negli occhi.*<x1/><x2/>"Earlwood era conosciuta come un rifugio per chi non trovava davvero il suo posto altrove. Mi attirava per questo."<x3/><x4/>"Una volta arrivata, ci ho messo poco. Sapevo di essere a casa. Voglio proteggere quella sensazione."<x5/><x6/>"E anche Rahaner viene da Aldoria. Parlare con lui mi aiuta quando ne sento la mancanza."
+NPC_TAMSIN_RESPONSE_49ce9733-3e5e-43c1-b610-33b421b44b5b	*La sua espressione si spegne un poco.*<x1/><x2/>"Lo so, non sembra granché. Ma questo villaggio è casa mia."
+NPC_TAMSIN_RESPONSE_4b9488e5-5f33-4996-b241-317865172dc8	*Tamsin spalanca gli occhi e ti fissa. La speranza le risolleva il corpo, fragile all'inizio, come se temesse che sparisca muovendosi troppo in fretta.*<x1/><x2/>"Davvero? L'hai trovato. Oh, grazie. Ti prego, dimmi cos'hai fatto. Non l'hai ucciso, vero?"
+NPC_TAMSIN_RESPONSE_4d2fe248-1a94-4fb2-a00c-73d287094eb3	"Le gemme del custode venivano incastonate nelle sale e nei santuari elfici, come una specie di benedizione costante. Quasi tutte quelle nelle zone più esterne sono state saccheggiate secoli fa, ma più all'interno, dove i razziatori non osavano andare, dovrebbe essercene ancora qualcuna. Ti ho segnato sulla mappa alcune rovine promettenti. Ti prego, non restare lì più del necessario."
+NPC_TAMSIN_RESPONSE_4dc8b2ff-7c34-469e-aac4-d6283c6305b1	"All'Accademia c'erano tanti minotauri. Molti professori di magia della terra erano minotauri, e la mia era… hmm. La signora Duratianus. Sì, ecco. Era una grande insegnante."<x1/><x2/>*Alza gli occhi quando la coglie un pensiero, rapido e sincero.*<x3/><x4/>"Sai, anche se l'Impero e Aldoria sono in guerra da una vita, Aldoria accoglie ancora gli studiosi minotauri che arrivano dall'Impero. Se succedesse più spesso, forse potrebbero… forse potrebbero lasciarselo alle spalle."
+NPC_TAMSIN_RESPONSE_537e4a46-2df7-4e15-a9d1-5f65b0c3bbde	"La magia corrotta è rara. È la volontà di Elaria, corrotta da un Dio Oscuro, una delle Grandi Iniquità. L'abbiamo studiata all'Accademia. Di solito la si vede solo nella regione dei troll di Mor’daneth, a nord di Dimraeth. Ma da quando Sylbos minaccia Mirkea, si sta diffondendo per il paese."<x1/><x2/>"Se è arrivata a Earlwood, non voglio immaginare cosa significhi."<x3/><x4/>"Il mistero è tutt'altro che risolto, ma il tuo aiuto ci ha avvicinati di un passo alla soluzione. Passa quando vuoi: nel mio negozio sarai sempre il benvenuto."
+NPC_TAMSIN_RESPONSE_54cc24e5-8d65-4773-a796-fdfee88d16fd	"Come… come puoi dire una cosa simile? È pericoloso solo per chi minaccia ciò che ama. E comunque non impugna un'arma dall'ultima Crisi dei Goblin."<x1/><x2/><x3/><x4/>*Tamsin alza le mani mentre parla, tracciando piccole forme nell'aria, come se cercasse di tessere i pensieri in qualcosa di ordinato. Si accorge di sorridere di nuovo, quasi imbarazzata.*<x5/><x6/>"Manga, Alaric e Rahaner… sembrano i tre padri di Earlwood."<x7/><x8/>"Padri. Zii. Un padre, uno zio, un fratello maggiore. Ma poi chi è chi? Oh, non ha poi tanta importanza."<x9/><x10/>"Guidano senza costringere nessuno. Aiutano, insegnano. Sono dove gli altri hanno bisogno di loro. E ognuno è un esempio a modo suo. Io… vorrei essere utile così."
+NPC_TAMSIN_RESPONSE_58065457-1632-4811-86d7-cf764fb106f1	"Anche se l'hai trovato per caso, hai comunque scelto di portarmelo. Questo conta."<x1/><x2/><x3/><x4/>"Ora… cosa ne faccio? Un gagliardetto per risollevare il morale, stendardi protettivi per i Margini della Foresta, o uno stendardo di luce per gli esploratori sui sentieri più bui. Il Glimmerflax apre così tante possibilità, e io continuo a volerle provare tutte insieme."
+NPC_TAMSIN_RESPONSE_5c76580d-6f8d-4a5f-9e8e-4e2a4fd43a3a	*Lo sguardo le si fa distante.*<x1/><x2/>"Sì, credo che siano sempre in pensiero."<x3/><x4/>"Non hanno mai capito perché abbia lasciato l'accademia e scelto Earlwood."
+NPC_TAMSIN_RESPONSE_5fd0e94a-928d-45ae-8c3d-95b69a6c1ae3	*Ride piano, coprendosi per un attimo la bocca prima di sfoderare un sorriso.*<x1/><x2/>"Oh, tu! Che adulatore. Ci vediamo!"
+NPC_TAMSIN_RESPONSE_6001a334-bef1-4f92-8e71-fe996d666920	"È un fuso incantato per tessere stendardi. Mantiene costante la tensione del filo, così l'incantesimo non devia mentre lavoro. Vuol dire una protezione più precisa e uno stendardo che regge quando serve."<x1/><x2/><x3/><x4/>"Con questo fuso potrò proteggere il villaggio molto meglio. Che sollievo. Continuavo a temere di deludere tutti, e poi mi dicevo che ero sciocca. Però."
+NPC_TAMSIN_RESPONSE_63fa9b35-e8dc-4da0-9432-b4307cb2b09e	*Tamsin ride alle tue parole.*<x1/><x2/>"E dici poco."<x3/><x4/>"È un elfo: nei giovani elfi le emozioni intense fanno parte del pacchetto. Ne ho conosciuti tanti all'accademia."
+NPC_TAMSIN_RESPONSE_66269cda-7dac-4b0a-a6ad-904e5b1e8cdc	"Certo. È la Scriptura Principiorum, il testo più diffuso sui Principi Primi. È la fede che trovi quasi ovunque in Aldoria."<x1/><x2/>"Earlwood è un po' particolare. Qui molti restano legati alla vecchia religione, anche fra gli umani."<x3/><x4/>"Tu segui i Principi?"
+NPC_TAMSIN_RESPONSE_66dbfcc4-0ac0-482f-8b48-fff7dcd9e392	*Il sorriso di Tamsin sboccia, luminoso come il mattino, mentre affiorano ricordi affettuosi. Inclina appena il capo, come se stesse già scegliendo da quale storia cominciare.*<x1/><x2/>"Oh, non è un tesoro? Lo conosco da quando sono arrivata a Earlwood. È sempre stato accogliente, sempre attento a me. Se mi vede portare qualcosa, qualsiasi cosa, un attimo dopo quelle manone me l'hanno già tolta dalle mani."<x3/><x4/>*Il sorriso resta, ma si addolcisce; abbassa gli occhi e si fa più seria.*<x5/><x6/>"Quando sono stata male, mi ha portata dove dovevo andare. Lui e Saqi si sono presi tanta cura di me. Gliene sono grata. Davvero."
+NPC_TAMSIN_RESPONSE_67f4cce0-d447-457c-9e85-d94b69dd399d	"Lo è. Una delle persone più determinate che conosca."<x1/><x2/><x3/><x4/>*La voce di Tamsin si addolcisce mentre parla. L'entusiasmo c'è ancora, ma temperato da qualcosa di più personale. Giocherella con le dita come se torcesse un filo sciolto per rimetterlo in ordine.*<x5/><x6/>"È stata lei a insegnarmi che puoi essere utile senza mai impugnare un'arma. Quando sono arrivata a Earlwood non conoscevo nessuno. Non parlavo con nessuno. Saqi mi aveva vista in giro e mi salutava, ma senza insistere. Poi una sera ho finalmente trovato il coraggio di entrare nella taverna. Mi ha guardata dritta negli occhi e ha sorriso come se se lo aspettasse. Come se sapesse che ero pronta. Mi ha presentata a tutti. Abbiamo mangiato, bevuto, parlato, e da allora… non ero più sola."<x7/><x8/>"Tiene alto il morale. Trasforma un villaggio in una comunità che vale la pena proteggere. E mentre Alaric ci tiene al sicuro, Saqi ci fa sentire a casa."
+NPC_TAMSIN_RESPONSE_6e2ecf67-653d-4ea1-b13b-4ee8a1b02262	"Lo so. C'è sempre qualcosa. Solo… pensaci. Anche una sola tazza bevuta in pace può rendere tutto il resto meno duro."
+NPC_TAMSIN_RESPONSE_706cdae0-3599-4c67-9a78-add7f77da467	"L'esilio… là fuori è quasi una condanna a morte. Goblin, bestie, il freddo. …Capisco perché l'hai fatto. Almeno non potrà rifarlo. E se ha lasciato le scorte, la Gilda potrà recuperarle e riportarle a casa."<x1/><x2/><x3/><x4/>"Mentre eri via, ho riflettuto. Devo fermarmi e fare più attenzione. Non posso continuare ad aiutare chiunque me lo chieda, senza badare a chi sia. Adesso lo vedo. Del mio lavoro si può abusare. La mia gentilezza può diventare uno strumento di crudeltà. E io… io mi consumo per persone che vogliono soltanto prendere."
+NPC_TAMSIN_RESPONSE_72afd2b9-60da-4418-ae4e-6d3d2ce834a4	"Oh, grazie per avermelo chiesto. Continuavo a rimandare perché mi sembra di chiedere ancora una volta le forze degli altri, ma sì. Mi serve una fibra particolare da Wildwood. Ne basta poca, ma è importante, e da sola non posso andare a prenderla."<x1/><x2/><x3/><x4/>"Il fuso farà quello che deve solo se lego la sua magia a questo luogo. Devo metterlo in sintonia con Earlwood. Per farlo mi serve un lino della foresta molto particolare, il Glimmerflax. Se lo filo, la trama protettiva tiene meglio e gli stendardi non cedono più ai bordi. È raro. Non impossibile da trovare. Solo raro."
+NPC_TAMSIN_RESPONSE_7561dc0f-d081-449e-8ad9-aef77dabf4f0	*Tamsin si anima subito, gli occhi le brillano e le mani sono già quasi tese verso una pila di fogli che ancora non c'è.*<x1/><x2/>"Oh, sì! Sto passando in rassegna ogni frammento che ci resta sui rituali di Ceres: appunti, preghiere ricopiate, perfino vecchi resoconti delle feste. Gran parte delle usanze di Earlwood veniva dai riti elfici insegnati ai primi coloni quando arrivarono qui."
+NPC_TAMSIN_RESPONSE_75e9a0ac-6c15-41dc-95b0-70ec2bf412fe	"Davvero? Cioè… penso di sì, ma mi sembra comunque che le cose continuino a peggiorare."<x1/><x2/><x3/><x4/>"Quindi… ho avuto un'idea."<x5/><x6/>"Invece di cercare parole migliori, ho pensato che potrei invitarti per un tè."<x7/><x8/>"Non quello di Tenderberry o Thaumablossom che si trova qui. I miei mi hanno mandato una piccola scatola di latta con del vero tè di Aldoria. Per me è… speciale."<x9/><x10/>"Da bambina lo bevevo con loro nella sala di lettura, mentre lavoravano e fingevano di non guardarmi armeggiare con ogni pagina."<x11/><x12/>"Lo tenevo da parte. E mi piacerebbe dividerlo con te."
+NPC_TAMSIN_RESPONSE_7e278e4c-08f4-4019-83b7-74db662d02c9	"Era proprio quello che temevo. Di aver deluso tutti…"<x1/><x2/><x3/><x4/>*Tamsin alza lo sguardo, la mascella serrata. La tristezza c'è ancora, ma è stata messa da parte da una rabbia dura e lucida.*<x5/><x6/>"Non posso lasciar correre. Devo trovarli. Devo farla finire."
+NPC_TAMSIN_RESPONSE_863b24f2-1cec-4366-bd41-4390ee5085d7	"Grazie. Io… non so cosa farei se dovessi affrontare tutto questo da sola."
+NPC_TAMSIN_RESPONSE_8a893aaf-7fdf-4f5a-9333-3f8a73ea3ac4	"Da Alaric. È stata una scelta saggia. Mi fido ciecamente di lui. Solo… mi preoccupa come andrà quando sentirà chi è stato ferito."<x1/><x2/><x3/><x4/>"Mentre eri via, ho riflettuto. Devo fermarmi e fare più attenzione. Non posso continuare ad aiutare chiunque me lo chieda, senza badare a chi sia. Adesso lo vedo. Del mio lavoro si può abusare. La mia gentilezza può diventare uno strumento di crudeltà. E io… io mi consumo per persone che vogliono soltanto prendere."
+NPC_TAMSIN_RESPONSE_8aa8b47a-2511-43d1-b4b3-28267a492117	"Mi dispiace che tu non la veda come me, ma su questo non cambio idea. È la strada giusta per me. Non sono mai stata così sicura. Ora possiamo rimettere insieme i pezzi e andare avanti."
+NPC_TAMSIN_RESPONSE_8d91d6e7-0641-4819-bd6a-0c2dfd48263e	*Negli occhi di Tamsin passa un lieve stupore, poi il divertimento.*<x1/><x2/>"Mi sa che qualcuno non stava attento alle lezioni sull'Antica Fede. Ceres è la dea della natura. Marina è la dea del mare. Sono entrambe mogli di Agir, il grande dio del cielo e re degli dèi. In tre dominano il mondo materiale: natura, cielo e mare."
+NPC_TAMSIN_RESPONSE_92c9d407-b030-420f-8131-f94a3f8029eb	*Sorride dolcemente, visibilmente commossa.*<x1/><x2/>"È molto gentile da parte tua. Grazie."
+NPC_TAMSIN_RESPONSE_93bb04ec-b832-472f-8ac9-1f3afd42004c	"Quanti segreti… hmm."<x1/><x2/>*Ci pensa un momento, con la guancia appoggiata alle nocche.*<x3/><x4/>"Beh, dopo tutto quello che hai fatto per noi, mi fido. Ecco. Prendine un po'."
+NPC_TAMSIN_RESPONSE_945f777a-5b3f-420b-b113-1037a0b8b234	"Un giardino?"<x1/><x2/>*Esita, socchiudendo gli occhi pensierosa, come se confrontasse l'idea con uno schema che conosce.*<x3/><x4/>"È… bello. Strano, ma bello. E dopo tutto quello che hai fatto per Earlwood, sarebbe sbagliato non fidarmi di te. Ecco. Prendine un po'. Gratis."
+NPC_TAMSIN_RESPONSE_94a84fc0-0426-4937-b9b5-7f88a97d1af8	"Grazie. Davvero. E fai attenzione: una magia così dirompente di rado viaggia sola."
+NPC_TAMSIN_RESPONSE_95d713bf-28b9-4954-8bc6-c110f24c2911	"Ci ho pensato tanto, e credo di saperlo."<x1/><x2/><x3/><x4/>"La gentilezza conta ancora. Ci credo. È così che vivo. È così che le persone diventano un villaggio, invece di una folla. Che ci diamo forza a vicenda, rialziamo chi è caduto e andiamo avanti quando il mondo cerca di falcidiarci. Ma la gentilezza senza giudizio… non è gentilezza, non davvero. È incoscienza. Ti brucia dentro fino a svuotarti, e lascia spazio a chi sa ferire per farlo. Credo che il pezzo mancante sia saper scegliere. Dedicare le tue forze dove faranno del bene. A chi condivide i tuoi valori, o sta cercando sinceramente di avvicinarsi. E se qualcuno vuole soltanto prendere… allora smetti di passargli il filo."
+NPC_TAMSIN_RESPONSE_969dd201-72ce-494c-8e0d-7c91b73a744a	"Anch'io. Sono le persone come lui a rendere Earlwood quella che è."<x1/><x2/><x3/><x4/>*Tamsin alza le mani mentre parla, tracciando piccole forme nell'aria, come se cercasse di tessere i pensieri in qualcosa di ordinato. Si accorge di sorridere di nuovo, quasi imbarazzata.*<x5/><x6/>"Manga, Alaric e Rahaner… sembrano i tre padri di Earlwood."<x7/><x8/>"Padri. Zii. Un padre, uno zio, un fratello maggiore. Ma poi chi è chi? Oh, non ha poi tanta importanza."<x9/><x10/>"Guidano senza costringere nessuno. Aiutano, insegnano. Sono dove gli altri hanno bisogno di loro. E ognuno è un esempio a modo suo. Io… vorrei essere utile così."
+NPC_TAMSIN_RESPONSE_9c3379be-b2ee-466a-9158-4da95ad6ebc7	"Attento. Il tuo posto è al sicuro, promesso… e se continui a parlare così mi farai arrossire."<x1/><x2/><x3/><x4/>"Ora… cosa ne faccio? Un gagliardetto per risollevare il morale, stendardi protettivi per i Margini della Foresta, o uno stendardo di luce per gli esploratori sui sentieri più bui. Il Glimmerflax apre così tante possibilità, e io continuo a volerle provare tutte insieme."
+NPC_TAMSIN_RESPONSE_9d43daa4-bbc2-4c5e-94eb-0bda6939fc66	"G-grazie… Non ne sono sicura. Non so ancora cosa pensare… Una parte di me si sente ancora responsabile."<x1/><x2/><x3/><x4/>*Tamsin alza lo sguardo, la mascella serrata. La tristezza c'è ancora, ma è stata messa da parte da una rabbia dura e lucida.*<x5/><x6/>"Non posso lasciar correre. Devo trovarli. Devo farla finire."
+NPC_TAMSIN_RESPONSE_9ea6f1fb-127b-4df6-8633-7f39f0b5779d	"Sì, è vero. Eppure… meriti comunque un grazie per quello che hai fatto."<x1/><x2/><x3/><x4/>*Tamsin stringe e scioglie le mani mentre parla, come se cercasse di non riversare fuori i pensieri troppo in fretta.*<x5/><x6/>"Dovevo dirtelo prima di convincermi a lasciar perdere."<x7/><x8/>"La gente non dice grazie abbastanza. La gratitudine la sente, credo. Solo che è sempre tutto urgente."<x9/><x10/>"E continuo a sentire il tuo nome. Sei ovunque, nelle piccole storie."<x11/><x12/>"Nel modo in cui aiuti, in cui resti. In cui ti fai carico dei problemi che gli altri sono troppo stanchi per affrontare."<x13/><x14/>"Facciamo tutti il possibile, ma certi giorni… certi giorni sembra che stiamo solo resistendo."<x15/><x16/>"E tu ci fai sentire che potremmo reagire."
+NPC_TAMSIN_RESPONSE_9f55022f-8d8d-4fad-aa29-e95dc5f06802	"Oh. Sì. Hai ragione. Dovrei lasciare parlare le mani. Torna presto, va bene?"
+NPC_TAMSIN_RESPONSE_9f8e72a4-28ad-4c5a-b2e0-7fa621c2f7f0	"Giusto, gli stendardi. Sto piazzando protezioni intorno al villaggio, dirigendo l'energia per rafforzare le nostre difese, ma qualcosa sta disfacendo il mio lavoro."<x1/><x2/>"È quasi impercettibile, ma la magia viene risucchiata, come se qualcosa la consumasse."
+NPC_TAMSIN_RESPONSE_a05647ec-5df8-4c36-9cb6-95b6e465ec3c	"Proprio no. Per costruire un futuro migliore, dobbiamo capire da dove veniamo."
+NPC_TAMSIN_RESPONSE_a14c25dd-fe48-4d04-a307-3bfecc11c28b	"No. Ti prego. Non uccidere nessuno. Riportali qui. Lascia che la Gilda veda cos'hanno fatto."
+NPC_TAMSIN_RESPONSE_a2df761f-f9ab-404c-a150-e1ae078aa8f5	"Qui molti sarebbero d'accordo con te. La vecchia religione è ancora ben radicata fra molti popoli di Mirkea, soprattutto fra gli elfi."<x1/><x2/><x3/><x4/>"Io non vedo la vecchia fede e i Principi Primi come rivali. Rispondono a domande diverse."<x5/><x6/>"La vecchia fede è il linguaggio con cui si parla di Mirkea stessa: gli dèi, i loro domini, l'ordine del mondo. Serve a dare un nome a ciò che esiste."<x7/><x8/>"I Principi riguardano più da vicino ciò che abbiamo dentro. Parlano della Volontà. Di ciò che plasma una persona, che la rafforza o la corrode."<x9/><x10/>"Quindi gli antichi dèi sono gli dèi del mondo."<x11/><x12/>"E i Principi Primi e le Grandi Iniquità sono le potenze che agiscono su di noi."
+NPC_TAMSIN_RESPONSE_a6088dd8-3085-4e06-9fc1-f5f55190d19d	"Ah, sì, certo. Dritta al punto. Prendo i libri."<x1/><x2/><x3/><x4/>*Tamsin tira fuori una pila di libri da sotto il banco e comincia a sfogliarli, con gli occhi fissi sulle pagine anche mentre parla.*<x5/><x6/>"A Earlwood quasi tutto questo è stato dimenticato, da quando le generazioni più giovani hanno abbracciato gli insegnamenti dei Principi Primi, ma i libri sono ancora qui. In questo c'è un rito, una supplica a Ceres perché apra la via al Trono della Foresta, così da portare offerte al suo emissario. Servono tre reagenti rari di Wildwood e, una volta raccolti, usi il rituale per sintonizzare due pietre protettive. Dovrebbe bastare ad aprire il passaggio."
+NPC_TAMSIN_RESPONSE_a78a6905-fcf7-4a05-8170-b78d905495dd	"Non credo sia idolatria. È avere vicino qualcuno da ammirare, qualcuno di reale. Hanno i loro difetti, eppure sono qui. E scelgono di farsi carico del peso."
+NPC_TAMSIN_RESPONSE_a9948883-0932-4f5c-8981-80ca42566539	*Spalanca gli occhi e perde la sicurezza che mostrava.*<x1/><x2/>"Giusto. Certo. Fa' come se non te l'avessi chiesto. Se cambi idea… sai dove trovarmi."
+NPC_TAMSIN_RESPONSE_aad44c92-fac7-49ce-8c66-6ad66e01ae1b	"Un bel po', in realtà! Ci sono schemi e varianti e… scusa, fammi prendere i libri, così puoi vedere."<x1/><x2/><x3/><x4/>*Tamsin tira fuori una pila di libri da sotto il banco e comincia a sfogliarli, con gli occhi fissi sulle pagine anche mentre parla.*<x5/><x6/>"A Earlwood quasi tutto questo è stato dimenticato, da quando le generazioni più giovani hanno abbracciato gli insegnamenti dei Principi Primi, ma i libri sono ancora qui. In questo c'è un rito, una supplica a Ceres perché apra la via al Trono della Foresta, così da portare offerte al suo emissario. Servono tre reagenti rari di Wildwood e, una volta raccolti, usi il rituale per sintonizzare due pietre protettive. Dovrebbe bastare ad aprire il passaggio."
+NPC_TAMSIN_RESPONSE_ad2e3bd7-c3ec-4420-871e-37c397d768bd	"Vero? Aspetta, cerco il passaggio esatto."<x1/><x2/><x3/><x4/>*Tamsin volta in fretta qualche altra pagina, con una mezza dozzina di segnalibri che spuntano storti, mentre scorre righe di scrittura fitta.*<x5/><x6/>"Eccola, la lista. Allora, tre reagenti. Primo: linfa dell'albero antico, estratta direttamente da una delle grandi radici che passano sotto Wildwood. Secondo: acqua toccata dalle driadi, che dovrebbe venire dalla pozza di una Rivercaller. Di solito viene donata, ma non abbiamo tempo per le cerimonie. E terzo: una gemma del custode, un'antica gemma elfica legata alla tutela della foresta. Di solito si trovano nascoste nelle rovine elfiche, dove ormai quasi nessuno che abbia un po' di buon senso mette più piede."
+NPC_TAMSIN_RESPONSE_af06ea58-c3d6-41f7-abec-e18566af7436	"Sono tanto contenta che tu capisca. Mi dispiace che tu mi abbia trovata in un momento così buio, ma mi hai aiutata davvero. Ora possiamo rimettere insieme i pezzi e andare avanti."
+NPC_TAMSIN_RESPONSE_afb6b4ef-ac8f-4daf-806f-769e0e477877	*Tamsin parla un po' più forte, come se cercasse di cucire sicurezza nella propria voce.*<x1/><x2/>"Certo che sono preoccupata. È casa mia, e non voglio deluderli. Qui tutti lavorano tanto e tengono duro. Alaric, Rahaner, Saqi, Manga, Corin… perfino Eldorian. Voglio fare la mia parte."
+NPC_TAMSIN_RESPONSE_b0d94a77-beba-4db0-b9c8-1249fa83fb17	"Oh, Saqi? È la migliore. Per me è come una sorella maggiore."<x1/><x2/>"Di sicuro l'hai vista oggi. Di solito manda avanti la taverna giù al villaggio, ma quando conta esserci, lei c'è."
+NPC_TAMSIN_RESPONSE_b125cb1d-a3cf-444e-857b-4a12773262f9	"Oh. Scusa. Non volevo darlo a vedere. Davvero. Odio guastare l'atmosfera quando entra qualcuno."<x1/><x2/><x3/><x4/>"Sai che sto incantando tessuti per i rifugiati. Coperte riscaldanti, vestiti, tutto quello che riesco a fare. Un'anziana mi ha detto che qualcuno prende quei capi e li rivende ai rifugiati fuori dal villaggio. Come se la disperazione fosse una borsa da svuotare."
+NPC_TAMSIN_RESPONSE_b13e1979-996a-4e95-8417-10d6e06fadde	"Per gli anziani hanno un vero valore religioso. Le generazioni più giovani hanno quasi tutte lasciato la vecchia fede per i Principi Primi."<x1/><x2/><x3/><x4/>"I worp si usano per pescare. Gli abitanti li pestano, li essiccano, a volte li masticano perfino, poi sputano nell'acqua quella poltiglia amara come esca. Nella vecchia fede sono considerati un dono di Marina e Ceres per far prosperare chi vive fra la foresta e il mare. E c'è una regola: coltivi i worp, poi li dai ai pesci. Non li mangi tu. È come un rito di passaggio del dono. Un dono del regno di Ceres, portato da mani mortali nelle acque di Marina."<x5/><x6/><x7/><x8/>"Raccontano perfino una vecchia storia su un pesce gigante chiamato JJ. Serve a spaventare i pescatori per allontanarli dall'avidità."
+NPC_TAMSIN_RESPONSE_b4291e92-7cd4-4530-89e4-01ab6822ddaa	"È più capace di quanto sembri; non si farà ammazzare."<x1/><x2/>"Dagli un po' di fiducia. Come tutti noi, si impegna a proteggere il villaggio."
+NPC_TAMSIN_RESPONSE_b470ea46-f2b0-4692-b7d4-a7c20d3b687f	"È molto carino da parte tua chiedermelo. Vengo da Aldoria. I miei genitori sono studiosi dell'Accademia, laggiù. Nessuno dei due si è appassionato all'arte degli incantamenti come me, ma sono maghi capaci. Quando possono mi mandano pacchi di cose utili. Mi aiutano, anche se a volte mi fanno sentire la mancanza di casa più di quanto mi aspetti."
+NPC_TAMSIN_RESPONSE_b53fe9a8-71dc-4012-bcf9-313445441c4b	"Le pietre protettive sono piuttosto comuni a Wildwood e nella Foresta Eterna. Sono santuari per i seguaci degli Antichi Dei, soprattutto di Ceres: opere davvero affascinanti. Una volta ottenuti i reagenti, per sintonizzarle basta incanalare la magia nelle pietre. Ma dubito che gli spiriti della foresta te lo lasceranno fare senza combattere, quindi… preparati."
+NPC_TAMSIN_RESPONSE_b7e5a07c-04e7-48d3-96ff-a53bee1f492f	"Oh, no. Non intendevo questo. Non smetterei mai di aiutare. Solo… non posso continuare a dare le mie forze a chiunque tenda la mano."<x1/><x2/><x3/><x4/>"La gentilezza conta ancora. Ci credo. È così che vivo. È così che le persone diventano un villaggio, invece di una folla. Che ci diamo forza a vicenda, rialziamo chi è caduto e andiamo avanti quando il mondo cerca di falcidiarci. Ma la gentilezza senza giudizio… non è gentilezza, non davvero. È incoscienza. Ti brucia dentro fino a svuotarti, e lascia spazio a chi sa ferire per farlo. Credo che il pezzo mancante sia saper scegliere. Dedicare le tue forze dove faranno del bene. A chi condivide i tuoi valori, o sta cercando sinceramente di avvicinarsi. E se qualcuno vuole soltanto prendere… allora smetti di passargli il filo."
+NPC_TAMSIN_RESPONSE_b985279d-b43d-4ebc-bb03-a995c6aa355e	"Sono tanto contenta che tu sia d'accordo. Resta ancora un po' e sono sicura che troverai nuovi motivi ogni giorno."
+NPC_TAMSIN_RESPONSE_baa37edb-a206-4857-9ef6-36ea7bbc87de	"Dimorano nel regno di Numen, separato dal mondo materiale."<x1/><x2/>"I contatti sono rari. Nessun mortale vi ha camminato, e nessun dio ha messo piede qui. Ma esseri minori hanno attraversato il confine."<x3/><x4/>"Alcuni studiosi collegano i goblin al regno di Numen, come progenie di Akolasis."<x5/><x6/>"E la parte strana sono la Volontà e la magia. Toccano entrambi i regni: per questo fanno da ponte a qualunque influenza."
+NPC_TAMSIN_RESPONSE_be512b4a-befe-467b-80f2-cc585c68f217	"Lo so. Davvero. È solo che fa male sentirselo dire così. Odio dipendere da loro, e per peggiorare le cose non mi basta nemmeno il fuso…"<x1/><x2/><x3/><x4/>"Il fuso farà quello che deve solo se lego la sua magia a questo luogo. Devo metterlo in sintonia con Earlwood. Per farlo mi serve un lino della foresta molto particolare, il Glimmerflax. Se lo filo, la trama protettiva tiene meglio e gli stendardi non cedono più ai bordi. È raro. Non impossibile da trovare. Solo raro."
+NPC_TAMSIN_RESPONSE_c324a98b-a02b-44f3-852b-c456d56cf055	"So che non ne puoi più delle liste. Non te lo chiederei se non fosse indispensabile. Contiamo tutti su di te."
+NPC_TAMSIN_RESPONSE_c9ca40e6-01fd-4fae-8933-ae3641f6b771	"Capisco. Davvero. Non spetta a te cercare piante per il mio lavoro. Chiederò a Eldorian, o a un altro esploratore, di tenerle d'occhio quando è già nella foresta."
+NPC_TAMSIN_RESPONSE_cb3c0539-9163-4078-9d16-95354977a788	"Non farti sentire dagli abitanti. Potresti offendere qualcuno. Però ammetto che hanno una forma strana, e a quanto dicono qui il sapore è terribile."<x1/><x2/><x3/><x4/>"I worp si usano per pescare. Gli abitanti li pestano, li essiccano, a volte li masticano perfino, poi sputano nell'acqua quella poltiglia amara come esca. Nella vecchia fede sono considerati un dono di Marina e Ceres per far prosperare chi vive fra la foresta e il mare. E c'è una regola: coltivi i worp, poi li dai ai pesci. Non li mangi tu. È come un rito di passaggio del dono. Un dono del regno di Ceres, portato da mani mortali nelle acque di Marina."<x5/><x6/><x7/><x8/>"Raccontano perfino una vecchia storia su un pesce gigante chiamato JJ. Serve a spaventare i pescatori per allontanarli dall'avidità."
+NPC_TAMSIN_RESPONSE_d3a39791-51f3-424c-9ed3-e38fefcc3b60	"Anch'io. Ho cominciato con i miei genitori, ovviamente, poi li ho studiati per bene all'Accademia."<x1/><x2/><x3/><x4/>"Io non vedo la vecchia fede e i Principi Primi come rivali. Rispondono a domande diverse."<x5/><x6/>"La vecchia fede è il linguaggio con cui si parla di Mirkea stessa: gli dèi, i loro domini, l'ordine del mondo. Serve a dare un nome a ciò che esiste."<x7/><x8/>"I Principi riguardano più da vicino ciò che abbiamo dentro. Parlano della Volontà. Di ciò che plasma una persona, che la rafforza o la corrode."<x9/><x10/>"Quindi gli antichi dèi sono gli dèi del mondo."<x11/><x12/>"E i Principi Primi e le Grandi Iniquità sono le potenze che agiscono su di noi."
+NPC_TAMSIN_RESPONSE_d3ab64a3-6e33-4a06-b7b0-1ce835f06e93	*Le guance le si arrossano e si agita un poco.*<x1/><x2/>"Oh cielo, l'ho lasciato in giro? Che imbarazzo."<x3/><x4/>"Quando mi manca casa, ne leggo la storia. Mi fa sentire di nuovo legata a lei."
+NPC_TAMSIN_RESPONSE_d4f1c94b-0656-4577-9bc6-8d5e514a69f1	"Lo so… sono stata incauta… ma mi hanno ingannata. È che… non so ancora cosa pensare."<x1/><x2/><x3/><x4/>*Tamsin alza lo sguardo, la mascella serrata. La tristezza c'è ancora, ma è stata messa da parte da una rabbia dura e lucida.*<x5/><x6/>"Non posso lasciar correre. Devo trovarli. Devo farla finire."
+NPC_TAMSIN_RESPONSE_d729f711-8c58-4019-be25-56bc3e395e3b	"Sì. E non me ne vergogno affatto."
+NPC_TAMSIN_RESPONSE_d984521d-e932-4720-a4cc-5b57bb6d975b	"Per aiutare i rifugiati, ovviamente. Ha un cuore enorme e forse è la migliore organizzatrice di tutto il villaggio."
+NPC_TAMSIN_RESPONSE_e2063756-e319-4f0a-aaa9-17c7d539dbe1	"È mostruoso. Continuo a sentire le sue parole e a pensare: no, non è possibile… e invece."<x1/><x2/><x3/><x4/>"Penso che la causa sia io. Per colpa mia i rifugiati vengono sfruttati proprio qui, nel nostro villaggio. Ho passato notti senza dormire, a tessere e tessere, perché pensavo che non avessimo abbastanza scorte. E ora le coperte vengono rivendute in cambio delle razioni della gente, e qualcuno resta senza mangiare. Sono furiosa. E ferita. E sto male al pensiero di aver contribuito a tutto questo. Oh, scusa. Non avrei dovuto rovesciarti tutto addosso così. Dovrei cavarmela da sola…"
+NPC_TAMSIN_RESPONSE_e3d92df1-8fa9-4c63-89ae-c1662f9a4166	"Addio. Se ripassi, sarò qui. Mi farebbe piacere."
+NPC_TAMSIN_RESPONSE_e3f91888-3f4e-45a1-8892-a549ee1c6fe3	"Oh, tu…"<x1/><x2/>*Il sorriso si fa timido per un momento, come se cercasse un posto dove mettere le mani.*<x3/><x4/>"È pericoloso dirmi una cosa del genere. Ma è bello. Davvero. Grazie."<x5/><x6/><x7/><x8/>*Tamsin stringe e scioglie le mani mentre parla, come se cercasse di non riversare fuori i pensieri troppo in fretta.*<x9/><x10/>"Dovevo dirtelo prima di convincermi a lasciar perdere."<x11/><x12/>"La gente non dice grazie abbastanza. La gratitudine la sente, credo. Solo che è sempre tutto urgente."<x13/><x14/>"E continuo a sentire il tuo nome. Sei ovunque, nelle piccole storie."<x15/><x16/>"Nel modo in cui aiuti, in cui resti. In cui ti fai carico dei problemi che gli altri sono troppo stanchi per affrontare."<x17/><x18/>"Facciamo tutti il possibile, ma certi giorni… certi giorni sembra che stiamo solo resistendo."<x19/><x20/>"E tu ci fai sentire che potremmo reagire."
+NPC_TAMSIN_RESPONSE_e7d018bf-d169-45fb-b383-293f2e2c2ce4	"Oh, perdonami, ma… le guardie non hanno modo di fermare Saqi. È più facile che si facciano da parte, piuttosto che discutere con lei. Perfino più che con Manga."
+NPC_TAMSIN_RESPONSE_e8adb8d0-f628-4098-9b11-b27bbbc85c6b	"Grazie. Davvero. Solo… torna con altre storie, non con altri nomi per il muro dei caduti, va bene?"
+NPC_TAMSIN_RESPONSE_e8ef450e-fdc4-4e50-857e-b200952e83c7	"Va bene. Non ti chiamerò così. Ma qui hai cambiato le cose. Questo è un fatto, che tu voglia quel nome o no."<x1/><x2/><x3/><x4/>"Quindi… ho avuto un'idea."<x5/><x6/>"Invece di cercare parole migliori, ho pensato che potrei invitarti per un tè."<x7/><x8/>"Non quello di Tenderberry o Thaumablossom che si trova qui. I miei mi hanno mandato una piccola scatola di latta con del vero tè di Aldoria. Per me è… speciale."<x9/><x10/>"Da bambina lo bevevo con loro nella sala di lettura, mentre lavoravano e fingevano di non guardarmi armeggiare con ogni pagina."<x11/><x12/>"Lo tenevo da parte. E mi piacerebbe dividerlo con te."
+NPC_TAMSIN_RESPONSE_f1678e6c-5ab8-4db1-9ef5-625f64bbbf05	"Grazie. Davvero. E ti prego, non correre per me. Se ci vuole tempo, ci vuole tempo. Preferisco che tu torni al sicuro, piuttosto che avere subito il lino."
+NPC_TAMSIN_RESPONSE_f2075d17-898e-41f5-95d9-4ac877c89429	"Oh, Eldorian? Per me è come un fratello."<x1/><x2/>"Difficile dire se maggiore o minore: di anni ne ha più di me, ma si comporta al contrario."<x3/><x4/>"Comunque è proprio una brava persona."
+NPC_TAMSIN_RESPONSE_f863d9bc-0d2a-455b-a3a1-3aecf0bdb040	*Le mani di Tamsin esitano sopra il Glimmerflax, come se temesse di schiacciarlo. Poi alza gli occhi con un sorriso luminoso e grato, che cerca di rendere più composto.*<x1/><x2/>"L'hai portato! Oh, meraviglioso. Cerco di ringraziarti come si deve, ma le parole continuano a sfuggirmi. Però credimi, ti prego. Per me significa tanto."
+NPC_TAMSIN_RESPONSE_f972bdd8-4d33-44a7-a90d-41f9b0fbd5e1	"Io? Oh, te ne sei accorto… Scusa. Cercherò di ricompormi. Non voglio buttare giù il morale a tutti."<x1/><x2/><x3/><x4/>"Sai che sto incantando tessuti per i rifugiati. Coperte riscaldanti, vestiti, tutto quello che riesco a fare. Un'anziana mi ha detto che qualcuno prende quei capi e li rivende ai rifugiati fuori dal villaggio. Come se la disperazione fosse una borsa da svuotare."
+NPC_TAMSIN_RESPONSE_fab58fd2-089e-4c1b-a3c2-31540f8fdddb	"Mi dispiace che tu la veda così. Spero che un giorno qualcuno riesca a mostrarti il contrario."
+NPC_TAMSIN_RESPONSE_fea7ef39-4ac1-4180-b51e-d2e3bad2045b	"Non è saggio liquidare gli dèi, antichi o nuovi. Viviamo ancora nel loro dominio, secondo il loro ordine."
+NPC_TAMSIN_TITLE	La Tessitrice di Stendardi di Earlwood

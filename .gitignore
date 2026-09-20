@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------------------
+# I testi originali del gioco NON vanno su un repository pubblico.
+#
+# source/ contiene lo script completo di Dimraeth in cinque lingue, estratto
+# dal gioco, e glossary/names.csv le rese ufficiali DE/ES/PT: e' materiale di
+# Mudtek. Chi vuole rigenerarli lo fa da solo, dalla propria copia del gioco,
+# con tools/extract.py.
+#
+# Qui si pubblica la traduzione italiana e gli strumenti per applicarla.
+# ---------------------------------------------------------------------------
+
+source/
+glossary/
+
+# work/ e' per allowlist: quello che non e' esplicitamente ammesso resta fuori,
+# cosi' una dimenticanza non finisce online.
+work/*
+!work/mt/
+work/mt/*
+!work/mt/*.md
+!work/mt/reference.tsv
+!work/mt/glossary.tsv
+!work/mt/round4.newterms.tsv
+!work/mt/*.it.tsv
+
+# ---- artefatti di build: si rigenerano con installer/build.py -------------
+installer/build/
+installer/dist/
+installer/release/
+installer/payload/
+installer/unityfile.py
+selftest.txt
+
+# ---- roba locale ----------------------------------------------------------
+install-manifest.json
+__pycache__/
+*.pyc
+*.bak

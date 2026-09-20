@@ -1,0 +1,1237 @@
+ARCHETYPE_AERIE_DEFENDER	Difensore del Nido
+ARCHETYPE_ANCESTRAL_MYSTIC	Mistico Ancestrale
+ARCHETYPE_BEASTLAND_MYSTIC	Mistico delle Terre Ferine
+ARCHETYPE_BLOSSOM_SOULCALLER	Evocatore di Anime dei Fiori
+ARCHETYPE_BOGLAND_HEALER	Guaritore delle Torbiere
+ARCHETYPE_BRIDGE_KEEPER	Custode del Ponte
+ARCHETYPE_CLOUDSHADOW_ASSASSIN	Assassino dell'Ombra delle Nubi
+ARCHETYPE_COLOSSAL_BRAWLER	Rissoso Colossale
+ARCHETYPE_DEEPVEIN_STALKER	Predatore delle Vene Profonde
+ARCHETYPE_DEFENDER_OF_THE_REALM	Difensore del Regno
+ARCHETYPE_DEWDROP_SPY	Spia della Rugiada
+ARCHETYPE_ELEMENTAL_BINDER	Vincolatore Elementale
+ARCHETYPE_ETERNAL_SCULPTOR	Scultore Eterno
+ARCHETYPE_FOREST_WHISPERER	Sussurratore della Foresta
+ARCHETYPE_FORGEWRIGHT	Artefice della Fucina
+ARCHETYPE_GRANITE_SENTINEL	Sentinella di Granito
+ARCHETYPE_GRASSLAND_AMBUSHER	Assalitore delle Praterie
+ARCHETYPE_HAMMERFALL_BERSERKER	Berserker del Martello Tonante
+ARCHETYPE_HOOFED_FURY	Furia degli Zoccoli
+ARCHETYPE_HORNED_VANGUARD	Avanguardia Cornuta
+ARCHETYPE_IRONHOLD_WARDEN	Custode di Roccaferrea
+ARCHETYPE_LABYRINTH_GUARDIAN	Guardiano del Labirinto
+ARCHETYPE_MARSH_BERSERKER	Berserker delle Paludi
+ARCHETYPE_MASTER_ARCHITECT	Mastro Architetto
+ARCHETYPE_MIRE_ENGINEER	Ingegnere del Pantano
+ARCHETYPE_MONUMENTAL_MASON	Muratore Monumentale
+ARCHETYPE_NATURE'S_ARTISAN	Artigiano della Natura
+ARCHETYPE_NECTARBLADE_FIGHTER	Guerriero della Lama di Nettare
+ARCHETYPE_NESTMASTER_ENGINEER	Ingegnere Maestro dei Nidi
+ARCHETYPE_NIGHT'S_WHISPER	Sussurro della Notte
+ARCHETYPE_PEBBLE_SNEAK	Furtivo dei Ciottoli
+ARCHETYPE_PETAL_CONSTRUCTOR	Costruttore dei Petali
+ARCHETYPE_PIXIE_SPELLWEAVER	Tessincantesimi Folletto
+ARCHETYPE_PLAINSWALKER_MAGE	Mago Viandante delle Pianure
+ARCHETYPE_PRAIRIE_SEER	Veggente della Prateria
+ARCHETYPE_RUNEFORGE_MAGE	Mago della Fucina Runica
+ARCHETYPE_SAVANNA_CRAFTSMAN	Artigiano della Savana
+ARCHETYPE_SKY_SORCERER	Stregone del Cielo
+ARCHETYPE_SPIRIT_GUARDIAN	Guardiano degli Spiriti
+ARCHETYPE_STEPPE_VANGUARD	Avanguardia della Steppa
+ARCHETYPE_STONE_SPIRITIST	Spiritista della Pietra
+ARCHETYPE_SWAMP_WARLOCK	Stregone della Palude
+ARCHETYPE_SYLVAN_PROTECTOR	Protettore Silvano
+ARCHETYPE_TALON_KNIGHT	Cavaliere dell'Artiglio
+ARCHETYPE_THISTLESHIELD_WARDEN	Custode dello Scudo di Cardi
+ARCHETYPE_UNDERBRIDGE_ROGUE	Furfante del Sottoponte
+ARCHETYPE_WINDSPIRIT_SHAMAN	Sciamano dello Spirito del Vento
+ATTR_ADVENTURE_DESC	Avventura rappresenta il coraggio e le capacità esplorative del giocatore.
+ATTR_AGILITY_DESC	Agilità migliora la velocità di movimento e la destrezza.
+ATTR_ArmorPenetrationPercent	% Penetrazione dell'armatura
+ATTR_AttackDamage	% Danno d'attacco
+ATTR_CHARISMA_DESC	Carisma migliora le interazioni sociali e l'influenza sui PNG.
+ATTR_ChilledPower	% Potenza del gelo
+ATTR_ConcentrationOnHit	 Concentrazione al colpo
+ATTR_CriticalChance	% Probabilità di critico
+ATTR_CriticalDamage	% Moltiplicatore critico
+ATTR_DamageVsLowHealth40	% Danno vs. <40% HP
+ATTR_ENERGY_DESC	Energia rappresenta la tenacia e la resistenza del giocatore.
+ATTR_GuardEfficiency	% Efficienza della guardia
+ATTR_HPPercent	% HP
+ATTR_HealingPower	% Potere curativo
+ATTR_INTELLIGENCE_DESC	Intelligenza potenzia le capacità magiche e di risoluzione dei problemi.
+ATTR_MEMORY_DESC	Memoria influisce sulla capacità del giocatore di ricordare dettagli essenziali.
+ATTR_MinionCriticalChance	% Probabilità di critico dei servitori
+ATTR_MinionDamage	% Danno dei servitori
+ATTR_MinionHealth	% Salute dei servitori
+ATTR_PHYSIQUE_DESC	Costituzione determina la forza fisica e il vigore.
+ATTR_ResistancePenetrationPercent	% Penetrazione delle resistenze
+ATTR_STRENGTH_DESC	Forza influisce sulla potenza in combattimento ravvicinato.
+ATTR_StunBuildupIncrease	% Accumulo di stordimento
+ATTR_TMPL_ARMORPENETRATION	<x1/> Penetrazione dell'armatura
+ATTR_TMPL_ARMORPENETRATIONPERCENT	<x1/>% Penetrazione dell'armatura
+ATTR_TMPL_ATTACKDAMAGE	<x1/>% Danno d'attacco
+ATTR_TMPL_CHILLEDPOWER	<x1/>% Potenza del gelo
+ATTR_TMPL_CONCENTRATIONONHIT	<x1/> Concentrazione al colpo
+ATTR_TMPL_CRITICALCHANCE	<x1/>% Probabilità di critico
+ATTR_TMPL_CRITICALDAMAGE	<x1/>% Moltiplicatore critico
+ATTR_TMPL_DAMAGEVSLOWHEALTH40	<x1/>% Danno vs. <40% HP
+ATTR_TMPL_ENCUMBRANCE	<x1/> Ingombro
+ATTR_TMPL_GUARDEFFICIENCY	<x1/>% Efficienza della guardia
+ATTR_TMPL_HEALINGPOWER	<x1/>% Potere curativo
+ATTR_TMPL_HEALTH	<x1/> HP
+ATTR_TMPL_HPPERCENT	<x1/>% HP
+ATTR_TMPL_ICEPIERCING	<x1/> Penetrazione da ghiaccio
+ATTR_TMPL_ICERESISTANCE	<x1/> Resistenza al ghiaccio
+ATTR_TMPL_MAGICPIERCING	<x1/> Penetrazione magica
+ATTR_TMPL_MINIONCRITICALCHANCE	<x1/>% Probabilità di critico dei servitori
+ATTR_TMPL_MINIONDAMAGE	<x1/>% Danno dei servitori
+ATTR_TMPL_MINIONHEALTH	<x1/>% Salute dei servitori
+ATTR_TMPL_RESISTANCEPENETRATION	<x1/> Penetrazione delle resistenze
+ATTR_TMPL_RESISTANCEPENETRATIONPERCENT	<x1/>% Penetrazione delle resistenze
+ATTR_TMPL_STUNBUILDUPINCREASE	<x1/>% Accumulo di stordimento
+ATTR_TOTAL_DESC	La somma di tutti gli attributi, che rappresenta la forza complessiva del personaggio.
+CINEMATIC_INTRO_001	Per cinquecento anni, Mirkea conobbe la guerra.
+CINEMATIC_INTRO_002	Aldoria, grande regno umano, e Xwin, fiero<x1/>Impero dei Minotauri, si dissanguarono senza fine.
+CINEMATIC_INTRO_003	La pace divenne un sogno lontano.
+CINEMATIC_INTRO_004	Così due anime, da fronti opposti, la cercarono<x1/>dove nessun regno aveva osato...
+CINEMATIC_INTRO_005	sui Monti di Dimraeth.
+CINEMATIC_INTRO_006	Lì infuriava la magia selvaggia: la fonte da cui<x1/>ogni magia sgorgava, e a cui ogni magia tornava.
+CINEMATIC_INTRO_007	Antark, Figlio Imperiale di Xwin.<x1/>Tolais, grande inventore umano.
+CINEMATIC_INTRO_008	Insieme sfidarono le vette<x1/>e impararono a domare la magia selvaggia.
+CINEMATIC_INTRO_009	Su quel focolare fondarono Dimraeth,<x1/>città di progresso, pace e unità
+CINEMATIC_INTRO_010	per ogni razza di Mirkea.
+CINEMATIC_INTRO_011	Dimraeth dimostrò a Mirkea<x1/>che la pace si poteva costruire.
+CINEMATIC_INTRO_012	Ma non tutti i cuori anelano all'unità.
+CINEMATIC_INTRO_013	Sylbos, Signore Oscuro di Dolmarok, ultimo dei<x1/>Maghi Ogre, bramava il potere di Dimraeth.
+CINEMATIC_INTRO_014	Marciò da nord con un esercito di schiavi,<x1/>finché le porte di Dimraeth tremarono sotto la sua orda.
+CINEMATIC_INTRO_015	Lì i popoli liberi di Mirkea<x1/>gli si opposero.
+CINEMATIC_INTRO_016	Spezzarono la sua orda e lo respinsero.
+CINEMATIC_INTRO_017	Ma la vittoria esigeva un prezzo.
+CINEMATIC_INTRO_018	Antark cadde, difendendo il sogno che aveva costruito.
+CINEMATIC_INTRO_019	Respinto e amareggiato dalla sconfitta, Sylbos tornò<x1/>a Dolmarok e si consacrò agli Dei Oscuri.
+CINEMATIC_INTRO_020	Forte della corruzione e di una magia più antica,<x1/>lanciò un incantesimo per legare la sua volontà
+CINEMATIC_INTRO_021	al piano mortale<x1/>e rendersi immortale.
+CINEMATIC_INTRO_022	Faustas, il venerabile mago, udì<x1/>le empie parole nel vento e rispose.
+CINEMATIC_INTRO_023	I loro poteri si scontrarono nei cieli.
+CINEMATIC_INTRO_024	L'incantesimo si infranse.
+CINEMATIC_INTRO_025	Eppure il suo potere non svanì.
+CINEMATIC_INTRO_026	L'immortalità destinata al solo Sylbos si sparse<x1/>su Mirkea, legandosi ad anime disperse.
+CINEMATIC_INTRO_027	Faustas cercò di radunarle<x1/>prima che Sylbos le trovasse,
+CINEMATIC_INTRO_028	ma la magia selvaggia ancora turbinava nell'aria,
+CINEMATIC_INTRO_029	e il suo incantesimo fallì.
+CINEMATIC_INTRO_030	Così ha inizio la nostra storia.
+CINEMATIC_INTRO_031	Non nel trionfo, né nelle sale dei re,
+CINEMATIC_INTRO_032	ma nell'oscurità, nelle profondità del mondo,
+CINEMATIC_INTRO_033	dove gli smarriti si risvegliano...
+CINEMATIC_INTRO_034	e persino la morte potrebbe già<x1/>aver perso la sua presa.
+CINEMATIC_PAUSE_PROMPT	Pausa
+CINEMATIC_RESUME_PROMPT	Riprendi
+CINEMATIC_SKIP_PROMPT	Salta
+CLASS_BUILDER	Costruttore
+EFFECT_ACCELERATEDCASTING_DESC	Aumenta per breve tempo la Velocità di movimento e la Velocità d'attacco dopo un'abilità da Elfo.
+EFFECT_AMBUSH_DESC	Imboscata è pronta. Il prossimo attacco automatico dopo uno scatto rapido infligge più Danno fisico.
+EFFECT_ARMORDOWN_DESC	L'Armatura è ridotta e aumenta il Danno fisico subito.
+EFFECT_ARMORUP_DESC	L'Armatura è aumentata e riduce il Danno fisico subito.
+EFFECT_ASHENESCALATION_DESC	Escalation di Cenere ha aumentato il Danno da fuoco in base agli accumuli di Ustione consumati.
+EFFECT_BLEEDINGRESISTANCE_DESC	Quando un Effetto ad accumulo di Sanguinamento si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1.
+EFFECT_BLOODFRENZY_DESC	Frenesia Sanguinaria aumenta il Danno fisico inflitto ai nemici con Sanguinamento.
+EFFECT_BLOODINTHEWATER_DESC	Sangue nell'Acqua ha aumentato per breve tempo la Probabilità di critico dopo un colpo a un nemico con forte Sanguinamento.
+EFFECT_BLUNTFORCEEXECUTE_DESC	Esecuzione Contundente ha aumentato per breve tempo il Danno fisico dopo un colpo mortale contundente.
+EFFECT_BULWARK_DESC	Baluardo ha conferito Armatura bonus per breve tempo dopo che un singolo colpo ha rimosso oltre il 30% della Salute massima.
+EFFECT_BURNINGRESISTANCE_DESC	Quando un Effetto ad accumulo di Ustione si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1.
+EFFECT_COLDSCALEDPOWER_DESC	Potere Scalato dal Freddo ha aumentato il Danno magico in base agli accumuli di Gelo del bersaglio.
+EFFECT_CONCENTRATIONDOWN_DESC	La Concentrazione massima è ridotta.
+EFFECT_CONCENTRATIONONHITUP	Concentrazione al colpo aumentata
+EFFECT_CONCENTRATIONONHITUP_DESC	La Concentrazione si ripristina colpendo i nemici.
+EFFECT_CONCENTRATIONUP_DESC	La Concentrazione massima è aumentata.
+EFFECT_COUNTERFIREDISCIPLINE_DESC	Disciplina del Controfuoco è pronta. Il prossimo Attacco finale a distanza infligge più danno.
+EFFECT_DEADLYRHYTHM_DESC	Ritmo Letale ha aumentato per breve tempo la Velocità d'attacco dopo un colpo critico.
+EFFECT_DECAYCHANNEL_DESC	Canale del Decadimento ha aumentato per breve tempo il Danno magico dopo il lancio di un incantesimo di Magia della peste.
+EFFECT_DEFENDANDASSAULT_DESC	Difesa e Assalto ha aumentato per breve tempo la Velocità d'attacco dopo una Rappresaglia riuscita.
+EFFECT_ECHOEDFOCUS_DESC	Concentrazione Riecheggiata aumenta la Rigenerazione della concentrazione mentre un nemico vicino ha più di 5 accumuli di Eco temporale.
+EFFECT_ECHOESOFICE_DESC	Echi di Ghiaccio riapplica il Gelo consumato come Eco temporale per la sua durata residua.
+EFFECT_ELVISHVELOCITY_DESC	Aumenta per breve tempo la Velocità di movimento dopo un'abilità da Elfo.
+EFFECT_FINISHINGEDGE_DESC	Aumenta per breve tempo il Danno critico dopo un colpo critico a un nemico indebolito.
+EFFECT_FLAMEFEEDFRENZY_DESC	Frenesia Nutrifiamma ha aumentato la Velocità d'attacco e la Celerità magica in base agli accumuli di Ustione consumati.
+EFFECT_FLAMINGOILCOATING_DESC	Gli attacchi infliggono il 50% del loro danno come Danno da fuoco.
+EFFECT_FOCUSEDASSAULT_DESC	Aumenta per breve tempo il Danno d'attacco dopo un'abilità da Elfo.
+EFFECT_FROSTEDOILCOATING_DESC	Gli attacchi infliggono il 50% del loro danno come Danno da ghiaccio.
+EFFECT_GLACIALDRAG_DESC	Trascinamento Glaciale ha rallentato un nemico in base agli accumuli di Gelo consumati su di esso.
+EFFECT_HAYMAKER_DESC	Colpo Demolitore ha aumentato per breve tempo il Danno fisico dopo uno scatto rapido.
+EFFECT_HEALTHDOWN_DESC	La Salute massima è ridotta.
+EFFECT_HEALTHUP_DESC	La Salute massima è aumentata.
+EFFECT_INFECTIONSCENT_DESC	Odore d'Infezione ha aumentato per breve tempo la Probabilità di critico dopo un colpo a un nemico fortemente Avvelenato.
+EFFECT_KINDLEDFOCUS_DESC	Concentrazione Ravvivata ha aumentato per breve tempo la Rigenerazione della concentrazione dopo l'applicazione di Ustione.
+EFFECT_KNOCKOUTRESERVES_DESC	Riserve da Knockout ha ripristinato Vigore dopo lo stordimento di un nemico.
+EFFECT_LIONSURGE_DESC	Ondata del Leone ha aumentato per breve tempo il Danno perforante dopo un colpo critico perforante.
+EFFECT_MURDERTEMPO_DESC	Tempo Omicida ha aumentato per breve tempo la Velocità d'attacco e il Danno critico dopo un colpo mortale critico.
+EFFECT_OVERCHANNEL_DESC	Sovraccanalizzazione ha aumentato per breve tempo il Danno magico dopo una spesa elevata di Concentrazione per un incantesimo.
+EFFECT_PERMAFROSTRHYTHM_DESC	Ritmo del Permafrost ha aumentato la Celerità magica in base agli accumuli di Gelo consumati.
+EFFECT_PLAGUEMIND_DESC	Mente della Peste ha conferito Concentrazione al colpo bonus per breve tempo dopo un forte avvelenamento di un nemico.
+EFFECT_POISONRESISTANCE_DESC	Quando un Effetto ad accumulo di Veleno si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1.
+EFFECT_PUMMEL_DESC	Martellamento ha aumentato per breve tempo il Danno fisico dopo tre colpi contundenti in rapida successione.
+EFFECT_PYREECHO_DESC	Eco della Pira ha aumentato il Danno magico in base agli accumuli di Ustione del bersaglio.
+EFFECT_RAGEFROMRUIN_DESC	Furia dalla Rovina ha conferito Furia dopo lo stordimento di un nemico.
+EFFECT_RECOVERYDOWN	Recupero ridotto
+EFFECT_RECOVERYUP	Recupero aumentato
+EFFECT_REGENERATIONDOWN_DESC	La Rigenerazione della salute è ridotta.
+EFFECT_REGENERATIONUP_DESC	La Rigenerazione della salute è aumentata.
+EFFECT_REJUVINATIONDOWN	Ringiovanimento ridotto
+EFFECT_REJUVINATIONUP	Ringiovanimento aumentato
+EFFECT_RESISTANCEDOWN_DESC	La Resistenza è ridotta e aumenta il Danno magico subito.
+EFFECT_RESISTANCEUP_DESC	La Resistenza è aumentata e riduce il Danno magico subito.
+EFFECT_RIPOSTEDISCIPLINE_DESC	Disciplina della Riposta è pronta. Il prossimo Terzo Colpo infligge più danno.
+EFFECT_RIPOSTE_DESC	Riposta ha aumentato per breve tempo il Danno da taglio dopo aver parato un attacco.
+EFFECT_ROOTED_DESC	Radicato. Non puoi muoverti finché l'effetto non termina.
+EFFECT_SECONDWIND_DESC	Secondo Respiro ha rimborsato metà di una spesa elevata di Vigore. Può accadere solo una volta ogni 15 secondi.
+EFFECT_SHADOWEDSTEEL_DESC	Acciaio Ombrato ha aumentato per breve tempo il Danno fisico dopo l'uso di un'Arte dell'ombra.
+EFFECT_SILENTRECOVERY_DESC	Recupero Silenzioso ha aumentato per breve tempo la Rigenerazione del vigore dopo che il Vigore è sceso sotto il 35%.
+EFFECT_SLASHANDBASH_DESC	Taglia e Percuoti ha aumentato per breve tempo il Danno fisico dopo un colpo mortale da taglio.
+EFFECT_SONICDAGGERS_DESC	L'effetto Pugnali Sonici è attivo. Gli attacchi automatici lanciano un Dardo Sonico aggiuntivo contro il bersaglio.
+EFFECT_SPEEDDOWN	Velocità ridotta
+EFFECT_STAMINADOWN_DESC	Il Vigore massimo è ridotto.
+EFFECT_STAMINAUP_DESC	Il Vigore massimo è aumentato.
+EFFECT_STONEHIDE_DESC	Pelle di Pietra ha conferito Armatura bonus per breve tempo dopo aver inflitto Danno contundente.
+EFFECT_STUNNINGTEMPO_DESC	Tempo Stordente ha aumentato per breve tempo la Velocità d'attacco dopo lo stordimento di un nemico.
+EFFECT_STUN_DESC	Stordito. Non puoi muoverti, attaccare o lanciare incantesimi finché lo stordimento non termina.
+EFFECT_SUDDENSTRIDE_DESC	Falcata Improvvisa ha aumentato per breve tempo la Velocità di movimento dopo un colpo critico.
+EFFECT_SURGECASTING_DESC	Lancio d'Ondata è pronto e aumenta il Danno magico del tuo prossimo incantesimo.
+EFFECT_SURGEOFMASTERY_DESC	Ondata di Maestria ha aumentato per breve tempo la Velocità d'attacco dopo un colpo critico.
+EFFECT_TEMPOCONVERSION_DESC	Conversione di Tempo è pronta. Il prossimo attacco ha una Probabilità di critico molto più alta.
+EFFECT_TEMPORALCLEAVE_DESC	Fendente Temporale ha consumato Ondata temporale, applicando Sanguinamento ai nemici attorno al bersaglio.
+EFFECT_THICKSKIN_DESC	Pelle Spessa ha dimezzato un colpo che ti avrebbe portato sotto il 40% di Salute. Può accadere solo una volta ogni 30 secondi.
+EFFECT_TIMELESSFLAMES_DESC	L'effetto Fiamme Atemporali è pronto. Il prossimo incantesimo di Fuoco consuma Ondata temporale per ridurre il proprio tempo di recupero.
+EFFECT_TOXICOILCOATING_DESC	Gli attacchi infliggono il 50% del loro danno come Danno da decadimento.
+EFFECT_VIRULENTCASTING_DESC	Lancio Virulento ha aumentato per breve tempo la Celerità magica dopo un colpo critico di un incantesimo.
+EFFECT_WEAKPOINTSENSE_DESC	Senso del Punto Debole è pronto. La prossima Arte dell'ombra ha una Probabilità di critico aumentata.
+EFFECT_WELLRESTED_DESC	Aumenta gli XP ottenuti dai mostri e riduce il decadimento di Fame e Sete
+EFFECT_WILDFIRE_DESC	Incendio Selvaggio aumenta il danno inflitto ai nemici con Ustione.
+EFFECT_WINTERFOCUS_DESC	Concentrazione Invernale ha aumentato per breve tempo la Rigenerazione della concentrazione dopo l'applicazione di Gelo.
+EFFECT_WINTERGUARD_DESC	Guardia Invernale riduce il danno subito dagli attaccanti Assiderati.
+EQUIPMENT_AETHERSHADE_BONUS_6	Vetro Notturno: i tuoi attacchi di Etere contro nemici con Sanguinamento o Avvelenati ripristinano 10 Concentrazione. Tempo di recupero: 0,5 s
+EQUIPMENT_BLIGHTSEED_BONUS_3	Marciume di Semi: ora le tue Bombe di Semi lasciano una Pozza di Veleno quando esplodono
+EQUIPMENT_BLIGHTSEED_BONUS_6	Tempesta di Semi: lancia un gruppo di semi anziché uno solo
+EQUIPMENT_BRUTALCLAW_BONUS_3	Artiglio Sanguinante: Artiglio Selvaggio è potenziato e applica 5 accumuli aggiuntivi di Sanguinamento
+EQUIPMENT_BRUTALCLAW_BONUS_5	Artiglio Potenziato: Artiglio Selvaggio è potenziato e infligge il 33% di danno extra
+EQUIPMENT_BULLHEART_BONUS_5	Pelle di Pietra: quando colpisci un nemico con Danno contundente, ottieni 15 Armatura per 5 secondi
+EQUIPMENT_BURNWARD_BONUS_4	Pelle Callosa: quando lanci un incantesimo di Fuoco, aumenti la tua Resistenza al fuoco del 18% e ottieni Resistenza all'ustione per 4 secondi
+EQUIPMENT_CHILLHOWL_BONUS_3	Richiamo Canalizzato: tieni premuto per canalizzare. Ululato Alfa genera impatti attorno a te finché canalizzi, consumando Concentrazione ogni secondo
+EQUIPMENT_CHILLHOWL_BONUS_5	Richiamo alla Luna: durante la canalizzazione, gli impatti di Ululato Alfa piovono sul punto di mira, seguendone gli spostamenti
+EQUIPMENT_CONVERGENCE_BONUS_6	Sovraccanalizzazione: quando spendi oltre 30 Concentrazione in una volta, ottieni +20% Danno magico per 5 secondi
+EQUIPMENT_DAZZLER_BONUS_4	Repulsione Abbagliante: Repulsione causa Accumulo di stordimento oltre a respingere i nemici. L'Accumulo di stordimento di Repulsione Abbagliante cresce con il Potere magico
+EQUIPMENT_DUSKBLOOM_BONUS_6	Foglia Tossica: dopo uno scatto rapido, il tuo prossimo colpo di Etere o perforante entro 4 secondi conferisce +10% Velocità di movimento per 3 secondi. Tempo di recupero: 1 s
+EQUIPMENT_ENFLAMED_BONUS_4	Ardore Eterno: quando lanci un incantesimo di Fuoco, spari un colpo di mortaio verso un nemico vicino casuale, infliggendo Danno da fuoco
+EQUIPMENT_ERUPTING_BONUS_3	Residui d'Acqua: ora Eruzione sparge Pozze d'Acqua con un lancio caricato al massimo
+EQUIPMENT_FERALBOND_BONUS_3	Doppio Vincolo: Potere della Natura Selvaggia si applica sia a te sia al tuo bersaglio
+EQUIPMENT_FERALBOND_BONUS_6	Vincolo del Branco: Potere della Natura Selvaggia si applica a tutti gli alleati attorno a te
+EQUIPMENT_FORESTLINKED_BONUS_5	Cuore Aggiuntivo: Cuore della Foresta ha una carica in più
+EQUIPMENT_FROSTWARD_BONUS_6	Guardia Invernale: i nemici Assiderati ti infliggono il 10% di danno in meno
+EQUIPMENT_GLOOMFANG_BONUS_6	Ferita Marcescente: i tuoi attacchi di Decadimento contro nemici Avvelenati ripristinano 8 Vigore. Tempo di recupero: 0,5 s
+EQUIPMENT_GOBLINCALLER_BONUS_3	Più Goblin: Lancio di Goblin genera 3 Goblin anziché 1
+EQUIPMENT_GOBLINCALLER_BONUS_6	Gruppo di Goblin: ogni impatto di Grandine di Rottami genera un servitore Goblin
+EQUIPMENT_GOBLINFRIEND_BONUS_4	Grande Amico: evoca un Picchiatore che ti segue e combatte con te. Se muore, risorge dopo il combattimento
+EQUIPMENT_GOREHORN_BONUS_5	Frenesia Sanguinaria: infliggi +12% Danno fisico ai nemici con Sanguinamento
+EQUIPMENT_GRAVEVEIL_BONUS_5	Croce Sepolcrale: dopo uno scatto rapido, ottieni +12% Danno da decadimento per 4 secondi. Tempo di recupero: 3 s
+EQUIPMENT_GUSTING_BONUS_3	Raffica Assiderante: Raffica infligge Danno da ghiaccio e applica 6 accumuli di Gelo
+EQUIPMENT_IRONFIST_BONUS_6	Martellamento: colpire rapidamente lo stesso nemico con Danno contundente aumenta il tuo Danno fisico del +20% per 3 secondi
+EQUIPMENT_LIONSPEAR_BONUS_6	Ondata del Leone: i colpi critici con Danno perforante conferiscono +20% Danno perforante per 5 secondi
+EQUIPMENT_MOMENTUM_BONUS_3	Scatto Esplosivo: dopo uno scatto rapido, ottieni un breve aumento della Velocità di movimento
+EQUIPMENT_MOONTHORN_BONUS_4	Foglia Rapida: dopo uno scatto rapido, ottieni +12% Danno perforante per 4 secondi. Tempo di recupero: 3 s
+EQUIPMENT_PATHWEAVER_BONUS_3	Doppia Via: dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte
+EQUIPMENT_PATHWEAVER_BONUS_6	Ondata di Sentieri: aumenta entrambi gli effetti al 7% per accumulo
+EQUIPMENT_PRECISIONFANG_BONUS_5	Zanna Guidata: ora Falange Zanna d'Etere spara ogni proiettile nella direzione scelta nell'arco di 1,5 secondi. Il danno di ciascun proiettile aumenta del 33%
+EQUIPMENT_PUTRID_BONUS_3	Eruzione Putrida: ora Eruzione infligge Danno da decadimento e tutte le Pozze d'Acqua generate diventano Pozze di Veleno
+EQUIPMENT_PUTRID_BONUS_5	Eruzione Espansiva: ora Eruzione sparge Pozze di Veleno con un lancio caricato al massimo
+EQUIPMENT_PYREWEAVER_BONUS_6	Incendio Selvaggio: infliggi +15% danno ai nemici con Ustione
+EQUIPMENT_REDSTEEL_BONUS_6	Imboscata: dopo uno Scatto rapido, il tuo prossimo colpo entro 3 secondi infligge +25% Danno fisico
+EQUIPMENT_RIPPING_BONUS_3	Squarcio Lacerante: Tagli Frenetici continua per 3 secondi dopo il lancio iniziale, infliggendo Danno da taglio e applicando Sanguinamento ogni secondo ai nemici vicini
+EQUIPMENT_RIPPING_BONUS_5	Tagli Sanguinosi: Tagli Frenetici applica il doppio del Sanguinamento
+EQUIPMENT_ROOTBLOOM_BONUS_3	Ventaglio di Radici: ora Radici Avviluppanti evoca 3 radici in un cono
+EQUIPMENT_ROOTBLOOM_BONUS_6	Fiore Tossico: le tue radici applicano 2 accumuli di Veleno in più
+EQUIPMENT_ROOTBOUND_BONUS_3	Colpo di Radice: quando colpisci un nemico con il tuo Attacco finale, una spina di radice appare sotto di esso, infliggendo Danno da taglio
+EQUIPMENT_RUMBLER_BONUS_6	Colpo Demolitore: dopo uno scatto rapido, ottieni +20% Danno fisico per 5 secondi
+EQUIPMENT_SHAKERS_BONUS_4	Onda di Shock Caricata: ora Onda di Shock richiede di tenere premuto per il lancio. Alla carica massima emette un'onda più grande dopo la prima, che infligge il 40% del danno
+EQUIPMENT_SHATTERING_BONUS_4	Stordisci e Frantuma: quando stordisci un nemico, una pioggia di rocce si sparge sul campo di battaglia, infliggendo Danno contundente a tutti i nemici colpiti
+EQUIPMENT_SHIELDLINE_BONUS_6	Riposta: dopo aver parato un attacco, ottieni +20% Danno da taglio per 3 secondi
+EQUIPMENT_SPIRITBOUND_BONUS_5	Benedizione di Ceres: quando lanci un incantesimo di Etere, ottieni il 20% di Danno magico extra per 3 secondi
+EQUIPMENT_SPIRITBOUND_BONUS_7	Ira di Ceres: ogni volta che lanci un incantesimo di Etere, generi un dardo d'etere che, dopo un breve ritardo, insegue un nemico vicino casuale e infligge Danno da etere all'impatto
+EQUIPMENT_STONEHOOVE_BONUS_6	Baluardo: quando un singolo colpo ti infligge danni superiori al 30% degli HP, ottieni +25 Armatura per 3 secondi
+EQUIPMENT_SWIFTSTEP_BONUS_3	Scambio Rapido: Cambio conferisce a te e al tuo bersaglio un breve aumento di velocità
+EQUIPMENT_SWIFTSTEP_BONUS_6	Passo Guardiano: ottieni anche 25% Armatura durante l'aumento di velocità
+EQUIPMENT_THORNBORN_BONUS_4	Cerchio di Spine: Ventaglio di Spine spara proiettili tutt'attorno a te, infliggendo Danno perforante. Cerchio di Spine si applica ai Cuori della Foresta
+EQUIPMENT_TIDESTORM_BONUS_3	Pozza di Marea: Ondata d'Acqua lascia una pozza dietro di sé
+EQUIPMENT_TIDESTORM_BONUS_6	Marea Impetuosa: riduce del 33% il tempo di recupero di Ondata d'Acqua
+INSCENE_EARLWOODFARMLANDSPARTII_NOTIF_7682E0	Hai appreso informazioni sul Mulino di Haylor.
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_111B2D	"Grande avventuriero, ti prego! Aiutami a trovare il giocattolo di mia figlia. Abbiamo così poco..."
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_324439	Hai segnato il recinto con un cartello che indica il percorso
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_3D1FFB	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_407A19	"Tu... l'hai trovato davvero! Grazie infinite. Che Ceres ti benedica!"
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_47124F	Hai installato un campanello segnalatore sul palo della luce
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_61197B	Hai segnato il recinto con un cartello che indica il percorso
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_617FE9	Nessuna traccia dell'esploratore. Solo campi divorati dalla fame dei goblin.
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_70FB39	Hai segnato il recinto con un cartello che indica il percorso
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_75E790	Hai installato un campanello segnalatore sul palo della luce
+INSCENE_EARLWOODFARMLANDSPARTII_TEXT_7682E0	I resti di quella che un tempo era una grande casa...
+INSCENE_EARLWOODFARMLANDSPARTI_NOTIF_7682E0	Hai appreso informazioni sulla Pianta di Worp
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_04F067	Salve, avventuriero! Al momento le nostre pattuglie si limitano a questo perimetro. Però, ora che ci penso, ho visto un plotone dirigersi verso i meleti…
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_0CA410	Un'insegna delle guardie è impigliata nel sottobosco: qualcuno di loro deve essere passato di qui. Strano, non è una via che le guardie usano di solito.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_23A17C	Amore… dove sei? Perché il letto dei bambini è vuoto? Perché… perché la casa è vuota?
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_25BDF7	"Eh? Cosa... li hai fatti fuori? Beh, avevo la situazione sotto controllo, ma grazie dell'aiuto. Prendi qualche mela dal raccolto e prosegui per la tua strada."
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_2D122E	Qualcuno è inciampato qui e ha perso alcune frecce; sulle punte si riconosce il marchio di Manga.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_2D5DA0	Un'insegna delle guardie è impigliata nel sottobosco: qualcuno di loro deve essere passato di qui. Strano, non è una via che le guardie usano di solito.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_305412	Qualcuno è inciampato qui e ha perso alcune frecce; sulle punte si riconosce il marchio di Manga.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_32CC54	La pecora corre verso casa.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_32CC6D	La pecora corre verso casa.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_32CC71	La pecora corre verso casa.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_362ECB	Ti prego… non farci del male. Non abbiamo nulla. Ti prego… lasciaci andare
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_42AA3F	Frughi tra i rottami e trovi un palo da recinto!
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_44E44C	Salve, avventuriero! Al momento le nostre pattuglie si limitano a questo perimetro. Però, ora che ci penso, ho visto un plotone dirigersi verso i meleti…
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_472433	Nessuna traccia dell'esploratore qui, solo un Varco e un alto punto d'osservazione che domina le terre coltivate.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_54C7F7	Sul terreno si distinguono impronte di schinieri; la profondità rivela che chi le ha lasciate portava un carico pesante. Conducono verso nordest.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_5535CE	"Uff... Grazie dell'aiuto, amico! Ci siamo fermati a mangiare un boccone tornando dal Campo di Corin. Prendi qualche mela. Te la sei più che meritata, eheh."
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_5AF4E1	Mamma… Papà… Dove siete? Vi prego… Ho paura. Non so dove sono… Mamma… Papà… Vi prego, non lasciatemi sola…
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_5BE064	Hai installato un campanello segnalatore sul palo della luce
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_617FE9	L'esploratore non si trova da nessuna parte. Restano solo case sventrate, spogliate di tutto.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_6678F7	Appunto n. 2 - Dato che sono qui, ho avuto tempo di osservarli. I goblin sono stranamente crudeli con tutto ciò che li circonda. Non attaccano solo persone o animali. Non lasciano in pace nemmeno i fiori.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_667994	Appunto n. 1 - Ho iniziato la ricerca nelle terre coltivate. I goblin sono comuni in tutta Mirkea, ma qui mi aspettavo solo tracce sparse. Mi sbagliavo. Uno di loro, immobile in un cespuglio, me l'ha dimostrato.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_667A9C	Appunto n. 3 - I goblin si attaccano di rado senza motivo. Sembrano evitare gli scontri se non costretti, forse per prudenza più che per empatia. Dovrò osservarli ancora prima di trarre conclusioni.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_696216	Sul terreno si distinguono impronte di schinieri; la profondità rivela che chi le ha lasciate portava un carico pesante. Conducono verso nordest.
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_70AE7A	Hai installato un campanello segnalatore sul palo della luce
+INSCENE_EARLWOODFARMLANDSPARTI_TEXT_7682E0	File di piante insolite, dall'aspetto esotico, si estendono nel campo.
+INSCENE_EARLWOODVILLAGE_NOTIF_148852	Hai appreso informazioni sui profughi.
+INSCENE_EARLWOODVILLAGE_NOTIF_165FF3	Hai appreso informazioni sulle guardie.
+INSCENE_EARLWOODVILLAGE_NOTIF_18BCEF	Hai scoperto un indizio su dove si trova il rivenditore
+INSCENE_EARLWOODVILLAGE_NOTIF_351122	Hai scoperto un indizio su dove si trova il rivenditore
+INSCENE_EARLWOODVILLAGE_NOTIF_35118D	Hai scoperto un indizio su dove si trova il rivenditore
+INSCENE_EARLWOODVILLAGE_NOTIF_35122A	Hai scoperto un indizio su dove si trova il rivenditore
+INSCENE_EARLWOODVILLAGE_NOTIF_58D127	Hai appreso informazioni sulla Fucina di Manga.
+INSCENE_EARLWOODVILLAGE_NOTIF_7682E0	Hai appreso informazioni sulle Mura di Earlwood
+INSCENE_EARLWOODVILLAGE_TEXT_0A1DFC	Ah! Buon pomeriggio... no, volevo dire buongiorno! Cosa? Sciacalli? Scusa, devo essermi appisolato durante il turno…
+INSCENE_EARLWOODVILLAGE_TEXT_0D1745	Le consegni l'ultimo biglietto dell'uomo. Gli dà una rapida occhiata, poi si volta in silenzio, stringendo il neonato mentre iniziano a scorrerle le lacrime.
+INSCENE_EARLWOODVILLAGE_TEXT_1468D8	Salve, cittadino. Le informazioni sui movimenti in questo punto non sono pubbliche. Ma, tra noi, avventuriero, sei l'unica persona passata di qui da parecchio tempo.
+INSCENE_EARLWOODVILLAGE_TEXT_148852	La zona è affollata di profughi.
+INSCENE_EARLWOODVILLAGE_TEXT_165FF3	"Circola, forestiero. Non passa nessuno."
+INSCENE_EARLWOODVILLAGE_TEXT_18BB4A	"Un uomo che prendeva le provviste? Scusa, non stavamo facendo caso a ciò che ci circondava..."
+INSCENE_EARLWOODVILLAGE_TEXT_18BC53	"Cosa? Qualcuno ha preso le provviste donate? Ecco perché scarseggiano le medicine."
+INSCENE_EARLWOODVILLAGE_TEXT_18BCEF	"Le donazioni di Tamsin? Ora non conta, non vedi che sto salvando queste meravigliose creature?! ... Non dirlo a nessuno, ma i lombrichi discendono direttamente dagli dei!"
+INSCENE_EARLWOODVILLAGE_TEXT_351122	Cosa? Una coperta come la mia? C'è un tipo strano... vicino al mulino a vento distrutto, credo...
+INSCENE_EARLWOODVILLAGE_TEXT_35118D	"Le donazioni di Tamsin? Sì, le ha prese un uomo strano... Ha persino cercato di vendermi dolci per i bambini! Vergognoso! Ha detto che mi avrebbe aspettato al meleto se avessi cambiato idea."
+INSCENE_EARLWOODVILLAGE_TEXT_35122A	"Uff, sì, lo conosco quel 'venditore'. Quel farabutto mi ha chiesto 10 monete d'oro per una benda! E voleva pure farmi andare fino alla fattoria a prenderla, ci credi?"
+INSCENE_EARLWOODVILLAGE_TEXT_3EC2A4	Mmh, sì… ora che lo dici, ricevo molte segnalazioni di gruppi di guardie in luoghi insoliti.
+INSCENE_EARLWOODVILLAGE_TEXT_52AA66	Non resta molto cibo per i profughi
+INSCENE_EARLWOODVILLAGE_TEXT_58D127	Davanti a te sorgono un riparo e una fucina rudimentali, assemblati con pezzi spaiati
+INSCENE_EARLWOODVILLAGE_TEXT_7682E0	Il muro è un rozzo insieme di tronchi. Uno freme di vita, sottili germogli verdi si insinuano tra le fessure.
+INSCENE_GUILDHALL_NOTIF_7682E0	Hai appreso informazioni su Aldoria.
+INSCENE_GUILDHALL_TEXT_148852	Si preparano in fretta le provviste per gli avventurieri
+INSCENE_GUILDHALL_TEXT_165FF3	Armi depositate e pronte all'uso.
+INSCENE_GUILDHALL_TEXT_52AA66	"La foresta sembra quella dell'ultima Crisi dei Goblin. Ceres ci aiuti, speriamo di non arrivare a tanto."<x1/><x2/>"Tu c'eri? Io non ero nemmeno nato. Ho solo sentito le storie."
+INSCENE_GUILDHALL_TEXT_58D127	I libri sparsi suggeriscono una partenza improvvisa, o semplice incuria.
+INSCENE_GUILDHALL_TEXT_7682E0	Un libro aperto sulla storia di Aldoria, con i margini pieni degli accurati appunti di Tamsin.
+INSCENE_GUILDHALL_TEXT_7D92AD	"Le terre selvagge stanno cambiando. Sempre meno cacciatori tornano vivi."
+INSCENE_SANCTUM_JOINED_BASILTON	Basilton entra nel tuo Santuario
+INSCENE_SANCTUM_JOINED_BEFR	Befr entra nel tuo Santuario
+INSCENE_SANCTUM_JOINED_HEIMEN	Heimen entra nel tuo Santuario
+INSCENE_SANCTUM_JOINED_MANGA	Manga entra nel tuo Santuario
+INSCENE_SANCTUM_JOINED_MYRLL	Myrll entra nel tuo Santuario
+INSCENE_THEGOBLINCAVES_TEXT_065FA9	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_071408	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_0D3AC9	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_155398	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_2E4FBE	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_2E91CE	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_37A4BE	La via è bloccata. Trova un modo per aprirla.
+INSCENE_THEGOBLINCAVES_TEXT_403B0C	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_4DE89F	La via è bloccata. Trova un modo per aprirla.
+INSCENE_THEGOBLINCAVES_TEXT_66DF65	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THEGOBLINCAVES_TEXT_6871C9	La via è bloccata. Trova un modo per aprirla.
+INSCENE_THEGOBLINCAVES_TEXT_730FED	Si è aperto un passaggio nelle vicinanze.
+INSCENE_THELOSTCAVERNS_TEXT_078937	A terra giace un diario. Su una pagina si legge:<x1/>"Abbiamo attivato il Varco. In qualche modo ha funzionato. Nessuno ci riusciva dai tempi degli Antichi! La spedizione aveva ragione. Questo posto è straordinario."
+INSCENE_THELOSTCAVERNS_TEXT_146576	Su una pagina di diario si legge:<x1/>"I giacimenti di cristalli di mana sono incredibili. Se troviamo una via d'uscita, potremo avviare l'estrazione. Il potenziale è enorme."
+INSCENE_THELOSTCAVERNS_TEXT_30CE34	Davanti a te incombe una statua colossale: la figura è sconosciuta, il suo scopo perduto nel tempo
+INSCENE_WILDWOODFORESTPARTIIA_NOTIF_5208E3	Hai appreso informazioni sulla Corte dei Frammenti.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_052DA9	Appunto n. 6 - Pur mostrando scarso acume in battaglia e agendo quasi solo d'istinto, restano creature opportuniste e imprevedibili. I movimenti di un bambino con un coltello sono ben poco prevedibili.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_052EB1	Appunto n. 4 - Oggi mi sono spinto più a fondo nella foresta. Probabilmente più del dovuto. Qui è pericoloso. Una cosa però è evidente: i goblin viaggiano quasi sempre in gruppo. Non so ancora perché. Pensavo tenessero ai propri simili, ma ho visto troppe 'morti accidentali' per crederlo ancora.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_052F2D	Appunto n. 5 - Ritiro la mia precedente valutazione sulla pericolosità dei goblin. Da soli non costituiscono una minaccia significativa. Tuttavia, non vanno mai sottovalutati, soprattutto in gruppo.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_1E2C14	Sono le prime rovine che ho avuto occasione di esaminare. A prima vista, sono solo i resti di un antico insediamento: pietre erose disposte da mani ormai dimenticate. Un'osservazione superficiale, tuttavia, raramente regge a un esame attento.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_1E2D1D	Se il principio vale anche qui, queste rovine conservano le tracce di un'ideologia collettiva. Che sia religiosa, filosofica, politica o puramente culturale resta incerto. Qualunque sia la sua natura, quasi certamente un sistema di credenze è racchiuso in queste pietre.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_1E2D98	Le pareti recano dipinti e motivi geometrici ricorrenti. Simili ornamenti sono di rado arbitrari. Nelle diverse civiltà, i motivi decorativi tendono a commemorare singoli eventi o a esprimere credenze condivise. Una ripetizione casuale è statisticamente improbabile; l'intenzionalità è l'ipotesi più ragionevole.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_2D9B01	Cosa mi sta succedendo...? Cos'è... tutto questo... odio?
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_30E226	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_352AFD	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_35A367	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_3D1FFB	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_48D286	Ciao, amico mio. Ti lascio questo biglietto nel caso venissi a trovarmi mentre sono via per un incontro. I treant hanno finalmente avuto la gentilezza di concedermi udienza: potrò chiedere umilmente la loro protezione sul giardino. Tornerò molto presto.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_4D939C	Grazie, avventuriero. Senza il tuo aiuto saremmo stati perduti. Non abbiamo molto da offrire, ma accetta questo come segno della nostra gratitudine.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_5208E3	Davanti a te, in un antico tempio elfico, sorge un Sacrario dedicato a una figura sconosciuta, dalle sembianze di un grande cervo.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_5427BA	Devono essere gli attrezzi di Befr.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_59E47C	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIA_TEXT_7EAFCE	Cosa mi sta succedendo...? Cos'è... tutto questo... odio?
+INSCENE_WILDWOODFORESTPARTIIB_NOTIF_7682E0	Hai appreso informazioni sulla Corte dei Frammenti.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_00A788	Cosa mi sta succedendo...? Cos'è... tutto questo... odio?
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_0165D2	Sono le prime rovine che ho avuto occasione di esaminare. A prima vista, sono solo i resti di un antico insediamento: pietre erose disposte da mani ormai dimenticate. Un'osservazione superficiale, tuttavia, raramente regge a un esame attento.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_136842	Se il principio vale anche qui, queste rovine conservano le tracce di un'ideologia collettiva. Che sia religiosa, filosofica, politica o puramente culturale resta incerto. Qualunque sia la sua natura, quasi certamente un sistema di credenze è racchiuso in queste pietre.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_2A46AA	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_2C80F8	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_2E651F	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_2FAFF6	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_31AE3E	Se il principio vale anche qui, queste rovine conservano le tracce di un'ideologia collettiva. Che sia religiosa, filosofica, politica o puramente culturale resta incerto. Qualunque sia la sua natura, quasi certamente un sistema di credenze è racchiuso in queste pietre.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_35847A	Le pareti recano dipinti e motivi geometrici ricorrenti. Simili ornamenti sono di rado arbitrari. Nelle diverse civiltà, i motivi decorativi tendono a commemorare singoli eventi o a esprimere credenze condivise. Una ripetizione casuale è statisticamente improbabile; l'intenzionalità è l'ipotesi più ragionevole.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_423D84	Le pareti recano dipinti e motivi geometrici ricorrenti. Simili ornamenti sono di rado arbitrari. Nelle diverse civiltà, i motivi decorativi tendono a commemorare singoli eventi o a esprimere credenze condivise. Una ripetizione casuale è statisticamente improbabile; l'intenzionalità è l'ipotesi più ragionevole.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_43E348	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_48B178	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_4CC411	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_5352E8	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_60F846	Sono le prime rovine che ho avuto occasione di esaminare. A prima vista, sono solo i resti di un antico insediamento: pietre erose disposte da mani ormai dimenticate. Un'osservazione superficiale, tuttavia, raramente regge a un esame attento.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_63B0F1	Ciao, amico mio. Ti lascio questo biglietto nel caso venissi a trovarmi mentre sono via per un incontro. I treant hanno finalmente avuto la gentilezza di concedermi udienza: potrò chiedere umilmente la loro protezione sul giardino. Tornerò molto presto.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_7682E0	Davanti a te, in un antico tempio elfico, sorge un Sacrario dedicato a una figura sconosciuta, dalle sembianze di un grande cervo.
+INSCENE_WILDWOODFORESTPARTIIB_TEXT_7DEEB4	Ciao, amico mio. Ti lascio questo biglietto nel caso venissi a trovarmi mentre sono via per un incontro. I treant hanno finalmente avuto la gentilezza di concedermi udienza: potrò chiedere umilmente la loro protezione sul giardino. Tornerò molto presto.
+INSCENE_WILDWOODFORESTPARTIII_NOTIF_7682E0	Hai appreso informazioni sull'Uovo dell'Antico Gigante.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_2EB60D	Guardi sotto la corteccia... nessuna poesia elfica.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_349D72	Radici corrotte si sono fuse in un muro vivente, sbarrando il sentiero. Senti una presenza vicina che le tiene unite.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_467398	"Attento, è una trappola!"
+INSCENE_WILDWOODFORESTPARTIII_TEXT_4E3030	Sembra il carico d'armi scomparso di Manga...
+INSCENE_WILDWOODFORESTPARTIII_TEXT_5560F2	Sotto la corteccia, alla base del ceppo, frammenti di un antico testo elfico restano impressi nel legno consunto.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_5561FA	Guardi sotto la corteccia... nessuna poesia elfica.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_556296	Guardi sotto la corteccia... nessuna poesia elfica.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_58D127	La zona è stata disboscata; gli alberi Everlast, un tempo immortali, giacciono abbattuti.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_5F473E	Il corpo giace senza vita, dilaniato dai lupi.
+INSCENE_WILDWOODFORESTPARTIII_TEXT_610F77	"Grazie! Sei arrivato appena in tempo."
+INSCENE_WILDWOODFORESTPARTIII_TEXT_6A8AC6	"Grazie, credevo fossimo spacciati. Ci stavano solo usando come esca."
+INSCENE_WILDWOODFORESTPARTIII_TEXT_7682E0	Un imponente uovo degli Antichi riposa tra pietre sgretolate.
+INSCENE_WILDWOODFORESTPARTIVA_TEXT_0B3571	C'è un altro dettaglio da non ignorare. Queste rovine contengono infrastrutture sostenute dalla magia: depositi nascosti, meccanismi ancora funzionanti dopo secoli e altre costruzioni che vanno oltre la semplice maestria artigiana. Una società capace di integrare tanto bene la magia nell'architettura avrebbe avuto ben pochi motivi per attribuire tanta importanza simbolica a un comune animale dei boschi
+INSCENE_WILDWOODFORESTPARTIVA_TEXT_106071	Casa... dov'è casa nostra?
+INSCENE_WILDWOODFORESTPARTIVA_TEXT_165689	“Uff… Grazie, amico! Presto! Il Cuore corrotto è proprio sopra di noi! Svelto! Distruggilo!”
+INSCENE_WILDWOODFORESTPARTIVB_TEXT_0406C6	Tracce lievi suggeriscono che i goblin siano arrivati da nord.
+INSCENE_WILDWOODFORESTPARTIVB_TEXT_284E12	Mentre viene tesa, la corda scricchiola abbastanza forte da attirare numerosi occhi malevoli in agguato nelle ombre della foresta.
+INSCENE_WILDWOODFORESTPARTIVB_TEXT_67E2B0	Tracce lievi suggeriscono che i goblin siano arrivati da nord.
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_14D31B	Accidenti! C'è mancato poco. Grazie, amico!
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_191F9F	Uff… grazie… Uff, credevo di essere spacciato…
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_2676D1	Uff… Fa' attenzione! Il sentiero principale per il campo pullula di lupi. Meglio evitarlo, novellino.
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_26776E	Eh? Chi sei? Il ponte è stato riparato? Finalmente! Segui il sentiero principale e avvisa tutti al campo principale!
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_267876	Ssh… Non vedi che sto cacciando?! Il campo è poco più avanti. Ora sparisci!
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_2D308B	Lupi sul sentiero principale. Tieni gli occhi aperti.
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_3B94D2	La foresta si agita in risposta alle tue azioni.
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_53A33D	Il campo è poco più avanti. Fa' piano.
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_5ED31E	Grazie, amico… Senza di te non sarei riuscito a salvarla.
+INSCENE_WILDWOODFORESTPARTIVC_TEXT_73706C	Il campo è lungo la strada principale, nel cuore della foresta. Di' a Corin che il ponte è riparato.
+INSCENE_WILDWOODFORESTPARTIVD_NOTIF_7682E0	Hai appreso informazioni sulle Fattorie Abbandonate
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_0C5912	Ripercorri il sentiero e segni sulla mappa una via per il covo attraverso la cascata
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_232457	Le tracce si fanno più marcate mentre la malvagità nell'aria si intensifica. Conducono tutte a nord.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_3EFA81	Appunto n. 8 - No. Decisamente no. I goblin non possono avere alcuna organizzazione tattica. Sono troppo primitivi. Ecco. Troppo primitivi per formare una vera comunità. Probabilmente seguono solo una semplice gerarchia. Forse nella zona è comparso un Re Goblin.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_3EFC25	Appunto n. 9 - Dev'essere così. Deve esserci un Re Goblin. Uno che domina gli altri con la paura e la forza. Una creatura simile spiegherebbe perché restano uniti. Nonostante l'estremo pericolo, studiare un Re Goblin darebbe un contributo enorme alla mia ricerca.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_3EFD2D	Appunto n. 7 - Ho iniziato a seguire i goblin che sembrano essere i capi. Prima o poi arrivano tutti in questa zona. Scompaiono da qualche parte qui intorno. Mi sorge un dubbio: i capi si riuniscono davvero per organizzarsi? Forse non sono stupidi come credevo.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_4B9B46	Le tracce si fanno più marcate mentre la malvagità nell'aria si intensifica. Conducono tutte a nord.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_4B9CEB	Le tracce si fanno più marcate mentre la malvagità nell'aria si intensifica. Conducono tutte a nordovest.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_5DDB5E	Ripercorri il sentiero e segni sulla mappa una via per il covo attraverso la cascata
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_75A8EE	Le tracce si fanno più marcate mentre la malvagità nell'aria si intensifica. Conducono tutte a nordovest.
+INSCENE_WILDWOODFORESTPARTIVD_TEXT_7682E0	Un tempo qualcuno chiamava casa questo posto. Ora restano solo rovine.
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_263E4B	Ripercorri il sentiero e segni sulla mappa una via per il covo attraverso il Guado di Garfael
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_284E12	Mentre viene tesa, la corda scricchiola abbastanza forte da attirare numerosi occhi malevoli in agguato nelle ombre della foresta.
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_3849E4	Sei venuto a prenderci… Ancora non ci credo. Torneremo al campo. Corin deve sapere cos'è successo qui. Grazie… davvero
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_4A3522	Le tracce lasciate trasudano malvagità e conducono a nordovest.
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_4B9A3E	Le tracce lasciate trasudano malvagità e conducono a nordovest.
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_5AC5AC	Ripercorri il sentiero e segni sulla mappa una via per il covo attraverso il Guado di Garfael
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_6A1C98	Più mi addentro nella foresta, più le rovine si fanno numerose. La loro crescente densità difficilmente è casuale. Questa civiltà traeva un vantaggio concreto dall'insediarsi nella foresta, oppure aveva con essa un legame tanto profondo da determinare la distribuzione degli insediamenti.
+INSCENE_WILDWOODFORESTPARTIVE_TEXT_6A1D34	L'architettura corrisponde a ciò che già sappiamo dell'antica fede, ma qui l'immagine ricorrente del cervo ha un rilievo insolito. Questo sito sembra aver dato al simbolo molta più importanza degli altri che ho studiato.
+INSCENE_WILDWOODFORESTPARTI_NOTIF_354807	Hai appreso informazioni sull'Albero Corrotto.
+INSCENE_WILDWOODFORESTPARTI_NOTIF_7682E0	Hai appreso informazioni sulla Pozza del Ricordo.
+INSCENE_WILDWOODFORESTPARTI_TEXT_00CFD6	Nord: Dimraeth<x1/>Est: Pozza del Ricordo<x2/>Sud: Villaggio di Earlwood
+INSCENE_WILDWOODFORESTPARTI_TEXT_1484B3	Un biglietto insanguinato è stretto nelle mani del morto. Vi si legge:<x1/>"Un lupo mi ha morso mentre cercavo cibo. Al villaggio non ne è rimasto. Perdo molto sangue, non riesco a camminare. Non mi resta molto tempo. Chiunque trovi questo… ti prego, porta il secondo biglietto a mia moglie, al Villaggio di Earlwood. È il mio ultimo addio."
+INSCENE_WILDWOODFORESTPARTI_TEXT_3375EA	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INSCENE_WILDWOODFORESTPARTI_TEXT_354807	Un albero contorto che assorbe la magia circostante, lasciando l'aria fredda e inerte.
+INSCENE_WILDWOODFORESTPARTI_TEXT_3D1FFB	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INSCENE_WILDWOODFORESTPARTI_TEXT_4D434B	"Grazie, eroe. Credevo fossimo spacciati..."
+INSCENE_WILDWOODFORESTPARTI_TEXT_7682E0	La lastra reca un testo in elfico antico. Non riesci a leggerlo.
+INSCENE_WILDWOODFORESTPARTVA_TEXT_12980A	Accidenti... Ho rischiato di morire, vero? Sembra che la corruzione si stia diffondendo... Beh, grazie dell'aiuto! Tieni, prendi questo piccolo segno della mia gratitudine.
+INSCENE_WILDWOODFORESTPARTVB_NOTIF_7682E0	Hai appreso informazioni sulle Rovine del Lamento Perduto
+INSCENE_WILDWOODFORESTPARTVB_TEXT_075015	Grazie dell'aiuto. Se non fossimo tornati vivi al campo, Corin ci avrebbe tagliato la testa.
+INSCENE_WILDWOODFORESTPARTVB_TEXT_518E88	La gente del posto parla del Re della Foresta, un cervo maestoso che si mostra di rado ma è ben noto nei racconti locali. Non è chiaro se sia legato all'insolita rilevanza delle immagini di cervi in queste rovine, ma è difficile ignorare il nesso.
+INSCENE_WILDWOODFORESTPARTVB_TEXT_518F90	Il cervo gigante potrebbe essere il rappresentante terreno di Ceres, anziché la divinità stessa. Un sovrano della foresta, non il suo creatore. In tal caso, la creatura descritta dalla gente del posto è il simbolo vivente di un'autorità superiore.
+INSCENE_WILDWOODFORESTPARTVB_TEXT_51900C	C'è un'incongruenza. Se Ceres occupava il posto più alto nelle loro credenze, sembra improbabile che un simile essere vagasse nella foresta in forma fisica. Una figura di tale levatura agirebbe più probabilmente tramite intermediari.
+INSCENE_WILDWOODFORESTPARTVB_TEXT_74DB10	Grazie dell'aiuto. Se non fossimo tornati vivi al campo, Corin ci avrebbe tagliato la testa.
+INSCENE_WILDWOODFORESTPARTVB_TEXT_7682E0	Davanti a te si estendono antiche rovine elfiche.
+INTERACT_EARLWOODFARMLAN_ITEM_04F067	Salve, avventuriero! Al momento le nostre pattuglie si limitano a questo perimetro. Però, ora che ci penso, ho visto un plotone dirigersi verso i meleti…
+INTERACT_EARLWOODFARMLAN_ITEM_0CA410	Un'insegna delle guardie è impigliata nel sottobosco: qualcuno di loro deve essere passato di qui. Strano, non è una via che le guardie usano di solito.
+INTERACT_EARLWOODFARMLAN_ITEM_111B2D	"Grande avventuriero, ti prego! Aiutami a trovare il giocattolo di mia figlia. Abbiamo così poco..."
+INTERACT_EARLWOODFARMLAN_ITEM_23A17C	Amore… dove sei? Perché il letto dei bambini è vuoto? Perché… perché la casa è vuota?
+INTERACT_EARLWOODFARMLAN_ITEM_25BDF7	"Eh? Cosa... li hai fatti fuori? Beh, avevo la situazione sotto controllo, ma grazie dell'aiuto. Prendi qualche mela dal raccolto e prosegui per la tua strada."
+INTERACT_EARLWOODFARMLAN_ITEM_2D5DA0	Il corpo di un altro avventuriero, stavolta un arciere. Ucciso da poco da mani non umane. Le frecce sparse a terra raccontano una battaglia recente, ma non c'è traccia del suo arco o della faretra.
+INTERACT_EARLWOODFARMLAN_ITEM_305412	Qualcuno è inciampato qui e ha perso alcune frecce; sulle punte si riconosce il marchio di Manga.
+INTERACT_EARLWOODFARMLAN_ITEM_324439	Hai segnato il recinto con un cartello che indica il percorso
+INTERACT_EARLWOODFARMLAN_ITEM_32CC54	La pecora corre verso casa.
+INTERACT_EARLWOODFARMLAN_ITEM_32CC6D	La pecora corre verso casa.
+INTERACT_EARLWOODFARMLAN_ITEM_32CC71	La pecora corre verso casa.
+INTERACT_EARLWOODFARMLAN_ITEM_362ECB	Ti prego… non farci del male. Non abbiamo nulla. Ti prego… lasciaci andare
+INTERACT_EARLWOODFARMLAN_ITEM_3D1FFB	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INTERACT_EARLWOODFARMLAN_ITEM_407A19	"Tu... l'hai trovato davvero! Grazie infinite. Che Ceres ti benedica!"
+INTERACT_EARLWOODFARMLAN_ITEM_42AA3F	Frughi tra i rottami e trovi un palo da recinto!
+INTERACT_EARLWOODFARMLAN_ITEM_47124F	Hai installato un campanello segnalatore sul palo della luce
+INTERACT_EARLWOODFARMLAN_ITEM_472433	Nessuna traccia dell'esploratore qui, solo un Varco e un alto punto d'osservazione che domina le terre coltivate.
+INTERACT_EARLWOODFARMLAN_ITEM_54C7F7	Sul terreno si distinguono impronte di schinieri; la profondità rivela che chi le ha lasciate portava un carico pesante. Conducono verso nordest.
+INTERACT_EARLWOODFARMLAN_ITEM_5535CE	"Uff... Grazie dell'aiuto, amico! Ci siamo fermati a mangiare un boccone tornando dal Campo di Corin. Prendi qualche mela. Te la sei più che meritata, eheh."
+INTERACT_EARLWOODFARMLAN_ITEM_5AF4E1	Mamma… Papà… Dove siete? Vi prego… Ho paura. Non so dove sono… Mamma… Papà… Vi prego, non lasciatemi sola…
+INTERACT_EARLWOODFARMLAN_ITEM_5BE064	Hai installato un campanello segnalatore sul palo della luce
+INTERACT_EARLWOODFARMLAN_ITEM_607C44	Hai segnato il recinto con un cartello che indica il percorso
+INTERACT_EARLWOODFARMLAN_ITEM_61197B	Hai segnato il recinto con un cartello che indica il percorso
+INTERACT_EARLWOODFARMLAN_ITEM_617FE9	Frughi tra i rottami e trovi un palo da recinto!
+INTERACT_EARLWOODFARMLAN_ITEM_617FE9_2	Nessuna traccia dell'esploratore. Solo campi divorati dalla fame dei goblin.
+INTERACT_EARLWOODFARMLAN_ITEM_617FE9_3	L'esploratore non si trova da nessuna parte. Restano solo case sventrate, spogliate di tutto.
+INTERACT_EARLWOODFARMLAN_ITEM_6678F7	Appunto n. 2 - Dato che sono qui, ho avuto tempo di osservarli. I goblin sono stranamente crudeli con tutto ciò che li circonda. Non attaccano solo persone o animali. Non lasciano in pace nemmeno i fiori.
+INTERACT_EARLWOODFARMLAN_ITEM_667994	Appunto n. 1 - Ho iniziato la ricerca nelle terre coltivate. I goblin sono comuni in tutta Mirkea, ma qui mi aspettavo solo tracce sparse. Mi sbagliavo. Uno di loro, immobile in un cespuglio, me l'ha dimostrato.
+INTERACT_EARLWOODFARMLAN_ITEM_667A9C	Appunto n. 3 - I goblin si attaccano di rado senza motivo. Sembrano evitare gli scontri se non costretti, forse per prudenza più che per empatia. Dovrò osservarli ancora prima di trarre conclusioni.
+INTERACT_EARLWOODFARMLAN_ITEM_696216	Il corpo di un avventuriero giace freddo. Il suo equipaggiamento è stato preso e pesanti impronte di schinieri conducono a nordest.
+INTERACT_EARLWOODFARMLAN_ITEM_70AE7A	Hai installato un campanello segnalatore sul palo della luce
+INTERACT_EARLWOODFARMLAN_ITEM_70FB39	Hai segnato il recinto con un cartello che indica il percorso
+INTERACT_EARLWOODFARMLAN_ITEM_75E790	Hai installato un campanello segnalatore sul palo della luce
+INTERACT_EARLWOODFARMLAN_ITEM_7682E0	Un volume consunto poggia sul bordo di un letto in rovina. Sulla copertina è impresso: SCRIPTURA PRINCIPIORUM
+INTERACT_EARLWOODFARMLAN_ITEM_7682E0_2	File di piante insolite, dall'aspetto esotico, si estendono nel campo.
+INTERACT_EARLWOODFARMLAN_ITEM_7682E0_77AFCA	I resti di quella che un tempo era una grande casa...
+INTERACT_EARLWOODFARMLAN_ITEM_7682E0_NOTIF	Hai appreso informazioni sui Principi Primi
+INTERACT_EARLWOODFARMLAN_ITEM_7682E0_NOTIF_2	Hai appreso informazioni sulla Pianta di Worp
+INTERACT_EARLWOODFARMLAN_ITEM_7682E0_NOTIF_77AFCA	Hai appreso informazioni sul Mulino di Haylor.
+INTERACT_EARLWOODVILLAGE_ITEM_0A1DFC	Ah! Buon pomeriggio... no, volevo dire buongiorno! Cosa? Sciacalli? Scusa, devo essermi appisolato durante il turno…
+INTERACT_EARLWOODVILLAGE_ITEM_0D1745	Le consegni l'ultimo biglietto dell'uomo. Gli dà una rapida occhiata, poi si volta in silenzio, stringendo il neonato mentre iniziano a scorrerle le lacrime.
+INTERACT_EARLWOODVILLAGE_ITEM_1468D8	Salve, cittadino. Le informazioni sui movimenti in questo punto non sono pubbliche. Ma, tra noi, avventuriero, sei l'unica persona passata di qui da parecchio tempo.
+INTERACT_EARLWOODVILLAGE_ITEM_148852	La zona è affollata di profughi.
+INTERACT_EARLWOODVILLAGE_ITEM_148852_NOTIF	Hai appreso informazioni sui profughi.
+INTERACT_EARLWOODVILLAGE_ITEM_165FF3	"Circola, forestiero. Non passa nessuno."
+INTERACT_EARLWOODVILLAGE_ITEM_165FF3_NOTIF	Hai appreso informazioni sulle guardie.
+INTERACT_EARLWOODVILLAGE_ITEM_18BB4A	"Un uomo che prendeva le provviste? Scusa, non stavamo facendo caso a ciò che ci circondava..."
+INTERACT_EARLWOODVILLAGE_ITEM_18BC53	"Cosa? Qualcuno ha preso le provviste donate? Ecco perché scarseggiano le medicine."
+INTERACT_EARLWOODVILLAGE_ITEM_18BCEF	"Le donazioni di Tamsin? Ora non conta, non vedi che sto salvando queste meravigliose creature?! ... Non dirlo a nessuno, ma i lombrichi discendono direttamente dagli dei!"
+INTERACT_EARLWOODVILLAGE_ITEM_18BCEF_NOTIF	Hai scoperto un indizio su dove si trova il rivenditore
+INTERACT_EARLWOODVILLAGE_ITEM_351122	Cosa? Una coperta come la mia? C'è un tipo strano... vicino al mulino a vento distrutto, credo...
+INTERACT_EARLWOODVILLAGE_ITEM_351122_NOTIF	Hai scoperto un indizio su dove si trova il rivenditore
+INTERACT_EARLWOODVILLAGE_ITEM_35118D	"Le donazioni di Tamsin? Sì, le ha prese un uomo strano... Ha persino cercato di vendermi dolci per i bambini! Vergognoso! Ha detto che mi avrebbe aspettato al meleto se avessi cambiato idea."
+INTERACT_EARLWOODVILLAGE_ITEM_35118D_NOTIF	Hai scoperto un indizio su dove si trova il rivenditore
+INTERACT_EARLWOODVILLAGE_ITEM_35122A	"Uff, sì, lo conosco quel 'venditore'. Quel farabutto mi ha chiesto 10 monete d'oro per una benda! E voleva pure farmi andare fino alla fattoria a prenderla, ci credi?"
+INTERACT_EARLWOODVILLAGE_ITEM_35122A_NOTIF	Hai scoperto un indizio su dove si trova il rivenditore
+INTERACT_EARLWOODVILLAGE_ITEM_3EC2A4	Mmh, sì… ora che lo dici, ricevo molte segnalazioni di gruppi di guardie in luoghi insoliti.
+INTERACT_EARLWOODVILLAGE_ITEM_52AA66	Non resta molto cibo per i profughi
+INTERACT_EARLWOODVILLAGE_ITEM_58D127	Davanti a te sorgono un riparo e una fucina rudimentali, assemblati con pezzi spaiati
+INTERACT_EARLWOODVILLAGE_ITEM_58D127_NOTIF	Hai appreso informazioni sulla Fucina di Manga.
+INTERACT_EARLWOODVILLAGE_ITEM_7682E0	Il muro è un rozzo insieme di tronchi. Uno freme di vita, sottili germogli verdi si insinuano tra le fessure.
+INTERACT_EARLWOODVILLAGE_ITEM_7682E0_NOTIF	Hai appreso informazioni sulle Mura di Earlwood
+INTERACT_GUILDHALL_ITEM_148852	Si preparano in fretta le provviste per gli avventurieri
+INTERACT_GUILDHALL_ITEM_165FF3	Armi depositate e pronte all'uso.
+INTERACT_GUILDHALL_ITEM_52AA66_335338_16	"La foresta sembra quella dell'ultima Crisi dei Goblin. Ceres ci aiuti, speriamo di non arrivare a tanto."<x1/><x2/>"Tu c'eri? Io non ero nemmeno nato. Ho solo sentito le storie."
+INTERACT_GUILDHALL_ITEM_58D127	I libri sparsi suggeriscono una partenza improvvisa, o semplice incuria.
+INTERACT_GUILDHALL_ITEM_7682E0	Un libro aperto sulla storia di Aldoria, con i margini pieni degli accurati appunti di Tamsin.
+INTERACT_GUILDHALL_ITEM_7682E0_NOTIF	Hai appreso informazioni su Aldoria.
+INTERACT_GUILDHALL_ITEM_7D92AD	"Le terre selvagge stanno cambiando. Sempre meno cacciatori tornano vivi."
+INTERACT_THEGOBLINCAVES_ITEM_065FA9	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_071408	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_0D3AC9	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_155398	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_2E4FBE	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_2E91CE	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_37A4BE	La via è bloccata. Trova un modo per aprirla.
+INTERACT_THEGOBLINCAVES_ITEM_403B0C	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_4DE89F	La via è bloccata. Trova un modo per aprirla.
+INTERACT_THEGOBLINCAVES_ITEM_66DF65	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THEGOBLINCAVES_ITEM_6871C9	La via è bloccata. Trova un modo per aprirla.
+INTERACT_THEGOBLINCAVES_ITEM_730FED	Si è aperto un passaggio nelle vicinanze.
+INTERACT_THELOSTCAVERNS_ITEM_078937_322582_16	A terra giace un diario. Su una pagina si legge:<x1/>"Abbiamo attivato il Varco. In qualche modo ha funzionato. Nessuno ci riusciva dai tempi degli Antichi! La spedizione aveva ragione. Questo posto è straordinario."
+INTERACT_THELOSTCAVERNS_ITEM_146576_655AEB_16	Su una pagina di diario si legge:<x1/>"I giacimenti di cristalli di mana sono incredibili. Se troviamo una via d'uscita, potremo avviare l'estrazione. Il potenziale è enorme."
+INTERACT_THELOSTCAVERNS_ITEM_30CE34	Davanti a te incombe una statua colossale: la figura è sconosciuta, il suo scopo perduto nel tempo
+INTERACT_WILDWOODFORESTP_1_00CFD6_3618ED_16	Nord: Dimraeth<x1/>Est: Pozza del Ricordo<x2/>Sud: Villaggio di Earlwood
+INTERACT_WILDWOODFORESTP_1_1484B3_7CD369_16	Un biglietto insanguinato è stretto nelle mani del morto. Vi si legge:<x1/>"Un lupo mi ha morso mentre cercavo cibo. Al villaggio non ne è rimasto. Perdo molto sangue, non riesco a camminare. Non mi resta molto tempo. Chiunque trovi questo… ti prego, porta il secondo biglietto a mia moglie, al Villaggio di Earlwood. È il mio ultimo addio."
+INTERACT_WILDWOODFORESTP_1_354807	Un albero contorto che assorbe la magia circostante, lasciando l'aria fredda e inerte.
+INTERACT_WILDWOODFORESTP_1_354807_NOTIF	Hai appreso informazioni sull'Albero Corrotto.
+INTERACT_WILDWOODFORESTP_1_467398	"Attento, è una trappola!"
+INTERACT_WILDWOODFORESTP_1_610F77	"Grazie! Sei arrivato appena in tempo."
+INTERACT_WILDWOODFORESTP_1_610F77_2	"Ehi, tu! Aiutami, ti prego!"
+INTERACT_WILDWOODFORESTP_1_6A8AC6	"Grazie, credevo fossimo spacciati. Ci stavano solo usando come esca."
+INTERACT_WILDWOODFORESTP_HINT_1_BB18A7	Sei passato dal ponte? Allora è finalmente riparato. Segui la strada principale. Il nostro campo è nel cuore della foresta. Corin vorrà saperlo.
+INTERACT_WILDWOODFORESTP_HINT_1_FOLLOW_U_3F4BC4	Il campo è lungo la strada principale, nel cuore della foresta. Di' a Corin che il ponte è riparato.
+INTERACT_WILDWOODFORESTP_HINT_2_63392A	Uff… fa' attenzione. Ci sono lupi lungo tutto il sentiero principale per il campo.
+INTERACT_WILDWOODFORESTP_HINT_2_FOLLOW_U_A56EE6	Lupi sul sentiero principale. Tieni gli occhi aperti.
+INTERACT_WILDWOODFORESTP_HINT_3_432DC3	Un nuovo arrivato? Abbassa la voce. Il campo è poco più avanti.
+INTERACT_WILDWOODFORESTP_HINT_3_FOLLOW_U_3C4E28	Il campo è poco più avanti. Fa' piano.
+INTERACT_WILDWOODFORESTP_ITEM_00A788	Cosa mi sta succedendo...? Cos'è... tutto questo... odio?
+INTERACT_WILDWOODFORESTP_ITEM_0165D2	Sono le prime rovine che ho avuto occasione di esaminare. A prima vista, sono solo i resti di un antico insediamento: pietre erose disposte da mani ormai dimenticate. Un'osservazione superficiale, tuttavia, raramente regge a un esame attento.
+INTERACT_WILDWOODFORESTP_ITEM_031A60	Devono essere gli attrezzi di Befr.
+INTERACT_WILDWOODFORESTP_ITEM_0406C6	Tracce lievi suggeriscono che i goblin siano arrivati da nord.
+INTERACT_WILDWOODFORESTP_ITEM_052DA9	Appunto n. 6 - Pur mostrando scarso acume in battaglia e agendo quasi solo d'istinto, restano creature opportuniste e imprevedibili. I movimenti di un bambino con un coltello sono ben poco prevedibili.
+INTERACT_WILDWOODFORESTP_ITEM_052EB1	Appunto n. 4 - Oggi mi sono spinto più a fondo nella foresta. Probabilmente più del dovuto. Qui è pericoloso. Una cosa però è evidente: i goblin viaggiano quasi sempre in gruppo. Non so ancora perché. Pensavo tenessero ai propri simili, ma ho visto troppe 'morti accidentali' per crederlo ancora.
+INTERACT_WILDWOODFORESTP_ITEM_052F2D	Appunto n. 5 - Ritiro la mia precedente valutazione sulla pericolosità dei goblin. Da soli non costituiscono una minaccia significativa. Tuttavia, non vanno mai sottovalutati, soprattutto in gruppo.
+INTERACT_WILDWOODFORESTP_ITEM_075015	Grazie dell'aiuto. Se non fossimo tornati vivi al campo, Corin ci avrebbe tagliato la testa.
+INTERACT_WILDWOODFORESTP_ITEM_0B3571	C'è un altro dettaglio da non ignorare. Queste rovine contengono infrastrutture sostenute dalla magia: depositi nascosti, meccanismi ancora funzionanti dopo secoli e altre costruzioni che vanno oltre la semplice maestria artigiana. Una società capace di integrare tanto bene la magia nell'architettura avrebbe avuto ben pochi motivi per attribuire tanta importanza simbolica a un comune animale dei boschi
+INTERACT_WILDWOODFORESTP_ITEM_0C5912	Ripercorri il sentiero e segni sulla mappa una via per il covo attraverso la cascata
+INTERACT_WILDWOODFORESTP_ITEM_106071	Casa... dov'è casa nostra?
+INTERACT_WILDWOODFORESTP_ITEM_12980A	Accidenti... Ho rischiato di morire, vero? Sembra che la corruzione si stia diffondendo... Beh, grazie dell'aiuto! Tieni, prendi questo piccolo segno della mia gratitudine.
+INTERACT_WILDWOODFORESTP_ITEM_136842	Se il principio vale anche qui, queste rovine conservano le tracce di un'ideologia collettiva. Che sia religiosa, filosofica, politica o puramente culturale resta incerto. Qualunque sia la sua natura, quasi certamente un sistema di credenze è racchiuso in queste pietre.
+INTERACT_WILDWOODFORESTP_ITEM_14D31B	Accidenti! C'è mancato poco. Grazie, amico!
+INTERACT_WILDWOODFORESTP_ITEM_165689	“Uff… Grazie, amico! Presto! Il Cuore corrotto è proprio sopra di noi! Svelto! Distruggilo!”
+INTERACT_WILDWOODFORESTP_ITEM_191F9F	Uff… grazie… Uff, credevo di essere spacciato…
+INTERACT_WILDWOODFORESTP_ITEM_1C1E21	Sei venuto a prenderci… Ancora non ci credo. Torneremo al campo. Corin deve sapere cos'è successo qui. Grazie… davvero
+INTERACT_WILDWOODFORESTP_ITEM_26776E	Sei passato dal ponte? Allora è finalmente riparato. Segui la strada principale, il nostro campo è nel cuore della foresta. Corin vorrà saperlo.
+INTERACT_WILDWOODFORESTP_ITEM_284E12	Mentre viene tesa, la corda scricchiola abbastanza forte da attirare numerosi occhi malevoli in agguato nelle ombre della foresta.
+INTERACT_WILDWOODFORESTP_ITEM_2D9B01	Cosa mi sta succedendo...? Cos'è... tutto questo... odio?
+INTERACT_WILDWOODFORESTP_ITEM_2EB60D	Guardi sotto la corteccia... nessuna poesia elfica.
+INTERACT_WILDWOODFORESTP_ITEM_2FAFF6	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INTERACT_WILDWOODFORESTP_ITEM_3375EA	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INTERACT_WILDWOODFORESTP_ITEM_349D72	Radici corrotte si sono fuse in un muro vivente, sbarrando il sentiero. Senti una presenza vicina che le tiene unite.
+INTERACT_WILDWOODFORESTP_ITEM_3B94D2	La foresta si agita in risposta alle tue azioni.
+INTERACT_WILDWOODFORESTP_ITEM_3D1FFB	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INTERACT_WILDWOODFORESTP_ITEM_3D1FFB_5800A5	Lo stendardo protettivo di Tamsin è indebolito; la sua runa si affievolisce, come privata della magia
+INTERACT_WILDWOODFORESTP_ITEM_3EFA81	Appunto n. 8 - No. Decisamente no. I goblin non possono avere alcuna organizzazione tattica. Sono troppo primitivi. Ecco. Troppo primitivi per formare una vera comunità. Probabilmente seguono solo una semplice gerarchia. Forse nella zona è comparso un Re Goblin.
+INTERACT_WILDWOODFORESTP_ITEM_3EFC25	Appunto n. 9 - Dev'essere così. Deve esserci un Re Goblin. Uno che domina gli altri con la paura e la forza. Una creatura simile spiegherebbe perché restano uniti. Nonostante l'estremo pericolo, studiare un Re Goblin darebbe un contributo enorme alla mia ricerca.
+INTERACT_WILDWOODFORESTP_ITEM_3EFD2D	Appunto n. 7 - Ho iniziato a seguire i goblin che sembrano essere i capi. Prima o poi arrivano tutti in questa zona. Scompaiono da qualche parte qui intorno. Mi sorge un dubbio: i capi si riuniscono davvero per organizzarsi? Forse non sono stupidi come credevo.
+INTERACT_WILDWOODFORESTP_ITEM_423D84	Le pareti recano dipinti e motivi geometrici ricorrenti. Simili ornamenti sono di rado arbitrari. Nelle diverse civiltà, i motivi decorativi tendono a commemorare singoli eventi o a esprimere credenze condivise. Una ripetizione casuale è statisticamente improbabile; l'intenzionalità è l'ipotesi più ragionevole.
+INTERACT_WILDWOODFORESTP_ITEM_43E348	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INTERACT_WILDWOODFORESTP_ITEM_48B178	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INTERACT_WILDWOODFORESTP_ITEM_4B9A3E	Le tracce lasciate trasudano malvagità e conducono a nordovest.
+INTERACT_WILDWOODFORESTP_ITEM_4B9B46	Le tracce si fanno più marcate mentre la malvagità nell'aria si intensifica. Conducono tutte a nord.
+INTERACT_WILDWOODFORESTP_ITEM_4B9CEB	Le tracce si fanno più marcate mentre la malvagità nell'aria si intensifica. Conducono tutte a nordovest.
+INTERACT_WILDWOODFORESTP_ITEM_4D434B	"Grazie, eroe. Credevo fossimo spacciati..."
+INTERACT_WILDWOODFORESTP_ITEM_4D939C	Grazie, avventuriero. Senza il tuo aiuto saremmo stati perduti. Non abbiamo molto da offrire, ma accetta questo come segno della nostra gratitudine.
+INTERACT_WILDWOODFORESTP_ITEM_4E3030	Sembra il carico d'armi scomparso di Manga...
+INTERACT_WILDWOODFORESTP_ITEM_518E88	La gente del posto parla del Re della Foresta, un cervo maestoso che si mostra di rado ma è ben noto nei racconti locali. Non è chiaro se sia legato all'insolita rilevanza delle immagini di cervi in queste rovine, ma è difficile ignorare il nesso.
+INTERACT_WILDWOODFORESTP_ITEM_518F90	Il cervo gigante potrebbe essere il rappresentante terreno di Ceres, anziché la divinità stessa. Un sovrano della foresta, non il suo creatore. In tal caso, la creatura descritta dalla gente del posto è il simbolo vivente di un'autorità superiore.
+INTERACT_WILDWOODFORESTP_ITEM_51900C	C'è un'incongruenza. Se Ceres occupava il posto più alto nelle loro credenze, sembra improbabile che un simile essere vagasse nella foresta in forma fisica. Una figura di tale levatura agirebbe più probabilmente tramite intermediari.
+INTERACT_WILDWOODFORESTP_ITEM_5352E8	Uff... C'è mancato poco! Grazie dell'aiuto. Tieni, prendi questo. L'ho trovato tra le rovine.
+INTERACT_WILDWOODFORESTP_ITEM_5560F2	Sotto la corteccia, alla base del ceppo, frammenti di un antico testo elfico restano impressi nel legno consunto.
+INTERACT_WILDWOODFORESTP_ITEM_5561FA	Guardi sotto la corteccia... nessuna poesia elfica.
+INTERACT_WILDWOODFORESTP_ITEM_556296	Guardi sotto la corteccia... nessuna poesia elfica.
+INTERACT_WILDWOODFORESTP_ITEM_58D127	La zona è stata disboscata; gli alberi Everlast, un tempo immortali, giacciono abbattuti.
+INTERACT_WILDWOODFORESTP_ITEM_5AC5AC	Ripercorri il sentiero e segni sulla mappa una via per il covo attraverso il Guado di Garfael
+INTERACT_WILDWOODFORESTP_ITEM_5ED31E	Grazie, amico… Senza di te non sarei riuscito a salvarla.
+INTERACT_WILDWOODFORESTP_ITEM_5F473E	Il corpo giace senza vita, dilaniato dai lupi.
+INTERACT_WILDWOODFORESTP_ITEM_63B0F1	Ciao, amico mio. Ti lascio questo biglietto nel caso venissi a trovarmi mentre sono via per un incontro. I treant hanno finalmente avuto la gentilezza di concedermi udienza: potrò chiedere umilmente la loro protezione sul giardino. Tornerò molto presto.
+INTERACT_WILDWOODFORESTP_ITEM_6A1C98	Più mi addentro nella foresta, più le rovine si fanno numerose. La loro crescente densità difficilmente è casuale. Questa civiltà traeva un vantaggio concreto dall'insediarsi nella foresta, oppure aveva con essa un legame tanto profondo da determinare la distribuzione degli insediamenti.
+INTERACT_WILDWOODFORESTP_ITEM_6A1D34	L'architettura corrisponde a ciò che già sappiamo dell'antica fede, ma qui l'immagine ricorrente del cervo ha un rilievo insolito. Questo sito sembra aver dato al simbolo molta più importanza degli altri che ho studiato.
+INTERACT_WILDWOODFORESTP_ITEM_74DB10	Grazie dell'aiuto. Se non fossimo tornati vivi al campo, Corin ci avrebbe tagliato la testa.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0	La lastra reca un testo in elfico antico. Non riesci a leggerlo.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_2	Un imponente uovo degli Antichi riposa tra pietre sgretolate.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_23F8CA	Davanti a te, in un antico tempio elfico, sorge un Sacrario dedicato a una figura sconosciuta, dalle sembianze di un grande cervo.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_3A8A45	Davanti a te si estendono antiche rovine elfiche.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_5E0C68	Un tempo qualcuno chiamava casa questo posto. Ora restano solo rovine.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_NOTIF	Hai appreso informazioni sulla Pozza del Ricordo.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_NOTIF_2	Hai appreso informazioni sull'Uovo dell'Antico Gigante.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_NOTIF_23F8CA	Hai appreso informazioni sulla Corte dei Frammenti.
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_NOTIF_3A8A45	Hai appreso informazioni sulle Rovine del Lamento Perduto
+INTERACT_WILDWOODFORESTP_ITEM_7682E0_NOTIF_5E0C68	Hai appreso informazioni sulle Fattorie Abbandonate
+ITEM_ALPHACLAW_DESC	Un enorme artiglio rinforzato per natura, apprezzato per la robustezza e il valore simbolico.
+ITEM_ALPHAFUR_DESC	Spessa pelliccia di un predatore alfa, folta e capace di trattenere il calore.
+ITEM_APPLEJUICE_DESC	Succo di Mela dolce diluito con acqua. Ottimo per ripristinare il Nutrimento in viaggio. Berlo aumenta per un certo tempo la Rigenerazione del vigore.
+ITEM_APPLEJUICE_EFFECT	Ripristina il Nutrimento e aumenta la Rigenerazione del vigore del 10% per 30 minuti. Può essere attivo un solo bonus da bevanda alla volta.
+ITEM_APPLESEED_DESC	Un seme di melo.
+ITEM_APPLE_DESC	Una mela succosa, ottima come spuntino in viaggio.
+ITEM_APPLE_EFFECT	Ripristina il Nutrimento.
+ITEM_BEASTMEAT_DESC	Carne sostanziosa delle bestie di Mirkea, apprezzata per il sapore e il valore nutritivo.
+ITEM_BEASTMEAT_EFFECT	Ripristina il Nutrimento ma riduce la Rigenerazione del vigore per 5 minuti.
+ITEM_BELLFLOWERSOUP_DESC	Una zuppa aromatica e mistica di Campanula Canterina e Thaumablossom. Il suo aroma etereo calma i sensi e protegge dalle instabili energie dell'Etere.
+ITEM_BELLFLOWERSOUP_EFFECT	Ripristina il Nutrimento. Conferisce 10% Salute massima e 25% Resistenza all'etere per 30 minuti.
+ITEM_BLIGHTCROW_EFFECT	Sorveglia i nemici Avvelenati e sputa contro di loro un dardo tossico, applicando accumuli aggiuntivi di Veleno.
+ITEM_BLOODRAGEPOTION1_DESC	Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_BLOODRAGEPOTION1_EFFECT	Bevi per applicare 5 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION2_DESC	Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_BLOODRAGEPOTION2_EFFECT	Bevi per applicare 5 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION3_DESC	Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_BLOODRAGEPOTION3_EFFECT	Bevi per applicare 5 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION4_DESC	Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_BLOODRAGEPOTION4_EFFECT	Bevi per applicare 5 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION5_DESC	Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_BLOODRAGEPOTION5_EFFECT	Bevi per applicare 5 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION_DESC	Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_BLOODRAGEPOTION_EFFECT	Bevi per applicare 5 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_BRUSHFLAX_DESC	Lino resistente raccolto nel sottobosco.
+ITEM_BRUSHFLAX_NAME	Lino Selvatico
+ITEM_BURNSALVE1_DESC	Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE2_DESC	Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE3_DESC	Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE4_DESC	Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE5_DESC	Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE_DESC	Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURROWBROTH_DESC	Un brodo rustico e confortante di Carne di Bestiola e uova fresche. Apprezzato dagli esploratori del sottosuolo perché sostiene sia la salute fisica sia la concentrazione.
+ITEM_BURROWBROTH_EFFECT	Ripristina il Nutrimento. Conferisce 5% Salute massima e Concentrazione massima per 30 minuti.
+ITEM_CARRIONPARROT_EFFECT	Sorveglia i nemici con Sanguinamento, poi piomba su di loro, applicando accumuli aggiuntivi di Sanguinamento al bersaglio e a un nemico vicino.
+ITEM_CHICKENEGG_DESC	Un delizioso Uovo di Gallina crudo.
+ITEM_COOKEDBEASTMEAT_DESC	Un piatto semplice e saziante, apprezzato da viandanti e raccoglitori. Cotto per preservarne il sapore naturale e ripristinare il Nutrimento nelle terre selvagge.
+ITEM_COOKEDBEASTMEAT_EFFECT	Ripristina il Nutrimento e aumenta la Salute massima del 10% per 30 minuti. Può essere attivo un solo bonus da cibo alla volta.
+ITEM_COOKEDCRITTER_DESC	Un pasto semplice arrostito sulla fiamma viva, che fornisce un modesto Nutrimento in viaggio.
+ITEM_COOKEDCRITTER_EFFECT	Ripristina il Nutrimento e aumenta la Salute massima del 5% per 30 minuti. Può essere attivo un solo bonus da cibo alla volta.
+ITEM_COPPERORE_DESC	Roccia grezza contenente rame, estratta dalle miniere di Mirkea.
+ITEM_COPPERPICKAXE_DESC	Uno strumento da minatore con testa forgiata in rame, progettato per scavare facilmente nella pietra compatta.
+ITEM_COPPERTHROWINGKNIFE1_DESC	Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE1_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.<x1/> Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE2_DESC	Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE2_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.<x1/> Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE3_DESC	Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE3_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.<x1/> Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE4_DESC	Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE4_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.<x1/> Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE5_DESC	Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE5_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.<x1/> Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE_DESC	Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.<x1/> Le cariche si ricaricano riposando.
+ITEM_COPPERWOODCUTTINGAXE_DESC	Un'ascia migliorata con filo di rame. Incide più a fondo la corteccia e accelera la raccolta del legno.
+ITEM_CORRUPTEDTREANTBARK_DESC	Corteccia annerita strappata a un Treant, deformata dalla corruzione.<x1/> <x2/> Un ingrediente essenziale per creare incantesimi.
+ITEM_CORRUPTEDTREANTHEAD_DESC	Contorta e annerita dalla magia oscura, la testa recisa di un Treant corrotto pulsa di energia innaturale. Liane spinose ne attraversano la corteccia crepata come vene d'odio, e il suo peso sembra eccessivo per del semplice legno.
+ITEM_CORRUPTEDTREANTHEART_DESC	Il cuore nodoso di un Treant corrotto.<x1/> <x2/> Un ingrediente essenziale per creare incantesimi.
+ITEM_CRITTERMEAT_DESC	Carne appena ricavata da piccola selvaggina.
+ITEM_CRITTERMEAT_EFFECT	Ripristina il Nutrimento ma riduce la Rigenerazione del vigore per 5 minuti.
+ITEM_DROOPCORE_DESC	Il cuore vivo di un Droop, che pulsa ancora debolmente di energia arcana.
+ITEM_DROOPGELO_DESC	Una sostanza scivolosa e gelatinosa estratta dal Droop. Idratante per natura, offusca la mente se non viene raffinata.
+ITEM_DRYADEYE_DESC	Un occhio cristallino di una Driade caduta. Si dice riveli frammenti della memoria della foresta.
+ITEM_DRYADLOCK_DESC	Una ciocca di capelli argentei di Driade, ancora calda di una debole scintilla vitale.
+ITEM_EARLWOODFEAST_DESC	Un banchetto ricco e saziante di sostanziosa Carne di Bestia e uova fresche, cotto lentamente sul calore intenso del Legno di Treant. Potenzia in modo equilibrato tutti gli attributi fisici e mentali.
+ITEM_EARLWOODFEAST_EFFECT	Ripristina il Nutrimento. Conferisce 7% Salute, Vigore e Concentrazione massimi per 30 minuti.
+ITEM_ELIXIROFREBIRTH_DESC	Un raro elisir di rinnovamento. Bevilo per annullare tutti gli Attributi assegnati e recuperarne il valore in XP.
+ITEM_ELIXIROFREBIRTH_EFFECT	Azzera i tuoi Attributi e restituisce i punti esperienza.
+ITEM_EMBERBLESSSOUP_DESC	Una zuppa sostanziosa e riscaldante, con l'essenza ardente di Emberbloom e tenera Carne di Bestia. Riempie lo stomaco e protegge dal calore intenso e dalle fiamme impetuose.
+ITEM_EMBERBLESSSOUP_EFFECT	Ripristina il Nutrimento. Conferisce 10% Salute massima, 25% Resistenza al fuoco e Resistenza all'ustione per 30 minuti.
+ITEM_EMBERBLOOMSEED_DESC	Un seme di Emberbloom.
+ITEM_EMBERBLOOM_DESC	Una pianta rara che cresce nel cuore della foresta, rinomata per le sue proprietà potenzianti.
+ITEM_EMBERHOUND_DESC	Una razza nata da antichi esperimenti magici. Oggi i Cani di Brace sono spesso considerati fastidi pericolosi.
+ITEM_EMBERHOUND_EFFECT	Scatta attraverso i nemici lungo una breve linea, lasciando una fossa infuocata all'arrivo. Infligge Danno da fuoco e applica Ustione a tutti i nemici colpiti.
+ITEM_EXPLOSIVEFLASK1_DESC	Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione.
+ITEM_EXPLOSIVEFLASK1_EFFECT	Lancia per creare una pozza ardente.<x1/> Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK2_DESC	Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione.
+ITEM_EXPLOSIVEFLASK2_EFFECT	Lancia per creare una pozza ardente.<x1/> Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK3_DESC	Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione.
+ITEM_EXPLOSIVEFLASK3_EFFECT	Lancia per creare una pozza ardente.<x1/> Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK4_DESC	Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione.
+ITEM_EXPLOSIVEFLASK4_EFFECT	Lancia per creare una pozza ardente.<x1/> Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK5_DESC	Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione.
+ITEM_EXPLOSIVEFLASK5_EFFECT	Lancia per creare una pozza ardente.<x1/> Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK_DESC	Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione.
+ITEM_EXPLOSIVEFLASK_EFFECT	Lancia per creare una pozza ardente.<x1/> Le cariche si ricaricano riposando.
+ITEM_FANGRACUB_EFFECT	Attraversa il nemico più vicino con un balzo selvaggio, infliggendo Danno da taglio e applicando Sanguinamento e Gelo.
+ITEM_FLAMINGOIL1_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco.
+ITEM_FLAMINGOIL2_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco.
+ITEM_FLAMINGOIL3_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco.
+ITEM_FLAMINGOIL4_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco.
+ITEM_FLAMINGOIL5_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco.
+ITEM_FLAMINGOIL_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco.
+ITEM_FLAXGLOVES_DESC	Guanti leggeri tessuti con lino della foresta. Offrono una protezione modesta e presa durante la raccolta.
+ITEM_FLAXROPE_DESC	Una semplice corda di lino.
+ITEM_FLAXSEED_DESC	Semi per coltivare Lino.
+ITEM_FORESTKINGFUR_DESC	Un folto ciuffo di pelliccia incantata che fluttua nell'aria come privo di peso.
+ITEM_FORESTKINGTINE_DESC	Una punta spezzata di un enorme palco di corna, liscia al tatto e intrisa di potente magia.
+ITEM_FRAYEDCLOTH_DESC	Una striscia strappata di tessuto logoro, con bordi sfilacciati e consunti.
+ITEM_FRIEDCHICKENEGG_DESC	Un delizioso Uovo Fritto. Semplice e rapido da preparare, è ricco dell'energia essenziale per mantenere la concentrazione in viaggio.
+ITEM_FRIEDCHICKENEGG_EFFECT	Ripristina il Nutrimento. Conferisce 5% Vigore massimo e Concentrazione massima per 30 minuti.
+ITEM_FROSTBOUNDPOTION1_DESC	Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION2_DESC	Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION3_DESC	Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION4_DESC	Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION5_DESC	Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION_DESC	Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTEDOIL1_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio.
+ITEM_FROSTEDOIL2_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio.
+ITEM_FROSTEDOIL3_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio.
+ITEM_FROSTEDOIL4_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio.
+ITEM_FROSTEDOIL5_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio.
+ITEM_FROSTEDOIL_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio.
+ITEM_FROSTOWL_DESC	Originarie delle vette gelate dei Monti di Dimraeth, le Civette Gelide vanno in letargo d'estate e vagano per Mirkea d'inverno.
+ITEM_FROSTOWL_EFFECT	Sorveglia i nemici Assiderati, poi piomba su di loro per diffondere Gelo a tutti i nemici vicini.
+ITEM_GLASSVIAL_DESC	Un recipiente trasparente di qualità alchemica, progettato per contenere pozioni, estratti o miscele instabili.
+ITEM_GOBLINKINGHEAD_DESC	La testa di un Re Goblin, con gli occhi spalancati e iniettati di sangue, come se cercasse ancora il prossimo pasto.
+ITEM_GOBLINTOOTH_DESC	Un piccolo dente ingiallito, scheggiato e storto, estratto dalla mascella di un goblin.
+ITEM_HEARTOAKPLANKS_DESC	Tavole robuste ricavate dal legno di Quercia del Cuore. Essenziali per costruire.
+ITEM_HEARTOAK_DESC	Legno pesante ricavato dalla venerata Quercia del Cuore di Aldoria.
+ITEM_HORDEKINGTOOTH_DESC	Una zanna seghettata del Re del Tesoro, macchiata di scuro vicino alla radice.
+ITEM_HOUND_EFFECT	Cerca il nemico più vicino e gli si avventa contro, infliggendo Danno da taglio e ulteriore Accumulo di stordimento.
+ITEM_HUNTERSSTEW_DESC	Uno stufato caldo e nutriente, cotto lentamente con cura. Spesso condiviso ai focolari del villaggio dopo lunghe giornate di lavoro.
+ITEM_HUNTERSSTEW_EFFECT	Ripristina il Nutrimento e aumenta Salute massima e Vigore massimo del 10% per 30 minuti. Può essere attivo un solo bonus da cibo alla volta.
+ITEM_INNOCULATIONPOTION1_DESC	Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION2_DESC	Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION3_DESC	Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION4_DESC	Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION5_DESC	Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION_DESC	Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_KINDLINGPOTION1_DESC	Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION2_DESC	Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION3_DESC	Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION4_DESC	Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION5_DESC	Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION_DESC	Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_LARGEGOBLINTOOTH_DESC	Un dente di goblin enorme, pesante e spesso, con solchi profondi.
+ITEM_LESSERCONCENTRATIONPOTION1_DESC	Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION2_DESC	Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION3_DESC	Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION4_DESC	Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION5_DESC	Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION_DESC	Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONTHROWFLASK1_DESC	Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK2_DESC	Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK3_DESC	Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK4_DESC	Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK5_DESC	Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK_DESC	Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERHEALTHPOTION1_DESC	Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION2_DESC	Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION3_DESC	Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION4_DESC	Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION5_DESC	Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION_DESC	Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHTHROWFLASK1_DESC	Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK2_DESC	Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK3_DESC	Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK4_DESC	Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK5_DESC	Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK_DESC	Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERSTAMINAPOTION1_DESC	Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION2_DESC	Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION3_DESC	Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION4_DESC	Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION5_DESC	Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION_DESC	Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINATHROWFLASK1_DESC	Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK2_DESC	Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK3_DESC	Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK4_DESC	Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK5_DESC	Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK_DESC	Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LIGHTBANDAGES1_DESC	Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES2_DESC	Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES3_DESC	Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES4_DESC	Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES5_DESC	Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES_DESC	Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LINENGLOVES_DESC	Robusti guanti da lavoro cuciti in tela. Migliorano presa e comfort durante la raccolta prolungata.
+ITEM_LINEN_DESC	Tessuto a trama fitta ottenuto da fibre vegetali trattate.
+ITEM_MINORBLOODRAGEPOTION1_DESC	Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION1_EFFECT	Bevi per applicare 2 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION2_DESC	Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION2_EFFECT	Bevi per applicare 2 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION3_DESC	Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION3_EFFECT	Bevi per applicare 2 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION4_DESC	Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION4_EFFECT	Bevi per applicare 2 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION5_DESC	Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION5_EFFECT	Bevi per applicare 2 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION_DESC	Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION_EFFECT	Bevi per applicare 2 accumuli di Furia.<x1/> Le cariche si ricaricano riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK1_DESC	Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK2_DESC	Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK3_DESC	Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK4_DESC	Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK5_DESC	Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK_DESC	Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORHEALTHTHROWFLASK1_DESC	Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK2_DESC	Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK3_DESC	Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK4_DESC	Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK5_DESC	Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK_DESC	Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MOONCAT_DESC	Un compagno comune degli apprendisti maghi della Grande Accademia di Aldoria, noto per la sua magia rivitalizzante e la presenza rasserenante.
+ITEM_MOONCAT_EFFECT	Resta vicino al giocatore ed emette pulsazioni regolari che ripristinano la Concentrazione nel tempo.
+ITEM_NATURESCALMTONIC_DESC	Un tonico lenitivo e calmante preparato con Thaumablossom al chiaro di luna e Legno di Treant. Placa la mente, favorendo una concentrazione profonda e un recupero più rapido della Concentrazione.
+ITEM_NATURESCALMTONIC_EFFECT	Ripristina il Nutrimento. Conferisce 10% Concentrazione massima e Rigenerazione della concentrazione per 30 minuti.
+ITEM_NATURESWARDSTEAK_DESC	Una bistecca di bestia cotta con Legno di Treant e condita con Thaumablossom. Conferisce resistenza prolungata agli effetti del veleno.
+ITEM_NATURESWARDSTEAK_EFFECT	Ripristina il Nutrimento. Conferisce 10% Salute massima, 25% Resistenza al decadimento e Resistenza al veleno per 30 minuti.
+ITEM_OILFLASK1_DESC	Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici.
+ITEM_OILFLASK1_EFFECT	Lancia per creare una Pozza d'Olio.<x1/> Le cariche si ricaricano riposando.
+ITEM_OILFLASK2_DESC	Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici.
+ITEM_OILFLASK2_EFFECT	Lancia per creare una Pozza d'Olio.<x1/> Le cariche si ricaricano riposando.
+ITEM_OILFLASK3_DESC	Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici.
+ITEM_OILFLASK3_EFFECT	Lancia per creare una Pozza d'Olio.<x1/> Le cariche si ricaricano riposando.
+ITEM_OILFLASK4_DESC	Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici.
+ITEM_OILFLASK4_EFFECT	Lancia per creare una Pozza d'Olio.<x1/> Le cariche si ricaricano riposando.
+ITEM_OILFLASK5_DESC	Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici.
+ITEM_OILFLASK5_EFFECT	Lancia per creare una Pozza d'Olio.<x1/> Le cariche si ricaricano riposando.
+ITEM_OILFLASK_DESC	Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici.
+ITEM_OILFLASK_EFFECT	Lancia per creare una Pozza d'Olio.<x1/> Le cariche si ricaricano riposando.
+ITEM_OIL_DESC	Un liquido denso e scivoloso che prende fuoco facilmente e brucia a lungo.
+ITEM_PINEWOODPLANKS_DESC	Tavole ricavate dal Pino di Wildwood, apprezzate per la robustezza e usate in costruzioni resistenti.
+ITEM_POETSBREW_DESC	Una bevanda ispiratrice e melodiosa con infuso di Campanula Canterina. Schiarisce la gola e accelera il battito, donando ai viandanti la resistenza di un bardo rinomato.
+ITEM_POETSBREW_EFFECT	Ripristina il Nutrimento. Conferisce 10% Vigore massimo e Rigenerazione del vigore per 30 minuti.
+ITEM_POISONCURE1_DESC	Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE2_DESC	Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE3_DESC	Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE4_DESC	Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE5_DESC	Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE_DESC	Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONFLASK1_DESC	Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK1_EFFECT	Lancia per creare una Pozza di Veleno.<x1/> Le cariche si ricaricano riposando.
+ITEM_POISONFLASK2_DESC	Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK2_EFFECT	Lancia per creare una Pozza di Veleno.<x1/> Le cariche si ricaricano riposando.
+ITEM_POISONFLASK3_DESC	Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK3_EFFECT	Lancia per creare una Pozza di Veleno.<x1/> Le cariche si ricaricano riposando.
+ITEM_POISONFLASK4_DESC	Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK4_EFFECT	Lancia per creare una Pozza di Veleno.<x1/> Le cariche si ricaricano riposando.
+ITEM_POISONFLASK5_DESC	Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK5_EFFECT	Lancia per creare una Pozza di Veleno.<x1/> Le cariche si ricaricano riposando.
+ITEM_POISONFLASK_DESC	Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK_EFFECT	Lancia per creare una Pozza di Veleno.<x1/> Le cariche si ricaricano riposando.
+ITEM_POISON_DESC	Un liquido velenoso denso.
+ITEM_RECIPEALCHEMYTABLE_DESC	Ricetta: Tavolo d'alchimia. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEALPHAFURRUG_DESC	Ricetta: Tappeto di Pelliccia Alfa. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEAPPLEJUICE_DESC	Ricetta: Succo di Mela. Usa per apprendere la ricetta.
+ITEM_RECIPEAPPLETREEPLOT_DESC	Ricetta: Appezzamento di Meli. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEBASILTONGARDEN_DESC	Ricetta: Giardino di Basilton. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEBELLFLOWERSOUP_DESC	Ricetta: Zuppa di Campanula. Usa per apprendere la ricetta.
+ITEM_RECIPEBLOODRAGEPOTION_DESC	Ricetta: Pozione della Furia Sanguinaria. Usa per apprendere la ricetta.
+ITEM_RECIPEBURNSALVE_DESC	Ricetta: Unguento per ustioni. Usa per apprendere la ricetta.
+ITEM_RECIPEBURROWBROTH_DESC	Ricetta: Brodo di Tana. Usa per apprendere la ricetta.
+ITEM_RECIPECHICKENCOOP_DESC	Ricetta: Pollaio. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPECOOKEDBEASTMEAT_DESC	Ricetta: Carne di bestia cotta. Usa per apprendere la ricetta.
+ITEM_RECIPECOOKEDCRITTER_DESC	Ricetta: Bestiola Cotta. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERPICKAXE_DESC	Ricetta: Piccone di Rame. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERQUARRY_DESC	Ricetta: Cava di Rame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERTHROWINGKNIFE_DESC	Ricetta: Coltello da Lancio di Rame. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERWOODCUTTINGAXE_DESC	Ricetta: Ascia da Legna di Rame. Usa per apprendere la ricetta.
+ITEM_RECIPECORRUPTEDTREANTTROPHY_DESC	Ricetta: Trofeo di Treant Corrotto. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEDAISYPATCH_DESC	Ricetta: Aiuola di Margherite. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEDROOPFARM_DESC	Ricetta: Allevamento di Droop. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODBANNER_DESC	Ricetta: Stendardo di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODBARRELCHAIR_DESC	Ricetta: Sedia a Botte di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODBRAZIER_DESC	Ricetta: Braciere di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODFEAST_DESC	Ricetta: Banchetto di Earlwood. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODFENCE_DESC	Ricetta: Recinto di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODHEARTH_DESC	Ricetta: Focolare di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODPOTPLANT_DESC	Ricetta: Pianta in Vaso di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODTRAININGDUMMY_DESC	Ricetta: Manichino da Allenamento di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODWALLBANNER_DESC	Ricetta: Stendardo da Muro di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEELIXIROFREBIRTH_DESC	Ricetta: Elisir della Rinascita. Usa per apprendere la ricetta.
+ITEM_RECIPEEMBERBLESSSOUP_DESC	Ricetta: Zuppa Benedetta dalla Brace. Usa per apprendere la ricetta.
+ITEM_RECIPEEXPLOSIVEFLASK_DESC	Ricetta: Fiasca Esplosiva. Usa per apprendere la ricetta.
+ITEM_RECIPEFACILITYCENTRE_DESC	Ricetta: Centro Servizi. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEFLAMINGOIL_DESC	Ricetta: Olio Fiammeggiante. Usa per apprendere la ricetta.
+ITEM_RECIPEFLAXGLOVES_DESC	Ricetta: Guanti di Lino. Usa per apprendere la ricetta.
+ITEM_RECIPEFLAXROPE_DESC	Ricetta: Corda di Lino. Usa per apprendere la ricetta.
+ITEM_RECIPEFRAYEDRUG_DESC	Ricetta: Tappeto Logoro. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEFRIEDCHICKENEGG_DESC	Ricetta: Uovo Fritto. Usa per apprendere la ricetta.
+ITEM_RECIPEFROSTBOUNDPOTION_DESC	Ricetta: Pozione del Vincolo Gelido. Usa per apprendere la ricetta.
+ITEM_RECIPEFROSTEDOIL_DESC	Ricetta: Olio Gelido. Usa per apprendere la ricetta.
+ITEM_RECIPEGOBLINKINGTROPHY_DESC	Ricetta: Trofeo del Re Goblin. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEGRASSPATCH_DESC	Ricetta: Zona d'Erba. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKBED_DESC	Ricetta: Letto di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKDOORWAY_DESC	Ricetta: Vano di Porta di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKFENCE_DESC	Ricetta: Recinto di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKPLANKS_DESC	Ricetta: Tavole di Quercia del Cuore. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODCHEST_DESC	Ricetta: Cassa in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODFOUNDATION_DESC	Ricetta: Fondazione in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODTABLE_DESC	Ricetta: Tavolo in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODWALL_DESC	Ricetta: Muro in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEATOAKMILL_DESC	Ricetta: Mulino di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHUNTERSSTEW_DESC	Ricetta: Stufato del Cacciatore. Usa per apprendere la ricetta.
+ITEM_RECIPEINNOCULATIONPOTION_DESC	Ricetta: Pozione di Inoculazione. Usa per apprendere la ricetta.
+ITEM_RECIPEKINDLINGPOTION_DESC	Ricetta: Pozione d'Innesco. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERCONCENTRATIONPOTION_DESC	Ricetta: Pozione Minore di Concentrazione. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERCONCENTRATIONTHROWFLASK_DESC	Ricetta: Fiasca da Lancio Minore di Concentrazione. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERHEALTHPOTION_DESC	Ricetta: Pozione Minore di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERHEALTHTHROWFLASK_DESC	Ricetta: Fiasca da Lancio Minore di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERSTAMINAPOTION_DESC	Ricetta: Pozione Minore di Vigore. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERSTAMINATHROWFLASK_DESC	Ricetta: Fiasca da Lancio Minore di Vigore. Usa per apprendere la ricetta.
+ITEM_RECIPELIGHTBANDAGES_DESC	Ricetta: Bende Leggere. Usa per apprendere la ricetta.
+ITEM_RECIPELINENGLOVES_DESC	Ricetta: Guanti di Tela. Usa per apprendere la ricetta.
+ITEM_RECIPELINENRUG_DESC	Ricetta: Tappeto di Lino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEMINORBLOODRAGEPOTION_DESC	Ricetta: Pozione Scarsa della Furia Sanguinaria. Usa per apprendere la ricetta.
+ITEM_RECIPEMINORCONCENTRATIONTHROWFLASK_DESC	Ricetta: Fiasca da Lancio Scarsa di Concentrazione. Usa per apprendere la ricetta.
+ITEM_RECIPEMINORHEALTHTHROWFLASK_DESC	Ricetta: Fiasca da Lancio Scarsa di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPEMUDFENCE_DESC	Ricetta: Recinto di Fango. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPENATURESCALMTONIC_DESC	Ricetta: Tonico della Calma Naturale. Usa per apprendere la ricetta.
+ITEM_RECIPENATURESWARDSTEAK_DESC	Ricetta: Bistecca della Protezione Naturale. Usa per apprendere la ricetta.
+ITEM_RECIPEOAKCABINET_DESC	Ricetta: Credenza di Quercia. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEOILFLASK_DESC	Ricetta: Fiasca d'Olio. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODCHAIR_DESC	Ricetta: Sedia di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODCHEST_DESC	Ricetta: Cassa di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODDOOR_DESC	Ricetta: Porta di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODFOUNDATION_DESC	Ricetta: Fondazione di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODMILL_DESC	Ricetta: Mulino di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODTABLE_DESC	Ricetta: Tavolo di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODTREEGARDEN_DESC	Ricetta: Giardino di Pini. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODWALL_DESC	Ricetta: Muro di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPOETSBREW_DESC	Ricetta: Infuso del Poeta. Usa per apprendere la ricetta.
+ITEM_RECIPEPOISONCURE_DESC	Ricetta: Antidoto. Usa per apprendere la ricetta.
+ITEM_RECIPEPOISONFLASK_DESC	Ricetta: Fiasca di Veleno. Usa per apprendere la ricetta.
+ITEM_RECIPERECIPEEARLWOODBED_DESC	Ricetta: Letto di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEROUGHPAPER_DESC	Ricetta: Carta Grezza. Usa per apprendere la ricetta.
+ITEM_RECIPESTANDINGTORCH_DESC	Ricetta: Torcia a Stelo. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEDOORWAY_DESC	Ricetta: Vano di Porta di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEFENCE_DESC	Ricetta: Recinto di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEFOUNDATION_DESC	Ricetta: Fondazione di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEPICKAXE_DESC	Ricetta: Piccone di Pietra. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEQUARRY_DESC	Ricetta: Cava di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONETHROWINGKNIFE_DESC	Ricetta: Coltello da Lancio di Pietra. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEWALL_DESC	Ricetta: Muro di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEWOODCUTTINGAXE_DESC	Ricetta: Ascia da Legna di Pietra. Usa per apprendere la ricetta.
+ITEM_RECIPESUNFLOWERPATCH_DESC	Ricetta: Aiuola di Girasoli. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETENDERBERRYPLOT_DESC	Ricetta: Appezzamento di Tenderberry. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETENDERBERRYTEA_DESC	Ricetta: Tè di Tenderberry. Usa per apprendere la ricetta.
+ITEM_RECIPETHAUMABLOSSOMPLOT_DESC	Ricetta: Appezzamento di Thaumablossom. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETHAUMABLOSSOMTEA_DESC	Ricetta: Tè di Thaumablossom. Usa per apprendere la ricetta.
+ITEM_RECIPETHICKBLOODBROTH_DESC	Ricetta: Brodo di Sangue Denso. Usa per apprendere la ricetta.
+ITEM_RECIPETOXICOIL_DESC	Ricetta: Olio Tossico. Usa per apprendere la ricetta.
+ITEM_RECIPETREANTTROPHY_DESC	Ricetta: Trofeo di Treant. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETREANTWOODSTOOL_DESC	Ricetta: Sgabello di Legno di Treant. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEWARMINGBROTH_DESC	Ricetta: Brodo Riscaldante. Usa per apprendere la ricetta.
+ITEM_RECIPEWATERFLASK_DESC	Ricetta: Fiasca d'Acqua. Usa per apprendere la ricetta.
+ITEM_RECIPEWATERWELL_DESC	Ricetta: Pozzo d'Acqua. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEWATER_DESC	Ricetta: Acqua. Usa per apprendere la ricetta.
+ITEM_RECIPEWEAKHEALTHEXTRACT_DESC	Ricetta: Estratto Debole di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPEWEAKMAGICEXTRACT_DESC	Ricetta: Estratto Debole di Magia. Usa per apprendere la ricetta.
+ITEM_RECIPEWOODFIRESTOVE_DESC	Ricetta: Stufa a legna. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEWORKBENCH_DESC	Ricetta: Banco da lavoro. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_ROASTEDDROOPCORE_DESC	Un succulento Nucleo di Droop arrostito sul fuoco. Uno dei pasti più semplici e abbondanti di Mirkea.
+ITEM_ROASTEDDROOPCORE_EFFECT	Ripristina il Nutrimento.
+ITEM_ROUGHPAPER_DESC	Carta lacera infusa di magia, a malapena integra ma ancora utile.
+ITEM_SILVERCAT_DESC	Addestrati nella magia della Barriera alla Grande Accademia di Aldoria, i Gatti Argentati sono preziosi compagni dei maghi inviati in battaglia.
+ITEM_SILVERCAT_EFFECT	Quando il giocatore subisce danni, conferisce una Barriera magica che assorbe danni per 3 secondi.
+ITEM_SINGINGBELLFLOWERSEED_DESC	Un seme di Campanula Canterina.
+ITEM_SINGINGBELLFLOWER_DESC	Una pianta rara che cresce nel cuore della foresta, nota per le sue proprietà rigeneranti.
+ITEM_SPELLBOOKADRENALINE_DESC	Un libro degli incantesimi che insegna Adrenalina a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKAETHERFANGPHALANX_DESC	Un libro degli incantesimi che insegna Falange Zanna d'Etere a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKALPHAHOWL_DESC	Un libro degli incantesimi che insegna Ululato Alfa a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBARRIER_DESC	Un libro degli incantesimi che insegna Barriera a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBASH_DESC	Un libro degli incantesimi che insegna Percossa a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBLACKHOLE_DESC	Un libro degli incantesimi che insegna Buco Nero a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBRAMBLEFAN_DESC	Un libro degli incantesimi che insegna Ventaglio di Spine a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCIRCLEOFMAGIC_DESC	Un libro degli incantesimi che insegna Cerchio di Magia a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCLEARWATER_DESC	Un libro degli incantesimi che insegna Acqua Limpida a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCOMBATMEDIC_DESC	Un libro degli incantesimi che insegna Medico da Campo a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCONFLAGURATION_DESC	Un libro degli incantesimi che insegna Conflagrazione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCRIPPLINGSTRIKE_DESC	Un libro degli incantesimi che insegna Colpo Storpiante a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKDEVOUR_DESC	Un libro degli incantesimi che insegna Divorare a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKEMPOWERALLY_DESC	Un libro degli incantesimi che insegna Potenzia Alleato a chi lo legge.
+ITEM_SPELLBOOKENTANGLINGROOTS_DESC	Un libro degli incantesimi che insegna Radici Avviluppanti a chi lo legge.
+ITEM_SPELLBOOKERUPT_DESC	Un libro degli incantesimi che insegna Eruzione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFIREBURST_DESC	Un libro degli incantesimi che insegna Scoppio di Fuoco a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFLAMINGSTRIKE_DESC	Un libro degli incantesimi che insegna Colpo Fiammeggiante a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFRENZIEDSLASHES_DESC	Un libro degli incantesimi che insegna Tagli Frenetici a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFROZENSTRIKE_DESC	Un libro degli incantesimi che insegna Colpo Congelato a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKGOBLINTOSS_DESC	Un libro degli incantesimi che insegna Lancio di Goblin a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKGUST_DESC	Un libro degli incantesimi che insegna Raffica a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKHEAVYSTRIKE_DESC	Un libro degli incantesimi che insegna Colpo Pesante a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKINFECTIOUSSWARM_DESC	Un libro degli incantesimi che insegna Sciame Infettivo a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKJUNKHAIL_DESC	Un libro degli incantesimi che insegna Grandine di Rottami a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKMETEOR_DESC	Un libro degli incantesimi che insegna Meteorite a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKPOISONSPORES_DESC	Un libro degli incantesimi che insegna Nebbia velenosa a chi lo legge.
+ITEM_SPELLBOOKPOISONSPORES_NAME	Libro degli incantesimi: Nebbia velenosa
+ITEM_SPELLBOOKREJECTION_DESC	Un libro degli incantesimi che insegna Repulsione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKRIPPLE_DESC	Un libro degli incantesimi che insegna Ondulazione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSAPARTILLERY_DESC	Un libro degli incantesimi che insegna Artiglieria di Linfa a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSAVAGECLAW_DESC	Un libro degli incantesimi che insegna Artiglio Selvaggio a chi lo legge.
+ITEM_SPELLBOOKSEEDBOMB_DESC	Un libro degli incantesimi che insegna Bomba di Semi a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSHOCKWAVE_DESC	Un libro degli incantesimi che insegna Onda di Shock a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSPAWNFORESTHEART_DESC	Un libro degli incantesimi che insegna Evoca Cuore della Foresta a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSPIRITSWAP_DESC	Un libro degli incantesimi che insegna Scambio Spirituale a chi lo legge.
+ITEM_SPELLBOOKTENDONSLICE_DESC	Un libro degli incantesimi che insegna Taglio dei Tendini a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKTOXICSLICE_DESC	Un libro degli incantesimi che insegna Taglio Tossico a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKWARBANNER_DESC	Un libro degli incantesimi che insegna Stendardo di Guerra a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKWATERSURGE_DESC	Un libro degli incantesimi che insegna Ondata d'Acqua a chi lo legge.
+ITEM_STONENAILS_DESC	Chiodi di Pietra intagliati a mano, usati per costruire mobili rustici e telai di sostegno.
+ITEM_STONEPICKAXE_DESC	Un piccone pesante rinforzato per spaccare la pietra ed estrarre minerali da terreni rocciosi.
+ITEM_STONETHROWINGKNIFE1_DESC	Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE1_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento.<x1/> Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE2_DESC	Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE2_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento.<x1/> Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE3_DESC	Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE3_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento.<x1/> Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE4_DESC	Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE4_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento.<x1/> Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE5_DESC	Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE5_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento.<x1/> Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE_DESC	Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE_EFFECT	Lancia per danneggiare i nemici e applicare Sanguinamento.<x1/> Le cariche si ricaricano riposando.
+ITEM_STONEWOODCUTTINGAXE_DESC	Un'affidabile ascia da boscaiolo, bilanciata per colpi regolari durante la raccolta di legname nelle terre selvagge.
+ITEM_STONE_DESC	Pietra finemente frantumata, raccolta nei siti di scavo di Mirkea.
+ITEM_TENDERBERRYSEED_DESC	Semi per coltivare cespugli di Tenderberry.
+ITEM_TENDERBERRYTEA_DESC	Un tè lenitivo preparato con bacche della foresta. Noto per la delicata azione ristoratrice sullo spirito e per l'idratazione.
+ITEM_TENDERBERRYTEA_EFFECT	Ripristina il Nutrimento e aumenta la Salute massima del 10% per 30 minuti. Può essere attivo un solo bonus da bevanda alla volta.
+ITEM_TENDERBERRY_DESC	Una morbida bacca cremisi, nota per la dolcezza delicata e il calore curativo.
+ITEM_TENDERBERRY_EFFECT	Ripristina il Nutrimento.
+ITEM_THAUMABLOSSOMSEED_DESC	Semi per coltivare Thaumablossom.
+ITEM_THAUMABLOSSOMTEA_DESC	Un raro infuso d'erbe preparato al chiaro di luna.
+ITEM_THAUMABLOSSOMTEA_EFFECT	Ripristina il Nutrimento, aumenta la Concentrazione massima del 10% e ripristina 1 Concentrazione al colpo per 30 minuti. Può essere attivo un solo bonus da bevanda alla volta.
+ITEM_THAUMABLOSSOM_DESC	Un fiore viola luminoso che si ritiene cresca vicino alle fratture delle linee di forza.
+ITEM_THICKBLOODBROTH_DESC	Un brodo ricavato dall'essenza di un grande Goblin, il cui sapore è mascherato dalla dolcezza della Mela. Conferisce Resistenza al sanguinamento a chi lo consuma.
+ITEM_THICKBLOODBROTH_EFFECT	Ripristina il Nutrimento. Conferisce Resistenza al sanguinamento per 30 minuti.
+ITEM_TOXICOIL1_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno.
+ITEM_TOXICOIL2_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno.
+ITEM_TOXICOIL3_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno.
+ITEM_TOXICOIL4_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno.
+ITEM_TOXICOIL5_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno.
+ITEM_TOXICOIL_DESC	Usa per rivestire l'arma, convertendo parte del suo danno in Danno da decadimento.
+ITEM_TREANTHEAD_DESC	L'enorme testa coperta di corteccia di un Treant caduto, con i lineamenti lignei irrigiditi in una cupa sfida. Il muschio aderisce ancora alla mascella e un debole calore permane nelle radici che un tempo lo nutrivano.
+ITEM_TREANTHEART_DESC	Il nucleo pulsante di un Treant, colmo di magia vitale latente. Se ne avverte ancora il battito ritmico nel palmo.
+ITEM_TREANTWOOD_DESC	Legno spesso e vivo ricavato dai Treant, che vibra debolmente di forza rigenerante.
+ITEM_WARCAT_EFFECT	Lancia un grido di battaglia all'inizio del combattimento, conferendo Furia al giocatore. Poi conferisce quantità minori di Furia aggiuntiva ogni 6 secondi finché il combattimento continua.
+ITEM_WARMINGBROTH_DESC	Un brodo confortante che trattiene il calore, con infuso di petali ardenti di Emberbloom e uova nutrienti. Scaccia il freddo dell'inverno più rigido e protegge dalle temperature gelide.
+ITEM_WARMINGBROTH_EFFECT	Ripristina il Nutrimento. Conferisce 10% Salute massima, 25% Resistenza al ghiaccio e Resistenza al gelo per 30 minuti.
+ITEM_WATERFLASK1_DESC	Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK1_EFFECT	Lancia per creare una Pozza d'Acqua.<x1/> Le cariche si ricaricano riposando.
+ITEM_WATERFLASK2_DESC	Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK2_EFFECT	Lancia per creare una Pozza d'Acqua.<x1/> Le cariche si ricaricano riposando.
+ITEM_WATERFLASK3_DESC	Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK3_EFFECT	Lancia per creare una Pozza d'Acqua.<x1/> Le cariche si ricaricano riposando.
+ITEM_WATERFLASK4_DESC	Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK4_EFFECT	Lancia per creare una Pozza d'Acqua.<x1/> Le cariche si ricaricano riposando.
+ITEM_WATERFLASK5_DESC	Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK5_EFFECT	Lancia per creare una Pozza d'Acqua.<x1/> Le cariche si ricaricano riposando.
+ITEM_WATERFLASK_DESC	Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK_EFFECT	Lancia per creare una Pozza d'Acqua.<x1/> Le cariche si ricaricano riposando.
+ITEM_WATER_DESC	L'acqua distillata è perfetta da bere in viaggio. È un ingrediente comune in cucina e in alchimia in tutta Mirkea.
+ITEM_WATER_EFFECT	Ripristina il Nutrimento.
+ITEM_WEAKHEALTHEXTRACT1_DESC	Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT2_DESC	Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT3_DESC	Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT4_DESC	Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT5_DESC	Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT_DESC	Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKMAGICEXTRACT1_DESC	Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT2_DESC	Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT3_DESC	Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT4_DESC	Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT5_DESC	Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT_DESC	Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WILDWOODPINE_DESC	Un pino alto e resistente, originario delle regioni più selvagge di Aldoria, apprezzato per la robustezza e la flessibilità.
+ITEM_WOLFFANG_DESC	Una zanna ricurva di lupo selvatico.
+PASSIVE_ACCELERATEDCASTING_DESC	Dopo aver usato un'abilità da Elfo, ottieni +15% Velocità di movimento per 3 secondi e +15% Velocità d'attacco per 3 secondi
+PASSIVE_AMBUSH_DESC	Danno perforante +20%; dopo uno Scatto rapido, il tuo prossimo attacco a segno entro 3 secondi infligge +25% Danno fisico.
+PASSIVE_ARCANEENDURANCE_DESC	Ora Energia aumenta la Concentrazione massima di 5
+PASSIVE_ARROWOFTHEDEEPCOLD_DESC	Quando colpisci un nemico con il terzo attacco a distanza, se è Assiderato, scagli da dietro di lui un'enorme freccia di ghiaccio che trafigge tutti i nemici colpiti, infliggendo Danno da ghiaccio.
+PASSIVE_ASHENESCALATION_DESC	Ogni volta che i tuoi incantesimi consumano Ustione, ottieni 20% Danno da ustione per accumulo consumato per 8 secondi.
+PASSIVE_BLACKBLOODTEMPO_DESC	Colpire un nemico con un Attacco finale consuma fino a 10 accumuli di Veleno dal bersaglio e applica Sanguinamento pari al Veleno consumato. Se consumi almeno 5 accumuli di Veleno, ottieni 5 accumuli di Inoculazione. Tempo di recupero: 6 secondi.
+PASSIVE_BLAZEBORNEDAGGERS_DESC	Colpire un nemico con il tuo Attacco finale scatena una scarica di fuoco che infligge Danno da fuoco a tutti i nemici vicini. Il danno aumenta in base ai tuoi accumuli di Ondata temporale, fino a 10.
+PASSIVE_BLAZINGWRATH_DESC	Dopo aver speso Furia, ottieni un'Aura di Fuoco per 5 secondi, che brucia i nemici e applica accumuli di Ustione. La durata aumenta di 0,5 secondi per ogni accumulo di Furia speso.
+PASSIVE_BLOODFRENZY_DESC	Probabilità di critico +6%; infliggi +12% Danno fisico ai nemici con Sanguinamento.
+PASSIVE_BLOODINTHEWATER_DESC	Colpendo un nemico con almeno 10 accumuli di Sanguinamento, ottieni +15% Probabilità di critico per 5 secondi.
+PASSIVE_BLUNTFORCEEXECUTE_DESC	Quando uccidi un nemico con Danno contundente, ottieni 20% Danno fisico per 5 secondi.
+PASSIVE_BONEBREAKER_DESC	Gli attacchi base infliggono Danno contundente
+PASSIVE_BULWARK_DESC	Danno fisico +15%; quando un singolo colpo ti infligge danni superiori al 30% degli HP, ottieni +25 Armatura per 3 secondi.
+PASSIVE_CALLTOTHEMOON_DESC	Durante la canalizzazione, gli impatti di Ululato Alfa piovono sul punto di mira, seguendone gli spostamenti.
+PASSIVE_CALMDRIFT_DESC	Dopo aver subito danni, la Rigen. salute aumenta del 50% per 5 secondi
+PASSIVE_CHANNELEDCALL_DESC	Tieni premuto per canalizzare: Ululato Alfa genera impatti attorno a te finché canalizzi, consumando Concentrazione ogni secondo.
+PASSIVE_CHILLHOWL_DESC	Ululato spara una raffica di dardi di ghiaccio che inseguono i nemici vicini, infliggendo Danno da ghiaccio e applicando 2 accumuli di Gelo.
+PASSIVE_CINDERDETONATION_DESC	Quando colpisci un nemico con il terzo attacco, se ha Ustione, scateni un'esplosione di Fuoco.
+PASSIVE_COLDSCALEDPOWER_DESC	Quando applichi Gelo a un nemico, ottieni Danno magico bonus pari alla quantità di Gelo sul nemico per 5 secondi.
+PASSIVE_COUNTERFIREDISCIPLINE_DESC	Dopo una Parata riuscita, il tuo prossimo Attacco finale a distanza infligge il 30% di danno in più. Dura 6 secondi.
+PASSIVE_DEADLYRHYTHM_DESC	Con un colpo critico, ottieni +25% Velocità d'attacco per 3 secondi
+PASSIVE_DECAYCHANNEL_DESC	Dopo aver lanciato un incantesimo di Magia della peste, ottieni il 15% di Danno magico in più per 3 secondi.
+PASSIVE_DEFENDANDASSAULT_DESC	Una Rappresaglia riuscita conferisce 15% Velocità d'attacco per 6 secondi.
+PASSIVE_DISMANTLE_DESC	Ogni volta che consumi Sanguinamento su un nemico, il danno nel tempo residuo viene inflitto anche tutto insieme come Danno da etere.
+PASSIVE_DUALBOND_DESC	Potere della Natura Selvaggia si applica sia a te sia al tuo bersaglio.
+PASSIVE_DUALPATH_DESC	Dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte.
+PASSIVE_EARTHSHAKER_DESC	Forza conferisce 0,5 Danno magico aggiuntivo
+PASSIVE_ECHOEDFOCUS_DESC	Quando un nemico vicino ha più di 5 accumuli di Eco, ottieni 15% Rigen. concentrazione.
+PASSIVE_ECHOESOFICE_DESC	Ogni volta che consumi Gelo su un nemico, applichi la stessa quantità di Eco temporale per la durata residua.
+PASSIVE_ECHOINGVANISH_DESC	Dissolvenza perfetta applica 5 accumuli di Eco temporale.
+PASSIVE_ECHOSHADE_DESC	Quando consumi Eco temporale da un nemico, se ne consumi almeno 5 accumuli, crei un Clone d'ombra vicino a quel nemico per 8 secondi. Poi mandi i Cloni d'ombra vicini, incluso quello creato, ad attaccarlo. Tempo di recupero: 10 secondi.
+PASSIVE_ECHOWEAVER_DESC	Agilità conferisce 0,5 Danno magico aggiuntivo
+PASSIVE_ELVISHVELOCITY_DESC	Dopo aver usato un'abilità da Elfo, ottieni +15% Velocità di movimento per 2 secondi.
+PASSIVE_EMBERCASCADE_DESC	Colpire un nemico con Ustione con un attacco a distanza scaglia una piccola Palla di fuoco contro il bersaglio. Il numero di palle di fuoco aumenta in base agli accumuli di Ustione, fino a 10.
+PASSIVE_EMBERLASH_DESC	Gli attacchi ravvicinati possono incendiare i nemici colpiti, infliggendo una scarica di danno. La probabilità dipende dal numero di accumuli di Ustione sul bersaglio.
+PASSIVE_ENRAGINGPARRY_DESC	Le parate riuscite conferiscono 5 accumuli di Furia.
+PASSIVE_FESTERINGWOUNDS_DESC	Quando infliggi un colpo critico a un nemico Avvelenato, prolunghi il Veleno su quel nemico di 2 secondi. Tempo di recupero: 3 secondi per nemico
+PASSIVE_FINISHINGEDGE_DESC	Quando infliggi un colpo critico a un nemico sotto il 40% di Salute, ottieni il 20% di Danno critico in più per 3 secondi.
+PASSIVE_FLAMEFEEDFRENZY_DESC	Ogni volta che i tuoi incantesimi consumano Ustione, ottieni 2 Celerità magica e 2% Velocità d'attacco per accumulo consumato, fino al 24%, per 5 secondi.
+PASSIVE_FOCUSEDASSAULT_DESC	Dopo aver usato un'abilità da Elfo, ottieni +15% Danno d'attacco per 3 secondi.
+PASSIVE_FROSTBITEFOCUS_DESC	Attaccare un nemico Assiderato conferisce un Effetto ad accumulo che aumenta il tuo Danno da ghiaccio per 10 secondi
+PASSIVE_FROSTBORNEDAGGERS_DESC	Quando colpisci un nemico con il tuo Attacco finale, se ha almeno 5 accumuli di Eco temporale, li consumi tutti per scatenare una scarica di ghiaccio che applica a tutti i nemici vicini Gelo pari all'Eco temporale consumata.
+PASSIVE_FROSTFORGEDMIGHT_DESC	Lanciare un incantesimo di ghiaccio aumenta il tuo Danno fisico del 25% per 5 secondi.
+PASSIVE_FROSTQUAKE_DESC	In combattimento, ogni secondo un nemico Assiderato vicino casuale viene colpito da un tremore che infligge Danno contundente.
+PASSIVE_FROSTSHOCK_DESC	Tutte le fonti di danno infliggono il 5% di Danno da stordimento in più per ogni accumulo di Gelo sul bersaglio.
+PASSIVE_GLACIALDRAG_DESC	Ogni volta che i tuoi incantesimi consumano Gelo su un nemico, gli applichi per 5 secondi un Rallentamento pari alla potenza degli accumuli consumati.
+PASSIVE_GOREWRAITHAMBUSH_DESC	Dopo essere uscito dalla Furtività, il tuo prossimo Attacco finale entro 5 secondi verifica la tua Furia. Se hai almeno 5 accumuli di Furia, ne consuma fino a 10 per infliggere più Danno da taglio e applicare al bersaglio Sanguinamento pari alla Furia consumata. Crea anche un Clone d'ombra nel punto d'impatto per 8 secondi, poi manda i Cloni d'ombra vicini, incluso quello creato, a sferrare un pesante colpo d'ascia al bersaglio. Tempo di recupero: 10 secondi.
+PASSIVE_GUARDSTEP_DESC	Cambio conferisce a te e al tuo bersaglio un breve aumento di velocità. Ottieni anche Armatura durante l'aumento di velocità.
+PASSIVE_HAYMAKER_DESC	Probabilità di critico +8%; Armatura +12; dopo uno scatto rapido, ottieni +20% Danno fisico per 5 secondi.
+PASSIVE_INFECTIONSCENT_DESC	Colpendo un nemico con almeno 10 accumuli di Veleno, ottieni +15% Probabilità di critico per 5 secondi.
+PASSIVE_INFECTIOUSCLEAVER_DESC	Lanciare un'abilità delle Arti dell'ascia o di Magia della peste conferisce Mannaia Infettiva per 10 secondi. Mentre è attiva, il tuo prossimo Attacco finale contro un nemico con Sanguinamento ne consuma fino a 10 accumuli per applicare Veleno pari al Sanguinamento consumato e creare una scarica di Decadimento attorno al bersaglio. Tempo di recupero: 6 secondi.
+PASSIVE_KINDLEDFOCUS_DESC	Quando applichi Ustione a un nemico, ottieni 15% Rigenerazione della concentrazione per 5 secondi.
+PASSIVE_KINDLINGSTRIKE_DESC	Colpire un nemico con il terzo attacco ravvicinato conferisce al tuo prossimo incantesimo di fuoco un bonus cumulabile al Danno da fuoco del 5% per ogni accumulo di Ustione sul nemico. Il bonus si consuma con il prossimo incantesimo di fuoco.
+PASSIVE_KNOCKOUTRESERVES_DESC	Quando stordisci un nemico, ripristini il 20% del tuo Vigore massimo.
+PASSIVE_LIONSURGE_DESC	Danno critico +30%; i colpi critici con Danno perforante conferiscono +20% Danno perforante per 5 secondi.
+PASSIVE_MANYCUTPHANTOM_DESC	Uscire dalla Furtività conferisce Fantasma dai Molti Tagli per 5 secondi. Mentre è attivo, il tuo Attacco finale contro un nemico con almeno 10 accumuli di Sanguinamento ne consuma 10 dal bersaglio, crea un Clone d'ombra vicino a quel nemico per 8 secondi, poi manda i Cloni d'ombra vicini, incluso quello creato, a colpirlo. Tempo di recupero: 12 secondi.
+PASSIVE_MURDERTEMPO_DESC	Quando uccidi un nemico con un colpo critico, ottieni il 20% di Velocità d'attacco e il 15% di Danno critico in più per 4 secondi
+PASSIVE_NERVEBLIGHT_DESC	Il tuo Danno da veleno genera anche Accumulo di stordimento.
+PASSIVE_NIGHTSWHISPER_DESC	Agilità conferisce 2,5 Vigore aggiuntivo
+PASSIVE_OVERCHANNEL_DESC	Concentrazione +20%; quando spendi oltre 30 Concentrazione in una volta, ottieni +20% Danno magico per 5 secondi.
+PASSIVE_PACKBOND_DESC	Potere della Natura Selvaggia si applica a tutti gli alleati attorno a te.
+PASSIVE_PATHSURGE_DESC	Dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte. Aumenta entrambi gli effetti al 7% per accumulo.
+PASSIVE_PATHWEAVER_DESC	Dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte.
+PASSIVE_PERMAFROSTRHYTHM_DESC	Ogni volta che i tuoi incantesimi consumano Gelo, riduci i tempi di recupero dei tuoi incantesimi dell'1% per accumulo consumato.
+PASSIVE_PESTILENTTREMOR_DESC	Lanciare un'abilità di Magia del Minotauro o di Magia della peste con almeno 5 accumuli di Inoculazione ne consuma fino a 10 per creare un Tremore Pestilenziale che dura 1 secondo per accumulo consumato. Tremore Pestilenziale ti segue, colpendo continuamente con scosse i nemici vicini e infliggendo Danno da decadimento. Consuma 2 accumuli di Veleno da ciascun bersaglio per infliggere Danno da stordimento bonus.
+PASSIVE_PHANTOMCROSSFIRE_DESC	Dopo aver usato Cambio arma per passare alla balestra, il tuo prossimo Attacco finale a distanza a segno crea un Clone d'ombra vicino al bersaglio per 8 secondi. Poi fa sparare ai Cloni d'ombra vicini, incluso quello creato, un Pugnale d'ombra verso quel nemico. Tempo di recupero: 8 secondi.
+PASSIVE_PLAGUEMARKSMANSHIP_DESC	Colpire un nemico con un Attacco finale a distanza, Tiro mirato o un dardo di balestra di Cambio arma consuma 5 accumuli di Veleno dal bersaglio per creare una scarica tossica che infligge Danno da decadimento ai nemici vicini. Richiede almeno 5 accumuli di Veleno sul bersaglio. Tempo di recupero: 2 secondi.
+PASSIVE_PLAGUEMIND_DESC	Quando un nemico raggiunge 5 accumuli di Veleno, ottieni Concentrazione al colpo per 5 secondi. Tempo di recupero: 6 secondi
+PASSIVE_PULVERIZINGFRENZY_DESC	Colpire un nemico con il terzo attacco ravvicinato mentre hai più di 5 accumuli di Furia consuma la tua Furia per lanciare Polverizza senza costo.
+PASSIVE_PUMMEL_DESC	Velocità d'attacco +10%; HP % +10%; colpire rapidamente lo stesso nemico con Danno contundente aumenta il tuo Danno fisico del +20% per 3 secondi.
+PASSIVE_PYREECHO_DESC	Quando applichi Ustione a un nemico, ottieni Danno magico bonus pari alla quantità di Ustione sul nemico per 5 secondi.
+PASSIVE_QUICKTRADE_DESC	Cambio conferisce a te e al tuo bersaglio un breve aumento di velocità.
+PASSIVE_RAGEFROMRUIN_DESC	Quando stordisci un nemico, ottieni 2 accumuli di Furia.
+PASSIVE_RECOVERATIVERAGE_DESC	La tua Rigen. vigore aumenta del 2% per accumulo di Furia.
+PASSIVE_RECOVERINGFINISHER_DESC	Il terzo attacco del Minotauro ripristina il 20% del Vigore massimo del giocatore se colpisce un nemico
+PASSIVE_REGENERATIVERAGE_DESC	La Rigen. vigore aumenta del 10% per accumulo di Furia
+PASSIVE_REJUVENATINGRAGE_DESC	La Rigen. concentrazione aumenta del 10% per accumulo di Furia
+PASSIVE_RIPOSTEDISCIPLINE_DESC	Dopo una Parata riuscita, il tuo prossimo Terzo Colpo infligge il 30% di danno in più. Dura 6 secondi.
+PASSIVE_RIPOSTE_DESC	HP % +20%; Velocità d'attacco +8%; dopo aver parato un attacco, ottieni +20% Danno da taglio per 3 secondi.
+PASSIVE_RIPPLINGECHOES_DESC	Quando a un nemico viene applicata Eco temporale oltre 5 accumuli, rilasci un'Ondulazione Temporale che infligge Danno da etere e Danno da stordimento aggiuntivo a quel nemico e a tutti quelli attorno. L'ondulazione ha un tempo di recupero di 4 secondi per nemico.
+PASSIVE_RIPTIDE_DESC	Riduce del 33% il tempo di recupero di Ondata d'Acqua.
+PASSIVE_ROOTFAN_DESC	Ora Radici Avviluppanti evoca 3 radici in un cono.
+PASSIVE_SECONDWIND_DESC	Quando lanci un incantesimo o un'abilità il cui costo in Vigore supera il 30% del tuo massimo, recuperi il 50% del costo. Questo effetto può verificarsi solo una volta ogni 15 secondi.
+PASSIVE_SEEDROT_DESC	Ora le tue Bombe di Semi lasciano una Pozza di Veleno quando esplodono.
+PASSIVE_SEEDSTORM_DESC	Lancia un gruppo di semi anziché uno solo.
+PASSIVE_SEEINGRED_DESC	Colpire un nemico con Sanguinamento con un attacco a distanza conferisce 1% Velocità d'attacco per ogni accumulo di Sanguinamento sul bersaglio per 5 secondi.
+PASSIVE_SEISMICECHO_DESC	Dopo aver lanciato un incantesimo del Minotauro, il tuo terzo attacco sprigiona un tremore che infligge Danno contundente ai nemici vicini.
+PASSIVE_SEPTICAFTERCUT_DESC	Quando consumi Sanguinamento o Veleno da un nemico, ottieni accumuli di Colpo doppio pari al Sanguinamento o al Veleno consumato, fino a 10. Tempo di recupero: 10 secondi.
+PASSIVE_SHADOWDUELIST_DESC	Usare Cambio arma per passare alla spada conferisce Furtività per 3 secondi. Il tuo prossimo attacco ravvicinato dalla Furtività conta come Attacco finale. Colpire un nemico con questo Attacco finale crea un Clone d'ombra sul bersaglio per 8 secondi, poi fa scattare i Cloni d'ombra vicini, incluso quello creato, verso quel nemico per colpirlo e infliggere Danno da taglio. Tempo di recupero: 6 secondi.
+PASSIVE_SHADOWEDSTEEL_DESC	Dopo aver usato un'abilità dell'Arte dell'ombra, ottieni il 15% di Danno fisico in più per 3 secondi
+PASSIVE_SHADOWQUAKE_DESC	Lanciare un'abilità di Magia del Minotauro o delle Arti dell'ombra crea un Clone d'ombra vicino a te per 8 secondi. Poi i Cloni d'ombra vicini, incluso quello creato, sprigionano un'Onda d'Ombra nel terreno, infliggendo Danno contundente ai nemici vicini. Tempo di recupero: 10 secondi.
+PASSIVE_SHATTERSTUN_DESC	Quando stordisci un nemico, scateni un tremore ad area che infligge Danno contundente ad area a tutti quelli attorno
+PASSIVE_SILENTRECOVERY_DESC	Quando il tuo Vigore scende sotto il 35%, ottieni il 30% di Rigenerazione del vigore in più per 4 secondi. Tempo di recupero: 12 secondi.
+PASSIVE_SLASHANDBASH_DESC	Quando uccidi un nemico con Danno da taglio, ottieni 20% Danno fisico per 5 secondi.
+PASSIVE_SONICDAGGERS_DESC	Quando spendi 5 accumuli di Ondata temporale, ottieni Pugnali Sonici per 5 secondi. Mentre è attivo, colpire i nemici con un attacco scaglia un Dardo Sonico che li attraversa e infligge danno ripartito tra Danno perforante e Danno contundente.
+PASSIVE_STONEHIDE_DESC	Armatura +12; quando colpisci un nemico con Danno contundente, ottieni 15 Armatura per 5 secondi.
+PASSIVE_STUNNINGTEMPO_DESC	Quando stordisci un nemico, ottieni 25% Velocità d'attacco per 3 secondi.
+PASSIVE_SUDDENSTRIDE_DESC	Quando infliggi un colpo critico a un nemico, ottieni 20% Velocità di movimento per 3 secondi.
+PASSIVE_SURGECASTING_DESC	Quando ottieni Ondata temporale, il tuo prossimo incantesimo ha +15% Danno magico. L'effetto dura 5 secondi.
+PASSIVE_SURGEOFMASTERY_DESC	Dopo un colpo critico, ottieni +25% Velocità d'attacco per 3 secondi.
+PASSIVE_SURGINGVANISH_DESC	Dissolvenza perfetta conferisce 5 accumuli di Ondata temporale.
+PASSIVE_TEMPOCONVERSION_DESC	Dopo aver usato un incantesimo o un'abilità, il tuo prossimo Terzo Colpo ha +15% Probabilità di critico. L'effetto dura 5 secondi.
+PASSIVE_TEMPORALCLEAVE_DESC	Colpire un nemico con il tuo Attacco finale spende la tua Ondata temporale per applicare a tutti i nemici vicini Sanguinamento pari all'Ondata temporale spesa
+PASSIVE_TEMPORALROT_DESC	Quando consumi Veleno da un nemico, applichi Eco temporale pari al Veleno consumato, fino a 10 accumuli. Se consumi almeno 5 accumuli di Veleno, crei una scarica di Decadimento attorno al bersaglio. Tempo di recupero: 6 secondi.
+PASSIVE_THICKSKIN_DESC	Quando subisci un danno che ti porterebbe sotto il 40% degli HP, il danno si dimezza. Può accadere solo una volta ogni 30 secondi.
+PASSIVE_TIDEPOOL_DESC	Ondata d'Acqua lascia una pozza dietro di sé.
+PASSIVE_TIMELESSFLAMES_DESC	Dopo aver usato un'abilità da Elfo, il tuo prossimo incantesimo di Fuoco spende fino a 10 accumuli di Ondata temporale per ridurre il proprio tempo di recupero del 4% per accumulo speso. L'effetto dura 5 secondi e ha un tempo di recupero di 10 secondi.
+PASSIVE_TOXICBLOOM_DESC	Le tue radici applicano 2 accumuli di Veleno in più.
+PASSIVE_VIRULENTCASTING_DESC	Quando infliggi un colpo critico con un incantesimo, ottieni il 15% di Celerità magica in più per 3 secondi
+PASSIVE_VITALCONDUIT_DESC	Ora Memoria aumenta il Vigore massimo di 5
+PASSIVE_WEAKPOINTSENSE_DESC	Quando infliggi un colpo critico a un nemico sotto il 40% di Salute, la tua prossima abilità dell'Arte dell'ombra ha il 20% di Probabilità di critico in più. Tempo di recupero: 6 secondi
+PASSIVE_WEAVINGJABS_DESC	Dopo aver usato Cambio arma, per 5 secondi lanci automaticamente Jab rapido contro un bersaglio vicino quando attacchi in mischia.
+PASSIVE_WHIRLOFGORE_DESC	Quando colpisci un nemico con Sanguinamento, hai una probabilità di attivare un attacco rotante ad area. La probabilità aumenta per ogni accumulo di Sanguinamento
+PASSIVE_WILDFIRE_DESC	HP % +20%; infliggi +15% danno ai nemici con Ustione.
+PASSIVE_WINTERFOCUS_DESC	Quando applichi Gelo a un nemico, ottieni 15% Rigenerazione della concentrazione per 5 secondi.
+PASSIVE_WINTERGUARD_DESC	Armatura +16; i nemici Assiderati ti infliggono il 10% di danno in meno.
+POI_DWARVENROAD_LORE	La strada verso le montagne dei nani
+POI_EARLWOODENTRANCE_LORE	Le grandi porte di Earlwood
+POI_EARLWOODENTRANCE_POPUP	Ingresso Est di Earlwood
+POI_EARLWOODFARMLANDSROADSIDECAMP_LORE	Campo sulla Strada delle Terre Coltivate
+POI_FARMLANDSNORTH_POPUP	Punto di passaggio delle Terre Coltivate Nord
+POI_FARMLANDSSOUTH_POPUP	Punto di passaggio delle Terre Coltivate Sud
+POI_FORESTSEDGEHOMESTEAD_LORE	Fattoria ai Margini della Foresta
+POI_FORESTSEDGEHOMESTEAD_POPUP	Fattoria ai Margini della Foresta
+POI_GOLEMSGARDEN_LORE	Giardino dei Golem
+POI_GOLEMSGARDEN_POPUP	Giardino dei Golem
+POI_HEIMENSCAMP_LORE	Campo sul Fiume di Heimen<x1/>
+POI_LOSTARCHEOLOGISTCAMPFIRE_LORE	Campo dell'Archeologo Perduto
+POI_NORTHCUTCAMPCAMPFIRE_LORE	Campo di Northcut
+POI_ROADSIDEOUTPOST_LORE	Avamposto sulla Strada<x1/>
+POI_THEGREATERWILDWOOD_LORE	Nel cuore di Wildwood
+POI_THEGUILDSCOMMUNALCAMPFIRE_LORE	Falò del Villaggio di Earlwood
+POI_THELOSTCAVERNSTUTORIAL_LORE	Dall'altra parte
+POI_WAYGATE_ACTIVATED	Nuovo Varco attivato:
+POI_WAYGATE_UNLOCKED	Varco sbloccato:
+POI_WILDWOODROADSIDECAMP_LORE	Campo sulla Strada di Wildwood
+STACKEFFECT_ALACRITY_DESC	Aumenta la Velocità d'attacco del 2% per accumulo.
+STACKEFFECT_BLEEDING_DESC	Infligge 2 danni ogni secondo per accumulo.
+STACKEFFECT_BURNING_DESC	Infligge 2 danni ogni secondo per accumulo.
+STACKEFFECT_CHILL_DESC	Riduce la Velocità di movimento del 2% per accumulo
+STACKEFFECT_DOUBLESTRIKE_DESC	Ogni singola istanza di danno dei tuoi attacchi colpisce due volte. Consuma un accumulo per attacco.
+STACKEFFECT_INOCULATION_DESC	Conferisce Resistenza al decadimento mentre è attivo, riducendo il danno subito da Veleno e da altre fonti di Decadimento. Viene consumato da alcuni incantesimi di veleno.
+STACKEFFECT_KINDLED_DESC	Conferisce Resistenza al fuoco mentre è attivo, riducendo il danno subito da Ustione e da altre fonti di Fuoco. Viene consumato da alcuni incantesimi di fuoco.
+STACKEFFECT_POISON_DESC	Infligge 2 danni ogni secondo per accumulo.
+STACKEFFECT_RAGE_DESC	Aumenta il Danno fisico del 2% per accumulo.
+STACKEFFECT_SHOCK_DESC	Aumenta la riduzione dei tempi di recupero e la Velocità di movimento.
+STACKEFFECT_TEMPORALECHO_DESC	Rallenta il movimento del 2% per accumulo.
+STACKEFFECT_TEMPORALSURGE_DESC	Aumenta la Velocità di movimento dell'1% per accumulo.
+STACKEFFECT_TREANTBURNING_DESC	Gli accumuli di Ustione aumentano il danno al bersaglio
+STACKEFFECT_VERSATILEWARRIOR_DESC	Aumenta il Danno fisico e il Danno magico
+SUBTITLE_FAUSTASFINDEXIT	Ah, eccoti! Se fossi così gentile da trovare l'uscita, te ne sarei grato. Per me trovare l'ingresso si sta rivelando sorprendentemente difficile.
+SUBTITLE_FAUSTASNEARLYOUT	Splendido! Sei quasi fuori. Cerca di non morire proprio agli ultimi passi: rovinerebbe terribilmente il finale.
+SUBTITLE_FAUSTASROARINGCREATURE	Oh, cielo... Non è il ruggito di una creatura intenzionata a essere cortese. Più svelto, se non ti dispiace

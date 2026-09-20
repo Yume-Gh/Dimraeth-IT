@@ -1,0 +1,195 @@
+﻿Key,Text
+BUILD_ALCHEMYTABLE_DESC,Prepara pozioni e tonici semplici.
+BUILD_ALCHEMYTABLE_NAME,Tavolo d'alchimia
+BUILD_ALPHAFURRUG_DESC,Un tappeto ricavato dalla pelliccia di un lupo alfa.
+BUILD_ALPHAFURRUG_NAME,Tappeto di Pelliccia Alfa
+BUILD_APPLETREEPLOT_DESC,Un melo cresciuto da seme. Raccogli il frutto quando matura.
+BUILD_APPLETREEPLOT_NAME,Appezzamento di Meli
+BUILD_BARRELCHAIR_DESC,Una sedia a botte dal Villaggio di Earlwood.
+BUILD_BARRELCHAIR_NAME,Sedia a Botte
+BUILD_BASILTONGARDEN_DESC,Un assortimento dal Giardino di Basilton. Puramente decorativo.
+BUILD_BASILTONGARDEN_NAME,Giardino di Basilton
+BUILD_BRAZIER_DESC,Un ampio braciere per una luce intensa e costante.
+BUILD_BRAZIER_NAME,Braciere
+BUILD_CAMPFIRE_DESC,Cucina cibo semplice e illumina il campo.
+BUILD_CAMPFIRE_NAME,Falò
+BUILD_CAMPFIRECLONE_NAME,Vecchio Falò
+BUILD_CHICKENCOOP_DESC,Un pollaio. Produce periodicamente uova da raccogliere.
+BUILD_CHICKENCOOP_NAME,Pollaio
+BUILD_COPPERQUARRY_DESC,Una cava che produce periodicamente rame da raccogliere.
+BUILD_COPPERQUARRY_NAME,Cava di Rame
+BUILD_CORRUPTEDTREANTTROPHY_DESC,Un cupo trofeo ricavato da un Treant corrotto.
+BUILD_CORRUPTEDTREANTTROPHY_NAME,Trofeo di Treant Corrotto
+BUILD_DAISYPATCH_DESC,Un'aiuola di margherite. Puramente decorativa.
+BUILD_DAISYPATCH_NAME,Aiuola di Margherite
+BUILD_DIRTPATCH_DESC,Una zona di terra arata. Puramente decorativa. Costruiscici sopra quel che vuoi.
+BUILD_DIRTPATCH_NAME,Zona di Terra
+BUILD_DROOPFARM_DESC,Un allevamento di Droop. Produce periodicamente Nuclei di Droop da raccogliere.
+BUILD_DROOPFARM_NAME,Allevamento di Droop
+BUILD_DUMMY_DESC,Un manichino da allenamento in legno.
+BUILD_DUMMY_NAME,Manichino da allenamento
+BUILD_EARLWOODBANNER_DESC,Uno stendardo dal Villaggio di Earlwood.
+BUILD_EARLWOODBANNER_NAME,Stendardo di Earlwood
+BUILD_EARLWOODBED_DESC,Un robusto letto da villaggio per dormire e recuperare. Usalo per dormire. \n Conferisce il Bonus Ben Riposato: \n Bonus XP dai mostri: 15% \n Calo del nutrimento ridotto: 10% \n Durata: 15 minuti
+BUILD_EARLWOODBED_NAME,Letto di Earlwood
+BUILD_EARLWOODFENCE_DESC,Recinzione di Earlwood.
+BUILD_EARLWOODFENCE_NAME,Recinto di Earlwood
+BUILD_EARLWOODFENCEGATE_DESC,Un cancello abbastanza largo da farci passare un carro.
+BUILD_EARLWOODFENCEGATE_NAME,Cancello di Earlwood
+BUILD_EARLWOODPOTPLANT_DESC,Piante in vaso dal Villaggio di Earlwood.
+BUILD_EARLWOODPOTPLANT_NAME,Pianta in Vaso di Earlwood
+BUILD_EARLWOODWALLBANNER_DESC,Uno stendardo da muro dal Villaggio di Earlwood.
+BUILD_EARLWOODWALLBANNER_NAME,Stendardo da Muro di Earlwood
+BUILD_EMBERBLOOMPLOT_DESC,Un appezzamento seminato a Emberbloom. Raccogli quando matura.
+BUILD_EMBERBLOOMPLOT_NAME,Appezzamento di Emberbloom
+BUILD_EMPTYPLOT_NAME,Appezzamento Vuoto
+BUILD_EMPTYPLOTB_NAME,Appezzamento Vuoto
+BUILD_FACILITYCENTER_DESC,Centro nevralgico per migliorare e riparare le strutture della base. Interagisci per vedere i miglioramenti disponibili.
+BUILD_FACILITYCENTER_NAME,Centro Servizi
+BUILD_FLAXPLOT_DESC,Un appezzamento seminato a Lino Selvatico. Raccogli quando matura.
+BUILD_FLAXPLOT_NAME,Appezzamento di Lino Selvatico
+BUILD_FRAYEDRUG_DESC,Un semplice tappeto logoro colorato.
+BUILD_FRAYEDRUG_NAME,Tappeto Logoro
+BUILD_GOBLINKINGTROPHY_DESC,Trofeo da muro ricavato da un Re Goblin abbattuto.
+BUILD_GOBLINKINGTROPHY_NAME,Trofeo del Re Goblin
+BUILD_GRASSPATCH_DESC,Una zona d'erba. Puramente decorativa.
+BUILD_GRASSPATCH_NAME,Zona d'Erba
+BUILD_HEARTOAKBED_DESC,Un letto in Quercia del Cuore per dormire e recuperare. Usalo per dormire. \n Conferisce il Bonus Ben Riposato: \n Bonus XP dai mostri: 15% \n Calo del nutrimento ridotto: 10% \n Durata: 15 minuti
+BUILD_HEARTOAKBED_NAME,Letto di Quercia del Cuore
+BUILD_HEARTOAKDOORWAY_DESC,Un telaio in durame.
+BUILD_HEARTOAKDOORWAY_NAME,Telaio in Durame
+BUILD_HEARTOAKFENCE_DESC,Recinzione in Quercia del Cuore.
+BUILD_HEARTOAKFENCE_NAME,Recinto di Quercia del Cuore
+BUILD_HEARTOAKFENCEGATE_DESC,Un cancello abbastanza largo da farci passare un carro.
+BUILD_HEARTOAKFENCEGATE_NAME,Cancello di Quercia del Cuore
+BUILD_HEARTOAKMILL_DESC,Un mulino che produce periodicamente Quercia del Cuore da raccogliere.
+BUILD_HEARTOAKMILL_NAME,Mulino di Quercia del Cuore
+BUILD_HEARTWOODCHEST_DESC,Ampio deposito per attrezzatura e materiali. Usalo come deposito.
+BUILD_HEARTWOODCHEST_NAME,Cassa in Durame
+BUILD_HEARTWOODDOOR_DESC,Tiene chiusa la stanza.
+BUILD_HEARTWOODDOOR_NAME,Porta di Pietra
+BUILD_HEARTWOODFOUNDATION_DESC,Una fondazione in Quercia del Cuore.
+BUILD_HEARTWOODFOUNDATION_NAME,Pavimento in Durame
+BUILD_HEARTWOODPILLAR_NAME,Pilastro in Durame
+BUILD_HEARTWOODTABLE_DESC,Un tavolo robusto per case e sale.
+BUILD_HEARTWOODTABLE_NAME,Tavolo in Durame
+BUILD_HEARTWOODWALL_DESC,Muro in Durame
+BUILD_HEARTWOODWALL_NAME,Muro in Durame
+BUILD_JJFISH_DESC,Un grande pesce impagliato. Puramente decorativo.
+BUILD_JJFISH_NAME,Pesce JJ
+BUILD_LARGETENT_DESC,Una logora tenda da spedizione per allestire un campo. Usala per dormire. \n Conferisce il Bonus Ben Riposato: \n Bonus XP dai mostri: 10% \n Calo del nutrimento ridotto: 5% \n Durata: 10 minuti
+BUILD_LARGETENT_NAME,Tenda Grande
+BUILD_LINENRUG_DESC,Un semplice tappeto di lino colorato.
+BUILD_LINENRUG_NAME,Tappeto di Lino
+BUILD_MUDFENCE_DESC,Recinzione dal Giardino di Basilton.
+BUILD_MUDFENCE_NAME,Recinto di Fango
+BUILD_MUDFENCEGATE_DESC,Un cancello abbastanza largo da farci passare un carro.
+BUILD_MUDFENCEGATE_NAME,Cancello di Fango
+BUILD_NONE_NAME,Muro di Legno
+BUILD_OAKCABINET_DESC,Deposito affidabile per attrezzatura e materiali. Usalo come deposito.
+BUILD_OAKCABINET_NAME,Credenza di Quercia
+BUILD_PINETORCH_DESC,Una luce autoportante per sentieri e cortili.
+BUILD_PINETORCH_NAME,Torcia di Pino
+BUILD_PINEWOODCHAIR_DESC,Una semplice sedia di legno.
+BUILD_PINEWOODCHAIR_NAME,Sedia di Pino
+BUILD_PINEWOODCHEST_DESC,Deposito affidabile per attrezzatura e materiali. Usalo come deposito.
+BUILD_PINEWOODCHEST_NAME,Cassa di Pino
+BUILD_PINEWOODDOOR_DESC,Tiene chiusa la stanza.
+BUILD_PINEWOODDOOR_NAME,Porta di Pino
+BUILD_PINEWOODDOORFRAME_DESC,Un telaio di pino.
+BUILD_PINEWOODDOORFRAME_NAME,Telaio di Pino di Wildwood
+BUILD_PINEWOODFOUNDATION_DESC,Una fondazione di pino per una casa.
+BUILD_PINEWOODFOUNDATION_NAME,Pavimento di Pino di Wildwood
+BUILD_PINEWOODMILL_DESC,Un mulino che produce periodicamente Pino di Wildwood da raccogliere.
+BUILD_PINEWOODMILL_NAME,Mulino di Pino
+BUILD_PINEWOODPILLAR_NAME,Pilastro di Pino di Wildwood
+BUILD_PINEWOODSTAIRS_NAME,Scale di Pino di Wildwood
+BUILD_PINEWOODTABLE_DESC,Un tavolo semplice per case e sale.
+BUILD_PINEWOODTABLE_NAME,Tavolo di Pino
+BUILD_PINEWOODTREEGARDEN_DESC,Un giardino verde. Puramente decorativo.
+BUILD_PINEWOODTREEGARDEN_NAME,Giardino di Pini
+BUILD_PINEWOODWALL_DESC,Muro di Pino di Wildwood
+BUILD_PINEWOODWALL_NAME,Muro di Pino di Wildwood
+BUILD_POKERTABLE_DESC,Un tavolo in panno per una partita amichevole di Hold'em. Interagisci per sederti; altri giocatori possono accomodarsi e sfidarti.
+BUILD_POKERTABLE_NAME,Tavolo da Poker
+BUILD_SANCTUMPLANKSA_NAME,Tavole di Legno
+BUILD_SANCTUMPLANKSB_NAME,Tavole di Legno
+BUILD_SINGINGBELLFLOWERPLOT_DESC,Un appezzamento seminato a Campanula Canterina. Raccogli quando matura.
+BUILD_SINGINGBELLFLOWERPLOT_NAME,Appezzamento di Campanula Canterina
+BUILD_SLEEPINGBAG_DESC,Un giaciglio per una notte scomoda lontano da casa. Usalo per dormire. \n Conferisce il Bonus Ben Riposato: \n Bonus XP dai mostri: 10% \n Calo del nutrimento ridotto: 5% \n Durata: 10 minuti
+BUILD_SLEEPINGBAG_NAME,Sacco a Pelo
+BUILD_STARTINGGRASS_DESC,Una zona d'erba. Puramente decorativa.
+BUILD_STARTINGGRASS_NAME,Zona d'Erba
+BUILD_STONEDOORWAY_DESC,Un telaio di pietra.
+BUILD_STONEDOORWAY_NAME,Telaio di Pietra
+BUILD_STONEFENCE_DESC,Recinzione in pietra di cava.
+BUILD_STONEFENCE_NAME,Recinto di Pietra
+BUILD_STONEFENCEGATE_DESC,Un cancello abbastanza largo da farci passare un carro.
+BUILD_STONEFENCEGATE_NAME,Cancello di Pietra
+BUILD_STONEFOUNDATION_DESC,Un pavimento di pietra per una casa.
+BUILD_STONEFOUNDATION_NAME,Pavimento di Pietra
+BUILD_STONEPATHING_DESC,Un camminamento di pietra.
+BUILD_STONEPATHING_NAME,Lastricato di Pietra
+BUILD_STONEQUARRY_DESC,Una cava che produce periodicamente pietra da raccogliere.
+BUILD_STONEQUARRY_NAME,Cava di Pietra
+BUILD_STONEWALL_DESC,Muro di Pietra
+BUILD_STONEWALL_NAME,Muro di Pietra
+BUILD_SUNFLOWERPATCH_DESC,Un'aiuola di girasoli. Puramente decorativa.
+BUILD_SUNFLOWERPATCH_NAME,Aiuola di Girasoli
+BUILD_TALLEARLWOODPOTPLAN_DESC,Piante in vaso dal Villaggio di Earlwood.
+BUILD_TALLEARLWOODPOTPLAN_NAME,Pianta Alta in Vaso di Earlwood
+BUILD_TENDERBERRYPLOT_DESC,Un appezzamento seminato a Tenderberry. Raccogli quando matura.
+BUILD_TENDERBERRYPLOT_NAME,Appezzamento di Tenderberry
+BUILD_TENT_DESC,Una logora tenda da spedizione per allestire un campo. Usala per dormire. \n Conferisce il Bonus Ben Riposato: \n Bonus XP dai mostri: 10% \n Calo del nutrimento ridotto: 5% \n Durata: 10 minuti
+BUILD_TENT_NAME,Tenda
+BUILD_TENTCLONEA_NAME,Tenda dell'Archeologo Perduto
+BUILD_TENTCLONEB_NAME,Tenda dell'Archeologo Perduto
+BUILD_TENTCLONEC_NAME,Tenda dell'Archeologo Perduto
+BUILD_TENTCLONED_NAME,Tenda dell'Archeologo Perduto
+BUILD_THAUMABLOSSOMPLOT_DESC,Un appezzamento seminato a Thaumablossom. Raccogli quando matura.
+BUILD_THAUMABLOSSOMPLOT_NAME,Appezzamento di Thaumablossom
+BUILD_TREANTSTOOL_DESC,Un sedile basso intagliato nel legno di Treant. Freme ancora di vita.
+BUILD_TREANTSTOOL_NAME,Sgabello di Treant
+BUILD_TREANTTROPHY_DESC,Trofeo da muro ricavato da un Treant abbattuto.
+BUILD_TREANTTROPHY_NAME,Trofeo di Treant
+BUILD_WATERWELL_DESC,Un pozzo d'acqua. Produce periodicamente Acqua da raccogliere.
+BUILD_WATERWELL_NAME,Pozzo d'Acqua
+BUILD_WAYPOINT_DESC,Un piccolo Varco tutto tuo. Una volta eretto compare sulla mappa del Santuario e vi si può viaggiare come a qualsiasi altro.
+BUILD_WAYPOINT_NAME,Punto di passaggio
+BUILD_WINDOWAOUT_DESC,Una finestra di pino che lascia entrare la luce del giorno.
+BUILD_WINDOWAOUT_NAME,Finestra di Pino
+BUILD_WOODFIRESTOVE_DESC,Postazione di cucina al chiuso a calore costante. Prepara pasti sostanziosi.
+BUILD_WOODFIRESTOVE_NAME,Stufa a legna
+BUILD_WORKBENCH_DESC,Postazione base per attrezzi e componenti. Serve a creare attrezzi e componenti di grado I.
+BUILD_WORKBENCH_NAME,Banco da lavoro
+BUILDCAT_DECOR,Decorazioni
+BUILDCAT_DOOR,Porta
+BUILDCAT_DOORFRAME,Telaio
+BUILDCAT_FARMING,Agricoltura
+BUILDCAT_FENCE,Recinto
+BUILDCAT_FENCEGATE,Cancello
+BUILDCAT_FOUNDATION,Fondazione
+BUILDCAT_FURNITURE,Mobilio
+BUILDCAT_GROUNDDECOR,Decorazioni del terreno
+BUILDCAT_PILLAR,Pilastro
+BUILDCAT_PRODUCTION,Produzione
+BUILDCAT_ROOF,Tetto
+BUILDCAT_RUG,Tappeto
+BUILDCAT_STAIRS,Scale
+BUILDCAT_WALL,Muro
+BUILDCAT_WALLDECOR,Decorazioni da muro
+BUILDCAT_WINDOW,Finestra
+PRODUCTION_CHICKENCOOP_DESC,Produce periodicamente uova da raccogliere.
+PRODUCTION_CHICKENCOOP_NAME,Pollaio
+PRODUCTION_COPPERQUARRY_DESC,I lavoratori raccolgono periodicamente Minerale di Rame.
+PRODUCTION_COPPERQUARRY_NAME,Cava di Rame
+PRODUCTION_DROOPFARM_DESC,Produce periodicamente Nuclei di Droop da raccogliere.
+PRODUCTION_DROOPFARM_NAME,Allevamento di Droop
+PRODUCTION_HEARTOAKMILL_DESC,I lavoratori raccolgono periodicamente Quercia del Cuore.
+PRODUCTION_HEARTOAKMILL_NAME,Mulino di Quercia del Cuore
+PRODUCTION_PINEWOODMILL_DESC,I lavoratori raccolgono periodicamente Pino di Wildwood.
+PRODUCTION_PINEWOODMILL_NAME,Mulino di Pino
+PRODUCTION_STONEQUARRY_DESC,I lavoratori raccolgono periodicamente Pietra.
+PRODUCTION_STONEQUARRY_NAME,Cava di Pietra
+PRODUCTION_WATERWELL_DESC,Produce periodicamente Acqua.
+PRODUCTION_WATERWELL_NAME,Pozzo d'Acqua

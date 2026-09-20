@@ -1,0 +1,877 @@
+﻿Key,Text
+SPELL_ADRENALINE_DESC,Premi per lanciare. Consuma il 20% dei tuoi HP massimi per ripristinare il 60% del tuo Vigore massimo.
+SPELL_ADRENALINE_NAME,Adrenalina
+SPELL_AETHERFANGPHALANX_DESC,"Premi per lanciare. Evoca una falange di lame Zanna d'Etere che ti circondano e colpiscono automaticamente i nemici vicini, infliggendo Danno da etere."
+SPELL_AETHERFANGPHALANX_EFFECT_0,Danno da etere: (MA:6.75)
+SPELL_AETHERFANGPHALANX_NAME,Falange Zanna d'Etere
+SPELL_AETHERHOWL_DESC,Ulula e lancia proiettili d'etere verso il bersaglio.
+SPELL_AETHERHOWL_NAME,Ululato d'Etere
+SPELL_AIMEDSHOT_DESC,"Premi per lanciare. Prendi la mira, poi scocca una freccia che attraversa i nemici, infliggendo Danno perforante."
+SPELL_AIMEDSHOT_EFFECT_0,Danno perforante: (PT:4.02)
+SPELL_AIMEDSHOT_MOD_0,"Tiro a punta larga: Tiro mirato non attraversa più i nemici. Invece, li respinge fino alla portata massima."
+SPELL_AIMEDSHOT_MOD_1,Tiro a sorpresa: Tiro mirato infligge il 60% di danno bonus ai nemici fuori dal combattimento.
+SPELL_AIMEDSHOT_MOD_2,"Tiro lungo: Tiro mirato infligge il 50% di danno extra ai nemici oltre metà della portata, ma il 40% in meno ai nemici entro metà della portata."
+SPELL_AIMEDSHOT_MOD_3,Freccia Corrompente: Tiro mirato consuma fino a 10 cariche di Sanguinamento sui nemici colpiti e applica 1 carica di Veleno per carica di Sanguinamento consumata.
+SPELL_AIMEDSHOT_MOD_4,"Freccia Purgante: Tiro mirato consuma il Veleno sui nemici colpiti per infliggere il 5% di danno in più per carica di Veleno consumata, fino a 10 cariche di Veleno."
+SPELL_AIMEDSHOT_MOD_5,"Freccia Inoculante: Tiro mirato conferisce 2 cariche di Inoculazione per ogni nemico avvelenato colpito. Se Tiro mirato colpisce almeno 2 nemici avvelenati, ottieni altre 2 cariche di Inoculazione."
+SPELL_AIMEDSHOT_MOD_6,"Freccia Avvelenante: Tiro mirato applica 4 cariche di Veleno ai nemici colpiti. Se Tiro mirato colpisce più di un nemico, quelli dopo il primo ricevono invece 2 cariche di Veleno."
+SPELL_AIMEDSHOT_MOD_7,Freccia Lacerante: Tiro mirato applica 3 cariche di Sanguinamento ai nemici colpiti.
+SPELL_AIMEDSHOT_NAME,Tiro mirato
+SPELL_ALPHABITE_DESC,Balza in avanti e mordi i nemici a portata.
+SPELL_ALPHABITE_NAME,Morso Alfa
+SPELL_ALPHACLAW_DESC,Sferra colpi ai nemici davanti a te
+SPELL_ALPHACLAW_NAME,Artiglio Alfa
+SPELL_ALPHAHOWL_DESC,Arretra e scatena una raffica di proiettili di Gelo contro i nemici vicini.
+SPELL_ALPHAHOWL_NAME,Ululato Alfa
+SPELL_ALPHAHOWLPLAYER_DESC,"Premi per lanciare. Richiama una scarica di proiettili che si disperdono casualmente sul campo di battaglia, ciascuno dei quali infligge danno suddiviso in Danno da ghiaccio e Danno da etere nel punto in cui atterra."
+SPELL_ALPHAHOWLPLAYER_EFFECT_0,Danno da ghiaccio: (MI:1.66)
+SPELL_ALPHAHOWLPLAYER_EFFECT_1,Danno da etere: (MA:1.66)
+SPELL_ALPHAHOWLPLAYER_NAME,Ululato Alfa
+SPELL_ALPHAPOUNCE_DESC,"Balza su un bersaglio, lasciando una zona di Gelo e infliggendo un impatto gelido all'atterraggio."
+SPELL_ALPHAPOUNCE_NAME,Balzo Alfa
+SPELL_ALPHAREPOSITION_DESC,Spostati lateralmente per cambiare angolazione e lancia dardi di Gelo contro i nemici.
+SPELL_ALPHAREPOSITION_NAME,Riposizionamento Alfa
+SPELL_ALTHAEASFLOURISH_DESC,"Marchia fino a tre giocatori vicini e fa piovere una sequenza di aree di Nebbia velenosa sotto ciascuno, infliggendo Danno da decadimento e applicando Veleno ogni secondo."
+SPELL_ALTHAEASFLOURISH_NAME,Fioritura di Althaea
+SPELL_ALTHAEASSPIKES_DESC,"Evoca un ventaglio di spine d'etere davanti all'incantatore, poi lancia ciascuna verso un giocatore vicino scelto a caso."
+SPELL_ALTHAEASSPIKES_NAME,Punte di Althaea
+SPELL_ALTHAEASSWAP_DESC,Si teletrasporta a un nodo santificato vicino o in una posizione sicura casuale a portata.
+SPELL_ALTHAEASSWAP_NAME,Scambio di Althaea
+SPELL_ALTHAEASTIDALWAVE_DESC,"Scatena un'ampia ondata di marea che rimuove gli effetti negativi degli alleati, converte in acqua tutte le pozze vicine e inonda l'area con nuove Pozze d'Acqua."
+SPELL_ALTHAEASTIDALWAVE_NAME,Onda di Marea di Althaea
+SPELL_ARROWOFTHEDEEPCOLD_DESC,Colpire un nemico assiderato con il tuo terzo attacco a distanza scocca da dietro di lui una freccia di ghiaccio gigante che trafigge tutti i nemici sul suo percorso e infligge Danno da ghiaccio.
+SPELL_ARROWOFTHEDEEPCOLD_EFFECT_0,Danno da ghiaccio: (MI:0.71)
+SPELL_ARROWOFTHEDEEPCOLD_NAME,Freccia del Freddo Profondo
+SPELL_ASTRALPURR_DESC,Resta vicino al giocatore ed emette un impulso costante che ripristina Concentrazione nell'arco di 2 secondi.
+SPELL_ASTRALPURR_NAME,Fusa Astrali
+SPELL_ATTACKSWAP_DESC,Passa alla mischia o alla distanza
+SPELL_ATTACKSWAP_NAME,Cambio d'attacco
+SPELL_AUTOATTACK_NAME,Attacco automatico
+SPELL_BACKSTEPSTRIKE_DESC,"Premi per lanciare. Colpisci i nemici davanti a te, infliggendo Danno perforante, poi scatta indietro. Colpire un nemico conferisce Ondata temporale."
+SPELL_BACKSTEPSTRIKE_EFFECT_0,Danno perforante: (PT:1.83)
+SPELL_BACKSTEPSTRIKE_MOD_0,"Passo indietro storpiante: I nemici colpiti vengono rallentati del 15% per 2 secondi, ma Colpo in arretramento infligge il 20% di danno in meno."
+SPELL_BACKSTEPSTRIKE_MOD_1,"Passo indietro esecutore: Infliggi il 30% di danno extra ai nemici sotto il 40% di HP, ma il 50% di danno in meno sopra tale soglia."
+SPELL_BACKSTEPSTRIKE_MOD_2,"Passo indietro ripetuto: al termine dello scatto, colpisci di nuovo in un'area più ampia. Se entrambi gli attacchi vanno a segno, riduci il tempo di recupero di Colpo in arretramento del 50%."
+SPELL_BACKSTEPSTRIKE_MOD_3,"Passo indietro inseguitore: Se Colpo in arretramento colpisce almeno 1 nemico, puoi rilanciarlo entro 2 secondi per scattare in avanti e colpire di nuovo con il 50% del danno. Il secondo colpo non può conferire Ondata temporale."
+SPELL_BACKSTEPSTRIKE_MOD_4,"Passo indietro Riecheggiato: Consuma fino a 5 cariche di Eco temporale sui nemici colpiti per infliggere il 5% di Danno da stordimento extra per Eco consumata, ma Colpo in arretramento non conferisce più Ondata temporale."
+SPELL_BACKSTEPSTRIKE_MOD_5,Passo indietro Echeggiante: Applica 3 cariche di Eco temporale a tutti i nemici colpiti.
+SPELL_BACKSTEPSTRIKE_MOD_6,Passo indietro Lacerante: Applica 3 cariche di Sanguinamento a tutti i nemici colpiti.
+SPELL_BACKSTEPSTRIKE_MOD_7,"Passo indietro Montante: Non ottieni più Ondata temporale quando colpisci un nemico. Invece, se hai Ondata temporale, consumala per infliggere istanze aggiuntive di danno. Ottieni 1 istanza extra per carica di Ondata temporale consumata, fino a 5."
+SPELL_BACKSTEPSTRIKE_NAME,Colpo in arretramento
+SPELL_BARRIER_DESC,Premi per lanciare. Conferisci a un alleato uno scudo protettivo che assorbe danno e decade nell'arco di 3.5 secondi.
+SPELL_BARRIER_EFFECT_0,Scudo: (MH:5.44)
+SPELL_BARRIER_NAME,Barriera
+SPELL_BASH_DESC,"Premi per lanciare. Colpisci davanti a te, infliggendo Danno contundente con Accumulo di stordimento aumentato."
+SPELL_BASH_EFFECT_0,Danno contundente: (PB:1.72)
+SPELL_BASH_NAME,Percossa
+SPELL_BITE_DESC,Balza e mordi il nemico.
+SPELL_BITE_NAME,Morso
+SPELL_BLACKHOLE_DESC,"Premi per lanciare. Apri un Buco Nero nella posizione bersaglio, trascinando tutti i nemici vicini al suo centro."
+SPELL_BLACKHOLE_NAME,Buco Nero
+SPELL_BLADEDANCE_DESC,"Premi per lanciare. Scatena una raffica di 5 colpi, ciascuno dei quali infligge Danno da taglio e applica Sanguinamento."
+SPELL_BLADEDANCE_EFFECT_0,Danno da taglio: (PS:1.35)
+SPELL_BLADEDANCE_EFFECT_1,Sanguinamento: 2
+SPELL_BLADEDANCE_MOD_0,"Danza rimbalzante: Dopo ogni colpo, Danza delle lame cerca un nuovo bersaglio vicino per il colpo successivo, se disponibile. Se non ci sono altri nemici a portata, continua a colpire il bersaglio originale."
+SPELL_BLADEDANCE_MOD_1,Danza dilaniante: Danza delle lame riduce l'Armatura del bersaglio del 10% per colpo per 5 secondi.
+SPELL_BLADEDANCE_MOD_2,"Danza spazzante: Ogni colpo di Danza delle lame infligge anche Danno da taglio in una piccola area attorno al bersaglio colpito, pari al 40% del danno, ma il colpo principale infligge il 20% di danno in meno."
+SPELL_BLADEDANCE_MOD_3,Danza delle stoccate: Danza delle lame infligge Danno perforante.
+SPELL_BLADEDANCE_MOD_4,"Danza Mietente: Ogni colpo di Danza delle lame consuma cariche di Sanguinamento sul bersaglio per infliggere l'8% di danno in più per carica, fino al 40% per colpo. Danza delle lame non applica più Sanguinamento."
+SPELL_BLADEDANCE_MOD_5,Danza Coagulante: Ogni colpo di Danza delle lame consuma 1 carica di Veleno sul bersaglio per applicare 2 cariche aggiuntive di Sanguinamento.
+SPELL_BLADEDANCE_MOD_6,Danza Avvelenante: Ogni colpo di Danza delle lame applica anche 1 carica di Veleno al bersaglio.
+SPELL_BLADEDANCE_MOD_7,Danza Inoculante: Ogni colpo di Danza delle lame conferisce 1 carica di Inoculazione se colpisce un bersaglio avvelenato.
+SPELL_BLADEDANCE_NAME,Danza delle lame
+SPELL_BLAZEBORNEDAGGERS_DESC,"Colpire un nemico con il tuo Attacco finale scatena una scarica di fuoco attorno a lui, infliggendo Danno da fuoco a tutti i nemici vicini e consumando fino a 10 cariche di Ondata temporale; il danno aumenta per ogni carica consumata."
+SPELL_BLAZEBORNEDAGGERS_EFFECT_0,Danno da fuoco: (MF:0.38)
+SPELL_BLAZEBORNEDAGGERS_NAME,Pugnali Nati dalla Fiamma
+SPELL_BLAZINGWRATH_DESC,"Dopo aver consumato Furia, ottieni un'Aura di Fuoco per 5 secondi, che infligge Danno da fuoco e applica Ustione ai nemici vicini ogni secondo. La durata aumenta di 0.5 secondi per ogni Furia consumata."
+SPELL_BLAZINGWRATH_EFFECT_0,Danno da fuoco: (MF:0.64)
+SPELL_BLAZINGWRATH_NAME,Ira Ardente
+SPELL_BLIGHTEDTRAIL_NAME,Scia Infetta
+SPELL_BLIZZARD_DESC,"Premi per lanciare. Crea una tormenta in una posizione bersaglio. Infligge Danno da ghiaccio, applica Gelo ogni secondo e lascia una Pozza di ghiaccio."
+SPELL_BLIZZARD_EFFECT_0,Danno da ghiaccio: (MI:1.85)
+SPELL_BLIZZARD_EFFECT_1,Gelo: 4
+SPELL_BLIZZARD_MOD_0,Tormenta inseguitrice: Tormenta cerca e segue il nemico più vicino. Il raggio e il danno di Tormenta sono ridotti del 20%
+SPELL_BLIZZARD_MOD_1,Tormenta costante: Il raggio di Tormenta aumenta del 15%
+SPELL_BLIZZARD_MOD_2,Tormenta centrata: Tormenta viene lanciata nella tua posizione e ti segue. Il suo raggio e il suo danno aumentano del 25%.
+SPELL_BLIZZARD_MOD_3,Tormenta Frantumante: Tormenta consuma fino a 10 cariche di Gelo per infliggere il 10% di Danno da ghiaccio in più per carica consumata. Tormenta non applica più Gelo e non crea più una Pozza di ghiaccio.
+SPELL_BLIZZARD_MOD_4,Tormenta Fratturante: Tormenta consuma fino a 10 delle tue cariche di Vincolo gelido al lancio. La durata di Tormenta aumenta di 0.5 secondi per ogni carica di Vincolo gelido consumata.
+SPELL_BLIZZARD_MOD_5,"Tormenta Agghiacciante: Tormenta non infligge danno, ma applica 2 cariche aggiuntive di Gelo al secondo e ha un raggio aumentato del 50%."
+SPELL_BLIZZARD_MOD_6,Tormenta del vincolo gelido: Tormenta applica 2 cariche di Vincolo gelido al secondo a tutti gli alleati al suo interno.
+SPELL_BLIZZARD_NAME,Tormenta
+SPELL_BLOODRAGEPOTION_NAME,Pozione della Furia Sanguinaria
+SPELL_BOTTLEOFFIRE_NAME,Bottiglia di Fuoco
+SPELL_BOTTLEOFFIREONDEATH_NAME,Bottiglia di Fuoco alla Morte
+SPELL_BOULDERTOSS_DESC,"Premi per lanciare. Scaglia un masso gigante nella posizione bersaglio, infliggendo Danno contundente e interrompendo tutti i nemici colpiti."
+SPELL_BOULDERTOSS_EFFECT_0,Danno contundente: (PB:4.39)
+SPELL_BOULDERTOSS_MOD_0,"Masso Frantumante: Il masso si frantuma all'impatto, spargendo ulteriori frammenti dannosi."
+SPELL_BOULDERTOSS_MOD_1,Masso d'olio: Il tuo Lancio di masso lascia una Pozza d'Olio.
+SPELL_BOULDERTOSS_MOD_2,"Schianto di masso: Tempo di recupero ridotto a 4 secondi, ma la portata si riduce a quella da mischia e Lancio di masso infligge il 20% di danno in meno."
+SPELL_BOULDERTOSS_MOD_3,Masso Infuriante: Lancio di masso conferisce 5 Furia se colpisce almeno 1 nemico.
+SPELL_BOULDERTOSS_MOD_4,"Masso Furente: Lancio di masso consuma Furia per aumentare il proprio Accumulo di stordimento del 3% per Furia consumata, fino al 30%."
+SPELL_BOULDERTOSS_NAME,Lancio di masso
+SPELL_BRAMBLEFAN_DESC,Scatena un ampio ventaglio di spine di rovo che spazzano l'arena davanti al Re della Foresta corrotto.
+SPELL_BRAMBLEFAN_NAME,Ventaglio di Spine
+SPELL_BRAMBLEFANPLAYER_DESC,"Premi per lanciare. Evoca un ventaglio di rovi verso il bersaglio, infliggendo Danno perforante e applicando Sanguinamento a tutti i nemici trafitti. Ogni Cuore della Foresta vicino genera il proprio Ventaglio di Spine verso il bersaglio."
+SPELL_BRAMBLEFANPLAYER_EFFECT_0,Danno perforante: (PT:0.66)
+SPELL_BRAMBLEFANPLAYER_EFFECT_1,Sanguinamento: 1
+SPELL_BRAMBLEFANPLAYER_NAME,Ventaglio di Spine
+SPELL_BRIARHEARTSTOMP_DESC,"Il Treant pesta il terreno, infliggendo danno in un'ampia area."
+SPELL_BRIARHEARTSTOMP_NAME,Pestone di Briarheart
+SPELL_BURNINGPIT_DESC,Crea una Fossa Ardente
+SPELL_BURNINGPIT_NAME,Fossa Ardente
+SPELL_BURNSALVE_NAME,Unguento per ustioni
+SPELL_CARRIONSWEEP_DESC,"Individua i nemici sanguinanti, poi piomba su di loro, applicando 1 carica aggiuntiva di Sanguinamento al bersaglio e 2 cariche di Sanguinamento a 1 nemico vicino."
+SPELL_CARRIONSWEEP_NAME,Spazzata Carogna
+SPELL_CASTING_NAME,Lancio
+SPELL_CERESAETHERMISSILE_DESC,"Lanciare un incantesimo di Etere evoca un dardo d'etere a ricerca che insegue un nemico vicino, infliggendo Danno da etere all'impatto."
+SPELL_CERESAETHERMISSILE_EFFECT_0,Danno da etere: (MA:1.23)
+SPELL_CERESAETHERMISSILE_NAME,Dardo d'Etere di Ceres
+SPELL_CHILLWINGDESCENT_DESC,"Individua i nemici assiderati, poi piomba su di loro per diffondere 1 carica di Gelo ai nemici vicini."
+SPELL_CHILLWINGDESCENT_NAME,Discesa dell'Ala Gelida
+SPELL_CHRONOSPIKE_DESC,"Premi per lanciare. Compi un breve passo, poi lancia una spina temporale che cerca il nemico con più cariche di danno nel tempo. Anticipa la sua Ustione, il suo Veleno e il suo Sanguinamento: il danno rimanente viene inflitto tutto insieme e ogni carica anticipata aggiunge Danno da etere bonus."
+SPELL_CHRONOSPIKE_EFFECT_0,Danno da etere: (MA:2.4)
+SPELL_CHRONOSPIKE_EFFECT_1,Danno da etere bonus per carica: (MA:0.2)
+SPELL_CHRONOSPIKE_MOD_0,"Spina storpiante: I nemici colpiti da Spina cronale vengono rallentati del 20% per 2 secondi, ma Spina cronale non dà più priorità ai nemici affetti da danno nel tempo."
+SPELL_CHRONOSPIKE_MOD_1,"Spina Scindente: Genera 3 proiettili anziché 1, ciascuno diretto verso un bersaglio diverso e con il 33% del danno iniziale. Il danno bonus resta invariato. I nemici colpiti da più proiettili subiscono molto meno danno dai colpi consecutivi."
+SPELL_CHRONOSPIKE_MOD_2,"Spina invertente: Non anticipa più le cariche di danno nel tempo. Invece le raddoppia, aggiungendone fino a un massimo di 5 per tipo di effetto ad accumulo."
+SPELL_CHRONOSPIKE_MOD_3,Spina Echeggiante: Le cariche anticipate vengono convertite in Eco temporale anziché infliggere Danno da etere bonus. Il loro danno rimanente viene comunque inflitto tutto insieme.
+SPELL_CHRONOSPIKE_MOD_4,Spina Lacerante: Le cariche anticipate vengono convertite in Sanguinamento anziché infliggere Danno da etere bonus. Il loro danno rimanente viene comunque inflitto tutto insieme.
+SPELL_CHRONOSPIKE_MOD_5,Spina Montante: Usare Spina cronale conferisce 3 cariche di Ondata temporale.
+SPELL_CHRONOSPIKE_NAME,Spina cronale
+SPELL_CINDERDETONATION_DESC,"Colpire un nemico ustionato con il tuo terzo attacco scatena un'esplosione infuocata, infliggendo Danno da fuoco."
+SPELL_CINDERDETONATION_EFFECT_0,Danno da fuoco: (MF:0.73)
+SPELL_CINDERDETONATION_NAME,Detonazione di Brace
+SPELL_CIRCLEOFMAGIC_DESC,Premi per lanciare. Crea un Cerchio di Magia per 10 secondi che potenzia del 25% il Danno magico di tutti gli alleati al suo interno.
+SPELL_CIRCLEOFMAGIC_NAME,Cerchio di Magia
+SPELL_CLAW_DESC,Sferra colpi ai nemici davanti a te
+SPELL_CLAW_NAME,Artiglio
+SPELL_CLEARWATER_DESC,Premi per lanciare. Converti tutte le pozze elementali in un'ampia area in Pozze d'Acqua.
+SPELL_CLEARWATER_NAME,Acqua Limpida
+SPELL_CLONEDAGGERTHROW_DESC,"I tuoi Cloni d'ombra lanciano ciascuno un Pugnale d'ombra contro il bersaglio, infliggendo Danno perforante e applicando Sanguinamento con ogni pugnale."
+SPELL_CLONEDAGGERTHROW_EFFECT_0,Danno perforante: (PT:0.66)
+SPELL_CLONEDAGGERTHROW_NAME,Lancio di Pugnale del Clone
+SPELL_CLONESTRIKE_DESC,"I tuoi Cloni d'ombra replicano il tuo attacco, ciascuno colpendo il bersaglio per una parte del tuo danno."
+SPELL_CLONESTRIKE_NAME,Colpo Clone
+SPELL_CLUBSWINGANDSLAM_NAME,Mazzata e Schianto
+SPELL_CLUBSWINGANDSLAMSTUCK_NAME,Mazzata e Schianto Bloccati
+SPELL_COMBATMEDIC_DESC,"Premi per lanciare. Raggiungi rapidamente un alleato e rimuovi tutte le sue cariche di Ustione, Gelo, Veleno, Scossa e Sanguinamento."
+SPELL_COMBATMEDIC_NAME,Medico da Campo
+SPELL_COMMANDATTACK_NAME,Ordine: Attacca
+SPELL_COMMANDDEFEND_NAME,Ordine: Difendi
+SPELL_CONCENTRATION_COST,Concentrazione
+SPELL_CONFLAGRATION_DESC,Premi per lanciare. Diffonde le cariche di Ustione del bersaglio a tutti i nemici vicini. Richiede un bersaglio ustionato.
+SPELL_CONFLAGRATION_NAME,Conflagrazione
+SPELL_CONSUMABLE_NAME,Consumabile
+SPELL_CONTAGION_DESC,Premi per lanciare. Infetta un bersaglio con Veleno e una zona contagiosa che infligge Danno da decadimento e diffonde Veleno ai nemici vicini ogni secondo.
+SPELL_CONTAGION_EFFECT_0,Danno da decadimento: (MD:3.7)
+SPELL_CONTAGION_MOD_0,Contagio Focalizzato: Riduce il raggio della zona di Contagio del 40%. Il bersaglio infetto subisce il 25% di Danno da decadimento in più da Contagio.
+SPELL_CONTAGION_MOD_1,"Trasferimento vettoriale: Se il bersaglio infetto muore mentre Contagio è attivo, Contagio si trasferisce al nemico più vicino a portata e si rinnova al 50% della sua durata rimanente. Trasferimento vettoriale può verificarsi una volta per lancio."
+SPELL_CONTAGION_MOD_2,"Contagio persistente: Quando Contagio termina, la zona contagiosa resta nella posizione finale del bersaglio per 3 secondi. La zona persistente infligge il 50% di Danno da decadimento in meno e non copia più il Veleno applicato al bersaglio originale."
+SPELL_CONTAGION_MOD_3,Nube pandemica: Contagio non si attacca più al bersaglio. Crea invece una zona contagiosa fissa nella posizione del bersaglio per 6 secondi. Il raggio della zona aumenta del 25%.
+SPELL_CONTAGION_MOD_4,"Contagio esplosivo: Quando Contagio termina, esplode, infliggendo Danno da decadimento ai nemici nella zona contagiosa. Il danno dell'esplosione aumenta del 5% per ogni carica di Veleno sul bersaglio infetto, fino al 50%. La durata di Contagio si riduce di 1 secondo."
+SPELL_CONTAGION_MOD_5,Contagio Avvelenante: Contagio applica 3 cariche aggiuntive di Veleno al bersaglio infetto al lancio. La zona contagiosa applica 1 carica aggiuntiva di Veleno al secondo ai nemici al suo interno.
+SPELL_CONTAGION_MOD_6,Contagio Purgante: Contagio consuma fino a 10 cariche di Veleno dal bersaglio infetto al lancio. Ogni carica di Veleno consumata aumenta il Danno da decadimento di Contagio del 5% per tutta la sua durata. Contagio non applica più le sue 5 cariche iniziali di Veleno.
+SPELL_CONTAGION_MOD_7,"Contagio Inoculante: Quando Contagio copia il Veleno dal bersaglio infetto ad almeno un nemico nella zona contagiosa, ottieni 2 cariche di Inoculazione. Può verificarsi una volta ogni 1 secondo."
+SPELL_CONTAGION_MOD_8,Contagio inoculato: Contagio consuma fino a 5 cariche di Inoculazione al lancio. Ogni carica di Inoculazione consumata aumenta il raggio di Contagio del 6% e la durata di 0.5 secondi.
+SPELL_CONTAGION_MOD_9,"Contagio Coagulante: Quando Contagio copia il Veleno dal bersaglio infetto ai nemici nella zona contagiosa, converte parte di quel Veleno copiato in Sanguinamento. Di base, ogni 4 cariche di Veleno copiate applicano invece 1 carica di Sanguinamento, fino alla quantità di Veleno copiato."
+SPELL_CONTAGION_NAME,Contagio
+SPELL_COOLDOWN,Tempo di recupero
+SPELL_COPPERTHROWINGKNIFE_DESC,Lancia un coltello di rame che applica Sanguinamento a ogni nemico che trafigge.
+SPELL_COPPERTHROWINGKNIFE_NAME,Coltello da Lancio di Rame
+SPELL_CORNUCHARGE_DESC,"Premi per lanciare. Carica nella direzione bersaglio, infliggendo Danno contundente al primo mostro colpito e rilasciando un'Onda di Shock che danneggia e interrompe i nemici vicini. Il danno aumenta con la distanza percorsa."
+SPELL_CORNUCHARGE_EFFECT_0,Danno contundente: (PB:2.05)
+SPELL_CORNUCHARGE_MOD_0,Onda di Shock di Cornu: Carica di Cornu ora infligge danno in un'area più ampia all'impatto.
+SPELL_CORNUCHARGE_MOD_1,Carica dell'odore del sangue: Carica di Cornu rimborsa il 35% del proprio tempo di recupero quando colpisce un nemico sanguinante.
+SPELL_CORNUCHARGE_MOD_2,Amplificazione della carica contro storditi: Carica di Cornu infligge il 50% di danno extra ai bersagli storditi.
+SPELL_CORNUCHARGE_MOD_3,"Carica Mietente: Carica di Cornu consuma il Sanguinamento sul nemico colpito per ottenere il 5% di Accumulo di stordimento aggiuntivo per carica di Sanguinamento consumata, fino al 50%."
+SPELL_CORNUCHARGE_MOD_4,Carica Lacerante: Carica di Cornu applica 3 cariche di Sanguinamento al nemico colpito e altre 2 se vicino alla distanza massima.
+SPELL_CORNUCHARGE_MOD_5,Carica Infuriante: Carica di Cornu conferisce 5 Furia quando colpisce un nemico.
+SPELL_CORNUCHARGE_MOD_6,"Carica Furente: Carica di Cornu consuma Furia per infliggere il 5% di danno in più per carica di Furia, fino a un aumento del 50%."
+SPELL_CORNUCHARGE_NAME,Carica di Cornu
+SPELL_CORRUPTEDCLAW_DESC,Sferra colpi ai nemici davanti a te
+SPELL_CORRUPTEDCLAW_NAME,Artiglio Corrotto
+SPELL_CORRUPTEDDROOPKINGERUPT_NAME,Eruzione del Re Droop Corrotto
+SPELL_CORRUPTEDDROOPKINGLUNGE_DESC,Balza verso una posizione bersaglio
+SPELL_CORRUPTEDDROOPKINGLUNGE_NAME,Affondo del Re Droop Corrotto
+SPELL_CORRUPTEDDROOPKINGSPIT_NAME,Sputo del Re Droop Corrotto
+SPELL_CORRUPTEDFORESTKINGPHASECHANGE_DESC,.
+SPELL_CORRUPTEDFORESTKINGPHASECHANGE_NAME,Cambio di Fase del Re della Foresta Corrotto
+SPELL_CORRUPTEDROOTSTOMP_DESC,"Il Treant pesta il terreno, infliggendo danno in un'ampia area."
+SPELL_CORRUPTEDROOTSTOMP_NAME,Pestone di Radici Corrotte
+SPELL_CORRUPTEDTREANTSWIPE_DESC,Sferra colpi ai nemici davanti al Treant
+SPELL_CORRUPTEDTREANTSWIPE_NAME,Fendente di Treant Corrotto
+SPELL_COST,Costo
+SPELL_CRIPPLINGSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpire, infliggendo (AT), rallentando i nemici del 25% per 5 secondi e interrompendoli. Attaccare dopo un colpo a carica completa avvia un Attacco finale."
+SPELL_CRIPPLINGSTRIKE_EFFECT_0,(AT): (PX:2.79)
+SPELL_CRIPPLINGSTRIKE_NAME,Colpo Storpiante
+SPELL_CROSSBOWSWAP_DESC,"La parte di Cambio arma relativa alla balestra. Salta indietro e spara 2 colpi nella direzione bersaglio, ciascuno dei quali infligge Danno perforante."
+SPELL_CROSSBOWSWAP_NAME,Cambio a balestra
+SPELL_CROWNBREAKERSWEEP_DESC,"Ampia spazzata di una mazza di rottami che attraversa la sala, lasciando solo un piccolo spazio sicuro accanto al braccio."
+SPELL_CROWNBREAKERSWEEP_NAME,Spazzata Spaccacorona
+SPELL_DECAYBURST_DESC,"Una scarica tossica di decadimento erutta attorno al bersaglio, infliggendo Danno da decadimento a tutti i nemici vicini."
+SPELL_DECAYBURST_EFFECT_0,Danno da decadimento: (MD:0.61)
+SPELL_DECAYBURST_NAME,Scarica di Decadimento
+SPELL_DESCRIPTION,Descrizione
+SPELL_DEVOUR_DESC,"Premi per lanciare. Divora il nemico davanti a te, infliggendo Danno da taglio che aumenta quanto più bassa è la salute del nemico. Uccidere un nemico con Divorare ti conferisce uno scudo protettivo."
+SPELL_DEVOUR_EFFECT_0,Danno da taglio: (PS:3.05)
+SPELL_DEVOUR_NAME,Divorare
+SPELL_DEVOURCALL_DESC,"Richiama goblin da divorare, ripristinando la vitalità del Re Goblin."
+SPELL_DEVOURCALL_NAME,Richiamo Divoratore
+SPELL_DRAGONSBREATH_DESC,"Premi per lanciare. Sprigiona un flusso di fuoco per 2.5 secondi, lanciando 6 proiettili che infliggono Danno da fuoco e applicano Ustione. Durante il lancio resti bloccato sul posto."
+SPELL_DRAGONSBREATH_EFFECT_0,Danno da fuoco: (MF:2.14)
+SPELL_DRAGONSBREATH_EFFECT_1,Ustione: 1
+SPELL_DRAGONSBREATH_MOD_0,"Drago concentrato: Soffio del Drago non applica più Ustione, ma infligge il 50% di Danno da fuoco in più."
+SPELL_DRAGONSBREATH_MOD_1,"Drago remoto: Soffio del Drago inizia il lancio dalla tua posizione attuale e non ti blocca più sul posto. Puoi muoverti dopo il lancio, ma Soffio del Drago resta nella posizione di lancio originale per tutta la sua durata."
+SPELL_DRAGONSBREATH_MOD_2,"Drago canalizzato: Soffio del Drago diventa un incantesimo da canalizzare tenendo premuto. Durante la canalizzazione, Soffio del Drago lancia proiettili senza sosta, infliggendo Danno da fuoco ridotto del 25% e applicando Ustione. Rilasciare la canalizzazione termina Soffio del Drago in anticipo. Tempo di recupero ridotto a 3 secondi."
+SPELL_DRAGONSBREATH_MOD_3,"Drago comburente: Ogni proiettile di Soffio del Drago consuma fino a 1 carica di Ustione da ogni nemico colpito. Per ogni carica di Ustione consumata, quel proiettile infligge il 12% di Danno da fuoco in più a quel nemico. Soffio del Drago non applica più Ustione."
+SPELL_DRAGONSBREATH_MOD_4,"Drago Fiammeggiante: Ogni proiettile di Soffio del Drago consuma 1 delle tue cariche di Ravvivato quando colpisce un nemico. Per ogni carica di Ravvivato consumata, quel proiettile infligge il 10% di Danno da fuoco in più."
+SPELL_DRAGONSBREATH_MOD_5,"Drago dell'Incendio Selvaggio: Quando un proiettile di Soffio del Drago applica Ustione a un nemico, applica anche 1 carica di Ustione a un massimo di 2 nemici vicini."
+SPELL_DRAGONSBREATH_MOD_6,Drago Agghiacciante: Soffio del Drago infligge il 50% di Danno da fuoco e il 50% di Danno da ghiaccio e applica Gelo anziché Ustione.
+SPELL_DRAGONSBREATH_NAME,Soffio del Drago
+SPELL_DROOPKINGERUPT_NAME,Eruzione del Re Droop
+SPELL_DROOPKINGLUNGE_DESC,Balza verso una posizione bersaglio
+SPELL_DROOPKINGLUNGE_NAME,Affondo del Re Droop
+SPELL_DROOPKINGSPIT_NAME,Sputo del Re Droop
+SPELL_DROOPLUNGE_DESC,Balza verso una posizione bersaglio
+SPELL_DROOPLUNGE_NAME,Affondo di Droop
+SPELL_DROOPSPIT_NAME,Sputo di Droop
+SPELL_ECHOESOFMUTILATION_DESC,"Premi per lanciare. Scatta in avanti e colpisci 3 volte, infliggendo Danno perforante a tutti i nemici a portata e convertendo fino a 10 cariche di Ondata temporale in cariche di Colpo doppio."
+SPELL_ECHOESOFMUTILATION_EFFECT_0,Danno perforante: (PT:1.89)
+SPELL_ECHOESOFMUTILATION_MOD_0,"Mutilazione espansiva: Aumenta il raggio dei colpi del 50%, ma ogni colpo infligge il 20% di danno in meno."
+SPELL_ECHOESOFMUTILATION_MOD_1,"Mutilazione ripetuta: Al termine dello scatto, un'immagine residua ripete i colpi con il 40% del danno. Echi di mutilazione conferisce il 50% di cariche di Colpo doppio in meno."
+SPELL_ECHOESOFMUTILATION_MOD_2,"Mutilazione inseguitrice: Se almeno un nemico viene colpito da tutti i colpi, puoi rilanciare entro 2 secondi per scattare verso un bersaglio vicino e ripetere il colpo finale con il 50% del danno. Il rilancio non può conferire Colpo doppio."
+SPELL_ECHOESOFMUTILATION_MOD_3,"Mutilazione in ritirata: Dopo il colpo finale, scatta indietro per una breve distanza."
+SPELL_ECHOESOFMUTILATION_MOD_4,"Mutilazione Mietente: Consuma tutto il Sanguinamento sui nemici colpiti dal colpo finale. Per ogni carica di Sanguinamento consumata, ottieni 1 carica di Colpo doppio, fino a un limite di 10. Echi di mutilazione non ottiene più Colpo doppio da Ondata temporale."
+SPELL_ECHOESOFMUTILATION_MOD_5,Mutilazione Lacerante: I colpi iniziali applicano Sanguinamento.
+SPELL_ECHOESOFMUTILATION_MOD_6,"Mutilazione Riecheggiata: Consuma tutta l'Eco temporale sui nemici colpiti dal colpo finale per infliggere il 15% di Danno da stordimento extra e rallentarli del 30% per 2 secondi, ma Echi di mutilazione non conferisce più Colpo doppio."
+SPELL_ECHOESOFMUTILATION_MOD_7,"Mutilazione Echeggiante: Applica 1 carica di Eco temporale con ogni colpo, ma Echi di mutilazione conferisce il 50% di cariche di Colpo doppio in meno."
+SPELL_ECHOESOFMUTILATION_NAME,Echi di Mutilazione
+SPELL_ECHORIFT_DESC,"Premi per lanciare. Scatta verso una posizione bersaglio e scatena una scarica di energia temporale, infliggendo Danno da etere e rallentando i nemici colpiti. Dopo un breve ritardo, la scarica riecheggia con danno ridotto. Se entrambe le scariche colpiscono, rimborsa il 35% del tuo tempo di recupero più breve."
+SPELL_ECHORIFT_EFFECT_0,Danno da etere: (MA:2.91)
+SPELL_ECHORIFT_EFFECT_1,Danno dell'Eco: (MA:0.96)
+SPELL_ECHORIFT_EFFECT_2,Rallentamento: 15%
+SPELL_ECHORIFT_MOD_0,"Fenditura fratturata: Dopo il secondo impulso, crea un terzo impulso ritardato con il 33% del danno. Fenditura d'eco non rimborsa più il tempo di recupero."
+SPELL_ECHORIFT_MOD_1,"Fenditura Focalizzata: Riduce il raggio della Fenditura del 35%, ma conferisce un ulteriore rimborso del 10% del tempo di recupero quando entrambi gli impulsi colpiscono."
+SPELL_ECHORIFT_MOD_2,"Fenditura recedente: Il secondo impulso si verifica nella tua posizione attuale anziché nel punto di lancio originale, ma infligge solo il 60% del danno."
+SPELL_ECHORIFT_MOD_3,"Fenditura Montante: Dopo il secondo impulso, ottieni 2 cariche di Ondata temporale per ogni nemico colpito due volte."
+SPELL_ECHORIFT_MOD_4,"Fenditura Montante: Al lancio, consuma fino a 5 cariche di Ondata temporale. Per ogni carica di Ondata consumata, aumenta del 4% il rimborso del tempo di recupero di Fenditura d'eco."
+SPELL_ECHORIFT_MOD_5,"Fenditura Echeggiante: Il secondo impulso applica 3 cariche di Eco temporale a ogni nemico colpito, ma non infligge più danno."
+SPELL_ECHORIFT_MOD_6,"Fenditura Riecheggiata: Il primo impulso consuma fino a 10 cariche di Eco temporale sui nemici colpiti. Per ogni carica di Eco temporale consumata, aumenta il raggio del secondo impulso del 4% e il suo Rallentamento del 5%"
+SPELL_ECHORIFT_NAME,Fenditura d'eco
+SPELL_ELFFINALATTACK_DESC,Attacco base in mischia dell'Elfo
+SPELL_ELFFINALATTACK_NAME,Attacco Finale dell'Elfo
+SPELL_ELFMELEEATTACK_DESC,Attacco base in mischia dell'Elfo
+SPELL_ELFMELEEATTACK_NAME,Attacco in Mischia dell'Elfo
+SPELL_EMBERCASCADE_DESC,"Colpire un nemico ustionato con un attacco a distanza lancia una piccola palla di fuoco contro il bersaglio, infliggendo Danno da fuoco. Il numero di palle di fuoco aumenta con le cariche di Ustione del bersaglio, fino a 10."
+SPELL_EMBERCASCADE_EFFECT_0,Danno da fuoco: (MF:0.1)
+SPELL_EMBERCASCADE_NAME,Cascata di Brace
+SPELL_EMPOWERWOLF_DESC,Potenzia i Lupi vicini con il tuo potere
+SPELL_EMPOWERWOLF_NAME,Potenzia Lupo
+SPELL_ENLARGE_NAME,Ingrandimento
+SPELL_ENTANGLINGROOTS_DESC,"Evoca radici nella posizione bersaglio, poi le tira verso l'incantatore"
+SPELL_ENTANGLINGROOTS_NAME,Radici Avviluppanti
+SPELL_ENTANGLINGROOTSPLAYER_DESC,"Premi per lanciare. Evoca radici nella posizione bersaglio che attirano i nemici verso di te, infliggendo Danno da taglio, rallentandoli e applicando Veleno."
+SPELL_ENTANGLINGROOTSPLAYER_EFFECT_0,Danno da taglio: (PS:5.18)
+SPELL_ENTANGLINGROOTSPLAYER_EFFECT_1,Veleno: 2
+SPELL_ENTANGLINGROOTSPLAYER_EFFECT_2,Riduzione Velocità di movimento: 25%
+SPELL_ENTANGLINGROOTSPLAYER_MOD_0,Fiore di Radici: Radici Avviluppanti ora evoca 3 radici in un cono.
+SPELL_ENTANGLINGROOTSPLAYER_NAME,Radici Avviluppanti
+SPELL_ERUPT_NAME,Eruzione
+SPELL_ERUPTPLAYER_DESC,"Tieni premuto per caricare. Rilascia per scatenare una scarica d'acqua, infliggendo Danno contundente ai nemici vicini, respingendoli e lasciando Pozze d'Acqua. La potenza aumenta con il tempo di carica."
+SPELL_ERUPTPLAYER_EFFECT_0,Danno contundente: (PB:2.83)
+SPELL_ERUPTPLAYER_NAME,Eruzione
+SPELL_EVERBURNMORTAR_DESC,"Lanciare un incantesimo di Fuoco scaglia un proiettile incendiario di mortaio contro un nemico vicino, infliggendo Danno da fuoco in una piccola area all'impatto."
+SPELL_EVERBURNMORTAR_EFFECT_0,Danno da fuoco: (MF:0.68)
+SPELL_EVERBURNMORTAR_NAME,Mortaio Eternofuoco
+SPELL_EXPLOSIVEFLASK_DESC,Lancia una fiasca che crea una Fossa Ardente all'atterraggio.
+SPELL_EXPLOSIVEFLASK_NAME,Fiasca Esplosiva
+SPELL_FAIRYINVULNERABLE_DESC,"Rimpicciolisciti e diventa invincibile per un breve periodo, muovendoti più lentamente per la sua durata."
+SPELL_FAIRYINVULNERABLE_NAME,Fata Invulnerabile
+SPELL_FIREBALL_DESC,"Premi per lanciare. Lancia una palla di fuoco contro un nemico, infliggendo Danno da fuoco e applicando Ustione."
+SPELL_FIREBALL_EFFECT_0,Danno da fuoco: (MF:2.2)
+SPELL_FIREBALL_EFFECT_1,Ustione: 2
+SPELL_FIREBALL_MOD_0,"Impatto esplosivo: All'impatto, Palla di fuoco ora scatena un'esplosione che infligge Danno da fuoco in un'area."
+SPELL_FIREBALL_MOD_1,"Palla di fuoco carica: Palla di fuoco diventa un incantesimo da caricare tenendo premuto. Carica Palla di fuoco per un massimo di 1.5 secondi. A carica completa, Palla di fuoco infligge il 50% di Danno da fuoco in più e viaggia il 20% più velocemente."
+SPELL_FIREBALL_MOD_2,"Braci rapide: Il danno di Palla di fuoco è ridotto del 50%, ma il tempo di recupero si riduce del 40%."
+SPELL_FIREBALL_MOD_3,"Palla di fuoco penetrante: Palla di fuoco attraversa i nemici, infliggendo danno a ogni nemico colpito e attivando Impatto esplosivo a ogni colpo, ma non alla fine. Palla di fuoco infligge il 30% di danno in meno."
+SPELL_FIREBALL_MOD_4,Palla di fuoco incendiaria: Palla di fuoco applica 2 cariche aggiuntive di Ustione ai nemici colpiti.
+SPELL_FIREBALL_MOD_5,"Palla di fuoco comburente: Palla di fuoco consuma fino a 10 cariche di Ustione da ogni nemico colpito. Per ogni carica di Ustione consumata, Palla di fuoco infligge il 12% di Danno da fuoco in più a quel nemico."
+SPELL_FIREBALL_MOD_6,"Palla di fuoco d'Innesco: Palla di fuoco non applica più Ustione, ma conferisce 1 carica di Ravvivato per ogni nemico ustionato colpito."
+SPELL_FIREBALL_MOD_7,"Palla di fuoco Fiammeggiante: Palla di fuoco consuma fino a 10 delle tue cariche di Ravvivato al lancio. Per ogni carica di Ravvivato consumata, Palla di fuoco infligge il 10% di Danno da fuoco in più."
+SPELL_FIREBALL_MOD_8,Palla di fuoco Incandescente: Palla di fuoco consuma Gelo da ogni nemico colpito per applicare 1 carica di Ustione ogni 4 cariche di Gelo consumate.
+SPELL_FIREBALL_NAME,Palla di fuoco
+SPELL_FIREBURST_DESC,"Premi per lanciare. Accumula energia infuocata, poi rilasciala in una scarica attorno a te, infliggendo Danno da fuoco e applicando Ustione."
+SPELL_FIREBURST_EFFECT_0,Danno da fuoco: (MF:2.54)
+SPELL_FIREBURST_EFFECT_1,Ustione: 2
+SPELL_FIREBURST_NAME,Scoppio di Fuoco
+SPELL_FLAMEBOUNDCHARGE_DESC,"Scatta attraverso i nemici lungo una breve linea, lasciando una fossa di fuoco a destinazione, infliggendo Danno da fuoco e applicando Ustione a tutti i nemici colpiti."
+SPELL_FLAMEBOUNDCHARGE_NAME,Carica Infuocata
+SPELL_FLAMECALLERPIT_NAME,Fossa dell'Evocafiamme
+SPELL_FLAMINGOIL_NAME,Olio Fiammeggiante
+SPELL_FLAMINGSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpire, infliggendo danno suddiviso tra (AT) e Danno da fuoco, applicando fino a 5 cariche di Ustione e interrompendo i nemici colpiti. Attaccare dopo un colpo a carica completa avvia un Attacco finale."
+SPELL_FLAMINGSTRIKE_EFFECT_0,(AT): (PX:1.52)
+SPELL_FLAMINGSTRIKE_EFFECT_1,Danno da fuoco: (MF:1.52)
+SPELL_FLAMINGSTRIKE_NAME,Colpo Fiammeggiante
+SPELL_FLORALFLOURISH_NAME,Fioritura Floreale
+SPELL_FORESTHEARTBRAMBLEFAN_DESC,Scatena un ampio ventaglio di spine di rovo che spazzano l'arena davanti al Re della Foresta corrotto.
+SPELL_FORESTHEARTBRAMBLEFAN_NAME,Ventaglio di Spine del Cuore della Foresta
+SPELL_FORESTHEARTHEARTBOUNDTETHER_DESC,Il Cuore della Foresta sferza i giocatori vicini con liane viventi.
+SPELL_FORESTHEARTHEARTBOUNDTETHER_NAME,Legame del Cuore della Foresta
+SPELL_FORESTHEARTMANAGER_DESC,Mantiene il numero di Cuori della Foresta che proteggono il Re della Foresta corrotto.
+SPELL_FORESTHEARTMANAGER_NAME,Gestore del Cuore della Foresta
+SPELL_FORESTHEARTRESINGEYSER_DESC,I Cuori della Foresta replicano lo sbarramento di resina del Re con geyser più piccoli.
+SPELL_FORESTHEARTRESINGEYSER_NAME,Geyser di Resina del Cuore della Foresta
+SPELL_FORESTHEARTSAPBLOOM_DESC,"I Cuori della Foresta replicano la Fioritura di Linfa del Re, attirando bruscamente i nemici vicini verso l'interno prima di esplodere."
+SPELL_FORESTHEARTSAPBLOOM_NAME,Fioritura di Linfa del Cuore della Foresta
+SPELL_FRENZIEDSLASHES_NAME,Tagli Frenetici
+SPELL_FRENZIEDSLASHESPLAYER_DESC,"Scatena una rapida raffica di fendenti attorno a te, infliggendo Danno da taglio e applicando Sanguinamento con ogni colpo."
+SPELL_FRENZIEDSLASHESPLAYER_EFFECT_0,Danno da taglio: (PS:2.13)
+SPELL_FRENZIEDSLASHESPLAYER_EFFECT_1,Sanguinamento: 2
+SPELL_FRENZIEDSLASHESPLAYER_NAME,Tagli Frenetici
+SPELL_FRENZY_DESC,Premi per lanciare. Ottieni 5 Furia e il 50% di Velocità d'attacco in più per 2 secondi.
+SPELL_FRENZY_EFFECT_0,Bonus alla Velocità d'attacco: 50%
+SPELL_FRENZY_MOD_0,"Frenesia persistente: Aumenta la durata di Frenesia del 100%, ma riduce la Velocità d'attacco ottenuta del 60%."
+SPELL_FRENZY_MOD_1,"Frenesia del sangue impetuoso: Mentre Frenesia è attiva, ottieni il 30% di Velocità di movimento."
+SPELL_FRENZY_MOD_2,"Frenesia Mietente: Frenesia consuma il Sanguinamento sui nemici vicini per ottenere l'1% di Velocità d'attacco in più per carica di Sanguinamento consumata, fino al 25%."
+SPELL_FRENZY_MOD_3,"Frenesia Lacerante: Frenesia non conferisce più Furia. Invece, mentre Frenesia è attiva, ogni terzo attacco applica 2 cariche di Sanguinamento."
+SPELL_FRENZY_MOD_4,"Frenesia Infuriante: Frenesia conferisce altre 3 Furia al lancio, ma il suo bonus alla Velocità d'attacco è ridotto del 25%"
+SPELL_FRENZY_MOD_5,Frenesia Furente: Frenesia non conferisce più Furia. Consuma invece fino a 10 Furia per aumentare la sua durata del 10% per Furia consumata.
+SPELL_FRENZY_NAME,Frenesia
+SPELL_FROSTBORNEDAGGERS_DESC,"Colpire un nemico con il tuo Attacco finale mentre ha almeno 5 cariche di Eco temporale consuma tutta l'Eco temporale, scatenando una scarica di ghiaccio che applica a tutti i nemici vicini Gelo pari all'Eco temporale consumata."
+SPELL_FROSTBORNEDAGGERS_NAME,Pugnali Nati dal Gelo
+SPELL_FROSTBOUNDCHILL_NAME,Gelo Vincolo gelido
+SPELL_FROSTBOUNDPOTION_NAME,Pozione del Vincolo Gelido
+SPELL_FROSTEDOIL_NAME,Olio Gelido
+SPELL_FROSTGLIDE_DESC,"Premi per lanciare. Scatta nella direzione di movimento, infliggendo Danno da ghiaccio e applicando Gelo a tutti i nemici sul tuo percorso. Lascia Pozze di ghiaccio. Puoi controllarla durante il movimento."
+SPELL_FROSTGLIDE_EFFECT_0,Danno da ghiaccio: (MI:4.67)
+SPELL_FROSTGLIDE_EFFECT_1,Gelo: 2
+SPELL_FROSTGLIDE_MOD_0,"Carica extra di Scivolata gelida: Scivolata gelida ottiene 1 carica extra, consentendo 2 lanci. Il danno di Scivolata gelida è ridotto del 30%."
+SPELL_FROSTGLIDE_MOD_1,"Scivolata glaciale: Scivolata gelida consuma le Pozze di ghiaccio che attraversi, aumentando il Danno da ghiaccio di Scivolata gelida del 10% per Pozza di ghiaccio consumata. Scivolata gelida non lascia più Pozze di ghiaccio."
+SPELL_FROSTGLIDE_MOD_2,"Scivolata ricongelante: Scivolata gelida rinnova la durata del Gelo sui nemici colpiti, ma infligge il 20% di danno in meno."
+SPELL_FROSTGLIDE_MOD_3,"Scivolata ancorata: Scivolata gelida non ti sposta più. Invece, invii una scia gelida verso la posizione bersaglio che infligge Danno da ghiaccio, applica Gelo e lascia Pozze di ghiaccio."
+SPELL_FROSTGLIDE_MOD_4,Scivolata Frantumante: Scivolata gelida consuma fino a 10 cariche di Gelo sui nemici per infliggere al nemico il 5% di danno in più per carica.
+SPELL_FROSTGLIDE_MOD_5,Scivolata Agghiacciante: Scivolata gelida applica 2 cariche aggiuntive di Gelo ai nemici colpiti
+SPELL_FROSTGLIDE_MOD_6,Scivolata Incandescente: Scivolata gelida consuma Gelo dai nemici colpiti per applicare 1 carica di Ustione ogni 4 cariche di Gelo consumate
+SPELL_FROSTGLIDE_MOD_7,"Ondata Fratturante: Al termine di Scivolata gelida, consuma fino a 10 delle tue cariche di Vincolo gelido per creare un'Ondata criogenica che infligge il 10% del danno di Scivolata gelida per carica di Vincolo gelido consumata."
+SPELL_FROSTGLIDE_MOD_8,Scivolata del vincolo gelido: Scivolata gelida conferisce 2 cariche di Vincolo gelido per ogni nemico assiderato che colpisci. Scivolata gelida non applica più Gelo.
+SPELL_FROSTGLIDE_NAME,Scivolata gelida
+SPELL_FROSTJAVELIN_DESC,"Tieni premuto per caricare. Rilascia per lanciare un giavellotto di ghiaccio, infliggendo Danno da ghiaccio e consumando fino a 10 cariche di Gelo dal bersaglio per il 4% di danno e Accumulo di stordimento extra per carica. I nemici colpiti vengono rallentati del 30% per 6 secondi."
+SPELL_FROSTJAVELIN_EFFECT_0,Danno da ghiaccio: (MI:6.94)
+SPELL_FROSTJAVELIN_EFFECT_1,Riduzione Velocità di movimento: 30%
+SPELL_FROSTJAVELIN_MOD_0,"Giavellotto Scindente: Giavellotto gelido si frantuma all'impatto, infliggendo danno in un cono dietro il bersaglio."
+SPELL_FROSTJAVELIN_MOD_1,"Giavellotto penetrante: Giavellotto gelido attraversa i nemici, infliggendo danno a ogni nemico attraversato."
+SPELL_FROSTJAVELIN_MOD_10,"Giavellotto Fratturante: Giavellotto gelido consuma fino a 10 delle tue cariche di Vincolo gelido al lancio. Per ogni carica di Vincolo gelido consumata, Giavellotto gelido infligge il 5% di Danno da ghiaccio e il 5% di Accumulo di stordimento in più, fino al 50%."
+SPELL_FROSTJAVELIN_MOD_2,Giavellotto costante: La velocità del proiettile di Giavellotto gelido aumenta del 20%.
+SPELL_FROSTJAVELIN_MOD_3,"Giavellotto pesante: Giavellotto gelido viaggia il 25% più lentamente, ma infligge il 25% di Danno da ghiaccio e il 25% di Accumulo di stordimento in più."
+SPELL_FROSTJAVELIN_MOD_4,"Giavellotto canalizzato: Giavellotto gelido diventa un incantesimo da canalizzare tenendo premuto. Durante la canalizzazione, lancia senza sosta Giavellotti gelidi minori che infliggono il 25% del danno e consumano il 50% in meno di cariche massime di Gelo per colpo. Il tempo di recupero si riduce a 3 secondi."
+SPELL_FROSTJAVELIN_MOD_5,"Giavellotto Frantumante: Giavellotto gelido rilascia un'Onda di Shock all'impatto, infliggendo il 50% del danno di Giavellotto gelido ai nemici vicini e al primo nemico colpito. Il danno e il raggio dell'Onda di Shock aumentano in base al Gelo consumato dal primo bersaglio colpito"
+SPELL_FROSTJAVELIN_MOD_6,Giavellotto Incandescente: Giavellotto gelido consuma Gelo dal primo nemico colpito per applicare 1 carica di Ustione ogni 4 cariche di Gelo consumate.
+SPELL_FROSTJAVELIN_MOD_7,"Giavellotto Agghiacciante: Giavellotto gelido non consuma più Gelo, ma applica 5 cariche di Gelo ai nemici colpiti."
+SPELL_FROSTJAVELIN_MOD_8,"Giavellotto di fuoco gelido: Giavellotto gelido consuma fino a 10 cariche di Ustione dal primo nemico colpito. Per ogni carica di Ustione consumata, Giavellotto gelido infligge il 4% di Danno da ghiaccio in più, fino al 40%."
+SPELL_FROSTJAVELIN_MOD_9,"Giavellotto scheggiante: Ogni 2 cariche di Gelo consumate, Giavellotto gelido lancia 1 frammento contro un nemico vicino, infliggendo il 20% del danno di Giavellotto gelido."
+SPELL_FROSTJAVELIN_NAME,Giavellotto gelido
+SPELL_FROSTQUAKE_DESC,"Mentre sei in combattimento, ogni secondo un tremore colpisce un nemico assiderato vicino scelto a caso, infliggendo Danno contundente."
+SPELL_FROSTQUAKE_EFFECT_0,Danno contundente: (PB:1.02)
+SPELL_FROSTQUAKE_NAME,Sisma Gelido
+SPELL_FROZENSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpire, infliggendo danno suddiviso tra (AT) e Danno da ghiaccio, applicando fino a 5 cariche di Gelo e interrompendo i nemici colpiti. Attaccare dopo un colpo a carica completa avvia un Attacco finale."
+SPELL_FROZENSTRIKE_EFFECT_0,(AT): (PX:1.66)
+SPELL_FROZENSTRIKE_EFFECT_1,Danno da ghiaccio: (MI:1.66)
+SPELL_FROZENSTRIKE_NAME,Colpo Congelato
+SPELL_FURIOUSSTRIKE_DESC,"Premi per lanciare. Scatta verso il bersaglio e colpisci, infliggendo Danno da taglio. Il lancio costa Salute."
+SPELL_FURIOUSSTRIKE_EFFECT_0,Danno da taglio: (PS:5.43)
+SPELL_FURIOUSSTRIKE_MOD_0,Colpo ripetuto: Il tempo di recupero di Colpo furioso si azzera all'uccisione.
+SPELL_FURIOUSSTRIKE_MOD_1,"Colpo Contundente: Colpo furioso ora infligge Danno contundente, ma infligge il 20% di danno in meno."
+SPELL_FURIOUSSTRIKE_MOD_2,"Colpo scheggiante: Colpo furioso infligge il 20% di danno in meno, ma al colpo fa spruzzare sangue al bersaglio in una piccola area, infliggendo danno ai nemici vicini. Il colpo ad area eredita il modificatore della soglia effetto selezionato per Colpo furioso."
+SPELL_FURIOUSSTRIKE_MOD_3,Colpo Lacerante: Colpo furioso applica 5 cariche di Sanguinamento.
+SPELL_FURIOUSSTRIKE_MOD_4,Colpo Infuriante: Colpo furioso conferisce 1 Furia ogni 3 cariche di Sanguinamento sul bersaglio.
+SPELL_FURIOUSSTRIKE_MOD_5,"Colpo Mietente: Colpo furioso consuma il Sanguinamento sul bersaglio per infliggere il 6% di danno in più per carica di Sanguinamento consumata, fino al 60%."
+SPELL_FURIOUSSTRIKE_NAME,Colpo furioso
+SPELL_GOBLINTOSS_DESC,Scaglia un goblin sfortunato che esplode all'impatto e richiama un Goblin Squartatore.
+SPELL_GOBLINTOSS_NAME,Lancio di Goblin
+SPELL_GOBLINTOSSPLAYER_DESC,"Premi per lanciare. Fai cadere un mucchio di rottami con un Goblin al suo interno, infliggendo Danno da taglio ai nemici colpiti. Lascia un Goblin alleato che combatte per 8 secondi."
+SPELL_GOBLINTOSSPLAYER_EFFECT_0,Danno da taglio: (PS:4.2)
+SPELL_GOBLINTOSSPLAYER_NAME,Lancio di Goblin
+SPELL_GOBOCHARGE_NAME,Carica Gobo
+SPELL_GOTBURGFIRE_NAME,Fuoco di Gotburg
+SPELL_GUST_DESC,"Premi per lanciare. Emetti una raffica di vento, respingendo i nemici, rallentandoli brevemente e applicando Gelo."
+SPELL_GUST_EFFECT_0,Gelo: 4
+SPELL_GUST_NAME,Raffica
+SPELL_HAILOFARROWS_DESC,"Tieni premuto per canalizzare. Ogni secondo, le frecce colpiscono l'area bersaglio, infliggendo Danno perforante a tutti i nemici al suo interno e applicando Veleno."
+SPELL_HAILOFARROWS_EFFECT_0,Danno perforante: (PT:0.79)
+SPELL_HAILOFARROWS_EFFECT_1,Veleno: 2
+SPELL_HAILOFARROWS_MOD_0,Sbarramento di frecce: Pioggia di Frecce non è più canalizzata e ha un Tempo di recupero di 8 secondi. Premi per lanciare e richiama frecce che colpiscono fino a 6 nemici.
+SPELL_HAILOFARROWS_MOD_1,Pozza d'Olio: Le frecce ora lasciano una Pozza d'Olio nel punto d'impatto
+SPELL_HAILOFARROWS_MOD_2,Pozza di Veleno: Le frecce ora lasciano una Pozza di Veleno nel punto d'impatto.
+SPELL_HAILOFARROWS_MOD_3,"Grandine bloccante: Pioggia di Frecce rallenta i nemici del 35% per 2 secondi, ma i suoi impulsi sono più lenti del 20%"
+SPELL_HAILOFARROWS_MOD_4,Grandine Lacerante: Pioggia di Frecce ora applica 2 cariche di Sanguinamento anziché Veleno.
+SPELL_HAILOFARROWS_MOD_5,"Grandine Purgante: Pioggia di Frecce non applica più Veleno. Ogni impulso consuma fino a 10 cariche di Veleno sui nemici colpiti, infliggendo il 5% di danno in più per carica di Veleno consumata."
+SPELL_HAILOFARROWS_MOD_6,Grandine Inoculante: Ogni impulso di Pioggia di Frecce conferisce 1 carica di Inoculazione per ogni nemico avvelenato colpito.
+SPELL_HAILOFARROWS_MOD_7,Grandine inoculata: Pioggia di Frecce consuma Inoculazione durante la canalizzazione. Ogni impulso consuma 1 carica di Inoculazione per applicare 2 cariche aggiuntive di Veleno ai nemici colpiti.
+SPELL_HAILOFARROWS_MOD_8,Grandine Corrompente: Ogni impulso di Pioggia di Frecce consuma fino a 3 cariche di Sanguinamento sui nemici colpiti e applica 1 carica di Veleno per carica di Sanguinamento consumata.
+SPELL_HAILOFARROWS_NAME,Pioggia di Frecce
+SPELL_HASTE_DESC,Premi per lanciare. Conferisci a un alleato Velocità di movimento aumentata per 7 secondi.
+SPELL_HASTE_NAME,Celerità
+SPELL_HEALTH_COST,Salute
+SPELL_HEARTBOUNDTETHER_DESC,Ordina ai Cuori della Foresta di sferzare i giocatori con liane avviluppanti.
+SPELL_HEARTBOUNDTETHER_NAME,Legame del Cuore
+SPELL_HEAVYSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpire, infliggendo (AT) e interrompendo i nemici colpiti. Attaccare dopo un colpo a carica completa avvia un Attacco finale."
+SPELL_HEAVYSTRIKE_EFFECT_0,(AT): (PX:2.4)
+SPELL_HEAVYSTRIKE_NAME,Colpo Pesante
+SPELL_HUMANMELEEATTACK_DESC,Attacco base in mischia dell'Umano
+SPELL_HUMANMELEEATTACK_NAME,Attacco in Mischia dell'Umano
+SPELL_HUNTERSTRAP_DESC,"Premi per lanciare. Scocca una freccia che piazza una trappola per 10 secondi. I nemici che la attivano subiscono Danno perforante e Accumulo di stordimento aumentato. Trappola del Cacciatore consuma Veleno per infliggere il 4% di danno in più, fino al 40%. Se Trappola del Cacciatore uccide un mostro avvelenato, questo esplode in una Nebbia velenosa che applica Veleno e infligge Danno da decadimento. La Nebbia velenosa si dissipa dopo 6 secondi."
+SPELL_HUNTERSTRAP_EFFECT_0,Danno perforante: (PT:4.77)
+SPELL_HUNTERSTRAP_MOD_0,Trappola dispersiva: Trappola del Cacciatore ora sparge 5 trappole casualmente in un'ampia area; il danno e l'Accumulo di stordimento di ogni trappola si riducono del 60% e le Cariche si riducono a 1.
+SPELL_HUNTERSTRAP_MOD_1,"Trappola rapida: Trappola del Cacciatore non ha più un ritardo di attivazione, ma infligge il 20% di danno e Accumulo di stordimento in meno."
+SPELL_HUNTERSTRAP_MOD_2,Trappola a scarica velenosa: Trappola del Cacciatore rilascia sempre una Nebbia velenosa anche se il nemico sopravvive. Il danno di Nebbia velenosa è ridotto del 25%.
+SPELL_HUNTERSTRAP_MOD_3,Trappola piazzata a mano: La portata di Trappola del Cacciatore si riduce a quella da mischia e il suo danno e Accumulo di stordimento aumentano del 15%
+SPELL_HUNTERSTRAP_MOD_4,"Trappola a catena: Quando Trappola del Cacciatore viene attivata, arma una seconda trappola più piccola nelle vicinanze dopo un breve ritardo. La seconda trappola infligge il 40% del danno e non può creare Nebbia velenosa."
+SPELL_HUNTERSTRAP_MOD_5,Trappola Purgante: Trappola del Cacciatore consuma tutto il Veleno sul nemico che la attiva. Le prime 10 cariche di Veleno consumate conferiscono il normale 4% di danno bonus per carica. Le cariche di Veleno consumate oltre le 10 conferiscono il 2% di danno bonus per carica.
+SPELL_HUNTERSTRAP_MOD_6,Trappola inoculata: Trappola del Cacciatore consuma Inoculazione quando viene attivata. Ogni carica di Inoculazione consumata aumenta l'Accumulo di stordimento di Trappola del Cacciatore dell'8% e il Danno da decadimento di Nebbia velenosa del 5%.
+SPELL_HUNTERSTRAP_MOD_7,"Trappola Lacerante: Trappola del Cacciatore consuma Veleno come di norma. Se viene consumato Veleno, Trappola del Cacciatore applica anche 1 carica di Sanguinamento ogni 4 cariche di Veleno consumate."
+SPELL_HUNTERSTRAP_MOD_8,Trappola Corrompente: Trappola del Cacciatore consuma fino a 10 cariche di Sanguinamento sul nemico che la attiva e applica 1 carica di Veleno per carica di Sanguinamento consumata prima di infliggere danno.
+SPELL_HUNTERSTRAP_MOD_9,"Trappola Mietente: Trappola del Cacciatore consuma fino a 10 cariche di Sanguinamento sul nemico che la attiva. Ogni carica di Sanguinamento consumata aumenta il danno di Trappola del Cacciatore del 4%. Se Trappola del Cacciatore uccide il nemico, Nebbia velenosa applica 1 carica di Sanguinamento al secondo ai nemici al suo interno ogni 3 cariche di Sanguinamento consumate."
+SPELL_HUNTERSTRAP_NAME,Trappola del Cacciatore
+SPELL_ICEPOOL_NAME,Pozza di ghiaccio
+SPELL_INFECTIOUSSWARM_DESC,Tieni premuto per canalizzare. Crea uno sciame di spiriti infettivi che infliggono Danno da decadimento ogni secondo e applicano Veleno ai nemici nell'area bersaglio. L'area bersaglio può essere spostata durante la canalizzazione.
+SPELL_INFECTIOUSSWARM_EFFECT_0,Danno da decadimento: (MD:0.96)
+SPELL_INFECTIOUSSWARM_EFFECT_1,Veleno: 2
+SPELL_INFECTIOUSSWARM_NAME,Sciame Infettivo
+SPELL_INFERNO_DESC,"Premi per lanciare. Assorbi Ustione dai nemici vicini e scatenala in una posizione bersaglio. Infligge Danno da fuoco a tutti i nemici e li interrompe. Il danno aumenta del 5% e la portata del 10% per carica di Ustione, fino a 10."
+SPELL_INFERNO_EFFECT_0,Danno da fuoco: (MF:5.99)
+SPELL_INFERNO_MOD_0,Tempesta di fuoco: Inferno non infligge più danno all'impatto. Lascia invece una Tempesta di fuoco che infligge il 30% del danno di Inferno al secondo per 5 secondi.
+SPELL_INFERNO_MOD_1,"Inferno schermante: Inferno conferisce anche uno scudo protettivo agli alleati nella sua area, ma infligge il 30% di danno in meno"
+SPELL_INFERNO_MOD_2,"Inferno delle fosse ardenti: Inferno consuma anche le Fosse Ardenti nell'area, per un valore di 5 cariche di Ustione per fossa."
+SPELL_INFERNO_MOD_3,Inferno attenuato: Inferno ottiene +50% area ma infligge il 50% di danno in meno.
+SPELL_INFERNO_MOD_4,"Inferno a cascata: Se Inferno uccide un nemico, attiva un'esplosione più piccola nella posizione di quel nemico, infliggendo il 30% del Danno da fuoco di Inferno"
+SPELL_INFERNO_MOD_5,"Inferno comburente: Ogni carica di Ustione consumata da Inferno aumenta il Danno da fuoco di Inferno di un ulteriore 2%, fino al 20%."
+SPELL_INFERNO_MOD_6,Inferno accumulabraci: L'Ustione consumata oltre il limite di cariche che potenziano Inferno conferisce 1 carica di Ravvivato per ogni carica di Ustione in eccesso consumata.
+SPELL_INFERNO_MOD_7,Inferno Fiammeggiante: Inferno consuma fino a 10 delle tue cariche di Ravvivato al lancio. Ogni carica di Ravvivato consumata conta come 1 carica di Ustione per aumentare danno e portata di Inferno.
+SPELL_INFERNO_MOD_8,Inferno Agghiacciante: Inferno infligge il 50% di Danno da fuoco e il 50% di Danno da ghiaccio. Inferno applica 1 carica di Gelo ai nemici colpiti ogni 5 cariche di Ustione consumate.
+SPELL_INFERNO_MOD_9,Inferno Incandescente: Inferno consuma anche il Gelo sui nemici vicini per aumentare danno e portata. Ogni carica di Gelo conta come il 25% di una carica di Ustione
+SPELL_INFERNO_NAME,Inferno
+SPELL_INOCULATIONPOTION_NAME,Pozione di Inoculazione
+SPELL_INVINCIBLESHIELD_NAME,Scudo Invincibile
+SPELL_JOLTDAGGER_DESC,"Premi per lanciare. Scaglia un fulmine nella direzione bersaglio, infliggendo Danno da elettricità e applicando Scossa. Colpire un nemico ti rallenta brevemente."
+SPELL_JOLTDAGGER_EFFECT_0,Danno da elettricità: (ME:3.75)
+SPELL_JOLTDAGGER_EFFECT_1,Scossa: 2
+SPELL_JOLTDAGGER_NAME,Pugnale Folgorante
+SPELL_JUNKHAIL_DESC,Strappa detriti dal trono sollevandoli sopra la testa e scagliona raffiche di rottami sul campo di battaglia.
+SPELL_JUNKHAIL_NAME,Grandine di Rottami
+SPELL_JUNKHAILPLAYER_DESC,"Premi per lanciare. Fai cadere una grandine di rottami nell'area bersaglio, ciascuno dei quali infligge Danno da taglio."
+SPELL_JUNKHAILPLAYER_EFFECT_0,Danno da taglio: (PS:3.85)
+SPELL_JUNKHAILPLAYER_NAME,Grandine di Rottami
+SPELL_KINDLINGPOTION_NAME,Pozione d'Innesco
+SPELL_KINDLINGSTRIKE_DESC,"Colpire un nemico con il tuo terzo attacco in mischia scatena una scarica di fuoco, infliggendo Danno da fuoco ai nemici attorno al bersaglio e potenziando il tuo prossimo incantesimo di fuoco del 5% per carica di Ustione sul nemico, fino a 10."
+SPELL_KINDLINGSTRIKE_EFFECT_0,Danno da fuoco: (MF:0.73)
+SPELL_KINDLINGSTRIKE_NAME,Colpo Innesco
+SPELL_LAUGHINGSLASHES_NAME,Tagli Beffardi
+SPELL_LESSERCONCENTRATIONPOTION_NAME,Pozione Minore di Concentrazione
+SPELL_LESSERCONCENTRATIONTHROWFLASK_DESC,Lancia una fiasca che ripristina la concentrazione degli alleati in un'area.
+SPELL_LESSERCONCENTRATIONTHROWFLASK_NAME,Fiasca da Lancio Minore di Concentrazione
+SPELL_LESSERHEALTHPOTION_NAME,Pozione Minore di Salute
+SPELL_LESSERHEALTHTHROWFLASK_DESC,Lancia una fiasca che ripristina la salute degli alleati in un'area.
+SPELL_LESSERHEALTHTHROWFLASK_NAME,Fiasca da Lancio Minore di Salute
+SPELL_LESSERSTAMINAPOTION_NAME,Pozione Minore di Vigore
+SPELL_LESSERSTAMINATHROWFLASK_DESC,Lancia una fiasca che ripristina il vigore degli alleati in un'area.
+SPELL_LESSERSTAMINATHROWFLASK_NAME,Fiasca da Lancio Minore di Vigore
+SPELL_LIGHTBANDAGES_NAME,Bende Leggere
+SPELL_LIGHTNINGSURGE_DESC,"Premi per lanciare. Scatta verso una posizione bersaglio avvolto dai fulmini, infliggendo Danno da elettricità e ottenendo Scossa per ogni nemico colpito."
+SPELL_LIGHTNINGSURGE_EFFECT_0,Danno da elettricità: (ME:4.49)
+SPELL_LIGHTNINGSURGE_NAME,Ondata Fulminea
+SPELL_LIMITLESSONSLAUGHT_DESC,"Premi per lanciare. Sospendi il tempo, sfrecciando tra i nemici e colpendo una volta per carica di Eco temporale consumata, infliggendo Danno perforante con ogni colpo, fino a 10 colpi per nemico."
+SPELL_LIMITLESSONSLAUGHT_EFFECT_0,Danno perforante: (PT:1.15)
+SPELL_LIMITLESSONSLAUGHT_MOD_0,"Assalto dispersivo: Aumenta la portata del 40%, ma riduce di 5 i colpi massimi per nemico."
+SPELL_LIMITLESSONSLAUGHT_MOD_1,"Assalto Focalizzato: Riduce la portata del 40%, ma aumenta di 5 i colpi massimi per nemico."
+SPELL_LIMITLESSONSLAUGHT_MOD_2,"Assalto Riecheggiato: Per ogni carica di Eco temporale consumata, il danno dei colpi successivi nella sequenza aumenta dell'8%, ma il numero massimo di colpi per nemico si riduce di 5."
+SPELL_LIMITLESSONSLAUGHT_MOD_3,"Assalto Echeggiante: Assalto illimitato non consuma più Eco temporale. Invece, colpisci una volta ogni nemico a portata e applica 4 cariche di Eco temporale a ogni nemico colpito."
+SPELL_LIMITLESSONSLAUGHT_MOD_4,"Assalto Montante: Ottieni 1 carica di Ondata temporale per ogni nemico distinto colpito, fino a 5, ma i colpi infliggono il 30% di danno in meno."
+SPELL_LIMITLESSONSLAUGHT_MOD_5,"Assalto Montante: Consuma Ondata temporale al lancio. Per ogni carica di Ondata consumata, ottieni 1 carica di Colpo doppio per ogni nemico distinto colpito, fino a un limite di 5. Assalto illimitato può consumare un massimo di 5 cariche di Ondata temporale."
+SPELL_LIMITLESSONSLAUGHT_MOD_6,"Assalto Lacerante: Ogni colpo applica 1 carica di Sanguinamento, ma il Danno da taglio è ridotto del 30%."
+SPELL_LIMITLESSONSLAUGHT_MOD_7,Assalto Mietente: L'ultimo colpo su ogni nemico consuma tutto il Sanguinamento su quel bersaglio per ripristinare Vigore e Concentrazione e ridurre il tempo di recupero di questo incantesimo del 2% per carica di Sanguinamento consumata.
+SPELL_LIMITLESSONSLAUGHT_NAME,Assalto illimitato
+SPELL_LUNARTAILSTORM_DESC,Spazzata di coda a 360 gradi che infligge danno da Gelo e respinge i nemici vicini.
+SPELL_LUNARTAILSTORM_NAME,Tempesta di Coda Lunare
+SPELL_MASTERY,Maestria
+SPELL_METEORITE_DESC,"Premi per lanciare. Richiama una pioggia di meteoriti attorno a te, infliggendo Danno da fuoco e lasciando terreno ardente dove atterrano."
+SPELL_METEORITE_EFFECT_0,Danno da fuoco: (MF:14.28)
+SPELL_METEORITE_NAME,Meteorite
+SPELL_MINORBLOODRAGEPOTION_NAME,Pozione Scarsa della Furia Sanguinaria
+SPELL_MINORCONCENTRATIONTHROWFLASK_DESC,Lancia una fiasca che ripristina la concentrazione degli alleati in un'area.
+SPELL_MINORCONCENTRATIONTHROWFLASK_NAME,Fiasca da Lancio Scarsa di Concentrazione
+SPELL_MINORHEALTHTHROWFLASK_DESC,Lancia una fiasca che ripristina la salute degli alleati in un'area.
+SPELL_MINORHEALTHTHROWFLASK_NAME,Fiasca da Lancio Scarsa di Salute
+SPELL_MINOTAURATTACK_DESC,Attacco base del Minotauro
+SPELL_MINOTAURATTACK_NAME,Attacco del Minotauro
+SPELL_MINOTAURFINALATTACK_NAME,Attacco finale Minotauro
+SPELL_MONSTERDASHBASIC_DESC,Scatto rapido del Mostro
+SPELL_MONSTERDASHBASIC_NAME,Scatto Base del Mostro
+SPELL_MONSTERRECOVERY_NAME,Recupero del Mostro
+SPELL_MONSTERRECOVERYEXTENDED_NAME,Recupero Esteso del Mostro
+SPELL_MONSTERRECOVERYLONG_NAME,Recupero Lungo del Mostro
+SPELL_MONSTERRECOVERYMEDIUM_NAME,Recupero Medio del Mostro
+SPELL_MORTARVOLLEY_NAME,Salva di Mortaio
+SPELL_NATURESSHROUD_NAME,Manto della Natura
+SPELL_NONE_NAME,Nessuno
+SPELL_OILANDFIRE_NAME,Olio e Fuoco
+SPELL_OILFLASK_DESC,Lancia una fiasca che crea una Pozza d'Olio all'atterraggio.
+SPELL_OILFLASK_NAME,Fiasca d'Olio
+SPELL_OILPOOL_NAME,Pozza d'Olio
+SPELL_OUTBREAK_DESC,"Premi per lanciare. Fai eruttare un nemico nel decadimento, infliggendo Danno da decadimento e consumando fino a 10 cariche di Veleno per ottenere danno bonus. I nemici con abbastanza Veleno innescano a catena una propria epidemia."
+SPELL_OUTBREAK_EFFECT_0,Danno da decadimento: (MD:3.67)
+SPELL_OUTBREAK_MOD_0,"Fioritura terminale: Se un'epidemia uccide un nemico, quel nemico rilascia un'esplosione finale di Decadimento nel luogo della morte, infliggendo il 50% del danno di Epidemia ai nemici vicini. Questa esplosione finale non può consumare Veleno o creare epidemie aggiuntive."
+SPELL_OUTBREAK_MOD_1,"Vettore della peste: Epidemia può diffondersi solo ai 3 nemici idonei più vicini colpiti da ogni eruzione, ma le epidemie secondarie infliggono il 15% di danno in più."
+SPELL_OUTBREAK_MOD_10,Epidemia Mietente: Epidemia consuma fino a 8 cariche di Sanguinamento dai nemici che eruttano. Ogni carica di Sanguinamento consumata ripristina Vigore e Concentrazione. Epidemia continua a consumare Veleno come di norma.
+SPELL_OUTBREAK_MOD_2,"Lacerazione persistente: Ogni epidemia lascia una lacerazione infetta nel punto d'impatto per 3 secondi, infliggendo Danno da decadimento ogni secondo ai nemici al suo interno."
+SPELL_OUTBREAK_MOD_3,Eruzione Focalizzata: Riduce il raggio dell'eruzione di Epidemia del 40%. Il bersaglio principale subisce il 35% di danno in più da Epidemia e le epidemie secondarie contro il bersaglio principale infliggono il 25% di danno in più.
+SPELL_OUTBREAK_MOD_4,"Cascata vorace: Quando un nemico crea un'epidemia secondaria con più di 10 cariche di Veleno, ogni carica di Veleno oltre le 10 aumenta il raggio di quell'epidemia secondaria del 3%, fino al 30% di raggio in più. Le epidemie secondarie consumano Veleno come di norma e infliggono il 15% di danno in meno."
+SPELL_OUTBREAK_MOD_5,Epidemia Purgante: Epidemia consuma fino a 15 cariche di Veleno da ogni nemico che erutta. Ogni carica di Veleno consumata aumenta del 4% il danno dell'Epidemia di quel nemico.
+SPELL_OUTBREAK_MOD_6,Epidemia inoculata: Epidemia consuma fino a 5 cariche di Inoculazione al lancio. Ogni carica di Inoculazione consumata aumenta il raggio d'impatto di Epidemia del 5% e il danno delle epidemie secondarie del 4%.
+SPELL_OUTBREAK_MOD_7,Epidemia Avvelenante: Epidemia applica 3 cariche di Veleno ai nemici danneggiati dalla sua eruzione.
+SPELL_OUTBREAK_MOD_8,"Epidemia Inoculante: Quando un nemico crea un'epidemia secondaria, ottieni 2 cariche di Inoculazione."
+SPELL_OUTBREAK_MOD_9,"Epidemia Coagulante: Quando Epidemia consuma Veleno da un nemico, converte parte di quel Veleno consumato in Sanguinamento dopo l'eruzione. Di base, ogni 4 cariche di Veleno consumate applicano 1 carica di Sanguinamento."
+SPELL_OUTBREAK_NAME,Epidemia
+SPELL_PARRY_DESC,"Tieni premuto per parare. Durante la guardia, i colpi in arrivo non infliggono danno e consumano invece il tuo Vigore in base al danno parato. Una parata perfetta riduce notevolmente il Vigore consumato e contrattacca con un fendente, infliggendo Danno da taglio ai nemici vicini. Se il Vigore si esaurisce, la guardia si spezza e resti stordito per 1.5 secondi."
+SPELL_PARRY_MOD_0,Contrattacco Tagliente: Le Parate riuscite applicano Sanguinamento a tutti i nemici colpiti.
+SPELL_PARRY_NAME,Parata
+SPELL_PESTILENTTREMOR_DESC,"Consuma Inoculazione per creare un Tremore Pestilenziale che ti segue per 1 secondo per carica di Inoculazione consumata. Ogni secondo, il tremore infligge Danno da decadimento ai nemici vicini e consuma 2 cariche di Veleno da essi per infliggere Danno da stordimento bonus."
+SPELL_PESTILENTTREMOR_EFFECT_0,Danno da decadimento: (MD:0.45)
+SPELL_PESTILENTTREMOR_EFFECT_1,Danno da stordimento: (MU:0.9)
+SPELL_PESTILENTTREMOR_NAME,Tremore Pestilenziale
+SPELL_PLAGUESHARDS_DESC,"Premi per lanciare. Lancia un gruppo di frammenti di peste con una dispersione stretta, infliggendo Danno da decadimento. I frammenti aggiuntivi che colpiscono lo stesso nemico infliggono danno bonus."
+SPELL_PLAGUESHARDS_EFFECT_0,Danno da decadimento: (MD:0.53)
+SPELL_PLAGUESHARDS_MOD_0,"Frammenti scheggianti: Frammenti di peste lancia 2 frammenti aggiuntivi con una dispersione più ampia, ma ogni frammento infligge il 25% di danno in meno."
+SPELL_PLAGUESHARDS_MOD_1,"Frammenti persistenti: I Frammenti di peste permangono alla fine del percorso per 3 secondi dopo il lancio iniziale, infliggendo Danno da decadimento a tutti i nemici che vi entrano."
+SPELL_PLAGUESHARDS_MOD_2,"Frammenti canalizzati: Frammenti di peste diventa un incantesimo canalizzato. Tieni premuto per lanciare senza sosta frammenti di peste frastagliati con una dispersione stretta, infliggendo Danno da decadimento ogni 0.5 secondi ai nemici colpiti. Frammenti di peste non lancia più una scarica iniziale. Il tempo di recupero base di Frammenti di peste diventa di 3 secondi."
+SPELL_PLAGUESHARDS_MOD_3,"Frammenti Inoculante: Frammenti di peste conferisce 1 carica di Inoculazione per ogni frammento che colpisce un nemico avvelenato, fino a 5 cariche di Inoculazione per lancio. Se almeno 3 frammenti colpiscono nemici avvelenati nello stesso lancio, ottieni altre 2 cariche di Inoculazione."
+SPELL_PLAGUESHARDS_MOD_4,"Frammenti Avvelenante: Frammenti di peste applica 2 cariche di Veleno ai nemici colpiti dal primo frammento. Ogni frammento aggiuntivo che colpisce lo stesso nemico applica 1 carica di Veleno, fino a 5 cariche di Veleno per nemico per lancio."
+SPELL_PLAGUESHARDS_MOD_5,Frammenti Purgante: Frammenti di peste consuma fino a 5 cariche di Veleno da ogni nemico colpito. Ogni carica di Veleno consumata aumenta del 5% il danno di Frammenti di peste a quel nemico. Il Veleno può essere consumato solo una volta per nemico per lancio.
+SPELL_PLAGUESHARDS_MOD_6,Frammenti inoculati: Frammenti di peste consuma fino a 5 cariche di Inoculazione al lancio. Ogni carica di Inoculazione consumata aumenta del 5% il danno bonus dei frammenti successivi che colpiscono lo stesso nemico. Questo aumenta il bonus dei frammenti successivi dal 25% a un massimo del 50%.
+SPELL_PLAGUESHARDS_NAME,Frammenti di peste
+SPELL_PLAYERDASH_DESC,"Premi per lanciare. Scatta per una breve distanza nella direzione di movimento, ottenendo brevemente Velocità di movimento."
+SPELL_PLAYERDASH_NAME,Scatto rapido
+SPELL_POISONCURE_NAME,Antidoto
+SPELL_POISONERUPT_NAME,Eruzione Velenosa
+SPELL_POISONFLASK_DESC,Lancia una fiasca che crea una Pozza di Veleno all'atterraggio.
+SPELL_POISONFLASK_NAME,Fiasca di Veleno
+SPELL_POISONMISTPLAYER_DESC,Premi per lanciare. Crea un'ampia nebbia velenosa che infligge Danno da decadimento ai nemici al suo interno e applica Veleno.
+SPELL_POISONMISTPLAYER_EFFECT_0,Danno da decadimento: (MD:4.32)
+SPELL_POISONMISTPLAYER_EFFECT_1,Veleno: 20
+SPELL_POISONMISTPLAYER_NAME,Nebbia velenosa
+SPELL_POISONPOOL_NAME,Pozza di Veleno
+SPELL_POISONSPORES_NAME,Spore Velenose
+SPELL_POWERHOOK_DESC,"Premi per lanciare. Sferra un gancio pesante, infliggendo Danno contundente con elevato Accumulo di stordimento e interrompendo il nemico."
+SPELL_POWERHOOK_EFFECT_0,Danno contundente: (PB:4.21)
+SPELL_POWERHOOK_MOD_0,"Gancio Focalizzato: Gancio potente infligge il 40% di danno in più, ma il suo arco d'impatto è ridotto del 35% e non interrompe più gli attacchi nemici."
+SPELL_POWERHOOK_MOD_1,Gancio tagliente: Gancio potente infligge Danno da taglio anziché Danno contundente.
+SPELL_POWERHOOK_MOD_2,"Gancio spazzante: L'arco d'impatto di Gancio potente aumenta del 40%, ma il suo danno è ridotto del 20%."
+SPELL_POWERHOOK_MOD_3,"Gancio Lacerante: Gancio potente applica 3 cariche di Sanguinamento ai nemici colpiti. Se colpisce un solo nemico, applica altre 3 cariche di Sanguinamento."
+SPELL_POWERHOOK_MOD_4,Gancio Infuriante: Gancio potente ora genera 2 cariche di Furia per ogni nemico colpito.
+SPELL_POWERHOOK_MOD_5,"Gancio Furente: Gancio potente consuma fino a 10 Furia per aumentare il suo Accumulo di stordimento del 4% per Furia consumata, fino al 40%."
+SPELL_POWERHOOK_NAME,Gancio potente
+SPELL_POWEROFTHEWILD_DESC,Premi per lanciare. Conferisci a un alleato Armatura e Resistenza aumentate per 10 secondi.
+SPELL_POWEROFTHEWILD_EFFECT_0,Aumento Armatura: 25%
+SPELL_POWEROFTHEWILD_EFFECT_1,Aumento Resistenza: 25%
+SPELL_POWEROFTHEWILD_MOD_0,Vincolo Ferino: Potere della Natura Selvaggia si applica sia a te sia al tuo bersaglio.
+SPELL_POWEROFTHEWILD_NAME,Potere della Natura Selvaggia
+SPELL_PULVERIZE_DESC,"Premi per lanciare. Evoca pugni schiaccianti che colpiscono il terreno attorno a te, infliggendo Danno contundente ai nemici vicini. Consuma fino a 10 Furia, aumentando il danno del 5% per Furia consumata."
+SPELL_PULVERIZE_EFFECT_0,Danno contundente: (PB:6)
+SPELL_PULVERIZE_MOD_0,"Polverizza proiettato: Polverizza può essere lanciato su una posizione bersaglio, ma il suo tempo di recupero aumenta del 30%."
+SPELL_PULVERIZE_MOD_1,"Polverizza esecutore: Polverizza infligge il 35% di danno in più ai nemici sotto il 40% di Salute, ma il 20% di danno in meno ai nemici sopra il 70% di Salute."
+SPELL_PULVERIZE_MOD_2,Polverizza costante: Il raggio di Polverizza aumenta del 15%.
+SPELL_PULVERIZE_MOD_3,"Polverizza remoto: Riduce drasticamente il tempo di lancio di Polverizza (0.2s), ma il suo danno è ridotto del 20%."
+SPELL_PULVERIZE_MOD_4,Polverizza tagliente: Polverizza ora infligge Danno da taglio.
+SPELL_PULVERIZE_MOD_5,"Polverizza Furente: Polverizza consuma fino a 10 Furia per aumentare il suo danno del 5% per Furia consumata, fino al 50%, e ridurre l'Armatura dei nemici colpiti del 4% per Furia consumata per 6 secondi, fino al 40%."
+SPELL_PULVERIZE_MOD_6,Polverizza Infuriante: Ottieni 2 Furia per ogni nemico colpito.
+SPELL_PULVERIZE_MOD_7,"Polverizza Lacerante: Polverizza non aumenta più il suo danno con la Furia consumata. Consuma invece fino a 10 Furia per applicare 1 carica di Sanguinamento ai nemici colpiti ogni 2 Furia consumate, fino a 5 cariche di Sanguinamento."
+SPELL_PULVERIZE_MOD_8,"Polverizza Mietente: Polverizza non aumenta più il suo danno con la Furia consumata. Consuma invece il Sanguinamento sui nemici colpiti per infliggere il 5% di danno in più per carica di Sanguinamento consumata, fino al 50%."
+SPELL_PULVERIZE_NAME,Polverizza
+SPELL_QUICKJAB_DESC,"Premi per lanciare. Sferra un jab rapido, infliggendo Danno contundente e potenziando il tuo Danno fisico per 2 secondi."
+SPELL_QUICKJAB_EFFECT_0,Danno contundente: (PB:1.44)
+SPELL_QUICKJAB_MOD_0,Colpo ristoratore: Jab rapido ora ripristina 5 Vigore al colpo.
+SPELL_QUICKJAB_MOD_1,"Colpi rapidi: Ogni Jab rapido lanciato entro 2 secondi dal precedente ne aumenta il danno del 12%, fino a 3 accumuli."
+SPELL_QUICKJAB_MOD_2,"Colpi ciclici: Colpire un nemico con Jab rapido riduce di 1 secondo il tempo di recupero di un incantesimo casuale, ma Jab rapido non aumenta più il tuo Danno fisico."
+SPELL_QUICKJAB_MOD_3,"Jab Infuriante: Jab rapido conferisce 2 Furia al colpo, ma il suo bonus al Danno fisico è ridotto del 12%."
+SPELL_QUICKJAB_MOD_4,"Jab Furente: Jab rapido consuma fino a 10 Furia per colpire il bersaglio più volte, consumando 2 Furia per colpo aggiuntivo, fino a 5 colpi aggiuntivi. I colpi aggiuntivi non possono attivare Colpo ristoratore, Colpi ciclici o Colpi rapidi."
+SPELL_QUICKJAB_NAME,Jab rapido
+SPELL_REJECTION_DESC,"Premi per lanciare. Proietta una scarica repulsiva attorno a un alleato bersaglio, allontanando da lui tutti i nemici piccoli."
+SPELL_REJECTION_NAME,Repulsione
+SPELL_RELENTLESSASSAULT_DESC,"Dopo una Rappresaglia riuscita, avvicinati al bersaglio con Velocità d'attacco aumentata, infliggendo Danno da taglio e ripristinando Vigore."
+SPELL_RELENTLESSASSAULT_EFFECT_0,Danno da taglio: (PS:0.56)
+SPELL_RELENTLESSASSAULT_NAME,Assalto Implacabile
+SPELL_REPOSITION_DESC,Scatta in una posizione perpendicolare vicino al bersaglio.
+SPELL_REPOSITION_NAME,Riposizionamento
+SPELL_RESINGEYSER_DESC,Lancia in aria resina volatile che ricade in geyser esplosivi.
+SPELL_RESINGEYSER_NAME,Geyser di Resina
+SPELL_RETALIATION_DESC,"Tieni premuto per parare. Durante la guardia, i colpi in arrivo non infliggono danno e consumano invece il tuo Vigore in base al danno parato. Una parata perfetta riduce notevolmente il Vigore consumato e rilascia un'Onda di Shock che respinge i nemici vicini con Accumulo di stordimento. Se il Vigore si esaurisce, la guardia si spezza e resti stordito per 1.5 secondi."
+SPELL_RETALIATION_NAME,Rappresaglia
+SPELL_REWIND_DESC,Riporta il bersaglio indietro nel tempo di 5 secondi
+SPELL_REWIND_NAME,Riavvolgimento
+SPELL_RIPPLE_DESC,Premi per lanciare. Infligge Danno da etere ai nemici circostanti.
+SPELL_RIPPLE_EFFECT_0,Danno da etere: (MA:3.5)
+SPELL_RIPPLE_NAME,Ondulazione
+SPELL_ROOTSPIKES_DESC,"Evoca una spina di radice e lanciala verso un bersaglio, infliggendo Danno perforante e stordendo brevemente all'impatto."
+SPELL_ROOTSPIKES_NAME,Punte di Radice
+SPELL_ROOTSTOMP_DESC,"Il Treant pesta il terreno, infliggendo danno in un'ampia area."
+SPELL_ROOTSTOMP_NAME,Pestone di Radici
+SPELL_ROOTSTRIKESPIKE_DESC,"Colpire un nemico con il tuo Attacco finale evoca una spina di radice sotto di lui, infliggendo Danno da taglio."
+SPELL_ROOTSTRIKESPIKE_EFFECT_0,Danno da taglio: (PS:1.01)
+SPELL_ROOTSTRIKESPIKE_NAME,Spina del Colpo di Radice
+SPELL_ROOTSURGE_DESC,"Radici corrotte si propagano sul suolo della foresta, tracciando percorsi letali nell'arena."
+SPELL_ROOTSURGE_NAME,Ondata di Radici
+SPELL_ROOTTHRUST_DESC,"Il Treant sferra una stoccata di radice al bersaglio, infliggendogli danno e rallentandolo."
+SPELL_ROOTTHRUST_NAME,Stoccata di Radice
+SPELL_ROTTINGROOTS_DESC,"Evoca radici nella posizione bersaglio, poi le tira verso l'incantatore"
+SPELL_ROTTINGROOTS_NAME,Radici Putrescenti
+SPELL_ROTTINGSTOMP_DESC,"Il Treant pesta il terreno, infliggendo danno in un'ampia area."
+SPELL_ROTTINGSTOMP_NAME,Pestone Putrescente
+SPELL_ROUSINGSNARL_DESC,"Emette un grido di battaglia all'inizio del combattimento, conferendoti Furia, poi conferisce Furia aggiuntiva ogni 6 secondi finché il combattimento continua."
+SPELL_ROUSINGSNARL_NAME,Ringhio Incitante
+SPELL_SAPARTILLERY_DESC,"Premi per lanciare. Fai cadere una scarica di linfa nella posizione bersaglio, infliggendo Danno da decadimento. Ogni Cuore della Foresta vicino richiama una scarica aggiuntiva."
+SPELL_SAPARTILLERY_EFFECT_0,Danno da decadimento: (MD:2.95)
+SPELL_SAPARTILLERY_NAME,Artiglieria di Linfa
+SPELL_SAPBLOOM_DESC,"Il Re della Foresta corrotto fa fiorire linfa volatile sotto i suoi nemici, trascinandoli verso l'interno prima di eruttare nel decadimento."
+SPELL_SAPBLOOM_NAME,Fioritura di Linfa
+SPELL_SAVAGECLAW_DESC,"Premi per lanciare. Sferra un'artigliata nella direzione bersaglio, infliggendo Danno da taglio e applicando Sanguinamento."
+SPELL_SAVAGECLAW_EFFECT_0,Danno da taglio: (PS:4.17)
+SPELL_SAVAGECLAW_EFFECT_1,Sanguinamento: 5
+SPELL_SAVAGECLAW_NAME,Artiglio Selvaggio
+SPELL_SAVAGEFROSTBITE_DESC,"Attraversa il nemico più vicino con un balzo selvaggio, infliggendo Danno da taglio e applicando Sanguinamento e Gelo."
+SPELL_SAVAGEFROSTBITE_NAME,Morso Gelido Selvaggio
+SPELL_SEEDBOMBPLAYER_DESC,"Premi per lanciare. Evoca una Bomba di Semi che esplode quando i nemici le passano vicino, infliggendo Danno da decadimento."
+SPELL_SEEDBOMBPLAYER_EFFECT_0,Danno da decadimento: (MD:4.01)
+SPELL_SEEDBOMBPLAYER_NAME,Bomba di Semi
+SPELL_SEEDBOMBS_NAME,Bombe di Semi
+SPELL_SEISMICECHO_DESC,"Dopo aver lanciato un incantesimo del Minotauro, il tuo terzo attacco rilascia un tremore, infliggendo Danno contundente ai nemici vicini."
+SPELL_SEISMICECHO_EFFECT_0,Danno contundente: (PB:0.53)
+SPELL_SEISMICECHO_NAME,Eco Sismica
+SPELL_SEISMICSTAMPEDE_DESC,"Tieni premuto per canalizzare. Emetti Onde di Shock che si espandono nel terreno, infliggendo Danno contundente ogni secondo ai nemici entro il raggio. Durante la canalizzazione, ottieni il 50% di Armatura e Resistenza in più."
+SPELL_SEISMICSTAMPEDE_EFFECT_0,Danno impulso 1: (PB:2.25)
+SPELL_SEISMICSTAMPEDE_EFFECT_1,Danno impulso 2: (PB:3)
+SPELL_SEISMICSTAMPEDE_EFFECT_2,Danno impulso 3: (PB:4.5)
+SPELL_SEISMICSTAMPEDE_MOD_0,Carica travolgente frastornante: Le Onde di Shock ora rallentano i nemici colpiti del 50%.
+SPELL_SEISMICSTAMPEDE_MOD_1,"Carica travolgente remota: Carica sismica non richiede più canalizzazione. Rilascia invece automaticamente le sue Onde di Shock dopo il lancio, ma resta sul posto."
+SPELL_SEISMICSTAMPEDE_MOD_2,"Carica travolgente espansiva: Aumenta il raggio di Carica sismica del 30%, ma riduce il suo danno per impulso del 20%"
+SPELL_SEISMICSTAMPEDE_MOD_3,"Carica travolgente Focalizzata: Riduce il raggio di Carica sismica del 35%, ma aumenta il suo danno del 15%."
+SPELL_SEISMICSTAMPEDE_MOD_4,"Carica travolgente Furente: Carica sismica consuma Furia per aumentare il proprio Accumulo di stordimento del 3% per Furia consumata, fino al 30%"
+SPELL_SEISMICSTAMPEDE_MOD_5,Carica travolgente Infuriante: Carica sismica conferisce 2 Furia per ogni nemico colpito da ciascuna Onda di Shock.
+SPELL_SEISMICSTAMPEDE_MOD_6,"Carica travolgente Mietente: Carica sismica consuma il Sanguinamento sui nemici colpiti per infliggere il 5% di danno in più per carica di Sanguinamento consumata, fino a un massimo del 50%"
+SPELL_SEISMICSTAMPEDE_NAME,Carica sismica
+SPELL_SEISMICTHRONESLAM_DESC,"Pesante schianto verso il basso che colpisce a distanza ravvicinata, poi emette lente Onde di Shock in quattro direzioni."
+SPELL_SEISMICTHRONESLAM_NAME,Schianto del Trono Sismico
+SPELL_SHADOWCONVERGENCE_DESC,"Premi per lanciare. Scatta verso un bersaglio e colpisci, infliggendo Danno perforante e consumando Sanguinamento per ottenere danno bonus. Due Cloni d'ombra convergono sul bersaglio con il 25% del danno ciascuno."
+SPELL_SHADOWCONVERGENCE_EFFECT_0,Danno perforante: (PT:6.73)
+SPELL_SHADOWCONVERGENCE_MOD_0,"Convergenza ancorata: Convergenza d'ombra non ti sposta più. Invece, i Cloni d'ombra vicini convergono sul bersaglio mentre tu resti sul posto ed esegui una stoccata d'ombra a distanza. Il tuo danno è ridotto del 25%, ma i Cloni d'ombra infliggono il loro normale danno replicato."
+SPELL_SHADOWCONVERGENCE_MOD_1,"Convergenza recidente: Convergenza d'ombra infligge il 30% di danno in più ai nemici sotto il 40% di Salute, ma infligge il 25% di danno in meno ai nemici sopra il 40% di Salute. Se il bersaglio muore, i Cloni d'ombra vicini durano 2 secondi in più."
+SPELL_SHADOWCONVERGENCE_MOD_2,"Convergenza Sfasata: Al termine dello scatto di Convergenza d'ombra, ottieni Furtività per 3 secondi. Questa Furtività si interrompe quando attacchi o lanci un incantesimo."
+SPELL_SHADOWCONVERGENCE_MOD_3,"Convergenza molteplice: Convergenza d'ombra diventa una rapida sequenza di massimo 7 colpi contro il bersaglio e i nemici vicini. Tu esegui il primo colpo, poi i Cloni d'ombra vicini eseguono i colpi rimanenti. Convergenza d'ombra continua a consumare Sanguinamento o Veleno da ogni nemico colpito in base al modificatore della soglia effetto selezionato, ma le cariche di ogni nemico possono essere consumate solo una volta per lancio. I colpi aggiuntivi sullo stesso nemico infliggono il 50% di danno in meno."
+SPELL_SHADOWCONVERGENCE_MOD_4,Convergenza implacabile: Convergenza d'ombra può accumulare fino a 2 cariche. Ogni carica crea solo 1 Clone d'ombra anziché 2 e i colpi dei Cloni d'ombra infliggono il 15% di danno in meno.
+SPELL_SHADOWCONVERGENCE_MOD_5,"Convergenza Lacerante: Convergenza d'ombra non consuma più Sanguinamento per ottenere danno bonus. Invece, il tuo colpo applica 10 cariche di Sanguinamento al bersaglio. I colpi dei Cloni d'ombra applicano 3 cariche di Sanguinamento ciascuno."
+SPELL_SHADOWCONVERGENCE_MOD_6,"Convergenza Corrompente: Convergenza d'ombra ora infligge Danno da decadimento e non consuma più Sanguinamento per ottenere danno bonus. Invece, il tuo colpo converte il Sanguinamento sul bersaglio in Veleno. Di base, ogni 4 cariche di Sanguinamento consumate applicano 1 carica di Veleno, fino a 6 per nemico. I colpi dei Cloni d'ombra non consumano Sanguinamento, ma se un Clone d'ombra colpisce lo stesso bersaglio dopo il tuo colpo, applica 1 carica aggiuntiva di Veleno, fino a 3 aggiuntive per lancio."
+SPELL_SHADOWCONVERGENCE_MOD_7,"Convergenza Mietente: Se il tuo colpo di Convergenza d'ombra consuma almeno 8 cariche di Sanguinamento da un nemico, quel nemico diventa Lacerato per 3 secondi. Quando Lacerato termina, esplode, infliggendo ai nemici vicini Danno perforante pari al 25% del danno della tua Convergenza d'ombra inflitto al bersaglio Lacerato. Ogni Clone d'ombra che colpisce il bersaglio Lacerato con Convergenza d'ombra aumenta il danno dell'esplosione di lacerazione del 10%, fino al 40%."
+SPELL_SHADOWCONVERGENCE_MOD_8,"Convergenza intorpidente: Convergenza d'ombra non consuma più Sanguinamento per ottenere danno bonus. Consuma invece fino a 10 cariche di Veleno dal bersaglio. Ogni carica di Veleno consumata aumenta il Danno da stordimento del 5% e rallenta il bersaglio del 5% per 3 secondi, fino a un Rallentamento massimo del 40%."
+SPELL_SHADOWCONVERGENCE_NAME,Convergenza d'ombra
+SPELL_SHADOWDAGGERS_DESC,"Premi per lanciare. Lancia un Pugnale d'ombra, infliggendo Danno perforante e applicando Sanguinamento. I Cloni d'ombra vicini lanciano con te. Ogni pugnale cade a terra; all'ultima carica, rilancia per richiamarli attraverso i nemici."
+SPELL_SHADOWDAGGERS_EFFECT_0,Danno perforante: (PT:0.61)
+SPELL_SHADOWDAGGERS_MOD_0,Pugnali penetranti: Pugnali d'ombra attraversa i nemici e danneggia tutti quelli sul suo percorso e crea un Pugnale d'ombra a terra nel punto d'impatto finale
+SPELL_SHADOWDAGGERS_MOD_1,Ritorno impetuoso: I pugnali ora ritornano quando scatti.
+SPELL_SHADOWDAGGERS_MOD_2,"Pugnali convergenti: Durante il rilancio, Pugnali d'ombra genera un Clone d'ombra nella posizione bersaglio prima che i pugnali ritornino. Tutti i pugnali richiamati volano poi verso quel Clone d'ombra anziché verso di te."
+SPELL_SHADOWDAGGERS_MOD_3,"Ventaglio di pugnali: Pugnali d'ombra lancia 5 pugnali in un cono, ma non ha più cariche e ha un tempo di recupero di 8 secondi."
+SPELL_SHADOWDAGGERS_MOD_4,Pugnali Lacerante: I Pugnali d'ombra all'andata applicano 1 carica aggiuntiva di Sanguinamento. I Pugnali d'ombra al ritorno applicano 1 carica aggiuntiva di Sanguinamento.
+SPELL_SHADOWDAGGERS_MOD_5,Pugnali Mietente: I Pugnali d'ombra al ritorno consumano fino a 3 cariche di Sanguinamento da ogni nemico colpito per infliggere il 7% di danno in più per carica di Sanguinamento consumata. I pugnali al ritorno non applicano più Sanguinamento
+SPELL_SHADOWDAGGERS_MOD_6,Pugnali Corrompente: I Pugnali d'ombra al ritorno infliggono Danno da decadimento anziché Danno perforante. I pugnali al ritorno consumano fino a 3 cariche di Sanguinamento da ogni nemico colpito e applicano 1 carica di Veleno per carica di Sanguinamento consumata. I pugnali al ritorno non applicano più il loro Sanguinamento base.
+SPELL_SHADOWDAGGERS_NAME,Pugnali d'ombra
+SPELL_SHADOWSHOCKWAVE_DESC,"I tuoi Cloni d'ombra scatenano ciascuno un'Onda di Shock nel terreno, infliggendo Danno contundente ai nemici sul loro percorso."
+SPELL_SHADOWSHOCKWAVE_EFFECT_0,Danno contundente: (PB:0.35)
+SPELL_SHADOWSHOCKWAVE_NAME,Onda d'Ombra
+SPELL_SHANKANDRUN_NAME,Accoltella e Fuggi
+SPELL_SHATTERSTUN_DESC,"Stordire un nemico scatena un tremore attorno a lui, infliggendo Danno contundente a tutti i nemici vicini."
+SPELL_SHATTERSTUN_EFFECT_0,Danno contundente: (PB:0.73)
+SPELL_SHATTERSTUN_NAME,Stordimento Frantumante
+SPELL_SHOCKWAVE_DESC,Premi per lanciare. Scatena un'Onda di Shock che infligge Danno contundente e respinge i nemici.
+SPELL_SHOCKWAVE_EFFECT_0,Danno contundente: (PB:2.51)
+SPELL_SHOCKWAVE_NAME,Onda di Shock
+SPELL_SILVERWARD_DESC,"Quando subisci danno, conferisce una Barriera magica che assorbe danno per 3 secondi."
+SPELL_SILVERWARD_NAME,Guardia d'Argento
+SPELL_SMASHMOUTHCLUBSWINGANDSLAM_NAME,Mazzata e Schianto di Smashmouth
+SPELL_SONICBOLT_DESC,"Colpire un nemico mentre Pugnali Sonici è attivo lancia un Dardo Sonico che attraversa i nemici, infliggendo danno suddiviso in Danno perforante e Danno contundente."
+SPELL_SONICBOLT_EFFECT_0,Danno perforante: (PT:0.29)
+SPELL_SONICBOLT_EFFECT_1,Danno contundente: (PB:0.29)
+SPELL_SONICBOLT_NAME,Dardo Sonico
+SPELL_SPAWNELEMENTALPOOL_NAME,Evoca Pozza Elementale
+SPELL_SPAWNFORESTHEART_DESC,"Premi per lanciare. Evoca un Cuore della Foresta nella posizione bersaglio, un condotto per Ventaglio di Spine e Artiglieria di Linfa."
+SPELL_SPAWNFORESTHEART_NAME,Evoca Cuore della Foresta
+SPELL_SPIRITSWAP_NAME,Scambio Spirituale
+SPELL_SPITEFULBOLT_NAME,Dardo Rancoroso
+SPELL_SPRINTING_NAME,Scatto
+SPELL_STACKINGEFFECT_NAME,Effetto ad accumulo
+SPELL_STAMINA_COST,Vigore
+SPELL_STONETHROW_NAME,Lancio di Pietra
+SPELL_STONETHROWINGKNIFE_DESC,Lancia un coltello di pietra che applica Sanguinamento al primo nemico colpito.
+SPELL_STONETHROWINGKNIFE_NAME,Coltello da Lancio di Pietra
+SPELL_STORMAURASHOCK_NAME,Scossa dell'Aura Tempestosa
+SPELL_STRONGSTRAIGHT_DESC,"Tieni premuto per caricare. Rilascia per sferrare un diretto pesante, infliggendo Danno contundente e interrompendo i nemici davanti a te. Il danno aumenta con il tempo di carica. Diretto potente consuma fino a 10 Furia al rilascio, aumentando il suo Accumulo di stordimento del 3% per Furia consumata, fino al 30%."
+SPELL_STRONGSTRAIGHT_EFFECT_0,Danno contundente: (PB:5.9)
+SPELL_STRONGSTRAIGHT_MOD_0,"Diretto punitivo: Diretto potente infligge il 30% di danno extra ai bersagli storditi, ma il 25% di danno in meno a quelli non storditi"
+SPELL_STRONGSTRAIGHT_MOD_1,"Diretto costante: Diretto potente può essere caricato per il 50% più a lungo, aumentandone il tempo di carica massimo e il danno potenziale, ma la sua velocità di carica è ridotta del 20%."
+SPELL_STRONGSTRAIGHT_MOD_2,Affondo diretto: Diretto potente ora ti fa scattare in avanti.
+SPELL_STRONGSTRAIGHT_MOD_3,Colpo automatico: Diretto potente si carica automaticamente al lancio.
+SPELL_STRONGSTRAIGHT_MOD_4,"Diretto Mietente: Diretto potente consuma il Sanguinamento sui nemici colpiti per ottenere il 6% di danno in più per carica di Sanguinamento consumata, fino al 60%."
+SPELL_STRONGSTRAIGHT_MOD_5,"Diretto Infuriante: Diretto potente non consuma più Furia. Conferisce invece 2 Furia al colpo, più altre 4 Furia se rilasciato a carica completa."
+SPELL_STRONGSTRAIGHT_MOD_6,"Diretto Furente: Diretto potente non aumenta più il suo Accumulo di stordimento con la Furia consumata. Ottiene invece l'8% di danno in più per Furia consumata, fino all'80%."
+SPELL_STRONGSTRAIGHT_NAME,Diretto potente
+SPELL_STUNNINGPOUNCE_DESC,"Cerca il nemico più vicino e si lancia su di lui, infliggendo Danno da taglio e Accumulo di stordimento."
+SPELL_STUNNINGPOUNCE_NAME,Balzo Stordente
+SPELL_STUNSHATTERBURST_DESC,"Stordire un nemico frantuma il terreno attorno a lui, lanciando un anello di frammenti che infliggono ciascuno Danno contundente in una piccola area."
+SPELL_STUNSHATTERBURST_EFFECT_0,Danno contundente: (PB:0.31)
+SPELL_STUNSHATTERBURST_NAME,Scarica Frantumante
+SPELL_SWAP_DESC,Premi per lanciare. Scambia istantaneamente la posizione con un giocatore bersaglio.
+SPELL_SWAP_MOD_0,Passo Rapido: Cambio conferisce a te e al tuo bersaglio uno scatto di velocità.
+SPELL_SWAP_NAME,Scambio Spirituale
+SPELL_SWIFTSTRIKE_DESC,"Premi per lanciare. Colpisci rapidamente, infliggendo Danno da taglio e applicando Sanguinamento a tutti i nemici davanti a te."
+SPELL_SWIFTSTRIKE_EFFECT_0,Danno da taglio: (PS:3.36)
+SPELL_SWIFTSTRIKE_EFFECT_1,Sanguinamento: 2
+SPELL_SWIFTSTRIKE_NAME,Colpo Veloce
+SPELL_SWORDSWAP_DESC,"La parte di Cambio arma relativa alla spada. Scatta in avanti e colpisci, infliggendo Danno da taglio a tutti i nemici sul tuo percorso."
+SPELL_SWORDSWAP_NAME,Cambio a spada
+SPELL_TEMPORALRIPPLE_DESC,"Applicare più di 5 cariche di Eco temporale a un nemico rilascia un'Ondulazione Temporale, infliggendo Danno da etere e Accumulo di stordimento a quel nemico e a tutti quelli attorno."
+SPELL_TEMPORALRIPPLE_EFFECT_0,Danno da etere: (MA:0.7)
+SPELL_TEMPORALRIPPLE_NAME,Ondulazione Temporale
+SPELL_TENDONSLICE_DESC,"Premi per lanciare. Fendi rapidamente i nemici davanti a te, infliggendo Danno da taglio e applicando Sanguinamento."
+SPELL_TENDONSLICE_EFFECT_0,Danno da taglio: (PS:1.57)
+SPELL_TENDONSLICE_EFFECT_1,Sanguinamento: 5
+SPELL_TENDONSLICE_NAME,Taglio dei Tendini
+SPELL_THORNSPIKES_NAME,Punte di Spine
+SPELL_TIDALWAVE_NAME,Onda di Marea
+SPELL_TIMELESSVOID_DESC,"Premi per lanciare. Crea un ampio dominio temporale. I nemici al suo interno subiscono Danno da etere nel tempo; il danno loro inflitto accumula Pressione temporale. Alla scadenza il dominio collassa, infliggendo Danno da etere aumentato dalla Pressione accumulata."
+SPELL_TIMELESSVOID_EFFECT_0,Danno da etere al secondo: (MA:0.47)
+SPELL_TIMELESSVOID_EFFECT_1,Danno del collasso: (MA:2.35)
+SPELL_TIMELESSVOID_MOD_0,Vuoto Focalizzato: Riduce il raggio di Vuoto eterno del 40%. I nemici al suo interno possono immagazzinare il 30% di Pressione temporale in più e il danno loro inflitto immagazzina il 15% di Pressione in più.
+SPELL_TIMELESSVOID_MOD_1,"Vuoto protettivo: Quando Vuoto eterno collassa, gli alleati al suo interno ottengono uno scudo protettivo. La raccolta di Pressione temporale è ridotta del 20%."
+SPELL_TIMELESSVOID_MOD_2,Vuoto sigillato: I nemici all'interno di Vuoto eterno vengono rallentati del 30% e quelli sopravvissuti vengono nuovamente rallentati quando il dominio collassa. Vuoto eterno infligge il 25% di Danno da etere nel tempo in meno.
+SPELL_TIMELESSVOID_MOD_3,"Vuoto Echeggiante: Applica 5 cariche di Eco temporale a tutti i nemici nel dominio, ma non infligge più danno."
+SPELL_TIMELESSVOID_MOD_4,"Vuoto Riecheggiato: Quando Vuoto eterno collassa, consuma tutta l'Eco temporale per infliggere il 10% del danno del collasso temporale per Eco consumata come Danno da stordimento extra."
+SPELL_TIMELESSVOID_MOD_5,Vuoto Lacerante: Il danno nel tempo inflitto da Vuoto eterno applica 1 carica di Sanguinamento.
+SPELL_TIMELESSVOID_MOD_6,"Vuoto Montante: Consuma Ondata temporale quando lanci Vuoto eterno, fino a 7 cariche. Per ogni carica di Ondata consumata, aumenta il raggio del dominio dell'8%."
+SPELL_TIMELESSVOID_MOD_7,"Vuoto Montante: Al lancio di Vuoto eterno e al suo collasso, gli alleati al suo interno ottengono 2 cariche di Ondata temporale. La raccolta di Pressione temporale è ridotta del 20%."
+SPELL_TIMELESSVOID_NAME,Vuoto eterno
+SPELL_TOXICOIL_NAME,Olio Tossico
+SPELL_TOXICSLICE_DESC,"Premi per lanciare. Fendi rapidamente i nemici davanti a te con un'arma avvelenata, infliggendo danno suddiviso in Danno da taglio e Danno da decadimento e applicando Veleno."
+SPELL_TOXICSLICE_EFFECT_0,Danno da taglio: (PS:1.05)
+SPELL_TOXICSLICE_EFFECT_1,Danno da decadimento: (MD:1.05)
+SPELL_TOXICSLICE_EFFECT_2,Veleno: 5
+SPELL_TOXICSLICE_NAME,Taglio Tossico
+SPELL_TREANTATTACK_DESC,Sferra colpi ai nemici davanti al Treant
+SPELL_TREANTATTACK_NAME,Attacco di Treant
+SPELL_TREANTSWIPE_DESC,Sferra colpi ai nemici davanti al Treant
+SPELL_TREANTSWIPE_NAME,Fendente di Treant
+SPELL_TREEGROWTH_DESC,Potenzia un Treant vicino
+SPELL_TREEGROWTH_NAME,Crescita dell'Albero
+SPELL_TYPE,Tipo
+SPELL_TYRANTQUAKE_DESC,"Tieni premuto per caricare. Rilascia per inviare scosse consecutive nel terreno, ciascuna delle quali infligge Danno contundente con Accumulo di stordimento aumentato."
+SPELL_TYRANTQUAKE_EFFECT_0,Danno contundente: (PB:4.15)
+SPELL_TYRANTQUAKE_MOD_0,Sisma inverso: Le Onde di Shock di Sisma del Tiranno attirano i nemici verso di te e la sua direzione è invertita.
+SPELL_TYRANTQUAKE_MOD_1,"Sisma rapido: Riduce il tempo di carica di Sisma del Tiranno del 60%, ma riduce il danno del 25%"
+SPELL_TYRANTQUAKE_MOD_2,"Sisma concussivo: Aumenta il Danno da stordimento di Sisma del Tiranno del 60%, ma riduce il danno del 30%"
+SPELL_TYRANTQUAKE_MOD_3,Sisma Focalizzato: Aumenta il tempo massimo di carica e il danno potenziale di Sisma del Tiranno del 50%.
+SPELL_TYRANTQUAKE_MOD_4,Sisma Infuriante: Sisma del Tiranno non consuma più Furia. Conferisce invece 2 Furia per ogni nemico colpito.
+SPELL_TYRANTQUAKE_MOD_5,"Sisma Furente: Sisma del Tiranno ignora il 4% dell'Armatura nemica per Furia consumata, fino al 40%."
+SPELL_TYRANTQUAKE_MOD_6,Sisma Lacerante: Ogni pilastro di Sisma del Tiranno applica 1 carica di Sanguinamento ogni 3 Furia consumate al lancio.
+SPELL_TYRANTQUAKE_MOD_7,"Sisma Mietente: Sisma del Tiranno consuma il Sanguinamento sui nemici colpiti per infliggere il 5% di danno in più per carica di Sanguinamento consumata, fino a un massimo del 50%."
+SPELL_TYRANTQUAKE_NAME,Sisma del Tiranno
+SPELL_VANISH_DESC,"Tieni premuto per parare. Durante la guardia, i colpi in arrivo non infliggono danno e consumano invece il tuo Vigore in base al danno parato. Una parata perfetta riduce notevolmente il Vigore consumato e ti teletrasporta dietro l'attaccante, conferendoti Ondata temporale e applicandogli Eco temporale. Se il Vigore si esaurisce, la guardia si spezza e resti stordito per 1.5 secondi."
+SPELL_VANISH_NAME,Dissolvenza
+SPELL_VANISHINGSTRIKE_DESC,"Premi per lanciare. Entra in Furtività e lascia un Clone d'ombra. Rilancia per colpire in una direzione, infliggendo Danno perforante con danno bonus alle spalle. I Cloni d'ombra vicini replicano il colpo con il 25% del tuo danno."
+SPELL_VANISHINGSTRIKE_EFFECT_0,Danno perforante: (PT:2.29)
+SPELL_VANISHINGSTRIKE_MOD_0,Imboscata frastornante: Colpo dissolvente rallenta i nemici del 50% per 3 secondi.
+SPELL_VANISHINGSTRIKE_MOD_1,"Salva d'imboscata: Quando Colpo dissolvente interrompe la Furtività, i Cloni d'ombra vicini lanciano 1 Pugnale d'ombra nella tua direzione bersaglio anziché replicare Colpo dissolvente. Un massimo di 3 Cloni d'ombra può lanciare un Pugnale d'ombra in questo modo per lancio."
+SPELL_VANISHINGSTRIKE_MOD_2,Dissolvenza intermittente: Il rilancio di Colpo dissolvente ti teletrasporta dietro al nemico più vicino alla posizione bersaglio e lo colpisce.
+SPELL_VANISHINGSTRIKE_MOD_3,"Rotolata dissolvente: Dopo essere entrato in Furtività, il tuo prossimo scatto durante tale periodo non la interrompe. Quello scatto fa eseguire ai Cloni d'ombra vicini Colpo dissolvente verso il punto finale del tuo scatto. Può verificarsi solo una volta per lancio di Colpo dissolvente. Colpo dissolvente infligge il 20% di danno in meno, sia da parte tua sia dei Cloni d'ombra."
+SPELL_VANISHINGSTRIKE_MOD_4,"Dissolvenza Mietente: Se Colpo dissolvente colpisce un nemico alle spalle, consuma fino a 5 cariche di Sanguinamento da quel nemico. Ogni carica di Sanguinamento consumata aumenta il danno di Colpo dissolvente dell'8%."
+SPELL_VANISHINGSTRIKE_MOD_5,"Dissolvenza Lacerante: Colpo dissolvente applica 2 cariche di Sanguinamento ai nemici colpiti. Se Colpo dissolvente colpisce un nemico alle spalle, applica invece 5 cariche di Sanguinamento."
+SPELL_VANISHINGSTRIKE_MOD_6,"Dissolvenza Corrompente: Colpo dissolvente ora infligge Danno da decadimento. Se Colpo dissolvente colpisce un nemico alle spalle, consuma il Sanguinamento di quel nemico e lo converte in Veleno. Di base, ogni 4 cariche di Sanguinamento consumate applicano 1 carica di Veleno, fino a 4 cariche di Veleno per nemico."
+SPELL_VANISHINGSTRIKE_MOD_7,Dissolvenza Purgante: Colpo dissolvente consuma fino a 5 cariche di Veleno dai nemici colpiti alle spalle. Ogni carica di Veleno consumata aumenta il danno di Colpo dissolvente dell'8%.
+SPELL_VANISHINGSTRIKE_NAME,Colpo dissolvente
+SPELL_VEHEMENTCLEAVE_DESC,"Tieni premuto per caricare. Rilascia per sferrare un fendente frontale che cresce con il tempo di carica, infliggendo Danno da taglio e respingendo i nemici. Consuma fino a 10 Furia per aumentare il danno, con maggiori benefici a carica più alta. Interrompe i nemici colpiti."
+SPELL_VEHEMENTCLEAVE_EFFECT_0,Danno da taglio: (PS:7.18)
+SPELL_VEHEMENTCLEAVE_MOD_0,"Fendente esecutore: Fendente veemente infligge il 30% di danno in più ai nemici sotto il 40% di Salute, ma il 30% in meno ai nemici sopra il 60%"
+SPELL_VEHEMENTCLEAVE_MOD_1,"Fendente Contundente: Fendente veemente infligge Danno contundente, ma infligge il 30% di danno in meno."
+SPELL_VEHEMENTCLEAVE_MOD_2,"Fendente ripetuto: Se Fendente veemente colpisce almeno un nemico con una carica elevata, sferra un secondo fendente più debole dopo un breve ritardo, con il 50% del danno. Il colpo iniziale di Fendente veemente infligge il 20% di danno in meno."
+SPELL_VEHEMENTCLEAVE_MOD_3,"Fendente Infuriante: Fendente veemente non consuma più Furia. Conferisce invece 2 Furia per ogni nemico colpito, più altre 2 Furia se rilasciato a carica completa."
+SPELL_VEHEMENTCLEAVE_MOD_4,"Fendente Furente: Fendente veemente ignora il 4% dell'Armatura nemica per Furia consumata, fino al 40%"
+SPELL_VEHEMENTCLEAVE_MOD_5,"Fendente Mietente: Fendente veemente consuma il Sanguinamento sui nemici colpiti per infliggere il 5% di danno in più per carica di Sanguinamento consumata, fino a un aumento del 50%."
+SPELL_VEHEMENTCLEAVE_MOD_6,Fendente Lacerante: Fendente veemente applica 1 carica di Sanguinamento a tutti i nemici colpiti ogni 3 Furia consumate.
+SPELL_VEHEMENTCLEAVE_NAME,Fendente veemente
+SPELL_VENOMSPIT_DESC,"Individua i nemici avvelenati, poi scatta verso di loro e applica cariche aggiuntive di Veleno."
+SPELL_VENOMSPIT_NAME,Sputo Velenoso
+SPELL_VORTEX_DESC,"Premi per lanciare. Ruota verso il bersaglio, infliggendo Danno da taglio e applicando Sanguinamento a tutti i nemici sul tuo percorso."
+SPELL_VORTEX_EFFECT_0,Danno da taglio: (PS:2.98)
+SPELL_VORTEX_EFFECT_1,Sanguinamento: 2
+SPELL_VORTEX_MOD_0,Vortice ripetuto: Vortice può essere rilanciato entro un breve intervallo. Il danno del secondo lancio è ridotto del 50%.
+SPELL_VORTEX_MOD_1,"Vortice stabile: Aumenta il raggio di Vortice del 30%, ma non esegue più uno scatto"
+SPELL_VORTEX_MOD_2,Tornado: Vortice non esegue più uno scatto. Puoi muoverti mentre ruoti e l'effetto persiste per 4 secondi.
+SPELL_VORTEX_MOD_3,Vortice Infuriante: Vortice conferisce 2 Furia per ogni nemico colpito.
+SPELL_VORTEX_MOD_4,"Vortice Furente: Vortice consuma Furia per aumentare il proprio raggio d'impatto del 4% per carica di Furia consumata, fino a un aumento del 40%."
+SPELL_VORTEX_MOD_5,"Vortice Mietente: Vortice non applica più Sanguinamento. Consuma invece il Sanguinamento sui nemici colpiti per infliggere il 5% di danno in più per carica di Sanguinamento consumata, fino a un aumento del 50%."
+SPELL_VORTEX_NAME,Vortice
+SPELL_WARBANNER_DESC,"Premi per lanciare. Pianta uno Stendardo di Guerra per 15 secondi. Gli alleati vicini ottengono il 20% in più di Danno fisico, Danno magico, Velocità di movimento, Armatura, Resistenza e rigenerazione di salute, vigore e concentrazione."
+SPELL_WARBANNER_EFFECT_0,Aumento Danno fisico: 20%
+SPELL_WARBANNER_EFFECT_1,Aumento Danno magico: 20%
+SPELL_WARBANNER_EFFECT_2,Aumento Velocità di movimento: 20%
+SPELL_WARBANNER_EFFECT_3,Aumento Rigenerazione: 20%
+SPELL_WARBANNER_EFFECT_4,Aumento Ringiovanimento: 20%
+SPELL_WARBANNER_EFFECT_5,Aumento Recupero: 20%
+SPELL_WARBANNER_EFFECT_6,Aumento Armatura: 20%
+SPELL_WARBANNER_EFFECT_7,Aumento Resistenza: 20%
+SPELL_WARBANNER_NAME,Stendardo di Guerra
+SPELL_WARBANNERCOMMANDER_DESC,Premi per lanciare. Piazza uno Stendardo di Guerra che conferisce agli alleati vicini il 20% di Danno fisico e Danno magico in più e il 15% di rigenerazione del vigore.
+SPELL_WARBANNERCOMMANDER_NAME,Stendardo di Guerra
+SPELL_WARROAR_DESC,"Premi per lanciare. Ruggisci ferocemente, aumentando il danno inflitto da te e dagli alleati vicini."
+SPELL_WARROAR_NAME,Ruggito di Guerra
+SPELL_WATERFLASK_DESC,Lancia una fiasca che crea una Pozza d'Acqua all'atterraggio.
+SPELL_WATERFLASK_NAME,Fiasca d'Acqua
+SPELL_WATERPOOL_NAME,Pozza d'Acqua
+SPELL_WATERSURGE_NAME,Ondata d'Acqua
+SPELL_WATERSURGEPLAYER_DESC,"Premi per lanciare. Evoca dardi d'acqua da te e dalle Pozze d'Acqua vicine e lanciali contro il bersaglio, infliggendo Danno contundente."
+SPELL_WATERSURGEPLAYER_EFFECT_0,Danno contundente: (PB:4.38)
+SPELL_WATERSURGEPLAYER_MOD_0,Tempesta di Marea: Ondata d'Acqua lascia una pozza.
+SPELL_WATERSURGEPLAYER_NAME,Ondata d'Acqua
+SPELL_WAVESTRIKE_DESC,"Tieni premuto per caricare. Rilascia per inviare un'onda di energia in avanti, infliggendo Danno da taglio a tutti i nemici colpiti. Colpo d'onda consuma il Sanguinamento sui nemici colpiti per infliggere il 4% di danno bonus per carica, fino a 10."
+SPELL_WAVESTRIKE_EFFECT_0,Danno da taglio: (PS:4.8)
+SPELL_WAVESTRIKE_MOD_0,"Colpo successivo: Dopo una carica completa, Colpo d'onda può essere rilanciato per un breve periodo. Il rilancio infligge danno ridotto e non può consumare Sanguinamento o Veleno."
+SPELL_WAVESTRIKE_MOD_1,"Onda Scindente: Colpo d'onda lancia 3 onde davanti a te, ciascuna con il 40% del danno"
+SPELL_WAVESTRIKE_MOD_2,"Onda continua: Colpo d'onda diventa un incantesimo canalizzato che emette onde continue, ciascuna con il 40% del danno. Ogni onda può consumare solo 1 carica di Sanguinamento o Veleno. Il tempo di recupero base di Colpo d'onda diventa di 3 secondi."
+SPELL_WAVESTRIKE_MOD_3,"Onda di ritorno: Dopo aver raggiunto la portata massima, Colpo d'onda torna verso di te, infliggendo il 40% del danno ai nemici colpiti al ritorno. L'onda all'andata infligge il 20% di danno in meno."
+SPELL_WAVESTRIKE_MOD_4,"Onda inoculata: Colpo d'onda consuma Inoculazione al rilascio. Ogni carica di Inoculazione consumata aumenta il danno di Colpo d'onda del 2%, fino al 30%."
+SPELL_WAVESTRIKE_MOD_5,"Onda Purgante: Colpo d'onda consuma Veleno anziché Sanguinamento. Ogni carica di Veleno consumata aumenta il danno di Colpo d'onda del 4%, fino a 10 cariche di Veleno consumate."
+SPELL_WAVESTRIKE_MOD_6,"Onda Inoculante: Colpo d'onda conferisce 2 cariche di Inoculazione per ogni nemico colpito. Se Colpo d'onda consuma Sanguinamento da quel nemico, ottieni 1 carica aggiuntiva di Inoculazione da quel nemico."
+SPELL_WAVESTRIKE_MOD_7,"Onda Corrompente: Colpo d'onda consuma il Sanguinamento sui nemici colpiti per applicare Veleno anziché ottenere danno bonus. Applica 1 carica di Veleno per carica di Sanguinamento consumata, fino a 10."
+SPELL_WAVESTRIKE_MOD_8,Onda Mietente: Colpo d'onda consuma tutto il Sanguinamento sui nemici colpiti. Le prime 10 cariche di Sanguinamento consumate conferiscono il normale 4% di danno bonus per carica. Le cariche di Sanguinamento consumate oltre le 10 conferiscono il 2% di danno bonus per carica.
+SPELL_WAVESTRIKE_MOD_9,"Onda Lacerante: Colpo d'onda non consuma più Sanguinamento. Invece, Colpo d'onda applica 4 cariche di Sanguinamento a tutti i nemici colpiti, o 6 cariche di Sanguinamento se rilasciato a carica completa."
+SPELL_WAVESTRIKE_NAME,Colpo d'onda
+SPELL_WEAKHEALTHEXTRACT_NAME,Estratto Debole di Salute
+SPELL_WEAKMAGICEXTRACT_NAME,Estratto Debole di Magia
+SPELL_WEAPONSWAP_DESC,"Premi per lanciare. Alterna spada e balestra. Passare alla spada ti fa scattare in avanti, infliggendo Danno da taglio ai nemici sul tuo percorso. Passare alla balestra ti fa saltare indietro e sparare 2 colpi nella direzione bersaglio, ciascuno dei quali infligge Danno perforante."
+SPELL_WEAPONSWAP_EFFECT_0,Danno da taglio: (PS:3.48)
+SPELL_WEAPONSWAP_EFFECT_1,Danno perforante: (PT:2.22)
+SPELL_WEAPONSWAP_MOD_0,Guerriero Versatile: Cambio arma aumenta tutto il danno del 15% per 8 secondi.
+SPELL_WEAPONSWAP_MOD_1,"Giravolta dell'eroe: Il tuo Cambio a spada scatena un fendente rotante al termine dello scatto, infliggendo Danno da taglio a tutti i nemici attorno a te."
+SPELL_WEAPONSWAP_MOD_2,Versatilità di supporto: Guerriero Versatile influenza anche gli alleati vicini.
+SPELL_WEAPONSWAP_MOD_3,"Ventaglio di dardi: Il tuo Cambio a balestra scatena un ventaglio di dardi, ciascuno dei quali infligge Danno perforante pari al 30% del danno originale."
+SPELL_WEAPONSWAP_MOD_4,Disciplina della Lama: Cambio arma esegue solo Cambio a spada. Non puoi usare la balestra.
+SPELL_WEAPONSWAP_MOD_5,Disciplina della Balestra: Cambio arma esegue solo Cambio a balestra. Non puoi usare la spada.
+SPELL_WEAPONSWAP_MOD_6,Cambio Lacerante: Cambio a spada applica 2 cariche di Sanguinamento ai nemici colpiti. I tiri di Cambio a balestra applicano 2 cariche di Sanguinamento.
+SPELL_WEAPONSWAP_MOD_7,"Cambio Mietente: Cambio a spada consuma il Sanguinamento sui nemici colpiti per ripristinare 5 Vigore per carica di Sanguinamento, fino a 10 cariche. I tiri di Cambio a balestra consumano Sanguinamento per ripristinare 4 Concentrazione per carica di Sanguinamento, fino a 5 cariche."
+SPELL_WEAPONSWAP_MOD_8,Cambio Avvelenante: Cambio a balestra applica 3 cariche di Veleno con ogni tiro. Cambio a spada applica 3 cariche di Veleno ai nemici colpiti che sono già sanguinanti.
+SPELL_WEAPONSWAP_NAME,Cambio arma
+SPELL_WHIRLOFGORE_DESC,"Colpire un nemico sanguinante può attivare un Vortice di Sangue rotante, infliggendo Danno da taglio a tutti i nemici attorno a te. La probabilità aumenta con ogni carica di Sanguinamento sui nemici vicini."
+SPELL_WHIRLOFGORE_EFFECT_0,Danno da taglio: (PS:0.76)
+SPELL_WHIRLOFGORE_NAME,Vortice di Sangue
+SPELL_WOLDROOTSTOMP_DESC,"Il Treant pesta il terreno, infliggendo danno in un'ampia area."
+SPELL_WOLDROOTSTOMP_NAME,Pestone di Woldroot
+SPELL_WOLDROOTSWIPE_DESC,Sferra colpi ai nemici davanti al Treant
+SPELL_WOLDROOTSWIPE_NAME,Fendente di Woldroot
+SPELL_WOLFPACKSENSE_DESC,Applica il Senso del Branco a tutti i lupi vicini.
+SPELL_WOLFPACKSENSE_NAME,Senso del Branco
+SPELL_WOLFPOUNCE_DESC,Balza sul bersaglio
+SPELL_WOLFPOUNCE_NAME,Balzo del Lupo

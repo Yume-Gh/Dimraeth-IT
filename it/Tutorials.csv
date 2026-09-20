@@ -1,0 +1,38 @@
+﻿Key,Text
+SUBTITLE_FAUSTASCHECKCHESTS,Controlla le casse. Le fortune si nascondono spesso nel legno grezzo e nei cardini rugginosi
+SUBTITLE_FAUSTASFINDEXIT,"Ah, eccoti! Se fossi così gentile da trovare l'uscita, te ne sarei grato. Per me trovare l'ingresso si sta rivelando sorprendentemente difficile."
+SUBTITLE_FAUSTASNEARLYOUT,Splendido! Sei quasi fuori. Cerca di non morire proprio agli ultimi passi: rovinerebbe terribilmente il finale.
+SUBTITLE_FAUSTASROARINGCREATURE,"Oh, cielo... Non è il ruggito di una creatura intenzionata a essere cortese. Più svelto, se non ti dispiace"
+TUTORIAL_ATTACK,Attacca con
+TUTORIAL_BLOCK,Para tenendo premuto
+TUTORIAL_CASTINGTARGET,Seleziona un bersaglio e aggancialo con
+TUTORIAL_CASTSPELL,Lancia incantesimi con
+TUTORIAL_CONSUMPTION,Resta nutrito: ricorda di mangiare o bere regolarmente
+TUTORIAL_CONSUMPTION_NOTE_0,"Altrimenti la tua salute, concentrazione e vigore massimi caleranno."
+TUTORIAL_DASH,Scatta con 
+TUTORIAL_DISCOVERMAP,Trova i cristalli di mappa per completarla.
+TUTORIAL_DISMANTLE,Smonta una costruzione per recuperare risorse passandoci sopra e tenendo premuto
+TUTORIAL_EQUIPGEAR,Clicca o trascina l'equipaggiamento nel suo slot.
+TUTORIAL_EQUIPGEAR_CONTROLLER,Equipaggia l'attrezzatura nel suo slot con
+TUTORIAL_EQUIPITEM,Clicca o trascina i consumabili nella barra rapida
+TUTORIAL_EQUIPITEM_CONTROLLER,Assegna i consumabili alla barra rapida con
+TUTORIAL_HOTBAR,Clicca o trascina i consumabili nella barra rapida
+TUTORIAL_HOTBAR_CONTROLLER,Assegna i consumabili alla barra rapida con
+TUTORIAL_INTERACT,Avvicinati alla cassa e premi
+TUTORIAL_MOVE,Muoviti con 
+TUTORIAL_OPENBACKPACK,Apri l'inventario con
+TUTORIAL_OPENBUILDMENU,Apri il menu costruzioni tenendo premuto
+TUTORIAL_OPENMAP,Apri la mappa in qualsiasi momento con
+TUTORIAL_PERFECTPARRY,Parata perfetta: para nell'istante in cui l'attacco arriva con
+TUTORIAL_PICKUPITEM,Per raccogliere l'oggetto premi
+TUTORIAL_PICKUPITEM_NOTE_0,Avvicinati alla cassa e interagisci
+TUTORIAL_PLACEBUILD,"Costruisci: scegli una tenda, decidi dove posizionarla, poi premi "
+TUTORIAL_RESTATCAMPFIRE,Riposa ai falò per ricaricare pozioni e altri oggetti da combattimento.
+TUTORIAL_SELECTWAYPOINTTOTRAVEL,Seleziona il Varco vicino per il viaggio rapido.
+TUTORIAL_SETBONUS,Equipaggia più pezzi dello stesso set per attivare un potente bonus del set!
+TUTORIAL_SPRINT,Corri tenendo premuto
+TUTORIAL_SPRINT_NOTE_0,Scatto automatico nel menu Impostazioni
+TUTORIAL_TELEPORTFROMSANCTUM,Passa alla mappa di Earlwood e seleziona il Varco del Villaggio.
+TUTORIAL_TRACKQUEST,Segui la nuova missione nel menu Missioni con
+TUTORIAL_TRAVELTOLOSTCAVERNS,"Viaggia rapidamente verso qualsiasi Varco scoperto sulla mappa, in qualsiasi momento."
+TUTORIAL_WORKBENCHCRAFTING,Costruisci un falò e cuoci un Nucleo di Droop

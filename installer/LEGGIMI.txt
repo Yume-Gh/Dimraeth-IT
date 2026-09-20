@@ -1,0 +1,98 @@
+===============================================================================
+  DIMRAETH - TRADUZIONE ITALIANA          versione 1.0
+  traduzione amatoriale, non ufficiale, non affiliata a Mudtek
+===============================================================================
+
+
+COSA C'E' DENTRO
+
+  Traduzione italiana completa di Dimraeth: tutte e sedici le categorie di
+  testo del gioco, 20.373 stringhe. Interfaccia, oggetti, abilita',
+  incantesimi, missioni, codex e i 5.202 dialoghi degli NPC.
+
+
+COME SI INSTALLA
+
+  1. Chiudi il gioco, se e' aperto.
+  2. Avvia Dimraeth-IT-Setup.exe
+  3. La cartella del gioco viene trovata da sola tramite Steam. Se non
+     succede, indicala con "Sfoglia": e' quella che contiene Dimraeth.exe.
+  4. Premi "Installa la traduzione" e aspetta qualche secondo.
+  5. Avvia il gioco: Impostazioni -> Lingua -> "Italiano".
+
+
+PERCHE' LA LINGUA SI CHIAMA "ITALIANO" MA ERA IL RUSSO
+
+  Il gioco ha otto lingue fisse, decise quando e' stato compilato, e
+  l'italiano non e' fra quelle: non c'e' modo di aggiungerne una nona senza
+  rifare il gioco. La traduzione prende quindi il posto del RUSSO, che e'
+  l'unico slot abbastanza capiente in tutte le categorie, e la voce del menu
+  viene rinominata in "Italiano".
+
+  Conseguenza: finche' la traduzione e' installata, il russo non e' piu'
+  disponibile. Le altre sette lingue restano intatte.
+
+
+COME SI DISINSTALLA
+
+  Riapri Dimraeth-IT-Setup.exe e premi "Rimuovi".
+
+  L'installer salva una copia dei file originali del gioco prima di
+  modificarli, quindi il ripristino e' esatto: il gioco torna byte per byte
+  com'era. In alternativa funziona anche Steam -> Proprieta' del gioco ->
+  File installati -> Verifica integrita' dei file.
+
+
+SE IL GIOCO VIENE AGGIORNATO
+
+  Un aggiornamento di Steam riscrive i file del gioco, quindi la traduzione
+  sparisce e va reinstallata. Riapri l'installer e premi di nuovo
+  "Installa la traduzione".
+
+  Se dopo l'aggiornamento l'installer dice che non e' compatibile, vuol dire
+  che gli sviluppatori hanno cambiato i testi: serve una versione nuova della
+  traduzione, e l'installer si ferma invece di danneggiare il gioco.
+
+
+AVVERTENZE
+
+  - Il gioco deve essere chiuso durante l'installazione.
+  - Se il gioco e' in una cartella protetta (per esempio dentro
+    "Programmi"), avvia l'installer come amministratore.
+  - Alcuni antivirus segnalano i programmi creati con PyInstaller senza che
+    ci sia nulla di male: e' un falso positivo noto, dovuto al modo in cui
+    l'eseguibile impacchetta Python. Il codice sorgente e' disponibile.
+  - La traduzione non tocca i salvataggi: si puo' installare e rimuovere a
+    partita iniziata.
+
+
+COME E' STATA FATTA
+
+  Traduzione assistita da modelli linguistici, con revisione e controlli
+  automatici a ogni passaggio: un glossario di 481 termini vincolanti,
+  verifica dei segnaposto e dei tag, controllo di coerenza terminologica su
+  tutte le righe tradotte, e rilettura umana della prosa.
+
+  I dialoghi sono stati tradotti un personaggio alla volta perche' ogni voce
+  restasse riconoscibile. Il gioco fa scegliere una personalita' a inizio
+  partita e ogni battuta del protagonista esiste in quattro versioni
+  (eroica, ironica, analitica, stoica): la differenza fra le quattro e' stata
+  mantenuta, perche' e' il motivo per cui quella scelta esiste.
+
+
+SEGNALAZIONI
+
+  Se trovi un errore, una frase che suona male o un accordo sbagliato,
+  segnalalo indicando il testo italiano e, se puoi, dove compare nel gioco.
+
+
+CREDITI
+
+  Traduzione italiana di Yume
+  https://steamcommunity.com/id/yumexx/
+
+  Dimraeth e' di Mudtek. Questa traduzione e' un lavoro amatoriale,
+  distribuito gratuitamente, senza alcun rapporto con gli sviluppatori o con
+  l'editore.
+
+===============================================================================

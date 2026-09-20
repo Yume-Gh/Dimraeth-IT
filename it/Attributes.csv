@@ -1,0 +1,497 @@
+﻿Key,Text
+ATTR_ADVENTURE_DESC,Avventura rappresenta il coraggio e le capacità esplorative del giocatore.
+ATTR_ADVENTURE_NAME,Avventura
+ATTR_AGILITY_DESC,Agilità migliora la velocità di movimento e la destrezza.
+ATTR_AGILITY_NAME,Agilità
+ATTR_Armor, Armatura
+ATTR_ArmorPenetration, Penetrazione dell'armatura
+ATTR_ArmorPenetrationPercent,% Penetrazione dell'armatura
+ATTR_ArmorPercent,% Armatura
+ATTR_AttackDamage,% Danno d'attacco
+ATTR_AttackSpeed, Velocità d'attacco
+ATTR_BleedDamage,% Danno da Sanguinamento
+ATTR_BleedDuration, Durata sanguinamento
+ATTR_BluntArmor, Armatura contundente
+ATTR_BluntDamage, Danno contundente
+ATTR_BluntPiercing, Penetrazione contundente
+ATTR_BurningDamage,% Danno da Ustione
+ATTR_BurningDuration, Durata ustione
+ATTR_CHARISMA_DESC,Carisma migliora le interazioni sociali e l'influenza sui PNG.
+ATTR_CHARISMA_NAME,Carisma
+ATTR_ChilledDuration, Durata gelo
+ATTR_ChilledPower,% Potenza del gelo
+ATTR_Concentration, Concentrazione
+ATTR_ConcentrationOnHit, Concentrazione al colpo
+ATTR_ConcentrationPercent,% Concentrazione
+ATTR_ConcentrationRegen, Rigen. concentrazione
+ATTR_CriticalChance,% Probabilità di critico
+ATTR_CriticalChanceVsBleeding,% Probabilità di critico vs. sanguinanti
+ATTR_CriticalChanceVsBurning,% Probabilità di critico vs. ustionati
+ATTR_CriticalChanceVsChilled,% Probabilità di critico vs. assiderati
+ATTR_CriticalChanceVsPoison,% Probabilità di critico vs. avvelenati
+ATTR_CriticalChanceVsStunned,% Probabilità di critico vs. storditi
+ATTR_CriticalDamage,% Moltiplicatore critico
+ATTR_CriticalDamageVsBleeding,% Danno critico vs. sanguinanti
+ATTR_CriticalDamageVsBurning,% Danno critico vs. ustionati
+ATTR_CriticalDamageVsChilled,% Danno critico vs. assiderati
+ATTR_CriticalDamageVsPoison,% Danno critico vs. avvelenati
+ATTR_CriticalDamageVsStunned,% Danno critico vs. storditi
+ATTR_DamageVsBleeding,% Danno vs. sanguinanti
+ATTR_DamageVsBurning,% Danno vs. ustionati
+ATTR_DamageVsChilled,% Danno vs. assiderati
+ATTR_DamageVsFullHealth,% Danno vs. salute massima
+ATTR_DamageVsLowHealth40,% Danno vs. <40% HP
+ATTR_DamageVsPoison,% Danno vs. avvelenati
+ATTR_DamageVsStunned,% Danno vs. storditi
+ATTR_DecayDamage, Danno da decadimento
+ATTR_DecayPiercing, Penetrazione da decadimento
+ATTR_DecayResistance, Resistenza al decadimento
+ATTR_ElectricityDamage, Danno da elettricità
+ATTR_ElectricityPiercing, Penetrazione da elettricità
+ATTR_ElectricResistance, Resistenza all'elettricità
+ATTR_Encumbrance, Ingombro
+ATTR_ENERGY_DESC,Energia rappresenta la tenacia e la resistenza del giocatore.
+ATTR_ENERGY_NAME,Energia
+ATTR_EtherDamage, Danno da etere
+ATTR_EtherPiercing, Penetrazione da etere
+ATTR_EtherResistance, Resistenza all'etere
+ATTR_FireDamage, Danno da fuoco
+ATTR_FirePiercing, Penetrazione da fuoco
+ATTR_FireResistance, Resistenza al fuoco
+ATTR_GuardEfficiency,% Efficienza della guardia
+ATTR_HealingPower,% Potere curativo
+ATTR_Health, HP
+ATTR_HealthRegen, Rigen. salute
+ATTR_HPPercent,% HP
+ATTR_IceDamage, Danno da ghiaccio
+ATTR_IcePiercing, Penetrazione da ghiaccio
+ATTR_IceResistance, Resistenza al ghiaccio
+ATTR_INTELLIGENCE_DESC,Intelligenza potenzia le capacità magiche e di risoluzione dei problemi.
+ATTR_INTELLIGENCE_NAME,Intelligenza
+ATTR_LABEL_Alcohol,Alcolici
+ATTR_LABEL_BuildUnlock,Sblocco costruzione
+ATTR_LABEL_Concentration,Concentrazione
+ATTR_LABEL_For,per
+ATTR_LABEL_Health,Salute
+ATTR_LABEL_Nourishment,Nutrimento
+ATTR_LABEL_Passive,Passiva
+ATTR_LABEL_RecipeUnlock,Sblocco ricetta
+ATTR_LABEL_RequiresLevel,Richiede livello
+ATTR_LABEL_Seconds,s
+ATTR_LABEL_SpellUnlock,Sblocco incantesimo
+ATTR_LABEL_Stamina,Vigore
+ATTR_LABEL_ToolLevel,Livello strumento
+ATTR_MagicDamage,% Danno magico
+ATTR_MagicPiercing, Penetrazione magica
+ATTR_MagicPower, Potere magico
+ATTR_MaxBleeding, Sanguinamento max
+ATTR_MaxBurning, Ustione max
+ATTR_MaxChill, Gelo max
+ATTR_MaxPoison, Veleno max
+ATTR_MaxRage, Furia max
+ATTR_MaxShock, Scossa max
+ATTR_MEMORY_DESC,Memoria influisce sulla capacità del giocatore di ricordare dettagli essenziali.
+ATTR_MEMORY_NAME,Memoria
+ATTR_MinionCriticalChance,% Probabilità di critico dei servitori
+ATTR_MinionDamage,% Danno dei servitori
+ATTR_MinionHealth,% Salute dei servitori
+ATTR_MovementSpeed, Velocità di movimento
+ATTR_PhysicalDamage,% Danno fisico
+ATTR_PhysicalPiercing, Penetrazione fisica
+ATTR_PhysicalPower, Potere fisico
+ATTR_PHYSIQUE_DESC,Costituzione determina la forza fisica e il vigore.
+ATTR_PHYSIQUE_NAME,Costituzione
+ATTR_PoisonDamage,% Danno da Veleno
+ATTR_PoisonDuration, Durata veleno
+ATTR_PoisonPiercing, Penetrazione da veleno
+ATTR_PREFIX_Armor,Solidità
+ATTR_PREFIX_AttackSpeed,Rapidità
+ATTR_PREFIX_BluntDamage,Fracasso
+ATTR_PREFIX_BluntPiercing,Frattura
+ATTR_PREFIX_Concentration,Focalizzazione
+ATTR_PREFIX_ConcentrationRegen,Meditazione
+ATTR_PREFIX_CriticalChance,Filo
+ATTR_PREFIX_CriticalDamage,Letalità
+ATTR_PREFIX_DecayDamage,Avvizzimento
+ATTR_PREFIX_DecayPiercing,Putrefazione
+ATTR_PREFIX_ElectricityDamage,Folgore
+ATTR_PREFIX_ElectricityPiercing,Scarica
+ATTR_PREFIX_Encumbrance,Leggerezza
+ATTR_PREFIX_EtherDamage,Etere
+ATTR_PREFIX_EtherPiercing,Fase
+ATTR_PREFIX_FireDamage,Fiamma
+ATTR_PREFIX_FirePiercing,Arsura
+ATTR_PREFIX_GuardEfficiency,Fermezza
+ATTR_PREFIX_HealingPower,Restaurazione
+ATTR_PREFIX_Health,Robustezza
+ATTR_PREFIX_HealthRegen,Riparazione
+ATTR_PREFIX_IceDamage,Brina
+ATTR_PREFIX_IcePiercing,Incrinatura
+ATTR_PREFIX_MagicPiercing,Dissoluzione
+ATTR_PREFIX_MagicPower,Misticismo
+ATTR_PREFIX_MinionCriticalChance,Crudeltà
+ATTR_PREFIX_MinionDamage,Comando
+ATTR_PREFIX_MinionHealth,Rinforzo
+ATTR_PREFIX_MovementSpeed,Sveltezza
+ATTR_PREFIX_PhysicalPiercing,Squarcio
+ATTR_PREFIX_PhysicalPower,Ferocia
+ATTR_PREFIX_PoisonPiercing,Tossicità
+ATTR_PREFIX_Resistance,Salvaguardia
+ATTR_PREFIX_SpellHaste,Fretta
+ATTR_PREFIX_Stamina,Tenacia
+ATTR_PREFIX_StaminaRegen,Ristoro
+ATTR_PREFIX_StrikeDamage,Recisione
+ATTR_PREFIX_StrikePiercing,Rottura
+ATTR_PREFIX_ThrustDamage,Trafittura
+ATTR_PREFIX_ThrustPiercing,Scissione
+ATTR_RageDuration, Durata furia
+ATTR_Resistance, Resistenza
+ATTR_ResistancePenetration, Penetrazione delle resistenze
+ATTR_ResistancePenetrationPercent,% Penetrazione delle resistenze
+ATTR_ResistancePercent,% Resistenza
+ATTR_SpellHaste, Celerità magica
+ATTR_Stamina, Vigore
+ATTR_StaminaPercent,% Vigore
+ATTR_StaminaRegen, Rigen. vigore
+ATTR_STRENGTH_DESC,Forza influisce sulla potenza in combattimento ravvicinato.
+ATTR_STRENGTH_NAME,Forza
+ATTR_StrikeArmor, Armatura da taglio
+ATTR_StrikeDamage, Danno da taglio
+ATTR_StrikePiercing, Penetrazione da taglio
+ATTR_StunBuildupIncrease,% Accumulo di stordimento
+ATTR_ThrustArmor, Armatura perforante
+ATTR_ThrustDamage, Danno perforante
+ATTR_ThrustPiercing, Penetrazione perforante
+ATTR_TMPL_ARMOR,{0} Armatura
+ATTR_TMPL_ARMORPENETRATION,{0} Penetrazione dell'armatura
+ATTR_TMPL_ARMORPENETRATIONPERCENT,{0}% Penetrazione dell'armatura
+ATTR_TMPL_ARMORPERCENT,{0}% Armatura
+ATTR_TMPL_ATTACKDAMAGE,{0}% Danno d'attacco
+ATTR_TMPL_ATTACKSPEED,{0} Velocità d'attacco
+ATTR_TMPL_BLEEDDAMAGE,{0}% Danno da Sanguinamento
+ATTR_TMPL_BLEEDDURATION,{0} Durata sanguinamento
+ATTR_TMPL_BLUNTARMOR,{0} Armatura contundente
+ATTR_TMPL_BLUNTDAMAGE,{0} Danno contundente
+ATTR_TMPL_BLUNTPIERCING,{0} Penetrazione contundente
+ATTR_TMPL_BURNINGDAMAGE,{0}% Danno da Ustione
+ATTR_TMPL_BURNINGDURATION,{0} Durata ustione
+ATTR_TMPL_CHILLEDDURATION,{0} Durata gelo
+ATTR_TMPL_CHILLEDPOWER,{0}% Potenza del gelo
+ATTR_TMPL_CONCENTRATION,{0} Concentrazione
+ATTR_TMPL_CONCENTRATIONONHIT,{0} Concentrazione al colpo
+ATTR_TMPL_CONCENTRATIONPERCENT,{0}% Concentrazione
+ATTR_TMPL_CONCENTRATIONREGEN,{0} Rigen. Concentrazione
+ATTR_TMPL_CRITICALCHANCE,{0}% Probabilità di critico
+ATTR_TMPL_CRITICALCHANCEVSBLEEDING,{0}% Probabilità di critico vs. sanguinanti
+ATTR_TMPL_CRITICALCHANCEVSBURNING,{0}% Probabilità di critico vs. ustionati
+ATTR_TMPL_CRITICALCHANCEVSCHILLED,{0}% Probabilità di critico vs. assiderati
+ATTR_TMPL_CRITICALCHANCEVSPOISON,{0}% Probabilità di critico vs. avvelenati
+ATTR_TMPL_CRITICALCHANCEVSSTUNNED,{0}% Probabilità di critico vs. storditi
+ATTR_TMPL_CRITICALDAMAGE,{0}% Moltiplicatore critico
+ATTR_TMPL_CRITICALDAMAGEVSBLEEDING,{0}% Danno critico vs. sanguinanti
+ATTR_TMPL_CRITICALDAMAGEVSBURNING,{0}% Danno critico vs. ustionati
+ATTR_TMPL_CRITICALDAMAGEVSCHILLED,{0}% Danno critico vs. assiderati
+ATTR_TMPL_CRITICALDAMAGEVSPOISON,{0}% Danno critico vs. avvelenati
+ATTR_TMPL_CRITICALDAMAGEVSSTUNNED,{0}% Danno critico vs. storditi
+ATTR_TMPL_DAMAGEVSBLEEDING,{0}% Danno vs. sanguinanti
+ATTR_TMPL_DAMAGEVSBURNING,{0}% Danno vs. ustionati
+ATTR_TMPL_DAMAGEVSCHILLED,{0}% Danno vs. assiderati
+ATTR_TMPL_DAMAGEVSFULLHEALTH,{0}% Danno vs. salute massima
+ATTR_TMPL_DAMAGEVSLOWHEALTH40,{0}% Danno vs. <40% HP
+ATTR_TMPL_DAMAGEVSPOISON,{0}% Danno vs. avvelenati
+ATTR_TMPL_DAMAGEVSSTUNNED,{0}% Danno vs. storditi
+ATTR_TMPL_DECAYDAMAGE,{0} Danno da decadimento
+ATTR_TMPL_DECAYPIERCING,{0} Penetrazione da decadimento
+ATTR_TMPL_DECAYRESISTANCE,{0} Resistenza al decadimento
+ATTR_TMPL_ELECTRICITYDAMAGE,{0} Danno da elettricità
+ATTR_TMPL_ELECTRICITYPIERCING,{0} Penetrazione da elettricità
+ATTR_TMPL_ELECTRICRESISTANCE,{0} Resistenza all'elettricità
+ATTR_TMPL_ENCUMBRANCE,{0} Ingombro
+ATTR_TMPL_ETHERDAMAGE,{0} Danno da etere
+ATTR_TMPL_ETHERPIERCING,{0} Penetrazione da etere
+ATTR_TMPL_ETHERRESISTANCE,{0} Resistenza all'etere
+ATTR_TMPL_FIREDAMAGE,{0} Danno da fuoco
+ATTR_TMPL_FIREPIERCING,{0} Penetrazione da fuoco
+ATTR_TMPL_FIRERESISTANCE,{0} Resistenza al fuoco
+ATTR_TMPL_GUARDEFFICIENCY,{0}% Efficienza della guardia
+ATTR_TMPL_HEALINGPOWER,{0}% Potere curativo
+ATTR_TMPL_HEALTH,{0} HP
+ATTR_TMPL_HEALTHREGEN,{0} Rigen. Salute
+ATTR_TMPL_HPPERCENT,{0}% HP
+ATTR_TMPL_ICEDAMAGE,{0} Danno da ghiaccio
+ATTR_TMPL_ICEPIERCING,{0} Penetrazione da ghiaccio
+ATTR_TMPL_ICERESISTANCE,{0} Resistenza al ghiaccio
+ATTR_TMPL_MAGICDAMAGE,{0}% Danno magico
+ATTR_TMPL_MAGICPIERCING,{0} Penetrazione magica
+ATTR_TMPL_MAGICPOWER,{0} Potere magico
+ATTR_TMPL_MAXBLEEDING,{0} Sanguinamento max
+ATTR_TMPL_MAXBURNING,{0} Ustione max
+ATTR_TMPL_MAXCHILL,{0} Gelo max
+ATTR_TMPL_MAXPOISON,{0} Veleno max
+ATTR_TMPL_MAXRAGE,{0} Furia max
+ATTR_TMPL_MAXSHOCK,{0} Scossa max
+ATTR_TMPL_MINIONCRITICALCHANCE,{0}% Probabilità di critico dei servitori
+ATTR_TMPL_MINIONDAMAGE,{0}% Danno dei servitori
+ATTR_TMPL_MINIONHEALTH,{0}% Salute dei servitori
+ATTR_TMPL_MOVEMENTSPEED,{0} Velocità di movimento
+ATTR_TMPL_PHYSICALDAMAGE,{0}% Danno fisico
+ATTR_TMPL_PHYSICALPIERCING,{0} Penetrazione fisica
+ATTR_TMPL_PHYSICALPOWER,{0} Potere fisico
+ATTR_TMPL_POISONDAMAGE,{0}% Danno da Veleno
+ATTR_TMPL_POISONDURATION,{0} Durata veleno
+ATTR_TMPL_POISONPIERCING,{0} Penetrazione da veleno
+ATTR_TMPL_RAGEDURATION,{0} Durata furia
+ATTR_TMPL_RESISTANCE,{0} Resistenza
+ATTR_TMPL_RESISTANCEPENETRATION,{0} Penetrazione delle resistenze
+ATTR_TMPL_RESISTANCEPENETRATIONPERCENT,{0}% Penetrazione delle resistenze
+ATTR_TMPL_RESISTANCEPERCENT,{0}% Resistenza
+ATTR_TMPL_SPELLHASTE,{0} Celerità magica
+ATTR_TMPL_STAMINA,{0} Vigore
+ATTR_TMPL_STAMINAPERCENT,{0}% Vigore
+ATTR_TMPL_STAMINAREGEN,{0} Rigen. Vigore
+ATTR_TMPL_STRIKEARMOR,{0} Armatura da taglio
+ATTR_TMPL_STRIKEDAMAGE,{0} Danno da taglio
+ATTR_TMPL_STRIKEPIERCING,{0} Penetrazione da taglio
+ATTR_TMPL_STUNBUILDUPINCREASE,{0}% Accumulo di stordimento
+ATTR_TMPL_THRUSTARMOR,{0} Armatura perforante
+ATTR_TMPL_THRUSTDAMAGE,{0} Danno perforante
+ATTR_TMPL_THRUSTPIERCING,{0} Penetrazione perforante
+ATTR_TOTAL_DESC,"La somma di tutti gli attributi, che rappresenta la forza complessiva del personaggio."
+ATTR_TOTAL_NAME,Totale
+CLASS_BRAWLER,Rissoso
+CLASS_BUILDER,Costruttore
+CLASS_BULWARK,Baluardo
+CLASS_MAGICIAN,Mago
+CLASS_SHADOW,Ombra
+CLASS_SHAMAN,Sciamano
+EFFECT_ACCELERATEDCASTING,Lancio Accelerato
+EFFECT_ACCELERATEDCASTING_DESC,Aumenta per breve tempo la Velocità di movimento e la Velocità d'attacco dopo un'abilità da Elfo.
+EFFECT_ALACRITY,Alacrità
+EFFECT_AMBUSH,Imboscata
+EFFECT_AMBUSH_DESC,Imboscata è pronta. Il prossimo attacco automatico dopo uno scatto rapido infligge più Danno fisico.
+EFFECT_ARMORDOWN,Riduzione di Armatura
+EFFECT_ARMORDOWN_DESC,L'Armatura è ridotta e aumenta il Danno fisico subito.
+EFFECT_ARMORUP,Aumento di Armatura
+EFFECT_ARMORUP_DESC,L'Armatura è aumentata e riduce il Danno fisico subito.
+EFFECT_ASHENESCALATION,Escalation di Cenere
+EFFECT_ASHENESCALATION_DESC,Escalation di Cenere ha aumentato il Danno da fuoco in base agli accumuli di Ustione consumati.
+EFFECT_ATTACKSPEEDDOWN,Riduzione di Velocità d'attacco
+EFFECT_ATTACKSPEEDDOWN_DESC,la Velocità d'attacco si riduce.
+EFFECT_ATTACKSPEEDUP,Aumento di Velocità d'attacco
+EFFECT_ATTACKSPEEDUP_DESC,la Velocità d'attacco aumenta.
+EFFECT_BLEEDING,Sanguinamento
+EFFECT_BLEEDINGRESISTANCE,Resistenza Sanguinamento
+EFFECT_BLEEDINGRESISTANCE_DESC,"Quando un Effetto ad accumulo di Sanguinamento si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1."
+EFFECT_BLOODFRENZY,Frenesia Sanguinaria
+EFFECT_BLOODFRENZY_DESC,Frenesia Sanguinaria aumenta il Danno fisico inflitto ai nemici con Sanguinamento.
+EFFECT_BLOODINTHEWATER,Sangue nell'Acqua
+EFFECT_BLOODINTHEWATER_DESC,Sangue nell'Acqua ha aumentato per breve tempo la Probabilità di critico dopo un colpo a un nemico con forte Sanguinamento.
+EFFECT_BLUNT_DAMAGE,Danno contundente
+EFFECT_BLUNTFORCEEXECUTE,Esecuzione Contundente
+EFFECT_BLUNTFORCEEXECUTE_DESC,Esecuzione Contundente ha aumentato per breve tempo il Danno fisico dopo un colpo mortale contundente.
+EFFECT_BULWARK,Baluardo
+EFFECT_BULWARK_DESC,Baluardo ha conferito Armatura bonus per breve tempo dopo che un singolo colpo ha rimosso oltre il 30% della Salute massima.
+EFFECT_BURNING,Ustione
+EFFECT_BURNINGRESISTANCE,Resistenza Ustione
+EFFECT_BURNINGRESISTANCE_DESC,"Quando un Effetto ad accumulo di Ustione si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1."
+EFFECT_CHILL,Gelo
+EFFECT_COLDSCALEDPOWER,Potere Scalato dal Freddo
+EFFECT_COLDSCALEDPOWER_DESC,Potere Scalato dal Freddo ha aumentato il Danno magico in base agli accumuli di Gelo del bersaglio.
+EFFECT_CONCENTRATIONDOWN,Riduzione di Concentrazione
+EFFECT_CONCENTRATIONDOWN_DESC,La Concentrazione massima è ridotta.
+EFFECT_CONCENTRATIONONHITUP,Concentrazione al colpo aumentata
+EFFECT_CONCENTRATIONONHITUP_DESC,La Concentrazione si ripristina colpendo i nemici.
+EFFECT_CONCENTRATIONUP,Aumento di Concentrazione
+EFFECT_CONCENTRATIONUP_DESC,La Concentrazione massima è aumentata.
+EFFECT_COUNTERFIREDISCIPLINE,Disciplina del Controfuoco
+EFFECT_COUNTERFIREDISCIPLINE_DESC,Disciplina del Controfuoco è pronta. Il prossimo Attacco finale a distanza infligge più danno.
+EFFECT_CROSSBOWSWAP,Cambio a balestra
+EFFECT_DEADLYRHYTHM,Ritmo Letale
+EFFECT_DEADLYRHYTHM_DESC,Ritmo Letale ha aumentato per breve tempo la Velocità d'attacco dopo un colpo critico.
+EFFECT_DECAY,Decadimento
+EFFECT_DECAY_DAMAGE,Danno da decadimento
+EFFECT_DECAYCHANNEL,Canalizzazione Decadimento
+EFFECT_DECAYCHANNEL_DESC,Canalizzazione del Decadimento ha aumentato per breve tempo il Danno magico dopo il lancio di un incantesimo di Magia della peste.
+EFFECT_DEFENDANDASSAULT,Difesa e Assalto
+EFFECT_DEFENDANDASSAULT_DESC,Difesa e Assalto ha aumentato per breve tempo la Velocità d'attacco dopo una Rappresaglia riuscita.
+EFFECT_DOUBLESTRIKE,Colpo doppio
+EFFECT_ECHOEDFOCUS,Concentrazione Riecheggiata
+EFFECT_ECHOEDFOCUS_DESC,Concentrazione Riecheggiata aumenta la Rigenerazione della concentrazione mentre un nemico vicino ha più di 5 accumuli di Eco temporale.
+EFFECT_ECHOESOFICE,Echi di Ghiaccio
+EFFECT_ECHOESOFICE_DESC,Echi di Ghiaccio riapplica il Gelo consumato come Eco temporale per la sua durata residua.
+EFFECT_ELECTRIC,Elettricità
+EFFECT_ELECTRIC_DAMAGE,Danno da elettricità
+EFFECT_ELVISHVELOCITY,Velocità Elfica
+EFFECT_ELVISHVELOCITY_DESC,Aumenta per breve tempo la Velocità di movimento dopo un'abilità da Elfo.
+EFFECT_ETHER,Etere
+EFFECT_ETHER_DAMAGE,Danno da etere
+EFFECT_FINISHINGEDGE,Filo Finale
+EFFECT_FINISHINGEDGE_DESC,Aumenta per breve tempo il Danno critico dopo un colpo critico a un nemico indebolito.
+EFFECT_FIRE,Fuoco
+EFFECT_FIRE_DAMAGE,Danno da fuoco
+EFFECT_FLAMEFEEDFRENZY,Frenesia Nutrifiamma
+EFFECT_FLAMEFEEDFRENZY_DESC,Frenesia Nutrifiamma ha aumentato la Velocità d'attacco e la Celerità magica in base agli accumuli di Ustione consumati.
+EFFECT_FLAMINGOILCOATING,Rivestimento di Olio Fiammeggiante
+EFFECT_FLAMINGOILCOATING_DESC,Gli attacchi infliggono il 50% del loro danno come Danno da fuoco.
+EFFECT_FOCUSEDASSAULT,Assalto Focalizzato
+EFFECT_FOCUSEDASSAULT_DESC,Aumenta per breve tempo il Danno d'attacco dopo un'abilità da Elfo.
+EFFECT_FROSTBOUND,Vincolo gelido
+EFFECT_FROSTEDOILCOATING,Rivestimento di Olio Gelido
+EFFECT_FROSTEDOILCOATING_DESC,Gli attacchi infliggono il 50% del loro danno come Danno da ghiaccio.
+EFFECT_GLACIALDRAG,Trascinamento Glaciale
+EFFECT_GLACIALDRAG_DESC,Trascinamento Glaciale ha rallentato un nemico in base agli accumuli di Gelo consumati su di esso.
+EFFECT_HAYMAKER,Colpo Demolitore
+EFFECT_HAYMAKER_DESC,Colpo Demolitore ha aumentato per breve tempo il Danno fisico dopo uno scatto rapido.
+EFFECT_HEAL,Cura
+EFFECT_HEALTHDOWN,Riduzione di Salute
+EFFECT_HEALTHDOWN_DESC,La Salute massima è ridotta.
+EFFECT_HEALTHUP,Aumento di Salute
+EFFECT_HEALTHUP_DESC,La Salute massima è aumentata.
+EFFECT_ICE,Ghiaccio
+EFFECT_ICE_DAMAGE,Danno da ghiaccio
+EFFECT_INFECTIONSCENT,Odore d'Infezione
+EFFECT_INFECTIONSCENT_DESC,Odore d'Infezione ha aumentato per breve tempo la Probabilità di critico dopo un colpo a un nemico fortemente Avvelenato.
+EFFECT_INOCULATION,Inoculazione
+EFFECT_KINDLED,Ravvivato
+EFFECT_KINDLEDFOCUS,Concentrazione Ravvivata
+EFFECT_KINDLEDFOCUS_DESC,Concentrazione Ravvivata ha aumentato per breve tempo la Rigenerazione della concentrazione dopo l'applicazione di Ustione.
+EFFECT_KNOCKOUTRESERVES,Riserve da Knockout
+EFFECT_KNOCKOUTRESERVES_DESC,Riserve da Knockout ha ripristinato Vigore dopo lo stordimento di un nemico.
+EFFECT_LIONSURGE,Ondata del Leone
+EFFECT_LIONSURGE_DESC,Ondata del Leone ha aumentato per breve tempo il Danno perforante dopo un colpo critico perforante.
+EFFECT_MAGIC_DAMAGE,Danno magico
+EFFECT_MAGICDAMAGEDOWN,Riduzione di Danno magico
+EFFECT_MAGICDAMAGEDOWN_DESC,il Danno magico si riduce.
+EFFECT_MAGICDAMAGEUP,Aumento di Danno magico
+EFFECT_MAGICDAMAGEUP_DESC,il Danno magico aumenta.
+EFFECT_MURDERTEMPO,Tempo Omicida
+EFFECT_MURDERTEMPO_DESC,Tempo Omicida ha aumentato per breve tempo la Velocità d'attacco e il Danno critico dopo un colpo mortale critico.
+EFFECT_OVERCHANNEL,Sovraccanalizzazione
+EFFECT_OVERCHANNEL_DESC,Sovraccanalizzazione ha aumentato per breve tempo il Danno magico dopo una spesa elevata di Concentrazione per un incantesimo.
+EFFECT_PERMAFROSTRHYTHM,Ritmo del Permafrost
+EFFECT_PERMAFROSTRHYTHM_DESC,Ritmo del Permafrost ha aumentato la Celerità magica in base agli accumuli di Gelo consumati.
+EFFECT_PHYSICAL_DAMAGE,Danno fisico
+EFFECT_PHYSICALDAMAGEDOWN,Riduzione di Danno fisico
+EFFECT_PHYSICALDAMAGEDOWN_DESC,il Danno fisico si riduce.
+EFFECT_PHYSICALDAMAGEUP,Aumento di Danno fisico
+EFFECT_PHYSICALDAMAGEUP_DESC,il Danno fisico aumenta.
+EFFECT_PLAGUEMIND,Mente della Peste
+EFFECT_PLAGUEMIND_DESC,Mente della Peste ha conferito Concentrazione al colpo bonus per breve tempo dopo un forte avvelenamento di un nemico.
+EFFECT_POISON,Veleno
+EFFECT_POISONRESISTANCE,Resistenza Veleno
+EFFECT_POISONRESISTANCE_DESC,"Quando un Effetto ad accumulo di Veleno si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1."
+EFFECT_PUMMEL,Martellamento
+EFFECT_PUMMEL_DESC,Martellamento ha aumentato per breve tempo il Danno fisico dopo tre colpi contundenti in rapida successione.
+EFFECT_PYREECHO,Eco della Pira
+EFFECT_PYREECHO_DESC,Eco della Pira ha aumentato il Danno magico in base agli accumuli di Ustione del bersaglio.
+EFFECT_RAGE,Furia
+EFFECT_RAGEFROMRUIN,Furia dalla Rovina
+EFFECT_RAGEFROMRUIN_DESC,Furia dalla Rovina ha conferito Furia dopo lo stordimento di un nemico.
+EFFECT_RECOVERYDOWN,Recupero ridotto
+EFFECT_RECOVERYDOWN_DESC,la Rigenerazione del vigore si riduce.
+EFFECT_RECOVERYUP,Recupero aumentato
+EFFECT_RECOVERYUP_DESC,la Rigenerazione del vigore aumenta.
+EFFECT_REGENERATIONDOWN,Riduzione di Rigenerazione
+EFFECT_REGENERATIONDOWN_DESC,La Rigenerazione della salute è ridotta.
+EFFECT_REGENERATIONUP,Aumento di Rigenerazione
+EFFECT_REGENERATIONUP_DESC,La Rigenerazione della salute è aumentata.
+EFFECT_REJUVINATIONDOWN,Ringiovanimento ridotto
+EFFECT_REJUVINATIONDOWN_DESC,la Rigenerazione della concentrazione si riduce.
+EFFECT_REJUVINATIONUP,Ringiovanimento aumentato
+EFFECT_REJUVINATIONUP_DESC,la Rigenerazione della concentrazione aumenta.
+EFFECT_RESISTANCEDOWN,Riduzione di Resistenza
+EFFECT_RESISTANCEDOWN_DESC,La Resistenza è ridotta e aumenta il Danno magico subito.
+EFFECT_RESISTANCEUP,Aumento di Resistenza
+EFFECT_RESISTANCEUP_DESC,La Resistenza è aumentata e riduce il Danno magico subito.
+EFFECT_RIPOSTE,Riposta
+EFFECT_RIPOSTE_DESC,Riposta ha aumentato per breve tempo il Danno da taglio dopo aver parato un attacco.
+EFFECT_RIPOSTEDISCIPLINE,Disciplina della Riposta
+EFFECT_RIPOSTEDISCIPLINE_DESC,Disciplina della Riposta è pronta. Il prossimo Terzo Colpo infligge più danno.
+EFFECT_ROOTED,Radicato
+EFFECT_ROOTED_DESC,Radicato. Non puoi muoverti finché l'effetto non termina.
+EFFECT_SECONDWIND,Secondo Respiro
+EFFECT_SECONDWIND_DESC,Secondo Respiro ha rimborsato metà di una spesa elevata di Vigore. Può accadere solo una volta ogni 15 secondi.
+EFFECT_SHADOWEDSTEEL,Acciaio Ombrato
+EFFECT_SHADOWEDSTEEL_DESC,Acciaio Ombrato ha aumentato per breve tempo il Danno fisico dopo l'uso di un'Arte dell'ombra.
+EFFECT_SHOCK,Scossa
+EFFECT_SILENTRECOVERY,Recupero Silenzioso
+EFFECT_SILENTRECOVERY_DESC,Recupero Silenzioso ha aumentato per breve tempo la Rigenerazione del vigore dopo che il Vigore è sceso sotto il 35%.
+EFFECT_SLASHANDBASH,Taglia e Percuoti
+EFFECT_SLASHANDBASH_DESC,Taglia e Percuoti ha aumentato per breve tempo il Danno fisico dopo un colpo mortale da taglio.
+EFFECT_SONICDAGGERS,Pugnali Sonici
+EFFECT_SONICDAGGERS_DESC,L'effetto Pugnali Sonici è attivo. Gli attacchi automatici lanciano un Dardo Sonico aggiuntivo contro il bersaglio.
+EFFECT_SPEEDDOWN,Velocità ridotta
+EFFECT_SPEEDDOWN_DESC,la Velocità di movimento si riduce.
+EFFECT_SPEEDUP,Accelera
+EFFECT_SPEEDUP_DESC,la Velocità di movimento aumenta.
+EFFECT_STAMINADOWN,Riduzione di Vigore
+EFFECT_STAMINADOWN_DESC,Il Vigore massimo è ridotto.
+EFFECT_STAMINAUP,Aumento di Vigore
+EFFECT_STAMINAUP_DESC,Il Vigore massimo è aumentato.
+EFFECT_STONEHIDE,Pelle di Pietra
+EFFECT_STONEHIDE_DESC,Pelle di Pietra ha conferito Armatura bonus per breve tempo dopo aver inflitto Danno contundente.
+EFFECT_STRIKE_DAMAGE,Danno da taglio
+EFFECT_STUN,Stordimento
+EFFECT_STUN_DESC,"Stordito. Non puoi muoverti, attaccare o lanciare incantesimi finché lo stordimento non termina."
+EFFECT_STUNNINGTEMPO,Tempo Stordente
+EFFECT_STUNNINGTEMPO_DESC,Tempo Stordente ha aumentato per breve tempo la Velocità d'attacco dopo lo stordimento di un nemico.
+EFFECT_SUDDENSTRIDE,Falcata Improvvisa
+EFFECT_SUDDENSTRIDE_DESC,Falcata Improvvisa ha aumentato per breve tempo la Velocità di movimento dopo un colpo critico.
+EFFECT_SURGECASTING,Lancio d'Ondata
+EFFECT_SURGECASTING_DESC,Lancio d'Ondata è pronto e aumenta il Danno magico del tuo prossimo incantesimo.
+EFFECT_SURGEOFMASTERY,Ondata di Maestria
+EFFECT_SURGEOFMASTERY_DESC,Ondata di Maestria ha aumentato per breve tempo la Velocità d'attacco dopo un colpo critico.
+EFFECT_SWORDSWAP,Cambio a spada
+EFFECT_TEMPOCONVERSION,Conversione di Tempo
+EFFECT_TEMPOCONVERSION_DESC,Conversione di Tempo è pronta. Il prossimo attacco ha una Probabilità di critico molto più alta.
+EFFECT_TEMPORALCLEAVE,Fendente Temporale
+EFFECT_TEMPORALCLEAVE_DESC,"Fendente Temporale ha consumato Ondata temporale, applicando Sanguinamento ai nemici attorno al bersaglio."
+EFFECT_TEMPORALECHO,Eco temporale
+EFFECT_TEMPORALSURGE,Ondata temporale
+EFFECT_THICKSKIN,Pelle Spessa
+EFFECT_THICKSKIN_DESC,Pelle Spessa ha dimezzato un colpo che ti avrebbe portato sotto il 40% di Salute. Può accadere solo una volta ogni 30 secondi.
+EFFECT_THRUST_DAMAGE,Danno perforante
+EFFECT_TIMELESSFLAMES,Fiamme Atemporali
+EFFECT_TIMELESSFLAMES_DESC,L'effetto Fiamme Atemporali è pronto. Il prossimo incantesimo di Fuoco consuma Ondata temporale per ridurre il proprio tempo di recupero.
+EFFECT_TOXICOILCOATING,Rivestimento di Olio Tossico
+EFFECT_TOXICOILCOATING_DESC,Gli attacchi infliggono il 50% del loro danno come Danno da decadimento.
+EFFECT_TREANTBURNING,Ustione Treant
+EFFECT_VERSATILEWARRIOR,Guerriero Versatile
+EFFECT_VIRULENTCASTING,Lancio Virulento
+EFFECT_VIRULENTCASTING_DESC,Lancio Virulento ha aumentato per breve tempo la Celerità magica dopo un colpo critico di un incantesimo.
+EFFECT_WEAKPOINTSENSE,Senso del Punto Debole
+EFFECT_WEAKPOINTSENSE_DESC,Senso del Punto Debole è pronto. La prossima Arte dell'ombra ha una Probabilità di critico aumentata.
+EFFECT_WELLRESTED,Ben riposato
+EFFECT_WELLRESTED_DESC,Aumenta gli XP ottenuti dai mostri e riduce il decadimento di Fame e Sete
+EFFECT_WILDFIRE,Incendio Selvaggio
+EFFECT_WILDFIRE_DESC,Incendio Selvaggio aumenta il danno inflitto ai nemici con Ustione.
+EFFECT_WINTERFOCUS,Concentrazione Invernale
+EFFECT_WINTERFOCUS_DESC,Concentrazione Invernale ha aumentato per breve tempo la Rigenerazione della concentrazione dopo l'applicazione di Gelo.
+EFFECT_WINTERGUARD,Guardia Invernale
+EFFECT_WINTERGUARD_DESC,Guardia Invernale riduce il danno subito dagli attaccanti Assiderati.
+RACE_CENTAUR,Centauro
+RACE_DWARF,Nano
+RACE_ELF,Elfo
+RACE_FAIRY,Fata
+RACE_GOLEM,Golem
+RACE_GRIFFON,Grifone
+RACE_HUMAN,Umano
+RACE_MINOTAUR,Minotauro
+RACE_TROLL,Troll
+STACKEFFECT_ALACRITY_DESC,Aumenta la Velocità d'attacco del 2% per accumulo.
+STACKEFFECT_BLEEDING_DESC,Infligge 2 danni ogni secondo per accumulo.
+STACKEFFECT_BURNING_DESC,Infligge 2 danni ogni secondo per accumulo.
+STACKEFFECT_CHILL_DESC,Riduce la Velocità di movimento del 2% per accumulo
+STACKEFFECT_CROSSBOWSWAP_DESC,Aumenta la velocità di movimento
+STACKEFFECT_DOUBLESTRIKE_DESC,Ogni singola istanza di danno dei tuoi attacchi colpisce due volte. Consuma un accumulo per attacco.
+STACKEFFECT_FROSTBOUND_DESC,Aumenta la resistenza al ghiaccio
+STACKEFFECT_INOCULATION_DESC,"Conferisce Resistenza al decadimento mentre è attivo, riducendo il danno subito da Veleno e da altre fonti di Decadimento. Viene consumato da alcuni incantesimi di veleno."
+STACKEFFECT_KINDLED_DESC,"Conferisce Resistenza al fuoco mentre è attivo, riducendo il danno subito da Ustione e da altre fonti di Fuoco. Viene consumato da alcuni incantesimi di fuoco."
+STACKEFFECT_POISON_DESC,Infligge 2 danni ogni secondo per accumulo.
+STACKEFFECT_RAGE_DESC,Aumenta il Danno fisico del 2% per accumulo.
+STACKEFFECT_SHOCK_DESC,Aumenta la riduzione dei tempi di recupero e la Velocità di movimento.
+STACKEFFECT_SWORDSWAP_DESC,Aumenta la velocità d'attacco
+STACKEFFECT_TEMPORALECHO_DESC,Rallenta il movimento del 2% per accumulo.
+STACKEFFECT_TEMPORALSURGE_DESC,Aumenta la Velocità di movimento dell'1% per accumulo.
+STACKEFFECT_TREANTBURNING_DESC,Gli accumuli di Ustione aumentano il danno al bersaglio
+STACKEFFECT_VERSATILEWARRIOR_DESC,Aumenta il Danno fisico e il Danno magico

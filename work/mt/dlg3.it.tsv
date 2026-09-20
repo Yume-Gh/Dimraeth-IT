@@ -1,0 +1,954 @@
+NPC_ALARIC_GREETING_03ff69da-7697-4b8b-9f4a-cb5b576eae9e	“Eccoti di nuovo. Dimmi, l'hai trovato?”
+NPC_ALARIC_GREETING_1c8f3725-42d9-4e74-bd17-0c2cb9d74aa0	“Viandante, eccoti di nuovo. Eldorian mi ha fatto rapporto. Grazie per averlo trovato. Quel ragazzo a volte mi preoccupa. Il suo rapporto conferma i miei peggiori timori. I Goblin sono sempre più attivi nel folto della foresta e ci sono segni di Corruzione. Mi serve tempo per riflettere. Qui altri hanno bisogno del tuo aiuto: Rahaner, Tamsin, Befr. Occupati di loro.”<x1/><x2/>"Ora lasciami."
+NPC_ALARIC_GREETING_4a9634b0-b6d5-4044-9a2d-ec6e107ebd26	*Al tuo arrivo, Alaric è assorto nei suoi pensieri. Alza lo sguardo, il volto si fa risoluto.*<x1/><x2/>"Viandante. Grazie per tutto ciò che hai fatto. Ma non c'è tempo per riposare. I miei esploratori sono tornati dal folto della foresta. Hanno confermato che la Corruzione si è diffusa e avvistato una grande bestia che ne è stata stravolta. Se è ciò che credo, non possiamo ignorare questa creatura. Io devo restare qui. Ma tu, tu hai dimostrato le tue capacità. Ti chiedo ancora una volta aiuto.”<x3/><x4/>"Addentrati nel cuore di Wildwood. Conosciamo la zona, ma è insidiosa. Trova la bestia, uccidila e torna sulle tue gambe."
+NPC_ALARIC_GREETING_54947e09-664c-4be4-a565-5203ca1b40f8	*Mentre ti avvicini, Alaric irrigidisce le spalle, poi ritrova la consueta immobilità.*<x1/><x2/>"Parla. Come sta Corin?"
+NPC_ALARIC_GREETING_68473d4a-75bb-4d47-ad59-c310b9b4a323	*Alaric ti guarda avvicinarti e ti saluta con un solo cenno del capo.*<x1/><x2/>“Viandante, eccoti di nuovo. Parla in fretta; c'è molto da fare.”
+NPC_ALARIC_GREETING_6b2797ec-8a67-405f-a5f7-e6c7a9c40e29	“Eccoti di nuovo. Dimmi, l'hai trovato?”
+NPC_ALARIC_GREETING_7abf0cf4-6bfc-48f2-9f48-8c62a957839d	*Alaric ti guarda avvicinarti e ti saluta con un solo cenno del capo.*<x1/><x2/>“Viandante, eccoti di nuovo. Parla in fretta; c'è molto da fare.”
+NPC_ALARIC_GREETING_8ebb44b8-299f-44ab-a4dd-1e9c7cf78fec	*Alaric ti nota mentre ti avvicini; un lieve sollievo incrina la sua consueta impassibilità.*<x1/><x2/>"Eccoti. Quando il Re Goblin è caduto, il suo urlo di morte è arrivato fin qui. Allora ho capito che ce l'avevi fatta. Erano cinquant'anni che non sentivo quel suono."
+NPC_ALARIC_GREETING_903a91d0-49f8-4e9d-bc13-706024d6811e	*Al tuo avvicinarsi, i capi della Gilda discutono a bassa voce, concitati. Alaric alza una mano, le voci tacciono e lui ti dedica tutta la sua attenzione.*<x1/><x2/>"Eccoti di nuovo. Mi è giunta notizia che i preparativi sono conclusi. È il momento. Non userò mezze parole: un Re della Foresta corrotto è qualcosa che il mondo non avrebbe mai dovuto vedere."
+NPC_ALARIC_GREETING_d7768b2f-f8e9-4d10-a40c-cd24b2f71186	*Il vecchio guerriero volge gli occhi verso di te. Il suo sguardo è fermo; ti osserva avvicinarti, scrutandoti in silenzio.*<x1/><x2/>"Hm. Ti do il benvenuto, viandante. Ho saputo del tuo arrivo."<x3/><x4/>“Perdona le condizioni del villaggio. Siamo in un periodo di crisi. Dimmi, come hai fatto ad attraversare la foresta?”
+NPC_ALARIC_PLAYER_020c43de-be95-4d83-b5e1-539463577552_HEROIC	Porterò a termine il tuo ordine e tornerò a compito concluso.
+NPC_ALARIC_PLAYER_020c43de-be95-4d83-b5e1-539463577552_JOKER	Come vuoi. Torno quando sarà a terra, e non un momento prima.
+NPC_ALARIC_PLAYER_020c43de-be95-4d83-b5e1-539463577552_SCHOLAR	Procederò come hai indicato. Poi ti riferirò ogni cosa.
+NPC_ALARIC_PLAYER_020c43de-be95-4d83-b5e1-539463577552_STOIC	Farò come dici. Tornerò a lavoro finito.
+NPC_ALARIC_PLAYER_067af53d-4f76-49e8-83dd-942e67ce6847_HEROIC	Cosa rende il Sentiero della Foresta una scelta tanto pericolosa?
+NPC_ALARIC_PLAYER_067af53d-4f76-49e8-83dd-942e67ce6847_JOKER	Perché il Sentiero della Foresta? Non c'è un angolo di questa foresta che sia solo brutto?
+NPC_ALARIC_PLAYER_067af53d-4f76-49e8-83dd-942e67ce6847_SCHOLAR	Perché il Sentiero della Foresta è il posto peggiore? Vorrei capirne le ragioni.
+NPC_ALARIC_PLAYER_067af53d-4f76-49e8-83dd-942e67ce6847_STOIC	Perché il Sentiero della Foresta è il posto peggiore in cui possa trovarsi?
+NPC_ALARIC_PLAYER_0a0ce63f-a68e-4502-9e1d-cb8d2747fea2_HEROIC	È morto. Ora dimmi cos'era, così saprò riconoscere il prossimo.
+NPC_ALARIC_PLAYER_0a0ce63f-a68e-4502-9e1d-cb8d2747fea2_JOKER	È morto, e ha fatto un bel baccano. Vorrei dare un nome a quella cosa, se ne aveva uno.
+NPC_ALARIC_PLAYER_0a0ce63f-a68e-4502-9e1d-cb8d2747fea2_SCHOLAR	È morto. Resta importante capire cosa *fosse*: ci dice come agisce la Corruzione.
+NPC_ALARIC_PLAYER_0a0ce63f-a68e-4502-9e1d-cb8d2747fea2_STOIC	È morto. Cos'era?
+NPC_ALARIC_PLAYER_0abc1def2ghi_HEROIC	Capito. Darò la caccia alla bestia e tornerò dopo averla uccisa.
+NPC_ALARIC_PLAYER_0abc1def2ghi_JOKER	Ho capito. È ora di conoscere questa bestia e assicurarmi che resti a terra prima di tornare.
+NPC_ALARIC_PLAYER_0abc1def2ghi_SCHOLAR	Capito. Troverò questa bestia, ma vorrei sapere quali tratti la distinguono.
+NPC_ALARIC_PLAYER_0abc1def2ghi_STOIC	Ho capito. Cercherò la bestia e tornerò dopo averla abbattuta.
+NPC_ALARIC_PLAYER_0d42a8ff-0776-46a7-b09a-1550e45141b4_HEROIC	Gli darò la caccia. Sappi che lo faccio per la gente sulla sua strada, non per la Gilda.
+NPC_ALARIC_PLAYER_0d42a8ff-0776-46a7-b09a-1550e45141b4_JOKER	Gli darò la caccia. Scrivi "per la Gilda" sulla lapide di qualcun altro.
+NPC_ALARIC_PLAYER_0d42a8ff-0776-46a7-b09a-1550e45141b4_SCHOLAR	Gli darò la caccia, ma sia chiaro il motivo: voglio sapere cos'è. La Gilda è un dettaglio.
+NPC_ALARIC_PLAYER_0d42a8ff-0776-46a7-b09a-1550e45141b4_STOIC	Gli darò la caccia. Non per la Gilda.
+NPC_ALARIC_PLAYER_1100ffeeccdd_HEROIC	Affidami il compito. Da dove si comincia?
+NPC_ALARIC_PLAYER_1100ffeeccdd_JOKER	Cosa c'è da fare, e quanti Goblin ci sono di mezzo?
+NPC_ALARIC_PLAYER_1100ffeeccdd_SCHOLAR	Cosa occorre fare, e in quale ordine?
+NPC_ALARIC_PLAYER_1100ffeeccdd_STOIC	Cosa va fatto?
+NPC_ALARIC_PLAYER_112233445566_BASE	Puoi offrirmi qualche aiuto?
+NPC_ALARIC_PLAYER_13cf3e04-b108-4b81-a1d4-e4f2bfb332f2_HEROIC	Il Mulino. L'ho visto, ed è davvero invaso.
+NPC_ALARIC_PLAYER_13cf3e04-b108-4b81-a1d4-e4f2bfb332f2_JOKER	Il Mulino. Oh, l'ho visto. Invaso è dir poco.
+NPC_ALARIC_PLAYER_13cf3e04-b108-4b81-a1d4-e4f2bfb332f2_SCHOLAR	Il Mulino. L'ho visto. Invaso è il termine esatto.
+NPC_ALARIC_PLAYER_13cf3e04-b108-4b81-a1d4-e4f2bfb332f2_STOIC	Il Mulino. L'ho visto. Invaso.
+NPC_ALARIC_PLAYER_156191b9-3fd4-48e3-9399-539955f6480c_HEROIC	È sopravvissuto ai Goblin solo per fortuna.
+NPC_ALARIC_PLAYER_156191b9-3fd4-48e3-9399-539955f6480c_JOKER	I Goblin non dovevano avere abbastanza fame da mangiarselo.
+NPC_ALARIC_PLAYER_156191b9-3fd4-48e3-9399-539955f6480c_SCHOLAR	È sfuggito alle fauci dei Goblin per pura fortuna.
+NPC_ALARIC_PLAYER_156191b9-3fd4-48e3-9399-539955f6480c_STOIC	È fortunato che i Goblin non l'abbiano divorato.
+NPC_ALARIC_PLAYER_1604a396-9a4d-4a39-9587-85d8aac146b5_HEROIC	Portiamo a termine questo compito, così potremo finalmente lasciare questo posto.
+NPC_ALARIC_PLAYER_1604a396-9a4d-4a39-9587-85d8aac146b5_JOKER	Prima ci togliamo di torno questa faticaccia, prima me la svigno.
+NPC_ALARIC_PLAYER_1604a396-9a4d-4a39-9587-85d8aac146b5_SCHOLAR	Prima concludiamo, prima me ne vado. L'efficienza conviene a entrambi.
+NPC_ALARIC_PLAYER_1604a396-9a4d-4a39-9587-85d8aac146b5_STOIC	Finiamola, così posso finalmente andarmene.
+NPC_ALARIC_PLAYER_1754b2c0-adfb-4f38-8b12-b395069c2c13_HEROIC	La prossima volta che sarò nella foresta terrò alta la guardia.
+NPC_ALARIC_PLAYER_1754b2c0-adfb-4f38-8b12-b395069c2c13_JOKER	Terrò le orecchie aperte. Sempre che la foresta mi lasci sentire qualcosa.
+NPC_ALARIC_PLAYER_1754b2c0-adfb-4f38-8b12-b395069c2c13_SCHOLAR	Al prossimo ingresso nella foresta, osserverò con attenzione.
+NPC_ALARIC_PLAYER_1754b2c0-adfb-4f38-8b12-b395069c2c13_STOIC	Terrò le orecchie aperte quando tornerò nella foresta.
+NPC_ALARIC_PLAYER_1759dadf-bab3-4fa5-a2a4-ab434a3c8ed7_BASE	Quando l'hai visto?
+NPC_ALARIC_PLAYER_1a227395-49ac-4152-801e-6281c5ff2ec4_BASE	Cosa pensi di Saqi?
+NPC_ALARIC_PLAYER_1a7d0b55-fa07-4f4b-b220-1ef7e8083425_BASE	È vero che hai combattuto un Re Goblin durante l'ultima crisi?
+NPC_ALARIC_PLAYER_1d7af4ed-3a22-4450-b178-bd7de4b7bf85_HEROIC	Sembra che la convinzione vacilli da entrambe le parti.
+NPC_ALARIC_PLAYER_1d7af4ed-3a22-4450-b178-bd7de4b7bf85_JOKER	Non sembri convinto. Siamo in due a guardare storto lo stesso ragazzo.
+NPC_ALARIC_PLAYER_1d7af4ed-3a22-4450-b178-bd7de4b7bf85_SCHOLAR	Anche tu hai delle riserve. Sono cose che noto.
+NPC_ALARIC_PLAYER_1d7af4ed-3a22-4450-b178-bd7de4b7bf85_STOIC	Neanche tu sembri convinto.
+NPC_ALARIC_PLAYER_1eb35fbf-2fd1-40c3-a982-2d47108b1289_HEROIC	Allora combatterò al fianco di Corin e faremo cadere il Re.
+NPC_ALARIC_PLAYER_1eb35fbf-2fd1-40c3-a982-2d47108b1289_JOKER	Direi che è ora di raggiungere Corin e dare al Re una mano a morire.
+NPC_ALARIC_PLAYER_1eb35fbf-2fd1-40c3-a982-2d47108b1289_SCHOLAR	Allora Corin e io, insieme, porremo fine alla vita del Re.
+NPC_ALARIC_PLAYER_1eb35fbf-2fd1-40c3-a982-2d47108b1289_STOIC	Allora aiuterò Corin a uccidere il Re.
+NPC_ALARIC_PLAYER_1f2e3d4c5b6a_HEROIC	Le mie ragioni riguardano me soltanto. Conta raggiungere la Torre di Faustas.
+NPC_ALARIC_PLAYER_1f2e3d4c5b6a_JOKER	A meno che tu non distribuisca mappe, come ho fatto ad arrivare qui non ti riguarda. Devo trovare la Torre di Faustas.
+NPC_ALARIC_PLAYER_1f2e3d4c5b6a_SCHOLAR	Il modo in cui ho raggiunto questo luogo non cambia nulla. Ciò che conta è la Torre di Faustas.
+NPC_ALARIC_PLAYER_1f2e3d4c5b6a_STOIC	Come ho fatto ad arrivare qui non ti riguarda. Devo raggiungere la Torre di Faustas.
+NPC_ALARIC_PLAYER_2062e0e1-3e18-45f4-9a5d-0597a92bf5b3_HEROIC	Il tuo tetto offre loro una buona protezione. Indicami dove serve il mio aiuto.
+NPC_ALARIC_PLAYER_2062e0e1-3e18-45f4-9a5d-0597a92bf5b3_JOKER	Il tuo tetto è il posto più sicuro in circolazione. Indicami il prossimo lavoro.
+NPC_ALARIC_PLAYER_2062e0e1-3e18-45f4-9a5d-0597a92bf5b3_SCHOLAR	Qui sono più al sicuro che fuori, almeno. Dimmi dove occorre intervenire.
+NPC_ALARIC_PLAYER_2062e0e1-3e18-45f4-9a5d-0597a92bf5b3_STOIC	Sotto il tuo tetto sono più al sicuro. Dimmi come aiutare.
+NPC_ALARIC_PLAYER_218a3c75-64a6-45c8-87e7-8c0669a1eec5_HEROIC	Certamente, gli starò accanto.
+NPC_ALARIC_PLAYER_218a3c75-64a6-45c8-87e7-8c0669a1eec5_JOKER	Certo, gli darò una mano.
+NPC_ALARIC_PLAYER_218a3c75-64a6-45c8-87e7-8c0669a1eec5_SCHOLAR	Certamente. Dimmi cosa significhi, in concreto, aiutare un uomo come lui.
+NPC_ALARIC_PLAYER_218a3c75-64a6-45c8-87e7-8c0669a1eec5_STOIC	Certo. Lo aiuterò.
+NPC_ALARIC_PLAYER_2742cd3f-d2c5-44a8-8ac6-0244c4d8831a_HEROIC	Il Re è caduto. Ho fatto ciò che mi hai chiesto.
+NPC_ALARIC_PLAYER_2742cd3f-d2c5-44a8-8ac6-0244c4d8831a_JOKER	Il Re è morto, il lavoro è finalmente finito.
+NPC_ALARIC_PLAYER_2742cd3f-d2c5-44a8-8ac6-0244c4d8831a_SCHOLAR	Il Re è morto. Possiamo chiudere il conto.
+NPC_ALARIC_PLAYER_2742cd3f-d2c5-44a8-8ac6-0244c4d8831a_STOIC	Il Re è morto. Lavoro finito.
+NPC_ALARIC_PLAYER_2a6cedd9-9b67-4b31-9212-d6cfe3bfb517_HEROIC	Lo attende un'altra prova. Presto vedremo quanto vale davvero.
+NPC_ALARIC_PLAYER_2a6cedd9-9b67-4b31-9212-d6cfe3bfb517_JOKER	La prossima sfida ci dirà più di quanto possiamo dire noi due.
+NPC_ALARIC_PLAYER_2a6cedd9-9b67-4b31-9212-d6cfe3bfb517_SCHOLAR	L'esito della prossima sfida sarà rivelatore.
+NPC_ALARIC_PLAYER_2a6cedd9-9b67-4b31-9212-d6cfe3bfb517_STOIC	Vedremo come affronterà la prossima sfida.
+NPC_ALARIC_PLAYER_2cb833da-481b-40b4-a69b-776e542d137f_HEROIC	Facciamo in modo che io non incroci più la sua strada.
+NPC_ALARIC_PLAYER_2cb833da-481b-40b4-a69b-776e542d137f_JOKER	Speriamo che la fortuna la prossima volta mi tenga a debita distanza da lui.
+NPC_ALARIC_PLAYER_2cb833da-481b-40b4-a69b-776e542d137f_SCHOLAR	Speriamo di evitare un altro incontro con lui.
+NPC_ALARIC_PLAYER_2cb833da-481b-40b4-a69b-776e542d137f_STOIC	Speriamo di non incontrarlo di nuovo.
+NPC_ALARIC_PLAYER_3083e705-c0a8-461c-ac03-cabd960f1306_HEROIC	Finalmente capirò cosa vuole da me questo mago.
+NPC_ALARIC_PLAYER_3083e705-c0a8-461c-ac03-cabd960f1306_JOKER	Finalmente il mago scopre le carte.
+NPC_ALARIC_PLAYER_3083e705-c0a8-461c-ac03-cabd960f1306_SCHOLAR	Finalmente scoprirò cosa voglia davvero da me il mago.
+NPC_ALARIC_PLAYER_3083e705-c0a8-461c-ac03-cabd960f1306_STOIC	Finalmente vedrò cosa vuole da me questo mago.
+NPC_ALARIC_PLAYER_354271a9-2748-46f7-aded-e0d7f48f79cc_BASE	Cosa succederà se uccidiamo il Re della Foresta?
+NPC_ALARIC_PLAYER_3917448d-53f0-450f-94ee-869fd22f5453_HEROIC	Non c'è un modo per liberarlo invece di ucciderlo?
+NPC_ALARIC_PLAYER_3917448d-53f0-450f-94ee-869fd22f5453_JOKER	Magari gli serve solo una mano per scrollarsi di dosso quella Corruzione?
+NPC_ALARIC_PLAYER_3917448d-53f0-450f-94ee-869fd22f5453_SCHOLAR	Forse esiste un modo per liberarlo dalla Corruzione?
+NPC_ALARIC_PLAYER_3917448d-53f0-450f-94ee-869fd22f5453_STOIC	Possiamo liberarlo dalla Corruzione?
+NPC_ALARIC_PLAYER_391ccd80-88b4-4a11-b8c8-a0c6c6f4dddf_BASE	Perché la Gilda lo tiene tanto in considerazione?
+NPC_ALARIC_PLAYER_3b0baeba-593d-430b-9f5f-ba255de5676a_BASE	Saresti tenero a prenderti cura di un bambino.
+NPC_ALARIC_PLAYER_3d274454-b881-4c0e-a427-1afe75a54756_BASE	Cosa farai adesso?
+NPC_ALARIC_PLAYER_3df8150f-3b1f-4015-85d5-4a6270282378_HEROIC	Alla fonte penseremo dopo. Ho affrontato quella cosa. Dimmi cos'era.
+NPC_ALARIC_PLAYER_3df8150f-3b1f-4015-85d5-4a6270282378_JOKER	Tu stai già pensando alla fonte. Io devo ancora superare la parte in cui l'albero camminava.
+NPC_ALARIC_PLAYER_3df8150f-3b1f-4015-85d5-4a6270282378_SCHOLAR	Prima della fonte, l'esemplare. Cos'era quella creatura?
+NPC_ALARIC_PLAYER_3df8150f-3b1f-4015-85d5-4a6270282378_STOIC	Alla fonte dopo. Cos'era?
+NPC_ALARIC_PLAYER_3f858c51-c659-418d-8be0-417695c78d33_BASE	"Dove posso trovare Tamsin?"
+NPC_ALARIC_PLAYER_41db0d1a-dc64-4500-9076-1e1d1a920c6b_HEROIC	È stata una dura battaglia, ma il compito è concluso.
+NPC_ALARIC_PLAYER_41db0d1a-dc64-4500-9076-1e1d1a920c6b_JOKER	Be', è stato un bel macello, ma il lavoro è fatto.
+NPC_ALARIC_PLAYER_41db0d1a-dc64-4500-9076-1e1d1a920c6b_SCHOLAR	Lo scontro è stato aspro, ma il compito è stato portato a termine.
+NPC_ALARIC_PLAYER_41db0d1a-dc64-4500-9076-1e1d1a920c6b_STOIC	È stata una battaglia terribile. Il lavoro è fatto.
+NPC_ALARIC_PLAYER_42f31e52-45c8-4008-a638-fd9162d2fe3e_HEROIC	Da qualunque fonte provenga, eliminerò ogni ostacolo sul cammino.
+NPC_ALARIC_PLAYER_42f31e52-45c8-4008-a638-fd9162d2fe3e_JOKER	Da qualunque buco salti fuori, finirà comunque sotto la lama.
+NPC_ALARIC_PLAYER_42f31e52-45c8-4008-a638-fd9162d2fe3e_SCHOLAR	La fonte conta poco. Qualunque ostacolo sul cammino verrà abbattuto.
+NPC_ALARIC_PLAYER_42f31e52-45c8-4008-a638-fd9162d2fe3e_STOIC	Non importa da dove viene. Ucciderò chiunque intralci la strada.
+NPC_ALARIC_PLAYER_43a7696b-9217-42b1-95db-aa52fb3b1b96_HEROIC	Ho esaminato il ponte: nelle condizioni attuali non si può ripristinare.
+NPC_ALARIC_PLAYER_43a7696b-9217-42b1-95db-aa52fb3b1b96_JOKER	Ho visto il ponte. Ripararlo mi sembra probabile quanto insegnare a un sasso a nuotare.
+NPC_ALARIC_PLAYER_43a7696b-9217-42b1-95db-aa52fb3b1b96_SCHOLAR	Ho studiato il ponte. Nulla lascia pensare che sia riparabile.
+NPC_ALARIC_PLAYER_43a7696b-9217-42b1-95db-aa52fb3b1b96_STOIC	Ho visto il ponte. Non si può riparare.
+NPC_ALARIC_PLAYER_43c71e03-e779-4311-803a-6d13fe130832_HEROIC	Sarà anche arrogante, ma ha bisogno di quelle provviste per resistere.
+NPC_ALARIC_PLAYER_43c71e03-e779-4311-803a-6d13fe130832_JOKER	Arrogante o no, è agli sgoccioli e gli servono altre provviste per tirare avanti.
+NPC_ALARIC_PLAYER_43c71e03-e779-4311-803a-6d13fe130832_SCHOLAR	Arrogante, sì. Ma anche l'arroganza ha bisogno di cibo e frecce.
+NPC_ALARIC_PLAYER_43c71e03-e779-4311-803a-6d13fe130832_STOIC	È arrogante. E gli servono altre provviste per continuare.
+NPC_ALARIC_PLAYER_456def789abc_BASE	"Dove posso trovare Rahaner?"
+NPC_ALARIC_PLAYER_45aef421-7e0e-423a-81e9-f3fbf3966e42_BASE	Parlami di Corin
+NPC_ALARIC_PLAYER_4f7784ed-b894-47d0-b931-864bbdc6876d_BASE	Cosa intendi quando dici che Ceres l'ha permesso?
+NPC_ALARIC_PLAYER_4fdce029-aeb7-47a6-921b-5ce849b82aa9_BASE	Cosa ti rende tanto sicuro di lui?
+NPC_ALARIC_PLAYER_53ae50c8-d757-4208-9641-2b1fb0816e4b_HEROIC	Affidami la mia parte.
+NPC_ALARIC_PLAYER_53ae50c8-d757-4208-9641-2b1fb0816e4b_JOKER	Come posso rendermi utile, stavolta?
+NPC_ALARIC_PLAYER_53ae50c8-d757-4208-9641-2b1fb0816e4b_SCHOLAR	Dove sarei più utile? Sii preciso.
+NPC_ALARIC_PLAYER_53ae50c8-d757-4208-9641-2b1fb0816e4b_STOIC	Come posso aiutare?
+NPC_ALARIC_PLAYER_56cc169d-f42e-4078-a8b8-65267cb8961c_HEROIC	È un'anima rara, e incontrarlo è stata una vera fortuna.
+NPC_ALARIC_PLAYER_56cc169d-f42e-4078-a8b8-65267cb8961c_JOKER	È un'anima rara. Mi è andata bene a incrociarlo.
+NPC_ALARIC_PLAYER_56cc169d-f42e-4078-a8b8-65267cb8961c_SCHOLAR	Un'anima rara. Il nostro incontro è stato una felice coincidenza.
+NPC_ALARIC_PLAYER_56cc169d-f42e-4078-a8b8-65267cb8961c_STOIC	È un'anima rara. Mi fa piacere averlo incontrato.
+NPC_ALARIC_PLAYER_5e9358c1-ad56-4116-ac08-aa2f1e4c08e2_BASE	Se il Re Goblin è morto, perché ci sono ancora così tanti Goblin?
+NPC_ALARIC_PLAYER_654321fedcba_HEROIC	Se troverò il tuo esploratore, riceverà il messaggio. Hai la mia parola.
+NPC_ALARIC_PLAYER_654321fedcba_JOKER	Se trovo il tuo esploratore, gli do il messaggio. Se poi lo ascolta sono affari suoi.
+NPC_ALARIC_PLAYER_654321fedcba_SCHOLAR	Se incontrerò il tuo esploratore, gli riferirò il messaggio parola per parola.
+NPC_ALARIC_PLAYER_654321fedcba_STOIC	Se vedo il tuo esploratore, gli riferirò il messaggio.
+NPC_ALARIC_PLAYER_6694ae86-3ea3-4e5a-be76-72270c690359_HEROIC	Forse lo stai sopravvalutando.
+NPC_ALARIC_PLAYER_6694ae86-3ea3-4e5a-be76-72270c690359_JOKER	Attento, o finirà per credere a tutti quei meriti.
+NPC_ALARIC_PLAYER_6694ae86-3ea3-4e5a-be76-72270c690359_SCHOLAR	La stima che gli accordi supera le prove disponibili.
+NPC_ALARIC_PLAYER_6694ae86-3ea3-4e5a-be76-72270c690359_STOIC	Gli dai troppo credito.
+NPC_ALARIC_PLAYER_69913121-9f5c-4e4d-992d-ffda8af296de_HEROIC	Risparmiami gli avvertimenti. Dimmi cosa c'è là fuori.
+NPC_ALARIC_PLAYER_69913121-9f5c-4e4d-992d-ffda8af296de_JOKER	"Non è sicuro." Fin lì c'ero. Cosa c'è davvero là dentro?
+NPC_ALARIC_PLAYER_69913121-9f5c-4e4d-992d-ffda8af296de_SCHOLAR	Prendo atto dell'avvertimento. Ora veniamo ai fatti: cosa c'è là fuori, e in quali numeri?
+NPC_ALARIC_PLAYER_69913121-9f5c-4e4d-992d-ffda8af296de_STOIC	Risparmiami le raccomandazioni. Cosa c'è là fuori?
+NPC_ALARIC_PLAYER_6def0fea-aa47-484d-9e5c-df5fa216a835_BASE	Di cosa è re, esattamente, questa creatura?
+NPC_ALARIC_PLAYER_737d655c-0bd4-446f-93e8-e93e6cec78dd_HEROIC	L'ha trovato, ma i Goblin della regione sono ancora una minaccia troppo grande per avanzare.
+NPC_ALARIC_PLAYER_737d655c-0bd4-446f-93e8-e93e6cec78dd_JOKER	L'ha trovato, ma con quei Goblin andare avanti sembra un pio desiderio.
+NPC_ALARIC_PLAYER_737d655c-0bd4-446f-93e8-e93e6cec78dd_SCHOLAR	L'ha trovato. I Goblin che lo circondano sono la ragione dello stallo.
+NPC_ALARIC_PLAYER_737d655c-0bd4-446f-93e8-e93e6cec78dd_STOIC	L'ha trovato, ma i Goblin della regione impediscono di proseguire.
+NPC_ALARIC_PLAYER_74ac0684-baf8-479d-a8e3-40aab8b07287_HEROIC	Corin resiste, ma la forza d'assalto ha subito gravi perdite.
+NPC_ALARIC_PLAYER_74ac0684-baf8-479d-a8e3-40aab8b07287_JOKER	Corin ce l'ha fatta, ma la forza d'assalto sembra passata nel tritacarne.
+NPC_ALARIC_PLAYER_74ac0684-baf8-479d-a8e3-40aab8b07287_SCHOLAR	Corin è vivo. Alla forza d'assalto basta un'altra ora storta per cedere.
+NPC_ALARIC_PLAYER_74ac0684-baf8-479d-a8e3-40aab8b07287_STOIC	Corin è vivo, ma la forza d'assalto si regge a stento.
+NPC_ALARIC_PLAYER_77889900aabb_BASE	"La bestia è stata uccisa. Era un Treant corrotto. La foresta tutt'intorno era stata invasa dalla Corruzione."
+NPC_ALARIC_PLAYER_7be04b67-ecda-4790-92b4-b29348146f20_HEROIC	A quali sfide devo prepararmi là dentro?
+NPC_ALARIC_PLAYER_7be04b67-ecda-4790-92b4-b29348146f20_JOKER	Cosa mi aspetta là dentro, e quanti denti ha?
+NPC_ALARIC_PLAYER_7be04b67-ecda-4790-92b4-b29348146f20_SCHOLAR	Cosa c'è là dentro? Prima i numeri, poi ciò che i numeri non dicono.
+NPC_ALARIC_PLAYER_7be04b67-ecda-4790-92b4-b29348146f20_STOIC	Cosa devo aspettarmi là dentro?
+NPC_ALARIC_PLAYER_7f7eeed2-8959-4428-8d3b-1c8d11b35cf3_HEROIC	Concordo. Sono qualità che formano una persona di autentico valore.
+NPC_ALARIC_PLAYER_7f7eeed2-8959-4428-8d3b-1c8d11b35cf3_JOKER	Concordo. È così che riconosci chi vale qualcosa.
+NPC_ALARIC_PLAYER_7f7eeed2-8959-4428-8d3b-1c8d11b35cf3_SCHOLAR	Concordo. Sono gli elementi da cui si costruisce la grandezza.
+NPC_ALARIC_PLAYER_7f7eeed2-8959-4428-8d3b-1c8d11b35cf3_STOIC	Concordo. Sono le basi di una grande persona.
+NPC_ALARIC_PLAYER_8236740d-f0d8-4fa8-9b13-fa360c18c3b2_HEROIC	La sua forza è evidente. Da quanto tempo è qui?
+NPC_ALARIC_PLAYER_8236740d-f0d8-4fa8-9b13-fa360c18c3b2_JOKER	Un bel tipo tosto, eh? Da quanto tempo è qui, poi?
+NPC_ALARIC_PLAYER_8236740d-f0d8-4fa8-9b13-fa360c18c3b2_SCHOLAR	La forza è palese. Da quanto tempo è qui, e sotto il comando di chi?
+NPC_ALARIC_PLAYER_8236740d-f0d8-4fa8-9b13-fa360c18c3b2_STOIC	Sembra davvero forte. Da quanto è qui?
+NPC_ALARIC_PLAYER_845b16ff-ddad-4fae-ba3f-0fbf53153706_HEROIC	Quale sentiero conduce a Faustas?
+NPC_ALARIC_PLAYER_845b16ff-ddad-4fae-ba3f-0fbf53153706_JOKER	Allora, da che parte si va per Faustas?
+NPC_ALARIC_PLAYER_845b16ff-ddad-4fae-ba3f-0fbf53153706_SCHOLAR	Quale strada porta a Faustas, e quanto richiede il tragitto?
+NPC_ALARIC_PLAYER_845b16ff-ddad-4fae-ba3f-0fbf53153706_STOIC	Come si arriva da Faustas?
+NPC_ALARIC_PLAYER_8600afa8-dfa3-4253-8071-ee5d6e8f6a76_HEROIC	Non lo chiamerò amico. Non dico cose che non penso.
+NPC_ALARIC_PLAYER_8600afa8-dfa3-4253-8071-ee5d6e8f6a76_JOKER	Amico è una parola grossa. Per ora gli presto "alleato".
+NPC_ALARIC_PLAYER_8600afa8-dfa3-4253-8071-ee5d6e8f6a76_SCHOLAR	Non lo chiamerò amico. Sarebbe chiedere troppo a quella parola.
+NPC_ALARIC_PLAYER_8600afa8-dfa3-4253-8071-ee5d6e8f6a76_STOIC	Non desidero chiamarlo amico.
+NPC_ALARIC_PLAYER_8628724c-05a7-4d8e-b734-b26bb6a72826_HEROIC	Porterò il compito fino in fondo.
+NPC_ALARIC_PLAYER_8628724c-05a7-4d8e-b734-b26bb6a72826_JOKER	Si farà, e il merito sarà mio.
+NPC_ALARIC_PLAYER_8628724c-05a7-4d8e-b734-b26bb6a72826_SCHOLAR	Sarà concluso. Te ne porterò la prova.
+NPC_ALARIC_PLAYER_8628724c-05a7-4d8e-b734-b26bb6a72826_STOIC	Lo porterò a termine.
+NPC_ALARIC_PLAYER_88fabb94-8808-4db6-84b7-9dda01779acf_BASE	Ti ha già deluso in passato?
+NPC_ALARIC_PLAYER_8ac104e8-6ad5-4832-81f6-d2e1e254ff05_BASE	Puoi dirmi altro su Corin?
+NPC_ALARIC_PLAYER_8adce896-f8bf-41e6-8cf8-a215ead5d066_HEROIC	Dimmi cosa mi aspetta sulla strada. Valuterò io il rischio.
+NPC_ALARIC_PLAYER_8adce896-f8bf-41e6-8cf8-a215ead5d066_JOKER	Dimmi cosa c'è lungo la strada, poi decido quanto coraggio ho oggi.
+NPC_ALARIC_PLAYER_8adce896-f8bf-41e6-8cf8-a215ead5d066_SCHOLAR	Descrivi la strada. "Non è sicura" è un giudizio; io voglio le prove.
+NPC_ALARIC_PLAYER_8adce896-f8bf-41e6-8cf8-a215ead5d066_STOIC	Dimmi cosa c'è sulla strada. Giudicherò io.
+NPC_ALARIC_PLAYER_8b293675-7b8c-4792-90c7-cefc6b7b16d8_HEROIC	I profughi pesano molto sul villaggio. Non può durare.
+NPC_ALARIC_PLAYER_8b293675-7b8c-4792-90c7-cefc6b7b16d8_JOKER	Ogni bocca qui mangia. Il villaggio finirà le scorte prima che riaprano le strade.
+NPC_ALARIC_PLAYER_8b293675-7b8c-4792-90c7-cefc6b7b16d8_SCHOLAR	Ogni profugo attinge a scorte che non si rinnovano. I conti finiscono male.
+NPC_ALARIC_PLAYER_8b293675-7b8c-4792-90c7-cefc6b7b16d8_STOIC	I profughi prosciugheranno il villaggio. Non può durare.
+NPC_ALARIC_PLAYER_93167f97-80c1-4f49-8367-33d9d5cd762c_HEROIC	Ha modi duri.
+NPC_ALARIC_PLAYER_93167f97-80c1-4f49-8367-33d9d5cd762c_JOKER	Con quell'atteggiamento farebbe inacidire la birra della taverna.
+NPC_ALARIC_PLAYER_93167f97-80c1-4f49-8367-33d9d5cd762c_SCHOLAR	Il suo atteggiamento è il suo tratto peggiore, e la concorrenza non manca.
+NPC_ALARIC_PLAYER_93167f97-80c1-4f49-8367-33d9d5cd762c_STOIC	Ha un pessimo atteggiamento.
+NPC_ALARIC_PLAYER_947d3241-9667-4cf4-8582-abbf3fa6c2d6_HEROIC	Non importa cosa fosse. Mi sbarra la strada. Cadrà.
+NPC_ALARIC_PLAYER_947d3241-9667-4cf4-8582-abbf3fa6c2d6_JOKER	Pazienza per quello che era. Un altro ostacolo, e cadrà come tutti gli altri.
+NPC_ALARIC_PLAYER_947d3241-9667-4cf4-8582-abbf3fa6c2d6_SCHOLAR	Ciò che è non cambia ciò che fa. Sbarra la strada.
+NPC_ALARIC_PLAYER_947d3241-9667-4cf4-8582-abbf3fa6c2d6_STOIC	Non mi importa cosa sia diventato. È un altro ostacolo. Lo ucciderò.
+NPC_ALARIC_PLAYER_998877665544_BASE	"Quali pericoli si nascondono nel cuore della foresta?"
+NPC_ALARIC_PLAYER_99a286f7-125f-4d9f-823b-94b2feb3fb18_HEROIC	Hai fatto di lui un avventuriero straordinario.
+NPC_ALARIC_PLAYER_99a286f7-125f-4d9f-823b-94b2feb3fb18_JOKER	Ne hai tirato fuori un bell'avventuriero, eh.
+NPC_ALARIC_PLAYER_99a286f7-125f-4d9f-823b-94b2feb3fb18_SCHOLAR	Hai trasformato il ragazzo in un avventuriero. Si vede.
+NPC_ALARIC_PLAYER_99a286f7-125f-4d9f-823b-94b2feb3fb18_STOIC	Ne hai fatto un grande avventuriero.
+NPC_ALARIC_PLAYER_9b20ed90-ce5e-4630-8bae-e4ffb8c99bc9_HEROIC	Non fingerò che questa lotta mi appartenga. Occupatene tu.
+NPC_ALARIC_PLAYER_9b20ed90-ce5e-4630-8bae-e4ffb8c99bc9_JOKER	Questa è la tua battaglia. Io sono di passaggio e ho già i miei guai.
+NPC_ALARIC_PLAYER_9b20ed90-ce5e-4630-8bae-e4ffb8c99bc9_SCHOLAR	Non è la mia lotta. Qui c'è chi può occuparsene meglio di me.
+NPC_ALARIC_PLAYER_9b20ed90-ce5e-4630-8bae-e4ffb8c99bc9_STOIC	Non è la mia lotta. Occupatene.
+NPC_ALARIC_PLAYER_9b261a6b-43ee-49a4-9660-eb18aa25583d_HEROIC	Grazie, Alaric. Puoi contarci.
+NPC_ALARIC_PLAYER_9b261a6b-43ee-49a4-9660-eb18aa25583d_JOKER	Grazie, Alaric. Non mi sognerei mai di deluderti.
+NPC_ALARIC_PLAYER_9b261a6b-43ee-49a4-9660-eb18aa25583d_SCHOLAR	Grazie, Alaric. Mi atterrò al piano stabilito.
+NPC_ALARIC_PLAYER_9b261a6b-43ee-49a4-9660-eb18aa25583d_STOIC	Grazie, Alaric. Lo farò.
+NPC_ALARIC_PLAYER_9b7cac58-6681-4591-bcc4-1b15f5a5e6d0_HEROIC	Sì, proprio come avevi predetto, il Re è caduto.
+NPC_ALARIC_PLAYER_9b7cac58-6681-4591-bcc4-1b15f5a5e6d0_JOKER	Sì, come dicevi tu. Il Re si è fatto la sua caduta.
+NPC_ALARIC_PLAYER_9b7cac58-6681-4591-bcc4-1b15f5a5e6d0_SCHOLAR	Sì. Il tuo resoconto si è dimostrato esatto in ogni dettaglio. Il Re è caduto.
+NPC_ALARIC_PLAYER_9b7cac58-6681-4591-bcc4-1b15f5a5e6d0_STOIC	Sì. Era come dicevi. Il Re era caduto.
+NPC_ALARIC_PLAYER_a1b2c3d4e5f6_HEROIC	Mi manda Faustas. Ho attraversato il Varco degli Antichi e raggiungerò la sua torre.
+NPC_ALARIC_PLAYER_a1b2c3d4e5f6_JOKER	Faustas mi ha fatto passare dal Varco degli Antichi. Un uomo delizioso. Ora devo trovare la sua torre.
+NPC_ALARIC_PLAYER_a1b2c3d4e5f6_SCHOLAR	Faustas mi ha fatto attraversare il Varco degli Antichi. La mia meta è la sua torre, e vorrei conoscerne il motivo.
+NPC_ALARIC_PLAYER_a1b2c3d4e5f6_STOIC	Mi manda Faustas. Ho attraversato il Varco degli Antichi. Devo raggiungere la sua torre.
+NPC_ALARIC_PLAYER_a1b39c33-75a6-4b50-bf4f-7a427aa04e48_HEROIC	Allora illuminiamogli il cammino.
+NPC_ALARIC_PLAYER_a1b39c33-75a6-4b50-bf4f-7a427aa04e48_JOKER	Allora vediamo se sa seguire la pista.
+NPC_ALARIC_PLAYER_a1b39c33-75a6-4b50-bf4f-7a427aa04e48_SCHOLAR	Allora guidiamolo, passo dopo passo, finché non ne avrà più bisogno.
+NPC_ALARIC_PLAYER_a1b39c33-75a6-4b50-bf4f-7a427aa04e48_STOIC	Allora guidiamolo fin lì.
+NPC_ALARIC_PLAYER_a332f723-be8a-4234-8d1b-08849e12cd3d_BASE	"Non mi fido ancora di Corin. Dovrò verificare di persona se i suoi rapporti sono corretti."
+NPC_ALARIC_PLAYER_a5cf669f-b9ff-485c-a750-c770ac8fe68e_HEROIC	Non sembra che qui il suo operato faccia molta differenza.
+NPC_ALARIC_PLAYER_a5cf669f-b9ff-485c-a750-c770ac8fe68e_JOKER	Se si dà da fare, lo nasconde bene.
+NPC_ALARIC_PLAYER_a5cf669f-b9ff-485c-a750-c770ac8fe68e_SCHOLAR	Da ciò che osservo, è difficile individuare il suo contributo.
+NPC_ALARIC_PLAYER_a5cf669f-b9ff-485c-a750-c770ac8fe68e_STOIC	Non sembra che faccia molto, qui.
+NPC_ALARIC_PLAYER_a8cd98e9-e4b7-4469-b6ea-7696e2a19f39_BASE	Anche tu hai un cuore forte. Si vede che tieni alle persone.
+NPC_ALARIC_PLAYER_a9dffd75-5c8c-4daf-9c7b-515a840a23c4_BASE	"Dove posso trovare Befr?"
+NPC_ALARIC_PLAYER_aa11bb22cc33_BASE	"Perché gli spiriti della foresta vi hanno attaccato?"
+NPC_ALARIC_PLAYER_abc123def456_BASE	"Dove posso trovare Tamsin?"
+NPC_ALARIC_PLAYER_abcdef123456_HEROIC	Hai detto che la foresta vi combatte. In che modo?
+NPC_ALARIC_PLAYER_abcdef123456_JOKER	Adesso la foresta attacca briga? Spiegami come funziona.
+NPC_ALARIC_PLAYER_abcdef123456_SCHOLAR	La foresta vi combatte. Con quali mezzi, esattamente? Radici o bestie?
+NPC_ALARIC_PLAYER_abcdef123456_STOIC	La foresta vi combatte. Cosa intendi?
+NPC_ALARIC_PLAYER_ae0ed4b6-2ce8-4842-9927-0b58e8ed874f_BASE	"Dove posso trovare Rahaner?"
+NPC_ALARIC_PLAYER_ae557a0a-7f46-46be-a348-f9b3aa60e548_BASE	Puoi dirmi di più su questo rituale?
+NPC_ALARIC_PLAYER_apspdof1h2h3_BASE	"Tornerò dopo aver parlato con loro."
+NPC_ALARIC_PLAYER_b2ae41f6-977c-4d68-bd77-b14a5dfa8b93_HEROIC	Basta una parola e andrò da lui.
+NPC_ALARIC_PLAYER_b2ae41f6-977c-4d68-bd77-b14a5dfa8b93_JOKER	Se gli serve ancora aiuto, basta darmi una spinta nella sua direzione.
+NPC_ALARIC_PLAYER_b2ae41f6-977c-4d68-bd77-b14a5dfa8b93_SCHOLAR	Se ha bisogno di altro aiuto, dimmi dove lavora. Lo troverò.
+NPC_ALARIC_PLAYER_b2ae41f6-977c-4d68-bd77-b14a5dfa8b93_STOIC	Se gli serve altro aiuto, dimmi dov'è.
+NPC_ALARIC_PLAYER_be8326de-0d7a-42d0-8034-eaaaaccb8f9a_BASE	"Chi ha distrutto il ponte?"
+NPC_ALARIC_PLAYER_c1d90d92-c61d-4d57-9f4b-370cf3c98fce_HEROIC	Corin tiene duro e la forza d'assalto ha subito solo lievi perdite.
+NPC_ALARIC_PLAYER_c1d90d92-c61d-4d57-9f4b-370cf3c98fce_JOKER	Corin è vivo, e la forza d'assalto non ha quasi un graffio.
+NPC_ALARIC_PLAYER_c1d90d92-c61d-4d57-9f4b-370cf3c98fce_SCHOLAR	Corin è vivo. La forza d'assalto ha subito perdite poco significative.
+NPC_ALARIC_PLAYER_c1d90d92-c61d-4d57-9f4b-370cf3c98fce_STOIC	Corin è vivo. Le perdite della forza d'assalto sono lievi.
+NPC_ALARIC_PLAYER_c28acd7f-0103-406b-bf9a-f2f075efc8f9_HEROIC	Credi davvero che abbia grandi potenzialità?
+NPC_ALARIC_PLAYER_c28acd7f-0103-406b-bf9a-f2f075efc8f9_JOKER	Grandi potenzialità, eh? È questo che vedi in lui?
+NPC_ALARIC_PLAYER_c28acd7f-0103-406b-bf9a-f2f075efc8f9_SCHOLAR	Sei certo che in lui vi siano autentiche potenzialità?
+NPC_ALARIC_PLAYER_c28acd7f-0103-406b-bf9a-f2f075efc8f9_STOIC	Vedi un vero potenziale in lui?
+NPC_ALARIC_PLAYER_c5c53d2d-d978-4b7f-bc94-6a66b1b98377_BASE	"Quali altri materiali ci servono?"
+NPC_ALARIC_PLAYER_ca5cd62d-e9f6-417a-9fbc-19d087b14497_HEROIC	Per quanto arduo sia il cammino, lui cadrà, e questa foresta lo seguirà.
+NPC_ALARIC_PLAYER_ca5cd62d-e9f6-417a-9fbc-19d087b14497_JOKER	Per quanto si metta male, lui cade, e la foresta con lui.
+NPC_ALARIC_PLAYER_ca5cd62d-e9f6-417a-9fbc-19d087b14497_SCHOLAR	Per quanto difficile, il compito resta. Lui muore, e la foresta segue.
+NPC_ALARIC_PLAYER_ca5cd62d-e9f6-417a-9fbc-19d087b14497_STOIC	Per quanto sia difficile, lo ucciderò e farò cadere questa foresta.
+NPC_ALARIC_PLAYER_cafebabefeed_BASE	"Cos'è la Corruzione?"
+NPC_ALARIC_PLAYER_cc94fcff-dd14-498c-b9cd-308726011bcd_HEROIC	Lo vedo. Con le sue azioni porta speranza ai profughi.
+NPC_ALARIC_PLAYER_cc94fcff-dd14-498c-b9cd-308726011bcd_JOKER	Lo vedo. Di questo passo i profughi le dovranno una statua.
+NPC_ALARIC_PLAYER_cc94fcff-dd14-498c-b9cd-308726011bcd_SCHOLAR	Lo vedo. Ben poco qui funzionerebbe senza il suo intervento.
+NPC_ALARIC_PLAYER_cc94fcff-dd14-498c-b9cd-308726011bcd_STOIC	Lo vedo. Fa molto per i profughi.
+NPC_ALARIC_PLAYER_ccddeeff0011_BASE	"Cos'era quella creatura mostruosa?"
+NPC_ALARIC_PLAYER_cd06b387-9fa8-4a64-a113-b64a967b15ab_BASE	"Parlami del Mulino di Haylor. Che posto è?"
+NPC_ALARIC_PLAYER_cd259398-ca69-4c0b-80d0-1bc3c159fb47_HEROIC	La filosofia può aspettare. Indicami il prossimo bersaglio.
+NPC_ALARIC_PLAYER_cd259398-ca69-4c0b-80d0-1bc3c159fb47_JOKER	"La forma segue la volontà." Bellissimo. Dove infilo la spada?
+NPC_ALARIC_PLAYER_cd259398-ca69-4c0b-80d0-1bc3c159fb47_SCHOLAR	Una teoria della Corruzione è utile. Un luogo lo è di più. Dove andiamo ora?
+NPC_ALARIC_PLAYER_cd259398-ca69-4c0b-80d0-1bc3c159fb47_STOIC	Saltiamo la filosofia. Dove si va?
+NPC_ALARIC_PLAYER_ce4ae1dc-ed39-4d7c-8963-dbc3f910d674_BASE	Da quali minacce devo guardarmi prima di tutto?
+NPC_ALARIC_PLAYER_d39cebfd-e971-473e-8073-fb327cb05cfb_BASE	A cosa serve il Libro degli incantesimi?
+NPC_ALARIC_PLAYER_d7ce1e0c-ddb7-408f-b3d2-5f7bdbcca398_BASE	Nella foresta ho incontrato un Nano di nome Heimen. Lo conosci?
+NPC_ALARIC_PLAYER_d83bfefe-711c-4c1f-8e31-26f0b4b73bc6_HEROIC	Tornerò se sarà necessario. Non prima.
+NPC_ALARIC_PLAYER_d83bfefe-711c-4c1f-8e31-26f0b4b73bc6_JOKER	Tornerò se proprio devo. Cercate di non aver bisogno di me.
+NPC_ALARIC_PLAYER_d83bfefe-711c-4c1f-8e31-26f0b4b73bc6_SCHOLAR	Tornerò se necessario. Dimmi quali circostanze lo renderebbero tale.
+NPC_ALARIC_PLAYER_d83bfefe-711c-4c1f-8e31-26f0b4b73bc6_STOIC	Tornerò solo se sarà necessario.
+NPC_ALARIC_PLAYER_dbb2fc43-cf87-4a1d-afba-04dfd463ecd1_BASE	Chi ha distrutto i ponti, e perché le bestie sono agitate?
+NPC_ALARIC_PLAYER_dca93d39-f61b-462c-b3ea-6a6ceb40f6c1_HEROIC	È un rischio. Se nessuno ha un'idea migliore, me lo assumo.
+NPC_ALARIC_PLAYER_dca93d39-f61b-462c-b3ea-6a6ceb40f6c1_JOKER	Rischioso, ma finché non si presenta un'idea migliore, il rischio me lo prendo io.
+NPC_ALARIC_PLAYER_dca93d39-f61b-462c-b3ea-6a6ceb40f6c1_SCHOLAR	Il rischio è concreto. Ma in assenza di un piano migliore, questo resta il piano.
+NPC_ALARIC_PLAYER_dca93d39-f61b-462c-b3ea-6a6ceb40f6c1_STOIC	Sembra rischioso. Se non ci sono idee migliori, lo farò.
+NPC_ALARIC_PLAYER_dd184f2a-18a6-43c1-91c3-d9c1669d81cb_HEROIC	Un tipo curioso, mosso dal fascino per la vecchia corteccia degli alberi.
+NPC_ALARIC_PLAYER_dd184f2a-18a6-43c1-91c3-d9c1669d81cb_JOKER	Un tipo curioso. Sulla vecchia corteccia ti attaccherebbe un bottone infinito.
+NPC_ALARIC_PLAYER_dd184f2a-18a6-43c1-91c3-d9c1669d81cb_SCHOLAR	Un tipo curioso. Proprio la corteccia, fra tante cose, e la studia seriamente.
+NPC_ALARIC_PLAYER_dd184f2a-18a6-43c1-91c3-d9c1669d81cb_STOIC	Tipo curioso. Ossessionato dalla vecchia corteccia.
+NPC_ALARIC_PLAYER_dhdhdd8787d70s97s_BASE	"Dimmi di più sul tuo esploratore"
+NPC_ALARIC_PLAYER_e0b7b3da-237e-4a90-b4f2-fc9a08f31c5d_HEROIC	Allora quello era il primo, non l'ultimo.
+NPC_ALARIC_PLAYER_e0b7b3da-237e-4a90-b4f2-fc9a08f31c5d_JOKER	Allora quello era solo il numero d'apertura.
+NPC_ALARIC_PLAYER_e0b7b3da-237e-4a90-b4f2-fc9a08f31c5d_SCHOLAR	Se il meccanismo è la volontà, altri vi cederanno. Quello non era l'ultimo.
+NPC_ALARIC_PLAYER_e0b7b3da-237e-4a90-b4f2-fc9a08f31c5d_STOIC	Allora ne seguiranno altri.
+NPC_ALARIC_PLAYER_e23d530a-05de-49eb-8b9b-4128a36d104d_HEROIC	Con te al suo fianco è più forte.
+NPC_ALARIC_PLAYER_e23d530a-05de-49eb-8b9b-4128a36d104d_JOKER	Con te a coprirgli le spalle, la sorte gli sorride.
+NPC_ALARIC_PLAYER_e23d530a-05de-49eb-8b9b-4128a36d104d_SCHOLAR	Il tuo sostegno gli giova molto.
+NPC_ALARIC_PLAYER_e23d530a-05de-49eb-8b9b-4128a36d104d_STOIC	È fortunato ad avere il tuo sostegno.
+NPC_ALARIC_PLAYER_e2843316-69a1-4c16-83b3-a67ca4f996d0_HEROIC	Ha inseguito un verso e ha quasi fatto morire entrambi. Non è giusto.
+NPC_ALARIC_PLAYER_e2843316-69a1-4c16-83b3-a67ca4f996d0_JOKER	Inseguendo la poesia stavamo per diventare un racconto su cosa non fare.
+NPC_ALARIC_PLAYER_e2843316-69a1-4c16-83b3-a67ca4f996d0_SCHOLAR	Ha quasi barattato entrambe le nostre vite per una poesia. Un pessimo calcolo.
+NPC_ALARIC_PLAYER_e2843316-69a1-4c16-83b3-a67ca4f996d0_STOIC	Per inseguire la poesia ha quasi fatto morire entrambi.
+NPC_ALARIC_PLAYER_e669a0dd-2c17-4c60-9c4a-87757f3adc43_HEROIC	È energica e la sua voce si impone, spesso sovrastando chi ha intorno.
+NPC_ALARIC_PLAYER_e669a0dd-2c17-4c60-9c4a-87757f3adc43_JOKER	Con quel volume sveglierebbe i corvi, e i modi sono ancora più taglienti.
+NPC_ALARIC_PLAYER_e669a0dd-2c17-4c60-9c4a-87757f3adc43_SCHOLAR	Chiassosa e scontrosa. Una combinazione che logora chi le sta intorno.
+NPC_ALARIC_PLAYER_e669a0dd-2c17-4c60-9c4a-87757f3adc43_STOIC	È molto rumorosa e scontrosa.
+NPC_ALARIC_PLAYER_ea158c17-de42-4222-a334-4e3861e4c2da_BASE	Cosa pensi di Eldorian?
+NPC_ALARIC_PLAYER_ea36debb-0c19-4bb3-91f2-f04be3280930_HEROIC	Il Re è morto, come promesso. Ci ha pensato la mia lama.
+NPC_ALARIC_PLAYER_ea36debb-0c19-4bb3-91f2-f04be3280930_JOKER	Il Re è morto. Puoi cominciare coi cenni del capo celebrativi.
+NPC_ALARIC_PLAYER_ea36debb-0c19-4bb3-91f2-f04be3280930_SCHOLAR	Il Re è morto, come hai detto. Ora scopriremo cosa ne abbiamo ricavato.
+NPC_ALARIC_PLAYER_ea36debb-0c19-4bb3-91f2-f04be3280930_STOIC	Come dici tu, il Re è morto
+NPC_ALARIC_PLAYER_eb2a33e4-3b26-44c6-83f4-5c3d8b097d0c_BASE	Cosa intendi quando dici che ha scelto di cadere?
+NPC_ALARIC_PLAYER_ecbd0a3b-fffc-4a8d-ac83-3832a5192821_HEROIC	Mi stai dicendo di uccidere un dio?
+NPC_ALARIC_PLAYER_ecbd0a3b-fffc-4a8d-ac83-3832a5192821_JOKER	Un dio. Vuoi che uccida un dio. Così, per essere sicuri.
+NPC_ALARIC_PLAYER_ecbd0a3b-fffc-4a8d-ac83-3832a5192821_SCHOLAR	Per chiarezza, il compito che descrivi consiste nell'uccidere un dio?
+NPC_ALARIC_PLAYER_ecbd0a3b-fffc-4a8d-ac83-3832a5192821_STOIC	Devo uccidere un dio, dunque?
+NPC_ALARIC_PLAYER_f0e43a1c-f31b-4e3c-946e-bc2b82bea962_HEROIC	Porta con sé un'energia vivace.
+NPC_ALARIC_PLAYER_f0e43a1c-f31b-4e3c-946e-bc2b82bea962_JOKER	Ha abbastanza brio da svegliare tutto il villaggio.
+NPC_ALARIC_PLAYER_f0e43a1c-f31b-4e3c-946e-bc2b82bea962_SCHOLAR	È vivace. Vorrei capire se sia la sua natura o l'effetto del lavoro.
+NPC_ALARIC_PLAYER_f0e43a1c-f31b-4e3c-946e-bc2b82bea962_STOIC	È molto vivace.
+NPC_ALARIC_PLAYER_f28b7c0e-a76d-4c1b-a6f8-4100e90d9a8f_HEROIC	Darò il massimo, là fuori.
+NPC_ALARIC_PLAYER_f28b7c0e-a76d-4c1b-a6f8-4100e90d9a8f_JOKER	Là fuori farò quel che posso. Di solito sono i guai a trovare me.
+NPC_ALARIC_PLAYER_f28b7c0e-a76d-4c1b-a6f8-4100e90d9a8f_SCHOLAR	Farò quanto il terreno e il tempo consentono. Non prometto altro.
+NPC_ALARIC_PLAYER_f28b7c0e-a76d-4c1b-a6f8-4100e90d9a8f_STOIC	Farò quel che posso, là fuori.
+NPC_ALARIC_PLAYER_f2fff497-bfa5-461e-897a-0021175cfc2d_BASE	"Ci sono così tanti profughi là fuori. Qual è la situazione?
+NPC_ALARIC_PLAYER_f34b33f7-65a0-493c-8e57-7a46d3aff887_HEROIC	Indicami dove il mio aiuto è più necessario.
+NPC_ALARIC_PLAYER_f34b33f7-65a0-493c-8e57-7a46d3aff887_JOKER	Mandami dove va peggio. Farò finta che mi faccia piacere.
+NPC_ALARIC_PLAYER_f34b33f7-65a0-493c-8e57-7a46d3aff887_SCHOLAR	Mandami dove il bisogno è più urgente. Saprai tu dove.
+NPC_ALARIC_PLAYER_f34b33f7-65a0-493c-8e57-7a46d3aff887_STOIC	Indicami dove servo di più.
+NPC_ALARIC_PLAYER_f51ab9e1-ad35-46dc-9a86-3c41b6df6240_HEROIC	Parlerò con gli altri e mi assicurerò che abbiano il necessario.
+NPC_ALARIC_PLAYER_f51ab9e1-ad35-46dc-9a86-3c41b6df6240_JOKER	Chiederò agli altri cosa serve. Le mie gambe già se ne pentono.
+NPC_ALARIC_PLAYER_f51ab9e1-ad35-46dc-9a86-3c41b6df6240_SCHOLAR	Chiederò a ciascuno cosa gli manca. Meglio gli elenchi delle supposizioni.
+NPC_ALARIC_PLAYER_f51ab9e1-ad35-46dc-9a86-3c41b6df6240_STOIC	Parlerò con gli altri per capire cosa serve.
+NPC_ALARIC_PLAYER_f9006efc-4da0-4ac4-a6f1-bda6c83ace5b_BASE	"Cosa puoi dirmi dei Goblin?"
+NPC_ALARIC_PLAYER_f96500d5-9a7c-4898-b8d0-006c358f8fca_HEROIC	Afferma di averlo trovato, ma i Goblin gli impediscono di avanzare.
+NPC_ALARIC_PLAYER_f96500d5-9a7c-4898-b8d0-006c358f8fca_JOKER	Dice di averlo trovato. A quanto pare i Goblin hanno trovato prima lui.
+NPC_ALARIC_PLAYER_f96500d5-9a7c-4898-b8d0-006c358f8fca_SCHOLAR	Afferma di averlo trovato. Qualunque cosa abbia trovato, i Goblin ci stanno sopra.
+NPC_ALARIC_PLAYER_f96500d5-9a7c-4898-b8d0-006c358f8fca_STOIC	Dice di averlo trovato, ma è troppo preoccupato per i Goblin per proseguire.
+NPC_ALARIC_PLAYER_fa1ce2d3b4c5_BASE	"Dove posso trovare Befr?"
+NPC_ALARIC_PLAYER_fa8c8cf1-42de-42b6-9b99-665ce6c3b1c9_BASE	Chi è, esattamente?
+NPC_ALARIC_PLAYER_fd02b693-9d3e-4521-a6ff-79725328fcac_HEROIC	Earlwood offrirà rifugio finché le strade non saranno di nuovo aperte.
+NPC_ALARIC_PLAYER_fd02b693-9d3e-4521-a6ff-79725328fcac_JOKER	Earlwood è il posto dove stare finché qualcuno non sistema le strade.
+NPC_ALARIC_PLAYER_fd02b693-9d3e-4521-a6ff-79725328fcac_SCHOLAR	Un rifugio, dunque, finché non riapriranno le strade. Quanto può resistere?
+NPC_ALARIC_PLAYER_fd02b693-9d3e-4521-a6ff-79725328fcac_STOIC	Earlwood è un rifugio finché le strade non riaprono.
+NPC_ALARIC_PLAYER_fdf7a954-3525-43a2-bd5c-efe6ef3dec0c_HEROIC	Così non farà molta strada, e qualcuno dovrebbe dirglielo.
+NPC_ALARIC_PLAYER_fdf7a954-3525-43a2-bd5c-efe6ef3dec0c_JOKER	Così arriverà più o meno fino alla porta della taverna.
+NPC_ALARIC_PLAYER_fdf7a954-3525-43a2-bd5c-efe6ef3dec0c_SCHOLAR	Così non farà molta strada. Alzare la voce non significa essere efficaci.
+NPC_ALARIC_PLAYER_fdf7a954-3525-43a2-bd5c-efe6ef3dec0c_STOIC	Non la porterà lontano.
+NPC_ALARIC_PLAYER_feb29abb-8c7c-43ad-91d7-b31f788a8953_HEROIC	Sì, mi ha chiesto di tornare a riferire che gli servono altre provviste per tenere la linea.
+NPC_ALARIC_PLAYER_feb29abb-8c7c-43ad-91d7-b31f788a8953_JOKER	Sì, mi ha fatto tornare. Gli serve altro di tutto, e in fretta.
+NPC_ALARIC_PLAYER_feb29abb-8c7c-43ad-91d7-b31f788a8953_SCHOLAR	Sì. Mi ha affidato un unico messaggio. Provviste, prima di ogni altra cosa.
+NPC_ALARIC_PLAYER_feb29abb-8c7c-43ad-91d7-b31f788a8953_STOIC	Sì, mi ha chiesto di tornare a riferire che gli servono altre provviste.
+NPC_ALARIC_PLAYER_fef4cc4e-cc2a-4005-a55d-1be1c25559a0_HEROIC	Quali sfide mi attendono al Mulino?
+NPC_ALARIC_PLAYER_fef4cc4e-cc2a-4005-a55d-1be1c25559a0_JOKER	Quali sorprese ha in serbo il Mulino?
+NPC_ALARIC_PLAYER_fef4cc4e-cc2a-4005-a55d-1be1c25559a0_SCHOLAR	Il Mulino. Chi lo occupa, e con quali forze?
+NPC_ALARIC_PLAYER_fef4cc4e-cc2a-4005-a55d-1be1c25559a0_STOIC	Cosa devo aspettarmi al Mulino?
+NPC_ALARIC_PLAYER_mnbdhgsjpdd_BASE	"Cos'è successo al ponte?"
+NPC_ALARIC_RESPONSE_062d55c6-d53a-4d20-970c-5f477082277b	*Alaric coglie l'intenzione dietro le tue parole.*<x1/><x2/>"A chi scelgo, offro tutto il peso della mia forza."<x3/><x4/><x5/><x6/>"Chi ha appena conosciuto Saqi forse sente solo il volume della voce. Non coglie il giudizio che c'è dietro.<x7/><x8/><x9/><x10/>Parla schiettamente perché le parole morbide non sempre sono gentili. Mette le persone in discussione perché alcune ne hanno bisogno. E quando al villaggio serve che si faccia qualcosa, non aspetta il permesso di chi rallenterebbe soltanto il lavoro.<x11/><x12/><x13/><x14/>Lo rispetto. Anzi, lo considero un pregio raro in un'amica."
+NPC_ALARIC_RESPONSE_06838a47-ff09-4f5d-9f20-b6d31bc46b1e	*Il tono di Alaric resta fermo, ma sotto le parole si insinua la preoccupazione.*<x1/><x2/>"Hm, notizie gravi. Se la foresta ha ceduto alla Corruzione, allora ha davvero raggiunto Earlwood. La diffusione non è più circoscritta; ormai è in tutta Mirkea.”<x3/><x4/>“Dobbiamo trovarne la fonte a Wildwood. Altrimenti il villaggio non sopravvivrà.”
+NPC_ALARIC_RESPONSE_0846e5e8-0bd5-42c9-8ed8-14d1aae401fb	"I Treant. È stato il loro primo atto di guerra. Abbiamo ancora uomini là fuori, bloccati dall'altra parte del ponte."
+NPC_ALARIC_RESPONSE_094ddfd8-6ab5-4262-9074-d95c4015ba87	"Non sarà questo l'esito, e non è questo il nostro modo di agire. Spesso ho dissentito dai tuoi metodi… eppure non possiamo fare a meno di te."<x1/><x2/><x3/><x4/>*I lineamenti di Alaric si induriscono, ma la voce resta misurata, come se scegliesse con cura ogni parola.*<x5/><x6/>"È il cardine attorno a cui ruota tutta questa Corruzione. Solo una volontà vasta quanto quella di un Re della Foresta potrebbe trascinare con sé tanta parte di Wildwood. Non so ancora quale cedimento abbia fatto vacillare qui il dominio di Ceres, né quale desiderio in lui abbia aperto la porta. Ma oggi le domande non salveranno una sola vita. Andiamo avanti con uno scopo chiaro, senza rimorsi, senza esitazioni."
+NPC_ALARIC_RESPONSE_0d98928b-ac58-4738-8519-b6eb3c880754	"Compare dove il canto incontra il pericolo. Succede abbastanza spesso."<x1/><x2/><x3/><x4/>*Alaric ripiega con cura la mappa, poi torna ai suoi appunti.*
+NPC_ALARIC_RESPONSE_0e3bb21a-98d4-4772-8ab1-7657efee1d81	"Gli abbiamo dato un tetto, addestramento, principi. Ciò che ne ha ricavato è opera sua."<x1/><x2/><x3/><x4/>"Il cammino di Corin ormai appartiene a lui, come quello di ogni uomo. Ha un'ombra dura alle spalle. Non cattiveria. Non debolezza. Una ferita che ha imparato a portare una lama.<x5/><x6/>Deve dominarla, o sarà lei a dominare lui. Se intendi chiamarlo amico, aiutalo a tenere in pugno quelle redini."
+NPC_ALARIC_RESPONSE_138f2d09-4fde-486a-bfde-3acf4df089a9	"Ti ringrazio. Sarò qui al tuo ritorno."
+NPC_ALARIC_RESPONSE_15627cc9-9907-4237-b5c0-436d1ce73bbd	"I rischi sono spesso necessari. Non posso costringerti. Posso solo dirti che porti con te la speranza della Gilda."
+NPC_ALARIC_RESPONSE_15825748-b92c-4faa-b436-31a64c33c09a	"Allora non hai imparato nulla, né da lui né da me."<x1/><x2/><x3/><x4/>*Alaric ripiega con cura la mappa, poi torna ai suoi appunti.*
+NPC_ALARIC_RESPONSE_158d3715-9073-487d-8474-7e15f1fb0a8e	“La foresta ci si è rivoltata contro. Lupi. Driadi. Treant. Tutto ciò che un tempo avvertiva, ora colpisce.”<x1/><x2/>“E i Goblin sono tornati in gran numero. Saccheggiano e massacrano nei campi e nei boschi. Divorano tutto ciò che toccano.”<x3/><x4/>“Chiunque vivesse fuori dal villaggio si è ritirato entro le mura.”<x5/><x6/>“Uno dei miei esploratori non si è presentato a fare rapporto. È poco attento agli orari, quindi non mi allarmo. Ma voglio sapere dov'è. Se vai nei campi o nella foresta e incroci le sue tracce, rimandalo alla Gilda. Lo prenderò come una cortesia.”
+NPC_ALARIC_RESPONSE_17573ec9-1c45-4d3e-aff9-d73f9a050183	"Un rifugio, per ora. Ma il marciume si diffonde in fretta, se ci limitiamo ad aspettare."<x1/><x2/><x3/><x4/>*Alaric stringe un bracciale di cuoio, la voce uniforme.*<x5/><x6/>"Il lavoro non aspetta."
+NPC_ALARIC_RESPONSE_199fd4a0-f628-46ac-aa8b-5bbb430fb6f1	"Allora ha la mente lucida. Tiene la posizione e chiede ciò che gli serve. Gli faremo avere le provviste."<x1/><x2/><x3/><x4/>*Alaric fa un cenno verso Saqi, che sta già preparando i fagotti per il viaggio.*<x5/><x6/>"Prendi ciò di cui Saqi può fare a meno e portalo alla linea di Corin. Se la Corruzione è vicina, gli starà contorcendo il terreno sotto gli stivali. Ha detto di aver trovato la fonte?"
+NPC_ALARIC_RESPONSE_1b12f9df-6ba0-4af2-b1ce-58d5de1a0bb8	"È un amico della Gilda. Un bardo Nano, e dei migliori."
+NPC_ALARIC_RESPONSE_25771a6d-a1b6-4f8b-a724-1af24928ad44	"Qualcosa di inferiore a un dio, eppure più grande di qualunque cosa tu abbia mai visto. Un essere di pura autorità che si è rivoltato contro il proprio scopo."<x1/><x2/><x3/><x4/>*I lineamenti di Alaric si induriscono, ma la voce resta misurata, come se scegliesse con cura ogni parola.*<x5/><x6/>"È il cardine attorno a cui ruota tutta questa Corruzione. Solo una volontà vasta quanto quella di un Re della Foresta potrebbe trascinare con sé tanta parte di Wildwood. Non so ancora quale cedimento abbia fatto vacillare qui il dominio di Ceres, né quale desiderio in lui abbia aperto la porta. Ma oggi le domande non salveranno una sola vita. Andiamo avanti con uno scopo chiaro, senza rimorsi, senza esitazioni."
+NPC_ALARIC_RESPONSE_25c73c69-71ff-47ee-952a-b9df7ff82991	*Gli occhi severi di Alaric si volgono verso di te, cogliendo l'intento dietro la domanda.*<x1/><x2/>"Corin ha del ferro dentro. E non del tipo di cui gli uomini si vantano. Del tipo che tiene chiuso un cancello, fa respirare un esploratore ferito e impedisce a una pattuglia di cedere quando i boschi le si rivoltano contro.<x3/><x4/>È un uomo duro, ma di valore. Uno dei miei migliori capitani. È un onore combattere al suo fianco."
+NPC_ALARIC_RESPONSE_29ca31f5-67d6-4067-9411-123aff228e76	"Allora stai misurando la distanza sulla strada sbagliata."
+NPC_ALARIC_RESPONSE_2b6cfb43-2aed-4be2-a558-9e1644397cf9	"È un rito degli antichi dèi, una supplica rivolta direttamente a Ceres. Di solito questi rituali si rivolgono a un Re della Foresta, chiedendogli di agire in suo nome. Ora è il Re stesso a essere vincolato, quindi dobbiamo andare oltre lui e invocare la Dea in persona, chiedendole di aprire la via."
+NPC_ALARIC_RESPONSE_2cb4693a-f9b0-44b2-aeb5-3e399ea5e48a	“Un tempo era un Treant. La Corruzione se n'era impadronita del tutto. Succede solo quando la creatura cede la propria volontà agli Dei Oscuri, le Iniquità. La Corruzione non costringe; tenta. Offre potere, e alcuni accettano. La maggior parte delle creature della foresta non ha ceduto, non del tutto. Sono impazzite, sì, ma sono ancora se stesse. Questa non lo era più.”<x1/><x2/>“La forma segue la volontà.”
+NPC_ALARIC_RESPONSE_351ca642-a2e3-414d-8091-8cec0986274b	"Abbattere un Re della Foresta non è cosa da poco. Wildwood resterà inquieta per un secolo mentre lui si rigenera, contesa fra volontà minori. Ma quando risorgerà, la foresta ritroverà la sua antica grazia, se avremo fatto la nostra parte e purificato il suo dominio da questa Corruzione."
+NPC_ALARIC_RESPONSE_358bec41-27da-42f0-829f-d7d5eb4eb067	"Hanno resistito quando contava. Onoreremo questo, e faremo in modo che il loro sforzo non sia stato vano."<x1/><x2/><x3/><x4/>*La mascella di Alaric si distende appena mentre il suo sguardo si posa su di te.*<x5/><x6/>"Quando hai varcato la porta senza gli altri, ho temuto il peggio. Ma se Corin resiste ancora, non ti ha chiesto di tornare per capriccio. Vuole qualcosa da noi, vero?"
+NPC_ALARIC_RESPONSE_35ebf713-d0a7-4dd9-b0b3-b4879953f3b6	"Tamsin è proprio dietro di me. Forse l'hai già incontrata."<x1/><x2/>"È la nostra Tessitrice di Stendardi e gestisce il Negozio della Gilda. Una ragazza piena di energia."
+NPC_ALARIC_RESPONSE_36d10881-9d49-44dd-9132-fb47cc1ea747	"Perché un re non è un incantesimo da dissolvere. Ucciderlo spezza la volontà che ha forgiato l'orda, ma i corpi restano. Ora sono ciò che i Goblin sono sempre stati nei loro momenti peggiori: sciacalli e ingordi, che azzannano e divorano senza scopo. Ci vorranno tempo e fatica per ricacciarli fuori da Wildwood."
+NPC_ALARIC_RESPONSE_3a7f18c3-9f35-4f62-bae9-80e2c8ed38a7	*Alaric incrocia le braccia; la sua voce è salda.*<x1/><x2/>"Hm? Vuoi sapere di Earlwood? È un piccolo villaggio, un posto per i reietti e i coraggiosi, quelli che tengono la posizione quando conta."
+NPC_ALARIC_RESPONSE_3b6703c0-a2f3-4c2e-a681-84129b5e4e31	"Basta questo, se lo pensi davvero."<x1/><x2/><x3/><x4/>*Alaric annuisce una sola volta, già tornando ai suoi compiti.*
+NPC_ALARIC_RESPONSE_3cb6087a-87d6-4f66-99d0-4d0a66e5fb34	*Alaric accenna un cenno d'intesa con il capo.*<x1/><x2/>"Allora possiamo considerare chiusa la questione."
+NPC_ALARIC_RESPONSE_40630520-7d64-453d-9a6a-1604d6e470b8	"Bene. Non venir meno a questo proposito. Quando il mondo intorno a te si spezza, la tua volontà e il tuo scopo devono restare saldi."
+NPC_ALARIC_RESPONSE_4714a2e7-84cb-49f4-b081-b4888d6354bd	*Alaric ridacchia piano alle tue parole.*<x1/><x2/>"È senz'altro un modo per definirlo."<x3/><x4/><x5/><x6/>"Chi ha appena conosciuto Saqi forse sente solo il volume della voce. Non coglie il giudizio che c'è dietro.<x7/><x8/><x9/><x10/>Parla schiettamente perché le parole morbide non sempre sono gentili. Mette le persone in discussione perché alcune ne hanno bisogno. E quando al villaggio serve che si faccia qualcosa, non aspetta il permesso di chi rallenterebbe soltanto il lavoro.<x11/><x12/><x13/><x14/>Lo rispetto. Anzi, lo considero un pregio raro in un'amica."
+NPC_ALARIC_RESPONSE_4c511742-3103-4f11-9d15-93cc27565e32	"Saqi. La conosco da quando era abbastanza piccola da nascondersi dietro la gamba di suo padre e abbastanza rumorosa da farsi sentire dalla strada.<x1/><x2/><x3/><x4/>Non scambiare il suo lavoro per debolezza. È una delle persone più forti di Earlwood; il suo acciaio è la resistenza. Quando si diffonde la paura, lei c'è. Quando gli animi si scaldano, lei c'è. Quando le persone non hanno altro posto dove portare il loro dolore, lei gli fa spazio."
+NPC_ALARIC_RESPONSE_4d32ab41-e47f-4396-8985-efce489738b6	"Hm, prendo atto del tuo dubbio, ma è infondato. Una volta messa in sicurezza la zona, ricostruire il ponte non sarà difficile per noi."<x1/><x2/><x3/><x4/>*Alaric indica il Mulino di Haylor sulla mappa.*<x5/><x6/>"Dobbiamo procurarci una solida base per il ponte: una trave caduta del Mulino di Haylor. Devo chiederti di aiutarci. La zona è ostile, piena di Goblin. Metti in sicurezza il terreno attorno alla trave ed eliminali, così i nostri esploratori potranno recuperarla e portarla al ponte. Poi ci serviranno altri materiali. Porta la tua parte al ponte."
+NPC_ALARIC_RESPONSE_4e71b4ee-b412-446c-a4b2-be36ec795a71	*Alaric chiude gli occhi e una lieve risata ha la meglio sulla sua severità.*<x1/><x2/>"Hm. Una critica comprensibile, vista da fuori."<x3/><x4/><x5/><x6/>"Corin arrivò da noi da bambino. Le razzie dei Goblin gli avevano portato via i genitori, e uno dei nostri gruppi lo trovò in ricognizione a nord, ad Aldoria. Lo portarono qui con poco più che un soffio di vita, la paura e una volontà che rifiutava di spegnersi.<x7/><x8/>La Gilda lo ha cresciuto, di rado con dolcezza, sempre con sincerità. È nostro fratello e nostro figlio. E anche un uomo che appartiene a se stesso."
+NPC_ALARIC_RESPONSE_52f358d5-0225-47f8-8995-572af9e51e45	“Rahaner di solito è nella sala comune, a meno che non sia fuori ad addestrare le reclute.”<x1/><x2/>"È un Mentore della Gilda e coordina le nostre difese."
+NPC_ALARIC_RESPONSE_563b48f5-f856-44ba-8561-143a0866dd49	"Solo per chi non ha ancora capito cosa stia proteggendo."<x1/><x2/><x3/><x4/>"Chi ha appena conosciuto Saqi forse sente solo il volume della voce. Non coglie il giudizio che c'è dietro.<x5/><x6/><x7/><x8/>Parla schiettamente perché le parole morbide non sempre sono gentili. Mette le persone in discussione perché alcune ne hanno bisogno. E quando al villaggio serve che si faccia qualcosa, non aspetta il permesso di chi rallenterebbe soltanto il lavoro.<x9/><x10/><x11/><x12/>Lo rispetto. Anzi, lo considero un pregio raro in un'amica."
+NPC_ALARIC_RESPONSE_58b7ccc9-d51f-49bf-bffa-6f997fdb0214	"Non devi darmi spiegazioni, ma devo parlarti chiaro."<x1/><x2/>“La strada per la Torre di Faustas è interrotta. Il ponte è distrutto e la foresta si è rivoltata contro il villaggio. Non è sicuro.”
+NPC_ALARIC_RESPONSE_60508905-5dff-43ba-aa4f-a433965f0ef1	"La Corruzione non cancella nulla. Seduce la volontà. Amplifica paura, rabbia e ambizione, dando loro forma e promesse. Un Re della Foresta non si limita a 'soccombere'. Ascolta quella promessa, la soppesa contro il giuramento fatto a Ceres, e poi volta le spalle. È in quel gesto che sta la scelta. Senza di esso, neppure gli Dei Oscuri potrebbero impadronirsi di lui."
+NPC_ALARIC_RESPONSE_61f9f328-f4dd-474f-92a0-4c5446e425a5	"Non sa ancora cosa sia. Ma io ne ho intravisto la forma."<x1/><x2/><x3/><x4/>*Alaric si spolvera dall'avambraccio una sottile scia di polline, lo sguardo fermo nel tuo.*<x5/><x6/>"Il tempo distingue chi fa sul serio dagli sciocchi. Eldorian sta ancora imparando quale dei due sarà."
+NPC_ALARIC_RESPONSE_6282c9e8-c4fb-40d3-94f0-124e27f8f22b	"Occupati del villaggio e riposa finché puoi. La via è bloccata finché il ponte non sarà ricostruito. Ci muoveremo quando il passaggio sarà libero."
+NPC_ALARIC_RESPONSE_6586d75d-2373-4134-8982-47f1a9946b58	*Alaric annuisce in silenzio, in segno di approvazione e gratitudine.*
+NPC_ALARIC_RESPONSE_65c223d0-9ee5-467f-b8ac-1b521dd537b1	"Gli antichi insegnamenti dicono che la Foresta Eterna è il vero dominio di Ceres, la dimora degli Elfi, degli spiriti e di tutto ciò che cresce selvatico. Ogni regione somiglia a un regno mortale: ha una propria gerarchia, con un Re della Foresta posto ad arbitro della legge di Ceres. Governa le creature a lui sottoposte e decide quanto la foresta tolleri la nostra caccia e il taglio degli alberi, la nostra stessa presenza. Alcuni sostengono che i nostri regni rispecchino solo vagamente quell'ordine più antico e più severo."
+NPC_ALARIC_RESPONSE_68521044-07c5-47a2-80a4-557649892422	"Ha attraversato il fuoco al nostro fianco. Torna sempre, per quanto lontano si spinga. Earlwood ne conosce il valore."
+NPC_ALARIC_RESPONSE_6a9d9dab-2709-4212-b534-d313443f77ff	"Goblin, molti. Dovrai farti strada combattendo per raggiungere il Mulino, e combattere ancora più duramente per metterlo in sicurezza."<x1/><x2/><x3/><x4/>*Alaric si rialza dalla mappa, la postura eretta, lo sguardo severo.*<x5/><x6/>"Il percorso è chiaro: assicurare la trave, raccogliere il materiale, ricostruire il ponte e trovare Corin."
+NPC_ALARIC_RESPONSE_6b64b8fc-f66d-487f-a04f-2ae534fb4958	"Hai la tua missione. Cerca la fonte della follia della foresta."<x1/><x2/><x3/><x4/>*Alaric annuisce una sola volta, già tornando ai suoi compiti.*
+NPC_ALARIC_RESPONSE_6b8a1087-1a1b-4a20-8cae-504841be747c	"Ho altri pensieri. Non intendo mancarti di rispetto, ma non perderò tempo a parlare di me."
+NPC_ALARIC_RESPONSE_6cc40a09-fd6b-4828-8a5f-f989f0cd6137	"'Afferma', dici? Un uomo che si è spinto tanto a fondo non si spaventa per delle ombre. Se i Goblin lo preoccupano, meritano tutta la tua attenzione."<x1/><x2/><x3/><x4/>*Lo sguardo di Alaric si incupisce, come al ricordo di un passato terribile.*<x5/><x6/>"Se è così vicino alla fonte e i Goblin lo incalzano, allora starà cercando la loro base e il loro re. Ha ragione. Non marceremo sulla Corruzione con un'orda alle spalle."
+NPC_ALARIC_RESPONSE_6df0fd4b-4317-4552-a59a-ff845732dcb7	*Gli occhi di Alaric tornano a scrutare la mappa, assorti.*<x1/><x2/>"La fonte va trovata; nient'altro fermerà tutto questo. Andremo nel cuore di Wildwood. Ma la via è bloccata. Il ponte è distrutto e finché non sarà ricostruito non potremo avanzare.<x3/><x4/><x5/><x6/>Molte settimane fa ho inviato nel folto della foresta una forza d'assalto guidata dal mio miglior capitano, Corin, alla ricerca della fonte. Prima che potessero tornare a fare rapporto, il ponte è stato distrutto, e sono rimasti bloccati. Ora è il momento: con la foresta meridionale stabilizzata, possiamo dedicarci al ponte e ricostruirlo."
+NPC_ALARIC_RESPONSE_6dfb9852-8ae8-4895-89ee-e6c3a82958a1	"Sì. E lo fa come ha sempre fatto: senza aspettare permessi o elogi."<x1/><x2/><x3/><x4/>"Saqi gestisce la taverna del villaggio, sì. Ma quel titolo è troppo piccolo per il lavoro che svolge.<x5/><x6/><x7/><x8/>Tiene unite le persone. Nei giorni tranquilli, significa risate, cibo, canzoni, litigi risolti prima che si inaspriscano. In giorni come questi, significa profughi sfamati e gente impaurita rincuorata. Significa ricordare alla Gilda cosa sta proteggendo.<x9/><x10/><x11/><x12/>Lo fa senza cariche né autorità di comando. Il villaggio la riconosce come il proprio cuore perché quel posto se l'è guadagnato."
+NPC_ALARIC_RESPONSE_6e1b2813-5d22-4335-8850-7b7232c7d7db	"Bene. Combatti al suo fianco, spezza l'orda e la via per la fonte si aprirà. Porta a termine il compito, Viandante."
+NPC_ALARIC_RESPONSE_6f849b78-c19a-4906-bd18-f2cc8f0136c1	"Bene. Ho scelto il capitano giusto per quel compito."<x1/><x2/><x3/><x4/>*La mascella di Alaric si distende appena mentre il suo sguardo si posa su di te.*<x5/><x6/>"Quando hai varcato la porta senza gli altri, ho temuto il peggio. Ma se Corin resiste ancora, non ti ha chiesto di tornare per capriccio. Vuole qualcosa da noi, vero?"
+NPC_ALARIC_RESPONSE_6f98bb8b-781d-42e7-b549-4e65c28e9673	"Non un dio. Uno spirito superiore, un sovrano di questa foresta. Non metteremo fine alla sua esistenza, spezzeremo soltanto la presa della Corruzione. Col tempo tornerà, e allora questa terra sarà purificata… oppure al di là persino del suo potere di risanarla."<x1/><x2/><x3/><x4/>*Alaric si raddrizza, riportando l'attenzione alla mappa e alle linee d'avanzata.*<x5/><x6/>"Dunque, andiamo avanti. Il Sentiero della Foresta è sigillato da rampicanti corrotti; al momento nessuna forza mortale può aprirsi un varco. Per aprirlo servirà un rituale. Per compiere quel rituale dobbiamo raccogliere i reagenti e mettere in sicurezza la via. Ci attendono tre compiti. A Tamsin serviranno componenti rari per il rito. Eldorian è già sul campo e difende l'accesso da qualunque cosa vi si raduni. E Corin sta cercando di aprire un passaggio sicuro per la nostra gente. A tutti loro farebbe comodo il tuo aiuto, se vorrai darlo."
+NPC_ALARIC_RESPONSE_74b38a89-1db8-4e35-b0ac-6d6b37f0b2ef	*Alaric ti studia un momento, poi infila la mano nella bisaccia.*<x1/><x2/>“Hai guadagnato una parte della mia fiducia. Prendi queste pozioni, ti aiuteranno nei tuoi viaggi.”
+NPC_ALARIC_RESPONSE_787d8f11-a7d8-4782-8e2f-8faf23b3b2c1	"Hm, allora il vecchio mago muove ancora le sue pedine. Curioso."<x1/><x2/>*Fa una breve pausa, con aria pensierosa.*<x3/><x4/>“La strada per la Torre di Faustas è interrotta. Il ponte è distrutto e la foresta si è rivoltata contro il villaggio. Non è sicuro.”
+NPC_ALARIC_RESPONSE_7cf05ec7-bf07-4740-b271-c7c7937f996f	"Perché quel sentiero conduce al cuore dell'autorità della foresta. Avanzare lungo di esso significa entrare in quello che dovrebbe essere il luogo più sicuro e sacro sotto lo sguardo di Ceres, e trovarlo rivoltato contro di noi."<x1/><x2/><x3/><x4/>*Mentre parla, Alaric abbassa lo sguardo e chiude gli occhi, come per riportare alla luce antichi ricordi.*<x5/><x6/>"Il Sentiero della Foresta conduce al cuore di Wildwood, ciò che le antiche storie chiamano il Trono della Foresta. Per i giovani ormai è poco più di una favola, ma è reale eccome. Il Trono è la sede del Re della Foresta di questa regione. Si dice che questi Re siano figli diretti di Ceres stessa. Ho visto questo una sola volta in vita mia, e solo per un istante: una grazia rara per qualunque mortale. Se un essere di tale levatura è caduto preda della Corruzione, siamo sull'orlo di qualcosa di molto peggiore delle razzie dei Goblin."
+NPC_ALARIC_RESPONSE_7d57ade0-5cc3-4f3f-ba76-1c081eb056cc	"Così ho sentito. Grazie per averlo aiutato. Heimen è rumoroso, testardo e uno dei pochi a cui affiderei una traversata in solitaria di quella foresta."
+NPC_ALARIC_RESPONSE_81e4373a-85ed-4fb7-8bda-2167bc2e76d1	"Lo è, eppure ce la farai. Ne sono certo."<x1/><x2/><x3/><x4/>*Alaric si rialza dalla mappa, la postura eretta, lo sguardo severo.*<x5/><x6/>"Il percorso è chiaro: assicurare la trave, raccogliere il materiale, ricostruire il ponte e trovare Corin."
+NPC_ALARIC_RESPONSE_8380feb1-77b9-4334-afed-36bab15bbf4e	"È forte. Ogni vera prova gli ha portato via qualcosa, e ogni volta si è rialzato."<x1/><x2/><x3/><x4/>"Corin arrivò da noi da bambino. Le razzie dei Goblin gli avevano portato via i genitori, e uno dei nostri gruppi lo trovò in ricognizione a nord, ad Aldoria. Lo portarono qui con poco più che un soffio di vita, la paura e una volontà che rifiutava di spegnersi.<x5/><x6/>La Gilda lo ha cresciuto, di rado con dolcezza, sempre con sincerità. È nostro fratello e nostro figlio. E anche un uomo che appartiene a se stesso."
+NPC_ALARIC_RESPONSE_84f292cd-890c-452c-803c-cb3d61e0329c	"Lo hai seguito, vero? Allora hai visto ciò che vede lui. Questo conta."<x1/><x2/><x3/><x4/>*Alaric scosta un frammento di foglia dalla mappa davanti a sé.*<x5/><x6/>"Aiutandolo, hai fatto più di quanto credi. La Gilda non lo dimentica."
+NPC_ALARIC_RESPONSE_892bda65-742c-429e-8404-07d4dd483025	"Ha la volontà di crescere. Chi è prenderà forma di conseguenza."
+NPC_ALARIC_RESPONSE_8e1a4880-76ef-4f0e-8c41-c39437724fe2	“Come ho detto, il ponte va ricostruito e il tuo contributo sarà essenziale.<x1/><x2/><x3/><x4/>*Alaric indica il Mulino di Haylor sulla mappa.*<x5/><x6/>"Dobbiamo procurarci una solida base per il ponte: una trave caduta del Mulino di Haylor. Devo chiederti di aiutarci. La zona è ostile, piena di Goblin. Metti in sicurezza il terreno attorno alla trave ed eliminali, così i nostri esploratori potranno recuperarla e portarla al ponte. Poi ci serviranno altri materiali. Porta la tua parte al ponte."
+NPC_ALARIC_RESPONSE_940ccd48-1664-46c6-9aa8-30d54a86ca31	"Allora fatti da parte. Non ho tempo da perdere con gli oziosi."<x1/><x2/><x3/><x4/>*Alaric annuisce una sola volta, già tornando ai suoi compiti.*
+NPC_ALARIC_RESPONSE_945f0739-967d-42e8-87a5-2990dd4741bb	"I Treant. Lo hanno distrutto poco dopo il passaggio della nostra forza d'assalto. Non sappiamo se volessero isolarla. È raro vederli agire in modo così strategico."
+NPC_ALARIC_RESPONSE_94a3a95c-549a-46cf-990b-9fc195445384	"Una fucina ha bisogno di fuoco. Vedremo quanto calore sa sopportare."<x1/><x2/><x3/><x4/>*Alaric annuisce una volta, lento e sicuro.*
+NPC_ALARIC_RESPONSE_96c12211-ffdd-4c04-aaec-9a5f355b644c	*Alaric getta un'occhiata all'ingresso affollato della Sede della Gilda.*<x1/><x2/>"Le creature della foresta sono diventate ostili e i ponti sono crollati; contadini e viandanti si ammassano qui per mettersi al sicuro. Il blocco imposto dal sindaco ferma le barche, quindi tocca a noi fare il possibile."
+NPC_ALARIC_RESPONSE_9917824f-c46e-41e3-96d6-7e46d8aee5f2	“È tutto ciò che chiedo.”<x1/><x2/>“Il suo percorso resta nella parte meno pericolosa dei campi. Se hai una mappa, lo segnerò, ma non confondere 'meno pericolosa' con sicura. Certi tratti mordono.”<x3/><x4/>“Se non lo trovi lì, la foresta è l'ultima possibilità. Resta sulla strada principale. Non entrarci se non devi, e non allontanarti dal sentiero. I boschi non sono più un posto per chi non sa affrontarli.”<x5/><x6/>“Grazie, viandante. Prendi questo Libro degli incantesimi di scorta. Potrebbe salvarti la vita.”<x7/><x8/>“Sono Alaric. Piacere di conoscerti.”
+NPC_ALARIC_RESPONSE_9bb98b07-01b6-4f4c-ac9e-4231eb24b026	“Distrutto. Chiunque sia stato ha confuso le tracce: Goblin, o qualcosa che caccia senza stendardi.”<x1/><x2/>“Puoi andare a verificarlo. Non te lo consiglio.”<x3/><x4/>“A tempo debito lo sistemeremo. Per ora è una trappola senza ricompensa.”
+NPC_ALARIC_RESPONSE_9cdef59a-b028-4be8-9ba8-f3c7b8d7f6ae	"Se hai la forza di parlare, hai la forza di renderti utile."<x1/><x2/><x3/><x4/>*Alaric stringe un bracciale di cuoio, la voce uniforme.*<x5/><x6/>"Il lavoro non aspetta."
+NPC_ALARIC_RESPONSE_9e1af266-7fe1-46bb-81d4-47c3e053ad0b	"Poco dopo aver abbattuto l'ultimo Re Goblin, cinquant'anni fa. Cacciavo da solo in questi boschi quando il Cavaliere Verde tornò da me e pronunciò un nome: Aelwynor, il Padre delle Radici Selvatiche. L'aria si aprì alle sue spalle e comparve il Re della Foresta, immenso e immobile. Mi parlò nei pensieri, esprimendo gratitudine per ciò che avevamo fatto e promettendo un'alleanza fra la nostra stirpe e la sua. Hm. Eppure eccoci di nuovo qui, con quello stesso patto messo alla prova."
+NPC_ALARIC_RESPONSE_9ef2a4c2-6a1d-4edd-9f3d-99507e325c80	"Si chiama Eldorian, è un Elfo, uno dei miei uomini migliori. Per ora è tutto ciò che devi sapere."
+NPC_ALARIC_RESPONSE_a31ca8be-07f3-40f1-8f3c-ef14ba8adc56	"Guardati dai Treant e dalle Driadi. Non sono come i lupi o i Goblin. Ti servirà la testa."
+NPC_ALARIC_RESPONSE_a3c2f10b-8d86-4b7f-b487-4426d8f8f053	“Wildwood ospita spiriti antichi: Driadi, Treant e altri ancora. Molti vennero dalla Foresta Eterna molto tempo fa. Un tempo erano pacifici, ma la Corruzione li ha stravolti. Hanno perso la ragione e la pietà. Se li affronti, devi essere in grado di colpire senza esitare.”
+NPC_ALARIC_RESPONSE_a4daea4d-9d7f-4407-89f0-a0c97e58b538	"Sì, è vero. Il racconto può aspettare; l'orda no. Chiedimelo di nuovo quando il loro re sarà morto."
+NPC_ALARIC_RESPONSE_a9950d32-25b1-4081-9966-426ce3eef4eb	“Troverai Befr vicino al suo carro, qui fuori. Fra sorrisi e risate, è difficile non notarlo.”
+NPC_ALARIC_RESPONSE_a9ed4b5d-febd-446e-8990-818890cd5e59	"Legno resistente e pietra. Dovrai recuperare Quercia del Cuore nella foresta. Di pietra avanzata se ne trova facilmente."
+NPC_ALARIC_RESPONSE_aadfa7f1-3a52-4876-bb7e-db81a6547388	"È più di quanto lasci intendere. Uno di quelli che portano la storia come una lama."<x1/><x2/><x3/><x4/>*Alaric scosta un frammento di foglia dalla mappa davanti a sé.*<x5/><x6/>"Aiutandolo, hai fatto più di quanto credi. La Gilda non lo dimentica."
+NPC_ALARIC_RESPONSE_ad764f7f-f34d-486f-ac20-2ead2c7cfe7a	"Se avrà bisogno di te, verrà a cercarti."<x1/><x2/><x3/><x4/>*Alaric ripiega con cura la mappa, poi torna ai suoi appunti.*
+NPC_ALARIC_RESPONSE_aee12094-fd78-4180-9e50-a7b1eb961c3d	"Questo dice più del tuo sguardo che del suo lavoro."<x1/><x2/><x3/><x4/>"Saqi gestisce la taverna del villaggio, sì. Ma quel titolo è troppo piccolo per il lavoro che svolge.<x5/><x6/><x7/><x8/>Tiene unite le persone. Nei giorni tranquilli, significa risate, cibo, canzoni, litigi risolti prima che si inaspriscano. In giorni come questi, significa profughi sfamati e gente impaurita rincuorata. Significa ricordare alla Gilda cosa sta proteggendo.<x9/><x10/><x11/><x12/>Lo fa senza cariche né autorità di comando. Il villaggio la riconosce come il proprio cuore perché quel posto se l'è guadagnato."
+NPC_ALARIC_RESPONSE_affd1565-b709-45d3-89f9-2245a8803fca	"Vorrei bastasse intimare alla Corruzione di andarsene. Ma per spiriti di quell'ordine c'è una sola forma di misericordia: dobbiamo abbatterli e lasciare che si rigenerino, in lunghi anni, liberi dalla macchia."<x1/><x2/><x3/><x4/>*Alaric si raddrizza, riportando l'attenzione alla mappa e alle linee d'avanzata.*<x5/><x6/>"Dunque, andiamo avanti. Il Sentiero della Foresta è sigillato da rampicanti corrotti; al momento nessuna forza mortale può aprirsi un varco. Per aprirlo servirà un rituale. Per compiere quel rituale dobbiamo raccogliere i reagenti e mettere in sicurezza la via. Ci attendono tre compiti. A Tamsin serviranno componenti rari per il rito. Eldorian è già sul campo e difende l'accesso da qualunque cosa vi si raduni. E Corin sta cercando di aprire un passaggio sicuro per la nostra gente. A tutti loro farebbe comodo il tuo aiuto, se vorrai darlo."
+NPC_ALARIC_RESPONSE_b21233cd-d3a4-45a3-9dae-2f368691bb2e	"Bene. Ha il senno di fermarsi quando la terra stessa gli si rivolta contro."<x1/><x2/><x3/><x4/>*Lo sguardo di Alaric si incupisce, come al ricordo di un passato terribile.*<x5/><x6/>"Se è così vicino alla fonte e i Goblin lo incalzano, allora starà cercando la loro base e il loro re. Ha ragione. Non marceremo sulla Corruzione con un'orda alle spalle."
+NPC_ALARIC_RESPONSE_b43274ce-4a26-4d42-9a0e-f872da3a36b8	"Progenie di Akolasis, esseri di pura Indulgenza. Esistono per consumare. Ogni cosa: cibo, oggetti, persino l'un l'altro. Se ti vedono senza forze e senza modo di reagire, ti divoreranno senza pensarci. Ecco perché ridono. Quel pensiero non li abbandona mai, e li riempie di gioia. Consumando, crescono e cambiano. Un re… aspettati qualcosa di mostruoso."
+NPC_ALARIC_RESPONSE_b4621ff9-0f5f-4de3-894d-4d0dbfb3eab3	“Non sono un cuoco, ma ogni cacciatore degno del nome conosce lo Stufato del Cacciatore.”<x1/><x2/>“Carne di Bestiola, Gelatina di Droop e Carne di Bestia, cotte su un fornello a legna. Ti terrà in piedi.”<x3/><x4/>“Se hai poco tempo, la carne cruda ti terrà in vita. Sgradevole, ma serve allo scopo.”
+NPC_ALARIC_RESPONSE_b7f1e583-3c1e-400e-9c88-c2f747ebfd42	*Alaric annuisce con pacata approvazione, chinando appena il capo.*<x1/><x2/>“Buona fortuna, Viandante. Torna sulle tue gambe.”
+NPC_ALARIC_RESPONSE_ba2f9672-e963-4df8-9f6e-04058a1a1f14	“Troverai Befr vicino al suo carro, qui fuori. Fra sorrisi e risate, è difficile non notarlo.”
+NPC_ALARIC_RESPONSE_ba6cadcf-69a8-4b52-84e3-df7917d995fd	"Il Mulino di Haylor è la tenuta della famiglia Haylor, una delle più illustri del Villaggio di Earlwood, e una delle sue maggiori fonti di prodotti agricoli. Quando i Goblin hanno invaso la zona, è stato fra i primi posti a cadere, e quel luogo è piaciuto loro particolarmente."
+NPC_ALARIC_RESPONSE_c0026bb5-4f38-4104-87c6-cbe2a051af67	"Ho fiducia nella crescita. Il dubbio la rallenta soltanto."<x1/><x2/><x3/><x4/>*Alaric annuisce una volta, lento e sicuro.*
+NPC_ALARIC_RESPONSE_c0aaec68-048a-4aa5-90b2-5c0f43400e3e	*Alaric non si scompone davanti alla tua schiettezza.*<x1/><x2/>"Hm. Una volta Saqi mi ha detto la stessa cosa. Rideva, mentre lo diceva."<x3/><x4/><x5/><x6/>"Il cammino di Corin ormai appartiene a lui, come quello di ogni uomo. Ha un'ombra dura alle spalle. Non cattiveria. Non debolezza. Una ferita che ha imparato a portare una lama.<x7/><x8/>Deve dominarla, o sarà lei a dominare lui. Se intendi chiamarlo amico, aiutalo a tenere in pugno quelle redini."
+NPC_ALARIC_RESPONSE_c2dccdb1-9b28-48ef-bb36-56eaec72676b	“Non lo sai? La Corruzione di Sylbos è un flagello; distorce la magia stessa, piegando la volontà di tutto ciò che tocca.”<x1/><x2/>“È un'arma degli Dei Oscuri, opera delle Iniquità. Sylbos la usa come il suo strumento più potente.”
+NPC_ALARIC_RESPONSE_c7bc0846-6584-4e9e-8985-8eccc1e2c3c5	"Insegue la lingua elfica da più tempo di quanto certi bardi abbiano vissuto."<x1/><x2/><x3/><x4/>*Alaric scosta un frammento di foglia dalla mappa davanti a sé.*<x5/><x6/>"Aiutandolo, hai fatto più di quanto credi. La Gilda non lo dimentica."
+NPC_ALARIC_RESPONSE_ca088060-12fa-4c4a-ab30-d5c2af3d6295	"Allora parla con chi ha bisogno di cure. Prima ascolta, poi agisci."<x1/><x2/><x3/><x4/>*Alaric stringe un bracciale di cuoio, la voce uniforme.*<x5/><x6/>"Il lavoro non aspetta."
+NPC_ALARIC_RESPONSE_caaf9cb2-a26c-4ec5-8f5f-3d5c0ceca459	"Corin è uno dei miei amici e capitani più fidati. Lo conosco da quando era bambino. Non temo per la sua incolumità; nessun semplice Goblin o bestia potrebbe fargli del male. Ma vorrei vederlo tornare."
+NPC_ALARIC_RESPONSE_cffbee5e-d374-41ec-a505-f53c3698659f	"Mai. Non quando contava."
+NPC_ALARIC_RESPONSE_d06af1fe-6236-44e1-905f-8f5890fae624	*Il suo volto resta impassibile, ma lo sguardo si fa più acuto. Per un istante traspare la preoccupazione.*<x1/><x2/>“La tensione con la foresta cresce da anni. Dopo l'ultima Crisi dei Goblin ci serviva legname. Abbiamo eretto mura. E questo significava tagliare più in profondità.”<x3/><x4/>“Alcuni abitanti sono andati troppo oltre, alcuni per ordine del sindaco. Il legno di Treant non è legname comune. È pericoloso. È… segnato.”<x5/><x6/>“Ma un'offesa non spiega ciò che sta accadendo ora. Questa è follia. Qualcosa di più oscuro muove la foresta.”
+NPC_ALARIC_RESPONSE_d15aa7ba-c83f-4322-8d56-5fff045e028a	"Allora vali già più di gran parte di chi passa di qui."<x1/><x2/><x3/><x4/>*Alaric annuisce una volta, lento e sicuro.*
+NPC_ALARIC_RESPONSE_d3f16d4a-02ef-4226-8f69-a1a024a99556	"La prudenza va bene, purché non rallenti la tua mano. Verifica ciò che dice, se devi, ma se i suoi rapporti sono veri, combatti al suo fianco quando comincerà il massacro. Buona fortuna, Viandante."
+NPC_ALARIC_RESPONSE_d676bf0c-87dc-462f-9f00-ce48dbd31088	"Sentirlo dire ad alta voce mi dà un nuovo sollievo."<x1/><x2/><x3/><x4/>*Alaric studia la mappa in silenzio per un momento, poi traccia con un dito una linea fra gli alberi.*<x5/><x6/>"I Goblin sono ormai divisi in bande disperse; la tempesta che portavano si è placata, per un po'. Questo ci dà un'occasione per arrivare alla radice invece di tagliare i rami. Corin ha trovato un ingresso, il vecchio Sentiero della Foresta che si snoda verso l'albero antico. Ogni segno che abbiamo indica quel luogo, e fra tutti i posti in cui la Corruzione potrebbe attecchire, è uno dei peggiori."
+NPC_ALARIC_RESPONSE_d9d4e190-963d-4de4-8545-118ad3dcfe63	“Prendi queste pozioni. Un piccolo aiuto, ma potrebbe bastare.”<x1/><x2/>"Usale con saggezza."
+NPC_ALARIC_RESPONSE_e1e07746-b08a-4112-8c2d-80406ac1f263	"Hm? Puoi apprenderne una nuova abilità, se hai gli attributi adatti. I Libri degli incantesimi si usano in tutta Mirkea. Rivolgiti a Tamsin o Rahaner per comprarne altri."
+NPC_ALARIC_RESPONSE_e3a50c10-e60e-4418-99a4-30765d3e119c	"Bene. Prima Tamsin, se ascolti il mio consiglio. Il rito è l'unica parte che non possiamo affrettare."
+NPC_ALARIC_RESPONSE_e3d3ab03-c730-4637-bf39-24120a95cab0	"Tamsin è proprio dietro di me. Forse l'hai già incontrata."<x1/><x2/>"È la nostra Tessitrice di Stendardi e gestisce il Negozio della Gilda. Una ragazza piena di energia."
+NPC_ALARIC_RESPONSE_e5a0cea6-ecb7-4db0-8c28-40bb96b3d404	"Il sostegno conta poco senza la lotta. Lui si sta guadagnando entrambi."<x1/><x2/><x3/><x4/>*Alaric si spolvera dall'avambraccio una sottile scia di polline, lo sguardo fermo nel tuo.*<x5/><x6/>"Il tempo distingue chi fa sul serio dagli sciocchi. Eldorian sta ancora imparando quale dei due sarà."
+NPC_ALARIC_RESPONSE_e5d02f80-5510-4ea6-b5cc-5d7ce1a92864	*Alaric mette da parte una mappa, indugiando con lo sguardo sulla porta principale della Sede della Gilda.*<x1/><x2/>"Eldorian può sembrare esuberante, ma è più capace di quanto molti gli riconoscano. Crescendo, diventerà una persona solida."
+NPC_ALARIC_RESPONSE_e6f7c03d-2171-4d5d-9f74-9f89087b05e3	“Rahaner di solito è nella sala comune, a meno che non sia fuori ad addestrare le reclute.”<x1/><x2/>"È un Mentore della Gilda e coordina le nostre difese."
+NPC_ALARIC_RESPONSE_e90d9fb9-934e-4550-aab2-78974ae39f69	"Una volta liberato il Re della Foresta e spezzata la Corruzione, la via si aprirà. La tua strada ti porterà oltre noi, e starà a te scegliere se tornare."
+NPC_ALARIC_RESPONSE_e9e35ea4-73ff-4331-9e8f-ece4e2122e6d	"Ceres è la legge su cui poggia questa foresta, la sua crescita, la sua furia, il suo riposo. I suoi Re sono le sue mani. Se una di quelle mani si rivolta contro la sua opera, significa che qui la sua presa si è allentata. Non pensare che lo abbia voluto. Persino agli dèi ci si può opporre là dove la loro volontà è più tenue, e questo mi turba."
+NPC_ALARIC_RESPONSE_efe6285d-5385-4230-ae4a-a4c336c05360	"Se giudichi in fretta, fai ancora più in fretta a eguagliare il suo coraggio. Fino ad allora, silenzio."<x1/><x2/><x3/><x4/>*Alaric si spolvera dall'avambraccio una sottile scia di polline, lo sguardo fermo nel tuo.*<x5/><x6/>"Il tempo distingue chi fa sul serio dagli sciocchi. Eldorian sta ancora imparando quale dei due sarà."
+NPC_ALARIC_RESPONSE_f5433751-027f-470f-9cac-868e9c6da386	"Grazie ancora, viandante. Lascia che la tua volontà ti guidi."
+NPC_ALARIC_RESPONSE_fb0c099e-6564-4cec-8842-7d6808e99645	"Non dubito del prezzo pagato. Ma, come dici, il lavoro è fatto, e tu resti in piedi mentre il Re è caduto."<x1/><x2/><x3/><x4/>*Alaric studia la mappa in silenzio per un momento, poi traccia con un dito una linea fra gli alberi.*<x5/><x6/>"I Goblin sono ormai divisi in bande disperse; la tempesta che portavano si è placata, per un po'. Questo ci dà un'occasione per arrivare alla radice invece di tagliare i rami. Corin ha trovato un ingresso, il vecchio Sentiero della Foresta che si snoda verso l'albero antico. Ogni segno che abbiamo indica quel luogo, e fra tutti i posti in cui la Corruzione potrebbe attecchire, è uno dei peggiori."
+NPC_ALARIC_RESPONSE_fdf38945-4f73-46fe-8ef3-2ca1f3ed49f2	"Il coraggio ha il suo posto, e non dubito del tuo. Ma il luogo in cui qualcosa mette radici determina ciò che accade quando l'abbattiamo. Dobbiamo guardarne lucidamente il prezzo, anche mentre alziamo la lama."<x1/><x2/><x3/><x4/>*Mentre parla, Alaric abbassa lo sguardo e chiude gli occhi, come per riportare alla luce antichi ricordi.*<x5/><x6/>"Il Sentiero della Foresta conduce al cuore di Wildwood, ciò che le antiche storie chiamano il Trono della Foresta. Per i giovani ormai è poco più di una favola, ma è reale eccome. Il Trono è la sede del Re della Foresta di questa regione. Si dice che questi Re siano figli diretti di Ceres stessa. Ho visto questo una sola volta in vita mia, e solo per un istante: una grazia rara per qualunque mortale. Se un essere di tale levatura è caduto preda della Corruzione, siamo sull'orlo di qualcosa di molto peggiore delle razzie dei Goblin."
+NPC_ALARIC_RESPONSE_fe523adb-640b-4006-afab-d05b26921548	"Vedi soltanto il prossimo bersaglio. È la tua forza e il tuo difetto. Hai la volontà di colpire; un giorno forse imparerai quando non farlo."
+NPC_ALARIC_RESPONSE_fea5d73a-db48-4443-8ebf-2d16bde19f93	"Tu la chiami arroganza. Io vedo un uomo che tiene la linea e chiede sostegno invece di morire orgoglioso e a mani vuote. Impara la differenza."<x1/><x2/><x3/><x4/>*Alaric fa un cenno verso Saqi, che sta già preparando i fagotti per il viaggio.*<x5/><x6/>"Prendi ciò di cui Saqi può fare a meno e portalo alla linea di Corin. Se la Corruzione è vicina, gli starà contorcendo il terreno sotto gli stivali. Ha detto di aver trovato la fonte?"
+NPC_ALARIC_RESPONSE_fee6ab38-1b51-4889-83de-81c36aa59f17	"La fortuna può avergli risparmiato la vita. Non lo ha sorretto negli anni successivi."<x1/><x2/><x3/><x4/>"Il cammino di Corin ormai appartiene a lui, come quello di ogni uomo. Ha un'ombra dura alle spalle. Non cattiveria. Non debolezza. Una ferita che ha imparato a portare una lama.<x5/><x6/>Deve dominarla, o sarà lei a dominare lui. Se intendi chiamarlo amico, aiutalo a tenere in pugno quelle redini."
+NPC_ALARIC_RESPONSE_ff5b1571-baeb-4a86-9ab8-291f54e21f48	"Sì. La sua è l'energia che tiene calda una taverna durante una crisi. Nessuna canzone ne parlerà, e a lei non importerebbe."
+NPC_ALARIC_TITLE	Il capo della Gilda di Earlwood
+NPC_ELDORIAN_GREETING_1e54d7f4-ea25-4a09-bb70-c3a228dbdd68	"Mi fa piacere che tu sia qui. Posso aiutarti in qualcosa?"
+NPC_ELDORIAN_GREETING_3a9612c5-9d4e-4ec8-a4c3-30e74cf372a2	*Il giovane Elfo quasi saltella quando ti vede, gli occhi spalancati per l'entusiasmo e un sorriso già sul volto prima ancora che tu parli.*<x1/><x2/>"Ehilà! Sono Eldorian. A Wildwood le cose sono un po' tese, al momento. Meglio restare vicino alle mura del villaggio."
+NPC_ELDORIAN_GREETING_51f69adb-71c9-4e8b-8689-6f8a97626e1b	*Il sorriso di Eldorian si illumina mentre ti avvicini.*<x1/><x2/>"Ciao di nuovo. Mi fa piacere che tu sia qui. Ho trovato qualcosa nella foresta. Un nodo di potere oscuro, credo. Se lo eliminiamo, Earlwood potrà respirare meglio. Vieni con me?"
+NPC_ELDORIAN_GREETING_80975854-76a0-4030-a018-d778ad8e7dda	*Eldorian ti vede e il suo sorriso si allarga; si raddrizza, pieno di energia improvvisa.*<x1/><x2/>"Ce l'hai fatta a tornare! Ci speravo davvero. Abbiamo sentito tutti l'urlo di morte del Re Goblin da qui. A Saqi è quasi caduto un intero vassoio di boccali. Earlwood ti deve ben più di un giro da bere, sai."
+NPC_ELDORIAN_GREETING_81be06df-d5eb-4580-9de6-4c6582628014	*Eldorian siede appoggiato a un albero, ferito ma fuori pericolo grazie al tuo rapido intervento. Comincia a parlare, interrotto dalla tosse.*<x1/><x2/>"Be'… sembra che sapessero del mio arrivo." *tossisce* "Bestie furbe."
+NPC_ELDORIAN_GREETING_a824f866-e214-4939-901c-820eaa995286	"Ciao di nuovo. Hai un momento? Vorrei che venissi con me in ricognizione."
+NPC_ELDORIAN_GREETING_b6e2c9a4-1f7d-8c3e-5a0b-9d4f2e7c1a6b	"Non preoccuparti, amico. Sono pur sempre un Elfo. Un passo fra gli alberi e nessuno mi vedrà né mi sentirà. Ci vediamo presto. Spero."
+NPC_ELDORIAN_GREETING_df51426b-8283-4e99-9409-4014240d126f	*Mentre ti avvicini, Eldorian non ti ha ancora notato e sul suo volto non c'è traccia della consueta allegria. Quando ti vede, torna il sorriso.*<x1/><x2/>"Eccoti. Problemi lungo la strada?"
+NPC_ELDORIAN_PLAYER_02de7872-7956-4a81-9696-610bd11fba95_HEROIC	Andrò. Tieni alta la guardia, Eldorian.
+NPC_ELDORIAN_PLAYER_02de7872-7956-4a81-9696-610bd11fba95_JOKER	Allora vado. Cerca di restare tutto intero, Eldorian.
+NPC_ELDORIAN_PLAYER_02de7872-7956-4a81-9696-610bd11fba95_SCHOLAR	Prendo congedo. Non essere imprudente, Eldorian.
+NPC_ELDORIAN_PLAYER_02de7872-7956-4a81-9696-610bd11fba95_STOIC	Allora vado. Sta' al sicuro, Eldorian.
+NPC_ELDORIAN_PLAYER_07be5bb0-27c1-4c4d-a327-805504325ca5_HEROIC	Un simile risultato merita riconoscimento.
+NPC_ELDORIAN_PLAYER_07be5bb0-27c1-4c4d-a327-805504325ca5_JOKER	Notevole. Tanto di cappello, se la strada me ne avesse lasciato uno.
+NPC_ELDORIAN_PLAYER_07be5bb0-27c1-4c4d-a327-805504325ca5_SCHOLAR	Notevole, e verificabile, che conta di più.
+NPC_ELDORIAN_PLAYER_07be5bb0-27c1-4c4d-a327-805504325ca5_STOIC	Davvero notevole.
+NPC_ELDORIAN_PLAYER_0a1e7c70-d0e2-4a0d-9ed5-0e1ec1f9c0db_BASE	"Non sei come loro, Eldorian. Ricorda che puoi fare le tue scelte"
+NPC_ELDORIAN_PLAYER_0d5d62e2-80ad-48fb-a928-2df52bd5d523_HEROIC	Il Re della Foresta è stato sconfitto.
+NPC_ELDORIAN_PLAYER_0d5d62e2-80ad-48fb-a928-2df52bd5d523_JOKER	Pare che il Re della Foresta abbia appena perso la corona.
+NPC_ELDORIAN_PLAYER_0d5d62e2-80ad-48fb-a928-2df52bd5d523_SCHOLAR	La sconfitta del Re della Foresta è ormai un fatto.
+NPC_ELDORIAN_PLAYER_0d5d62e2-80ad-48fb-a928-2df52bd5d523_STOIC	Ho sconfitto il Re della Foresta.
+NPC_ELDORIAN_PLAYER_1180fc8a-84f2-4b7e-b39f-b46a6a6d83ce_BASE	"Ho trovato un antico testo elfico alla Pozza del Ricordo. Ne sai qualcosa?"
+NPC_ELDORIAN_PLAYER_1870f850-f3e3-460a-a8ee-c733c45f2122_HEROIC	Confido che non si ripeta l'ultima volta, Eldorian.
+NPC_ELDORIAN_PLAYER_1870f850-f3e3-460a-a8ee-c733c45f2122_JOKER	Speriamo che vada meglio dell'ultima volta, Eldorian.
+NPC_ELDORIAN_PLAYER_1870f850-f3e3-460a-a8ee-c733c45f2122_SCHOLAR	Dati i precedenti, Eldorian, la cosa mi induce alla cautela.
+NPC_ELDORIAN_PLAYER_1870f850-f3e3-460a-a8ee-c733c45f2122_STOIC	Spero non sia come l'ultima volta, Eldorian.
+NPC_ELDORIAN_PLAYER_19c3b051-f96d-4f14-baae-1bc017c26564_HEROIC	Racconta. Preferisco ascoltarle da chi ci crede davvero.
+NPC_ELDORIAN_PLAYER_19c3b051-f96d-4f14-baae-1bc017c26564_JOKER	Avanti, allora. Tanto stai scoppiando dalla voglia di raccontarle.
+NPC_ELDORIAN_PLAYER_19c3b051-f96d-4f14-baae-1bc017c26564_SCHOLAR	Racconta. Una storia si ascolta meglio dal suo custode più devoto.
+NPC_ELDORIAN_PLAYER_19c3b051-f96d-4f14-baae-1bc017c26564_STOIC	Racconta. Da te mi piacerebbe sentirle.
+NPC_ELDORIAN_PLAYER_1e2c3df7-f00f-4dc1-b936-26bd26fb4153_HEROIC	Sei un abile combattente, Eldorian. Devi usare maggiore cautela.
+NPC_ELDORIAN_PLAYER_1e2c3df7-f00f-4dc1-b936-26bd26fb4153_JOKER	Sai il fatto tuo in battaglia, Eldorian. Ma devi guardare dove metti i piedi.
+NPC_ELDORIAN_PLAYER_1e2c3df7-f00f-4dc1-b936-26bd26fb4153_SCHOLAR	Combatti bene, Eldorian. Ora impara a combattere con prudenza.
+NPC_ELDORIAN_PLAYER_1e2c3df7-f00f-4dc1-b936-26bd26fb4153_STOIC	Sei un combattente capace, Eldorian. Serve più cautela.
+NPC_ELDORIAN_PLAYER_1ea52cf2-c51d-4c06-9d7d-1a9f2dba446f_HEROIC	Ce la farai, Eldorian. Ho fiducia in te.
+NPC_ELDORIAN_PLAYER_1ea52cf2-c51d-4c06-9d7d-1a9f2dba446f_JOKER	Avanti, Eldorian, fagli vedere cosa può fare un po' di fiducia.
+NPC_ELDORIAN_PLAYER_1ea52cf2-c51d-4c06-9d7d-1a9f2dba446f_SCHOLAR	Hai le doti necessarie, Eldorian. Credo che ci riuscirai.
+NPC_ELDORIAN_PLAYER_1ea52cf2-c51d-4c06-9d7d-1a9f2dba446f_STOIC	Ci riuscirai, Eldorian. Credo in te.
+NPC_ELDORIAN_PLAYER_20fbbc59-141a-49f3-af09-2a2d4cbf7a30_HEROIC	Eldorian, non indugiare su ciò che è perduto. Il passato non si può recuperare.
+NPC_ELDORIAN_PLAYER_20fbbc59-141a-49f3-af09-2a2d4cbf7a30_JOKER	Inutile rimuginare sul passato, Eldorian. Ormai è andato.
+NPC_ELDORIAN_PLAYER_20fbbc59-141a-49f3-af09-2a2d4cbf7a30_SCHOLAR	Eldorian, indugiare sul passato serve a poco, una volta che è svanito.
+NPC_ELDORIAN_PLAYER_20fbbc59-141a-49f3-af09-2a2d4cbf7a30_STOIC	È finito, Eldorian. Non soffermarti sul passato.
+NPC_ELDORIAN_PLAYER_21a2e8b2-f42e-493e-9144-417e7e8ec56c_HEROIC	È stata una vicenda cupa. Non c'è da festeggiare.
+NPC_ELDORIAN_PLAYER_21a2e8b2-f42e-493e-9144-417e7e8ec56c_JOKER	Le cose cupe di rado chiamano una festa, sai.
+NPC_ELDORIAN_PLAYER_21a2e8b2-f42e-493e-9144-417e7e8ec56c_SCHOLAR	Una vicenda cupa. Celebrarla significherebbe fraintendere ciò che è accaduto.
+NPC_ELDORIAN_PLAYER_21a2e8b2-f42e-493e-9144-417e7e8ec56c_STOIC	È stata una cosa terribile. Non c'è nulla da celebrare.
+NPC_ELDORIAN_PLAYER_241e335c-959c-41dc-9b0d-2105f3de2be6_HEROIC	Sembra promettente. Fammi strada.
+NPC_ELDORIAN_PLAYER_241e335c-959c-41dc-9b0d-2105f3de2be6_JOKER	Mi sta bene, basta che mi indichi la direzione prima che me ne vada a zonzo.
+NPC_ELDORIAN_PLAYER_241e335c-959c-41dc-9b0d-2105f3de2be6_SCHOLAR	Bene. Mostrami il percorso, svolta per svolta.
+NPC_ELDORIAN_PLAYER_241e335c-959c-41dc-9b0d-2105f3de2be6_STOIC	Va bene. Mostrami dove andare.
+NPC_ELDORIAN_PLAYER_24deccf0-add8-443a-ab91-0925ed5f2e12_HEROIC	Dove si possono trovare gli Haylor adesso?
+NPC_ELDORIAN_PLAYER_24deccf0-add8-443a-ab91-0925ed5f2e12_JOKER	Allora, dove sono finiti gli Haylor?
+NPC_ELDORIAN_PLAYER_24deccf0-add8-443a-ab91-0925ed5f2e12_SCHOLAR	Dove si trovano attualmente gli Haylor?
+NPC_ELDORIAN_PLAYER_24deccf0-add8-443a-ab91-0925ed5f2e12_STOIC	Dove sono gli Haylor ora?
+NPC_ELDORIAN_PLAYER_27ef257b-cdd8-4024-b947-cd1c59ec273e_HEROIC	Cosa rivelano queste storie sul suo conto?
+NPC_ELDORIAN_PLAYER_27ef257b-cdd8-4024-b947-cd1c59ec273e_JOKER	Quali storie assurde si inventano su di lui, stavolta?
+NPC_ELDORIAN_PLAYER_27ef257b-cdd8-4024-b947-cd1c59ec273e_SCHOLAR	Cosa dicono esattamente le storie sul suo conto?
+NPC_ELDORIAN_PLAYER_27ef257b-cdd8-4024-b947-cd1c59ec273e_STOIC	Cosa raccontano di lui queste storie?
+NPC_ELDORIAN_PLAYER_2841b149-ede3-47ec-b4d1-12b761fb4dfb_HEROIC	Dopo averti salvato la vita, ti aspetti ancora la mia compassione?
+NPC_ELDORIAN_PLAYER_2841b149-ede3-47ec-b4d1-12b761fb4dfb_JOKER	Dopo averti salvato la vita, vuoi pure il premio di consolazione?
+NPC_ELDORIAN_PLAYER_2841b149-ede3-47ec-b4d1-12b761fb4dfb_SCHOLAR	Dopo averti salvato la vita, mi chiedi nuovamente pietà?
+NPC_ELDORIAN_PLAYER_2841b149-ede3-47ec-b4d1-12b761fb4dfb_STOIC	Ti ho salvato la vita. Vuoi ancora che ti compatisca?
+NPC_ELDORIAN_PLAYER_290e0065-7b2f-4024-9d5e-85c99d9e8a17_BASE	Che tipo di scontro mi aspetta?
+NPC_ELDORIAN_PLAYER_2a177f1a-67d8-4de2-aff6-363209d64744_HEROIC	Cosa sai dirmi dei loro punti di forza?
+NPC_ELDORIAN_PLAYER_2a177f1a-67d8-4de2-aff6-363209d64744_JOKER	Allora, che assi hanno nella manica?
+NPC_ELDORIAN_PLAYER_2a177f1a-67d8-4de2-aff6-363209d64744_SCHOLAR	Cosa si conosce delle loro capacità?
+NPC_ELDORIAN_PLAYER_2a177f1a-67d8-4de2-aff6-363209d64744_STOIC	E le loro abilità?
+NPC_ELDORIAN_PLAYER_2a6f49a8-3b7d-4cf6-940d-6c2f4d34fbb7_HEROIC	Sei tu l'esploratore? Bene. Ti stavo cercando.
+NPC_ELDORIAN_PLAYER_2a6f49a8-3b7d-4cf6-940d-6c2f4d34fbb7_JOKER	L'esploratore di Alaric, immagino? Mi ha detto di cercarti.
+NPC_ELDORIAN_PLAYER_2a6f49a8-3b7d-4cf6-940d-6c2f4d34fbb7_SCHOLAR	L'esploratore di Alaric? Allora la mia ricerca ha dato l'esito previsto.
+NPC_ELDORIAN_PLAYER_2a6f49a8-3b7d-4cf6-940d-6c2f4d34fbb7_STOIC	Sei l'esploratore di Alaric? Mi ha chiesto di trovarti.
+NPC_ELDORIAN_PLAYER_2ac13577-fe53-4b34-a58d-7ac44e8f6092_HEROIC	Fidati di Alaric. Fidati di noi. Supereremo tutto questo, Eldorian.
+NPC_ELDORIAN_PLAYER_2ac13577-fe53-4b34-a58d-7ac44e8f6092_JOKER	Se ti fidi di Alaric, puoi fidarti di noi. Vedrai che andrà bene, Eldorian.
+NPC_ELDORIAN_PLAYER_2ac13577-fe53-4b34-a58d-7ac44e8f6092_SCHOLAR	Fidati di Alaric, e di noi. Le probabilità sono migliori di quanto appaiano, Eldorian.
+NPC_ELDORIAN_PLAYER_2ac13577-fe53-4b34-a58d-7ac44e8f6092_STOIC	Abbi fiducia in Alaric. E in noi. Andrà tutto bene, Eldorian.
+NPC_ELDORIAN_PLAYER_2ebe133f-6157-4da4-aacf-adf151effe54_HEROIC	Volontà degli dèi o no, lottiamo per sopravvivere. Non c'è altra strada.
+NPC_ELDORIAN_PLAYER_2ebe133f-6157-4da4-aacf-adf151effe54_JOKER	Volontà degli dèi o no, ora il lavoro è sopravvivere. La paga è misera.
+NPC_ELDORIAN_PLAYER_2ebe133f-6157-4da4-aacf-adf151effe54_SCHOLAR	Volontà degli dèi o no, sopravvivere richiede di combattere. La logica si ferma qui.
+NPC_ELDORIAN_PLAYER_2ebe133f-6157-4da4-aacf-adf151effe54_STOIC	Volontà degli dèi o no, combattiamo per sopravvivere. È l'unica scelta.
+NPC_ELDORIAN_PLAYER_301965d6-1dee-45fd-a655-558ef65faa76_HEROIC	Sembra che ce ne sia più di uno.
+NPC_ELDORIAN_PLAYER_301965d6-1dee-45fd-a655-558ef65faa76_JOKER	A quanto pare c'è più di uno della combriccola.
+NPC_ELDORIAN_PLAYER_301965d6-1dee-45fd-a655-558ef65faa76_SCHOLAR	Evidentemente non si tratta di un unico esemplare.
+NPC_ELDORIAN_PLAYER_301965d6-1dee-45fd-a655-558ef65faa76_STOIC	Ce n'è più di uno.
+NPC_ELDORIAN_PLAYER_3394e755-e781-4bf8-88a7-a3fbc368dbe0_HEROIC	Dà l'impressione di essere indisciplinato e distante.
+NPC_ELDORIAN_PLAYER_3394e755-e781-4bf8-88a7-a3fbc368dbe0_JOKER	Emana tutto il calore di uno stivale gelato e più o meno lo stesso autocontrollo.
+NPC_ELDORIAN_PLAYER_3394e755-e781-4bf8-88a7-a3fbc368dbe0_SCHOLAR	Indisciplinato e freddo, da come lo descrivi. Una combinazione difficile.
+NPC_ELDORIAN_PLAYER_3394e755-e781-4bf8-88a7-a3fbc368dbe0_STOIC	Sembra indisciplinato e freddo.
+NPC_ELDORIAN_PLAYER_3648e46d-af21-46f4-8df6-47719ffd8532_BASE	Cosa ti è successo?
+NPC_ELDORIAN_PLAYER_388108d1-ddf2-4788-b535-ebd4fbf61242_HEROIC	Le storie si ingigantiscono a raccontarle. Cos'ha fatto?
+NPC_ELDORIAN_PLAYER_388108d1-ddf2-4788-b535-ebd4fbf61242_JOKER	Le storie crescono come i Goblin, al buio e in gran numero. Cos'è successo davvero?
+NPC_ELDORIAN_PLAYER_388108d1-ddf2-4788-b535-ebd4fbf61242_SCHOLAR	Ogni racconto aggiunge un Goblin. Torniamo ai fatti: cos'ha fatto?
+NPC_ELDORIAN_PLAYER_388108d1-ddf2-4788-b535-ebd4fbf61242_STOIC	Le storie crescono. Cos'ha fatto?
+NPC_ELDORIAN_PLAYER_3acb7c27-8830-4546-b328-bba66529e8b9_BASE	Cosa pensi della foresta che lascia il posto ai campi?
+NPC_ELDORIAN_PLAYER_3af6768c-cde5-4eae-8f64-f857389df377_BASE	"Cosa fai qui?"
+NPC_ELDORIAN_PLAYER_455a3616-86c9-4272-adbb-55091105998e_HEROIC	Vuoi dunque che partecipi a questa ricognizione disciplinare?
+NPC_ELDORIAN_PLAYER_455a3616-86c9-4272-adbb-55091105998e_JOKER	Quindi ti serve una spalla per la tua ricognizione disciplinare?
+NPC_ELDORIAN_PLAYER_455a3616-86c9-4272-adbb-55091105998e_SCHOLAR	La mia presenza alla tua ricognizione disciplinare? Mi interessa la logica.
+NPC_ELDORIAN_PLAYER_455a3616-86c9-4272-adbb-55091105998e_STOIC	Mi vuoi alla tua ricognizione disciplinare?
+NPC_ELDORIAN_PLAYER_478b32bc-d20e-4974-93ff-9c412e991044_HEROIC	Lanciarti all'attacco senza di me è stato avventato.
+NPC_ELDORIAN_PLAYER_478b32bc-d20e-4974-93ff-9c412e991044_JOKER	Coraggioso, attaccare briga senza il tuo aiuto migliore.
+NPC_ELDORIAN_PLAYER_478b32bc-d20e-4974-93ff-9c412e991044_SCHOLAR	Combattere senza di me è stato un errore di valutazione. Le tue ferite ne sono la prova.
+NPC_ELDORIAN_PLAYER_478b32bc-d20e-4974-93ff-9c412e991044_STOIC	È stato sciocco combattere senza di me.
+NPC_ELDORIAN_PLAYER_479657c3-1da1-455e-a5c4-678931327660_HEROIC	Quella storia non mi suona vera.
+NPC_ELDORIAN_PLAYER_479657c3-1da1-455e-a5c4-678931327660_JOKER	Quella storia puzza d'invenzione.
+NPC_ELDORIAN_PLAYER_479657c3-1da1-455e-a5c4-678931327660_SCHOLAR	Questo resoconto mi sembra artefatto.
+NPC_ELDORIAN_PLAYER_479657c3-1da1-455e-a5c4-678931327660_STOIC	Mi sembra una storia inventata.
+NPC_ELDORIAN_PLAYER_4f989019-4340-484b-bc20-0f19f3de9f66_HEROIC	Va bene. Dovremmo cominciare senza indugio.
+NPC_ELDORIAN_PLAYER_4f989019-4340-484b-bc20-0f19f3de9f66_JOKER	Mi sta bene, inutile trascinare i piedi.
+NPC_ELDORIAN_PLAYER_4f989019-4340-484b-bc20-0f19f3de9f66_SCHOLAR	Mi sembra opportuno. Meglio cominciare prima che cambi la luce.
+NPC_ELDORIAN_PLAYER_4f989019-4340-484b-bc20-0f19f3de9f66_STOIC	Va bene. Mettiamoci al lavoro.
+NPC_ELDORIAN_PLAYER_4fbe29b7-9c61-4af6-ac46-aa298500d22c_HEROIC	Sei ancora ferito. Lascia che venga con te per proteggerti.
+NPC_ELDORIAN_PLAYER_4fbe29b7-9c61-4af6-ac46-aa298500d22c_JOKER	Sei ancora ferito. Qualcuno dovrà pur tenerti d'occhio.
+NPC_ELDORIAN_PLAYER_4fbe29b7-9c61-4af6-ac46-aa298500d22c_SCHOLAR	Sei ancora ferito. La prudenza suggerisce di non camminare ancora da solo.
+NPC_ELDORIAN_PLAYER_4fbe29b7-9c61-4af6-ac46-aa298500d22c_STOIC	Sei ancora ferito. Dovrei venire con te.
+NPC_ELDORIAN_PLAYER_52d2f17c-f88b-48b3-813e-fd230c39288d_HEROIC	Se lo incontrerò, provvederò a risolvere la questione come si deve.
+NPC_ELDORIAN_PLAYER_52d2f17c-f88b-48b3-813e-fd230c39288d_JOKER	Se ci inciampo, me ne occupo. Anche se dubito che mi ringrazierà.
+NPC_ELDORIAN_PLAYER_52d2f17c-f88b-48b3-813e-fd230c39288d_SCHOLAR	Se incrocerà il mio cammino, me ne occuperò in quel momento.
+NPC_ELDORIAN_PLAYER_52d2f17c-f88b-48b3-813e-fd230c39288d_STOIC	Se lo incontro, ci penso io.
+NPC_ELDORIAN_PLAYER_54a306b2-72e5-4f4a-bc5f-c645cf81be0d_BASE	"Ho incontrato un Treant corrotto a Wildwood"
+NPC_ELDORIAN_PLAYER_5572f7b2-1a40-4d08-9e8e-537ce9f86bed_HEROIC	Vai avanti. Se attraverserò la zona, ti raggiungerò al punto finale.
+NPC_ELDORIAN_PLAYER_5572f7b2-1a40-4d08-9e8e-537ce9f86bed_JOKER	Vai pure. Se riesco a superare la zona, mi trascinerò fino al punto finale.
+NPC_ELDORIAN_PLAYER_5572f7b2-1a40-4d08-9e8e-537ce9f86bed_SCHOLAR	Procedi. Se il mio itinerario attraverserà la zona, raggiungerò il punto finale.
+NPC_ELDORIAN_PLAYER_5572f7b2-1a40-4d08-9e8e-537ce9f86bed_STOIC	Puoi andare. Ti vedrò al punto finale se passerò per la zona.
+NPC_ELDORIAN_PLAYER_57aa374f-9a29-4800-a22b-efb3f7db9fdd_BASE	"A volte dobbiamo fare cose difficili ma necessarie per il bene comune."
+NPC_ELDORIAN_PLAYER_5a4612fd-7e4f-466f-8c5e-23691b74bd3d_HEROIC	Ho tutto ciò che mi serve. Non correre rischi là fuori, Eldorian.
+NPC_ELDORIAN_PLAYER_5a4612fd-7e4f-466f-8c5e-23691b74bd3d_JOKER	Mi basta così. Cerca di non cacciarti nei guai, Eldorian.
+NPC_ELDORIAN_PLAYER_5a4612fd-7e4f-466f-8c5e-23691b74bd3d_SCHOLAR	È tutto ciò che mi occorre. Bada alla tua incolumità, Eldorian.
+NPC_ELDORIAN_PLAYER_5a4612fd-7e4f-466f-8c5e-23691b74bd3d_STOIC	Mi basta. Sta' al sicuro, Eldorian.
+NPC_ELDORIAN_PLAYER_5a85fbe2-82e6-4bcd-9061-97e6d800a928_HEROIC	Il posto brulica di Goblin, ma ho combattuto per aprirmi un varco e uscirne.
+NPC_ELDORIAN_PLAYER_5a85fbe2-82e6-4bcd-9061-97e6d800a928_JOKER	Il posto brulica di Goblin. Per poco non diventavo il loro prossimo pasto.
+NPC_ELDORIAN_PLAYER_5a85fbe2-82e6-4bcd-9061-97e6d800a928_SCHOLAR	Il luogo è invaso dai Goblin. Sopravvivere era tutt'altro che certo.
+NPC_ELDORIAN_PLAYER_5a85fbe2-82e6-4bcd-9061-97e6d800a928_STOIC	Il posto brulica di Goblin. Me la sono cavata a stento.
+NPC_ELDORIAN_PLAYER_5c10d0b6-938f-41d6-ac21-b6729407dd8f_HEROIC	Una cella renderebbe più giustizia. Invece ti affidano compiti.
+NPC_ELDORIAN_PLAYER_5c10d0b6-938f-41d6-ac21-b6729407dd8f_JOKER	Invece di una cella, ti toccano le faccende. Che fortuna.
+NPC_ELDORIAN_PLAYER_5c10d0b6-938f-41d6-ac21-b6729407dd8f_SCHOLAR	Una cella insegnerebbe più in fretta di un altro compito.
+NPC_ELDORIAN_PLAYER_5c10d0b6-938f-41d6-ac21-b6729407dd8f_STOIC	Dovrebbero rinchiuderti, non darti un altro compito.
+NPC_ELDORIAN_PLAYER_5cd8f68b-d45b-4223-9d11-1b8bafde205b_BASE	"In ogni caso, è una cosa orribile. Hai tutta la mia comprensione, Eldorian."
+NPC_ELDORIAN_PLAYER_5e1fe874-2170-411d-8c52-1bf8ff5c2db8_HEROIC	Quale legame hai con gli Haylor?
+NPC_ELDORIAN_PLAYER_5e1fe874-2170-411d-8c52-1bf8ff5c2db8_JOKER	Allora, cosa c'entri tu con gli Haylor?
+NPC_ELDORIAN_PLAYER_5e1fe874-2170-411d-8c52-1bf8ff5c2db8_SCHOLAR	Gli Haylor. Cosa erano per te, esattamente?
+NPC_ELDORIAN_PLAYER_5e1fe874-2170-411d-8c52-1bf8ff5c2db8_STOIC	Che rapporto hai con gli Haylor?
+NPC_ELDORIAN_PLAYER_5efd69d8-838c-452a-9ce7-2fed0937ad56_HEROIC	La ferita sta guarendo bene?
+NPC_ELDORIAN_PLAYER_5efd69d8-838c-452a-9ce7-2fed0937ad56_JOKER	Quella ferita ti tratta bene?
+NPC_ELDORIAN_PLAYER_5efd69d8-838c-452a-9ce7-2fed0937ad56_SCHOLAR	La ferita. Guarisce senza problemi o ti dà ancora noie?
+NPC_ELDORIAN_PLAYER_5efd69d8-838c-452a-9ce7-2fed0937ad56_STOIC	Come va la ferita?
+NPC_ELDORIAN_PLAYER_5f10d024-925c-4df8-a6e7-0267ab8484c8_HEROIC	Non voglio perderti, non adesso che ci conosciamo appena.
+NPC_ELDORIAN_PLAYER_5f10d024-925c-4df8-a6e7-0267ab8484c8_JOKER	Non voglio perderti, soprattutto subito dopo averti conosciuto.
+NPC_ELDORIAN_PLAYER_5f10d024-925c-4df8-a6e7-0267ab8484c8_SCHOLAR	Non desidero perderti, considerando soprattutto quanto sia recente il nostro incontro.
+NPC_ELDORIAN_PLAYER_5f10d024-925c-4df8-a6e7-0267ab8484c8_STOIC	Non voglio perderti. Ci conosciamo da così poco.
+NPC_ELDORIAN_PLAYER_69d56d53-36da-4a87-a5de-466be2367976_HEROIC	Un'altra famiglia ricca che prospera mentre gli abitanti lavorano per il suo profitto.
+NPC_ELDORIAN_PLAYER_69d56d53-36da-4a87-a5de-466be2367976_JOKER	Un'altra famiglia ricca che banchetta mentre il villaggio coltiva il banchetto.
+NPC_ELDORIAN_PLAYER_69d56d53-36da-4a87-a5de-466be2367976_SCHOLAR	Un'altra famiglia ricca, dunque. La sua ricchezza è cresciuta grazie alle mani altrui.
+NPC_ELDORIAN_PLAYER_69d56d53-36da-4a87-a5de-466be2367976_STOIC	Un'altra famiglia ricca che ingrassa sulla terra e sulla fatica degli abitanti.
+NPC_ELDORIAN_PLAYER_6b91accf-f1f1-49a9-8eea-0a766a492c1c_HEROIC	Capisco. E contribuirò a ridargli la sua integrità.
+NPC_ELDORIAN_PLAYER_6b91accf-f1f1-49a9-8eea-0a766a492c1c_JOKER	Capisco perché ti senti così. Mi piacerebbe vederlo splendere come una volta.
+NPC_ELDORIAN_PLAYER_6b91accf-f1f1-49a9-8eea-0a766a492c1c_SCHOLAR	Ne comprendo il motivo. Vorrei vederlo tornare se stesso.
+NPC_ELDORIAN_PLAYER_6b91accf-f1f1-49a9-8eea-0a766a492c1c_STOIC	Capisco il motivo. Lo voglio com'era un tempo.
+NPC_ELDORIAN_PLAYER_6d206085-7050-47c1-b94d-966faea6d354_HEROIC	Esercitazioni e addestramento ti preparano, ma non bastano davanti a un vero combattimento.
+NPC_ELDORIAN_PLAYER_6d206085-7050-47c1-b94d-966faea6d354_JOKER	Esercitazioni e addestramento faranno bella figura nel cortile, ma il vero combattimento ride per ultimo.
+NPC_ELDORIAN_PLAYER_6d206085-7050-47c1-b94d-966faea6d354_SCHOLAR	Le esercitazioni insegnano la forma. Il combattimento insegna tutto il resto.
+NPC_ELDORIAN_PLAYER_6d206085-7050-47c1-b94d-966faea6d354_STOIC	Esercitazioni e addestramento non sostituiscono il vero combattimento.
+NPC_ELDORIAN_PLAYER_6dc824e2-d1f5-4474-ba5b-b2259215c89b_HEROIC	Le sue doti devono nascere dalla sua determinazione.
+NPC_ELDORIAN_PLAYER_6dc824e2-d1f5-4474-ba5b-b2259215c89b_JOKER	Le sue capacità devono venire dritte dritte dalla pura testardaggine.
+NPC_ELDORIAN_PLAYER_6dc824e2-d1f5-4474-ba5b-b2259215c89b_SCHOLAR	Le sue capacità devono derivare dalla forza della sua volontà.
+NPC_ELDORIAN_PLAYER_6dc824e2-d1f5-4474-ba5b-b2259215c89b_STOIC	Le sue doti devono essere frutto della volontà.
+NPC_ELDORIAN_PLAYER_6fcebe1a-af1e-487b-9c80-9769fd391d97_HEROIC	Come hai contribuito alla sua formazione?
+NPC_ELDORIAN_PLAYER_6fcebe1a-af1e-487b-9c80-9769fd391d97_JOKER	Che parte hai avuto nel crescerlo?
+NPC_ELDORIAN_PLAYER_6fcebe1a-af1e-487b-9c80-9769fd391d97_SCHOLAR	E il tuo contributo alla sua educazione? Quanto è stato rilevante?
+NPC_ELDORIAN_PLAYER_6fcebe1a-af1e-487b-9c80-9769fd391d97_STOIC	Qual è stato il tuo ruolo nella sua crescita?
+NPC_ELDORIAN_PLAYER_72099644-96a0-44a1-bc86-3c90e3cf0c29_HEROIC	Aiutare gli altri è sempre un onore.
+NPC_ELDORIAN_PLAYER_72099644-96a0-44a1-bc86-3c90e3cf0c29_JOKER	Una mano la do volentieri, e magari ci scappa anche un sorriso.
+NPC_ELDORIAN_PLAYER_72099644-96a0-44a1-bc86-3c90e3cf0c29_SCHOLAR	Volentieri. Aiutare è di rado uno sforzo vano.
+NPC_ELDORIAN_PLAYER_72099644-96a0-44a1-bc86-3c90e3cf0c29_STOIC	Sempre un piacere aiutare.
+NPC_ELDORIAN_PLAYER_756e5c3b-078c-4427-be56-c5a0ee317019_HEROIC	Sembra solo un altro luogo perduto in questo inferno.
+NPC_ELDORIAN_PLAYER_756e5c3b-078c-4427-be56-c5a0ee317019_JOKER	Alla faccia del cambio di panorama, in questo inferno.
+NPC_ELDORIAN_PLAYER_756e5c3b-078c-4427-be56-c5a0ee317019_SCHOLAR	Per quanto vedo, è indistinguibile dal resto di questo inferno.
+NPC_ELDORIAN_PLAYER_756e5c3b-078c-4427-be56-c5a0ee317019_STOIC	Sembra un posto come tanti in questo inferno.
+NPC_ELDORIAN_PLAYER_78cfdb29-1dc6-45f7-8031-fb5f4d896ff4_BASE	"Non fare il passo più lungo della gamba, giovane Elfo. Ti farai ammazzare."
+NPC_ELDORIAN_PLAYER_796b220b-86ee-481b-ac76-62f62ffb5a32_HEROIC	Magia elfica, sempre protesa verso ciò che è perduto, eppure legata a un passato che potrebbe non tornare mai.
+NPC_ELDORIAN_PLAYER_796b220b-86ee-481b-ac76-62f62ffb5a32_JOKER	Magia elfica, aggrappata a un passato che forse non tornerà mai. La nostalgia è un incantesimo tutto suo.
+NPC_ELDORIAN_PLAYER_796b220b-86ee-481b-ac76-62f62ffb5a32_SCHOLAR	Magia elfica, dunque. Un'arte ancorata a qualcosa che non c'è più.
+NPC_ELDORIAN_PLAYER_796b220b-86ee-481b-ac76-62f62ffb5a32_STOIC	Magia elfica. Indugia su un passato che forse non tornerà mai.
+NPC_ELDORIAN_PLAYER_7c9c0c11-b073-4cb7-a956-cdfd61932fbb_HEROIC	Che splendore.
+NPC_ELDORIAN_PLAYER_7c9c0c11-b073-4cb7-a956-cdfd61932fbb_JOKER	Un bel vedere, quello.
+NPC_ELDORIAN_PLAYER_7c9c0c11-b073-4cb7-a956-cdfd61932fbb_SCHOLAR	Una visione notevole.
+NPC_ELDORIAN_PLAYER_7c9c0c11-b073-4cb7-a956-cdfd61932fbb_STOIC	Suggestivo.
+NPC_ELDORIAN_PLAYER_7fef2b3a-cad0-4376-83a6-9b20c1d9a8f8_HEROIC	Parla chiaro, qual è il problema? Non ho tempo da perdere.
+NPC_ELDORIAN_PLAYER_7fef2b3a-cad0-4376-83a6-9b20c1d9a8f8_JOKER	Se c'è un punto, arriviamoci. Il mio tempo non è infinito.
+NPC_ELDORIAN_PLAYER_7fef2b3a-cad0-4376-83a6-9b20c1d9a8f8_SCHOLAR	Ti prego di essere diretto. Qual è il problema? Il mio tempo è limitato.
+NPC_ELDORIAN_PLAYER_7fef2b3a-cad0-4376-83a6-9b20c1d9a8f8_STOIC	Vieni al punto. Che succede? Non ho tempo per questo.
+NPC_ELDORIAN_PLAYER_81157a3f-459f-4e53-9820-d051f0ac7288_HEROIC	Le chiacchiere ora non servono. Sono qui per liberare l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_81157a3f-459f-4e53-9820-d051f0ac7288_JOKER	Chiacchierare sarà anche allettante, ma non libera l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_81157a3f-459f-4e53-9820-d051f0ac7288_SCHOLAR	Parlare costa tempo. Il compito attuale è liberare l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_81157a3f-459f-4e53-9820-d051f0ac7288_STOIC	Niente chiacchiere. Sono qui per liberare l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_838f4f75-8e44-4624-8ca6-d1475a734823_HEROIC	Ci sarò, per combattere al tuo fianco.
+NPC_ELDORIAN_PLAYER_838f4f75-8e44-4624-8ca6-d1475a734823_JOKER	Pare che abbia un appuntamento da rispettare.
+NPC_ELDORIAN_PLAYER_838f4f75-8e44-4624-8ca6-d1475a734823_SCHOLAR	Inteso. Ti raggiungerò lì come concordato.
+NPC_ELDORIAN_PLAYER_838f4f75-8e44-4624-8ca6-d1475a734823_STOIC	Ci vediamo lì.
+NPC_ELDORIAN_PLAYER_84d36813-9ba8-4acb-a747-430074884879_BASE	Quali sono i tuoi compiti abituali?
+NPC_ELDORIAN_PLAYER_870730e5-4e50-4a13-9585-0ea4180aed76_HEROIC	Alaric ha ragione. La tua imprevidenza e la tua stoltezza mettono molto a rischio.
+NPC_ELDORIAN_PLAYER_870730e5-4e50-4a13-9585-0ea4180aed76_JOKER	Alaric ha ragione. Imprevidente e sciocco, proprio una bella accoppiata.
+NPC_ELDORIAN_PLAYER_870730e5-4e50-4a13-9585-0ea4180aed76_SCHOLAR	Alaric ha ragione. Le tue azioni rivelano un comportamento ricorrente di imprevidenza e stoltezza.
+NPC_ELDORIAN_PLAYER_870730e5-4e50-4a13-9585-0ea4180aed76_STOIC	Alaric ha ragione. Sei imprevidente e sciocco.
+NPC_ELDORIAN_PLAYER_881228b7-a57a-4b60-af9f-c30cea5c01cc_BASE	Cosa sai del grande mulino abbandonato?
+NPC_ELDORIAN_PLAYER_8c3eec67-2e03-4c84-bab4-8f04b6b3381b_HEROIC	Cosa può averli spinti a una simile decisione?
+NPC_ELDORIAN_PLAYER_8c3eec67-2e03-4c84-bab4-8f04b6b3381b_JOKER	Cosa gli è saltato in testa per fare una cosa del genere?
+NPC_ELDORIAN_PLAYER_8c3eec67-2e03-4c84-bab4-8f04b6b3381b_SCHOLAR	Quale ragionamento li ha condotti a questo? Deve pur essercene stato uno.
+NPC_ELDORIAN_PLAYER_8c3eec67-2e03-4c84-bab4-8f04b6b3381b_STOIC	Perché hanno fatto una cosa simile?
+NPC_ELDORIAN_PLAYER_8e72ddbf-6449-4152-997c-bfc75e0b82ec_BASE	Come pensi che reagirà Alaric?
+NPC_ELDORIAN_PLAYER_8eecdabd-0465-447c-a2ef-bea7c95ac015_BASE	E i Goblin?
+NPC_ELDORIAN_PLAYER_9062aeb3-1823-4578-a58c-110fc912e283_BASE	Sei sicuro di riuscire a tornare senza problemi?
+NPC_ELDORIAN_PLAYER_9090353a-32fa-45e8-8529-b2b9cc807668_BASE	Sei nato a Earlwood?
+NPC_ELDORIAN_PLAYER_932af6f8-c44d-4ede-aab9-82a4b4836772_HEROIC	Prenditi il tempo che serve. Voglio capire cosa è stato fatto al tuo popolo.
+NPC_ELDORIAN_PLAYER_932af6f8-c44d-4ede-aab9-82a4b4836772_JOKER	Nessuna fretta. I vecchi dolori sanno aspettare; è l'unica cosa che sanno fare bene.
+NPC_ELDORIAN_PLAYER_932af6f8-c44d-4ede-aab9-82a4b4836772_SCHOLAR	Prenditi il tuo tempo. Se c'era una ragione, vorrei sentirla come la racconta il tuo popolo.
+NPC_ELDORIAN_PLAYER_932af6f8-c44d-4ede-aab9-82a4b4836772_STOIC	Prenditi il tuo tempo. Vorrei capire, se riesci a raccontarlo.
+NPC_ELDORIAN_PLAYER_93f63141-a440-42d8-a230-6834979b919e_HEROIC	La guerra si prende ogni cosa, ma se la sua forza resiste, potrebbe tornare ancora.
+NPC_ELDORIAN_PLAYER_93f63141-a440-42d8-a230-6834979b919e_JOKER	La guerra arraffa tutto. Se ha la testa abbastanza dura, magari torna strisciando.
+NPC_ELDORIAN_PLAYER_93f63141-a440-42d8-a230-6834979b919e_SCHOLAR	La guerra consuma tutto. Ciò che le sopravvive con sufficiente forza può tornare.
+NPC_ELDORIAN_PLAYER_93f63141-a440-42d8-a230-6834979b919e_STOIC	La guerra prende tutto. Potrebbe tornare, se ha la forza di sopravvivere.
+NPC_ELDORIAN_PLAYER_96da6333-f257-4877-8304-bf242cb9dff6_HEROIC	Tornerà com'era un tempo, e insieme faremo sì che accada.
+NPC_ELDORIAN_PLAYER_96da6333-f257-4877-8304-bf242cb9dff6_JOKER	Tornerà com'era un tempo. Guarda come lo facciamo succedere.
+NPC_ELDORIAN_PLAYER_96da6333-f257-4877-8304-bf242cb9dff6_SCHOLAR	Verrà ripristinato. L'unica variabile è quanto tempo impiegheremo.
+NPC_ELDORIAN_PLAYER_96da6333-f257-4877-8304-bf242cb9dff6_STOIC	Tornerà com'era un tempo. Ce ne assicureremo.
+NPC_ELDORIAN_PLAYER_9932fa3c-fb32-439c-97c7-67f1e53fa5e2_BASE	"Un atto malvagio resta tale, qualunque sia l'esito."
+NPC_ELDORIAN_PLAYER_9b57096d-b932-4cba-9813-6f72a61cf578_HEROIC	Grazie, è stata una battaglia durissima. Alaric mi ha chiesto di assicurarmi che l'accesso alla foresta resti sicuro.
+NPC_ELDORIAN_PLAYER_9b57096d-b932-4cba-9813-6f72a61cf578_JOKER	Grazie, quello scontro mordeva. Alaric mi ha chiesto di tenere libero l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_9b57096d-b932-4cba-9813-6f72a61cf578_SCHOLAR	Ti ringrazio. Uno scontro difficile. Ho l'incarico di Alaric di mantenere libero l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_9b57096d-b932-4cba-9813-6f72a61cf578_STOIC	Grazie. Una bella battaglia. Alaric mi ha chiesto di aiutare a tenere libero l'accesso alla foresta.
+NPC_ELDORIAN_PLAYER_9b8f4323-c96a-41eb-a4d7-42caab27aaa1_HEROIC	Non mi serve altro. Fatti da parte.
+NPC_ELDORIAN_PLAYER_9b8f4323-c96a-41eb-a4d7-42caab27aaa1_JOKER	A posto così. Che ne dici di liberare il passaggio?
+NPC_ELDORIAN_PLAYER_9b8f4323-c96a-41eb-a4d7-42caab27aaa1_SCHOLAR	Nient'altro. Il passaggio, se permetti.
+NPC_ELDORIAN_PLAYER_9b8f4323-c96a-41eb-a4d7-42caab27aaa1_STOIC	Non mi serve altro. Togliti di mezzo.
+NPC_ELDORIAN_PLAYER_9c00a383-6ffd-4687-b58c-f17c618a9523_HEROIC	Alaric spreca il suo tempo con te. Hai orecchie e non le usi.
+NPC_ELDORIAN_PLAYER_9c00a383-6ffd-4687-b58c-f17c618a9523_JOKER	Alaric spreca il suo tempo con te. Tanto vale far lezione agli alberi.
+NPC_ELDORIAN_PLAYER_9c00a383-6ffd-4687-b58c-f17c618a9523_SCHOLAR	Alaric impiega male il suo tempo, qui. Nulla di ciò che dice ti raggiunge.
+NPC_ELDORIAN_PLAYER_9c00a383-6ffd-4687-b58c-f17c618a9523_STOIC	Alaric spreca tempo con te. Non vuoi ascoltare.
+NPC_ELDORIAN_PLAYER_9defb905-8be3-4e0f-9b6f-f32ecb5199c3_HEROIC	Allora prendo congedo. Addio.
+NPC_ELDORIAN_PLAYER_9defb905-8be3-4e0f-9b6f-f32ecb5199c3_JOKER	Allora levo le tende. Ciao.
+NPC_ELDORIAN_PLAYER_9defb905-8be3-4e0f-9b6f-f32ecb5199c3_SCHOLAR	Allora mi congedo. Arrivederci.
+NPC_ELDORIAN_PLAYER_9defb905-8be3-4e0f-9b6f-f32ecb5199c3_STOIC	Allora vado. Arrivederci.
+NPC_ELDORIAN_PLAYER_9fd11022-eb8a-4540-a9ca-c795ea82f965_HEROIC	È un bel posto, ma il suo vero valore non mi è ancora chiaro.
+NPC_ELDORIAN_PLAYER_9fd11022-eb8a-4540-a9ca-c795ea82f965_JOKER	È un posto piacevole, ma mi sfugge l'ingrediente segreto.
+NPC_ELDORIAN_PLAYER_9fd11022-eb8a-4540-a9ca-c795ea82f965_SCHOLAR	È un luogo gradevole, ma non ne colgo il carattere distintivo.
+NPC_ELDORIAN_PLAYER_9fd11022-eb8a-4540-a9ca-c795ea82f965_STOIC	È un bel posto, ma non vedo cosa abbia di speciale.
+NPC_ELDORIAN_PLAYER_a003d8e5-559e-42d2-82c3-c038faaec8e2_HEROIC	Devi essere più prudente. Trattieni l'impulso di lanciarti all'attacco.
+NPC_ELDORIAN_PLAYER_a003d8e5-559e-42d2-82c3-c038faaec8e2_JOKER	Devi stare più attento. Lascia ai fiumi il compito di buttarsi a capofitto.
+NPC_ELDORIAN_PLAYER_a003d8e5-559e-42d2-82c3-c038faaec8e2_SCHOLAR	Devi essere più prudente. È così che muoiono gli esploratori: gettandosi nella mischia.
+NPC_ELDORIAN_PLAYER_a003d8e5-559e-42d2-82c3-c038faaec8e2_STOIC	Serve più cautela. Basta gettarti a capofitto.
+NPC_ELDORIAN_PLAYER_a07bd6de-75ef-4ada-9f79-a8b7de7c638d_HEROIC	Qual è il tuo giudizio su Corin?
+NPC_ELDORIAN_PLAYER_a07bd6de-75ef-4ada-9f79-a8b7de7c638d_JOKER	Allora, come lo vedi Corin?
+NPC_ELDORIAN_PLAYER_a07bd6de-75ef-4ada-9f79-a8b7de7c638d_SCHOLAR	Come valuteresti Corin?
+NPC_ELDORIAN_PLAYER_a07bd6de-75ef-4ada-9f79-a8b7de7c638d_STOIC	Cosa pensi di Corin?
+NPC_ELDORIAN_PLAYER_a09e31c0-3e28-4b1e-bef7-37be155b7bd0_BASE	"È troppo perché possa giudicare. Lascio un simile giudizio agli dèi."
+NPC_ELDORIAN_PLAYER_a0b30f2c-eba7-4614-9980-de4ac85e39d8_HEROIC	Gli hai insegnato bene, e si vede dalle sue azioni.
+NPC_ELDORIAN_PLAYER_a0b30f2c-eba7-4614-9980-de4ac85e39d8_JOKER	Gli hai insegnato bene. Almeno qualcuno ascoltava.
+NPC_ELDORIAN_PLAYER_a0b30f2c-eba7-4614-9980-de4ac85e39d8_SCHOLAR	Il risultato dimostra la bontà del tuo insegnamento.
+NPC_ELDORIAN_PLAYER_a0b30f2c-eba7-4614-9980-de4ac85e39d8_STOIC	Gli hai insegnato bene.
+NPC_ELDORIAN_PLAYER_a0f2b382-7ce5-4989-a44b-83202e7a27c3_HEROIC	Quindi ti affidano un'altra ricognizione come parte della punizione?
+NPC_ELDORIAN_PLAYER_a0f2b382-7ce5-4989-a44b-83202e7a27c3_JOKER	Quindi un'altra ricognizione, gentilmente offerta dal servizio punitivo?
+NPC_ELDORIAN_PLAYER_a0f2b382-7ce5-4989-a44b-83202e7a27c3_SCHOLAR	La punizione consiste dunque in un'altra ricognizione. Chi ha questa idea della disciplina?
+NPC_ELDORIAN_PLAYER_a0f2b382-7ce5-4989-a44b-83202e7a27c3_STOIC	Quindi ti mandano in un'altra ricognizione per punizione?
+NPC_ELDORIAN_PLAYER_a1f609c1-757c-40e7-9f69-64850d7a4430_HEROIC	Certamente. Avanziamo insieme.
+NPC_ELDORIAN_PLAYER_a1f609c1-757c-40e7-9f69-64850d7a4430_JOKER	Certo. È ora di sgranchirsi le gambe.
+NPC_ELDORIAN_PLAYER_a1f609c1-757c-40e7-9f69-64850d7a4430_SCHOLAR	Certamente. Procediamo.
+NPC_ELDORIAN_PLAYER_a1f609c1-757c-40e7-9f69-64850d7a4430_STOIC	Certo. Avanti.
+NPC_ELDORIAN_PLAYER_a614dab3-6fd1-4183-8a1c-7174ccc97536_HEROIC	Non vedo altro che distruzione.
+NPC_ELDORIAN_PLAYER_a614dab3-6fd1-4183-8a1c-7174ccc97536_JOKER	A quanto pare espongono solo rovine.
+NPC_ELDORIAN_PLAYER_a614dab3-6fd1-4183-8a1c-7174ccc97536_SCHOLAR	Vedo soltanto distruzione. Se c'è altro, insegnami a vederlo.
+NPC_ELDORIAN_PLAYER_a614dab3-6fd1-4183-8a1c-7174ccc97536_STOIC	Vedo solo distruzione.
+NPC_ELDORIAN_PLAYER_a66efb22-44e1-48fb-a9de-7db8d90aa7ee_HEROIC	Va bene, Eldorian. Impara la lezione una volta, e sarà tua per sempre.
+NPC_ELDORIAN_PLAYER_a66efb22-44e1-48fb-a9de-7db8d90aa7ee_JOKER	Anche i migliori inciampano, Eldorian. È così che ci si fa furbi.
+NPC_ELDORIAN_PLAYER_a66efb22-44e1-48fb-a9de-7db8d90aa7ee_SCHOLAR	Va bene, Eldorian. Gli errori sono il prezzo dell'apprendimento. Hai pagato, ora impara.
+NPC_ELDORIAN_PLAYER_a66efb22-44e1-48fb-a9de-7db8d90aa7ee_STOIC	Va bene, Eldorian. Gli errori insegnano.
+NPC_ELDORIAN_PLAYER_aa94b160-2e7e-4a5b-ac28-7cca120739c7_BASE	Mi stai invitando a fare una passeggiata tranquilla? Sembra un appuntamento.
+NPC_ELDORIAN_PLAYER_ac619f9e-ee1b-4605-8ce2-3d3211c79a17_BASE	Sono ordini di Alaric?
+NPC_ELDORIAN_PLAYER_acce8184-6fc7-4c17-bd02-68235f997144_HEROIC	Vai, e porta con te questa lezione.
+NPC_ELDORIAN_PLAYER_acce8184-6fc7-4c17-bd02-68235f997144_JOKER	Vai, e cerca di non inciampare due volte negli stessi errori.
+NPC_ELDORIAN_PLAYER_acce8184-6fc7-4c17-bd02-68235f997144_SCHOLAR	Vai, e analizza bene i tuoi errori. Meritano attenzione.
+NPC_ELDORIAN_PLAYER_acce8184-6fc7-4c17-bd02-68235f997144_STOIC	Va' e rifletti sui tuoi errori.
+NPC_ELDORIAN_PLAYER_af950dea-bc5a-4a84-ab67-aedfb1b1b0ca_BASE	Sembra che Alaric ti faccia spesso da mentore.
+NPC_ELDORIAN_PLAYER_afbd31fd-38e1-403a-b9b2-09b8ae7ef5e5_BASE	"Cosa pensi di Alaric?"
+NPC_ELDORIAN_PLAYER_b197157e-d862-4150-8505-ae7ee2fa71d6_HEROIC	Non pensarci. Siamo soldati. Mi rifiuto di veder cadere un combattente.
+NPC_ELDORIAN_PLAYER_b197157e-d862-4150-8505-ae7ee2fa71d6_JOKER	Figurati. Siamo soldati. Preferirei non doverne seppellire uno.
+NPC_ELDORIAN_PLAYER_b197157e-d862-4150-8505-ae7ee2fa71d6_SCHOLAR	Non pensarci. I soldati tengono in vita altri soldati. La regola è tutta qui.
+NPC_ELDORIAN_PLAYER_b197157e-d862-4150-8505-ae7ee2fa71d6_STOIC	Non pensarci. Siamo soldati. Non voglio perdere un combattente.
+NPC_ELDORIAN_PLAYER_b403a343-982a-4153-971d-7e8376cecfc4_BASE	Anche le mie provviste scarseggiano. Ti è rimasto qualcosa che puoi darmi?
+NPC_ELDORIAN_PLAYER_b4d3e317-ec10-4346-a416-05994814359e_BASE	"Ehi, su col morale, Elfo. Non abbiamo tempo per dubitare di noi stessi."
+NPC_ELDORIAN_PLAYER_b93a4d9e-ea47-4e01-b5df-f42977db7bc1_HEROIC	Cosa ti turba? Forse posso offrirti aiuto.
+NPC_ELDORIAN_PLAYER_b93a4d9e-ea47-4e01-b5df-f42977db7bc1_JOKER	Qual è il guaio stavolta? Magari posso darti una mano.
+NPC_ELDORIAN_PLAYER_b93a4d9e-ea47-4e01-b5df-f42977db7bc1_SCHOLAR	Descrivi il problema. Se è risolvibile, potrei risolverlo.
+NPC_ELDORIAN_PLAYER_b93a4d9e-ea47-4e01-b5df-f42977db7bc1_STOIC	Qual è il problema? Forse posso aiutare.
+NPC_ELDORIAN_PLAYER_ba76ea75-18ca-4815-b50c-053452028713_HEROIC	Non darti pena. Simili cose hanno poco significato per me.
+NPC_ELDORIAN_PLAYER_ba76ea75-18ca-4815-b50c-053452028713_JOKER	Non preoccuparti. Il significato tende a passarmi accanto senza fermarsi.
+NPC_ELDORIAN_PLAYER_ba76ea75-18ca-4815-b50c-053452028713_SCHOLAR	Non darti pena. Il significato richiede un legame, e io qui non ne ho.
+NPC_ELDORIAN_PLAYER_ba76ea75-18ca-4815-b50c-053452028713_STOIC	Non preoccuparti. Per me non avrebbe significato.
+NPC_ELDORIAN_PLAYER_c22e994c-4a32-42fb-b23b-72726f47fa73_HEROIC	Dubito che sia una scelta saggia.
+NPC_ELDORIAN_PLAYER_c22e994c-4a32-42fb-b23b-72726f47fa73_JOKER	Mi sembra un guaio che aspetta solo di succedere.
+NPC_ELDORIAN_PLAYER_c22e994c-4a32-42fb-b23b-72726f47fa73_SCHOLAR	Dubito che sia consigliabile.
+NPC_ELDORIAN_PLAYER_c22e994c-4a32-42fb-b23b-72726f47fa73_STOIC	Non so se sia una buona idea.
+NPC_ELDORIAN_PLAYER_c308d076-32a4-43eb-ad0a-ded31caff4d3_HEROIC	Con un cuore bello come il tuo, Eldorian, restituire alla tua casa l'antico splendore è una causa degna di essere perseguita.
+NPC_ELDORIAN_PLAYER_c308d076-32a4-43eb-ad0a-ded31caff4d3_JOKER	Be', Eldorian, con un cuore bello come il tuo, persino la tua casa potrebbe arrossire quando ritroverà il suo splendore.
+NPC_ELDORIAN_PLAYER_c308d076-32a4-43eb-ad0a-ded31caff4d3_SCHOLAR	Eldorian, la bellezza del tuo cuore ispira un sincero desiderio di vedere la tua casa restituita all'antico splendore.
+NPC_ELDORIAN_PLAYER_c308d076-32a4-43eb-ad0a-ded31caff4d3_STOIC	Il tuo bel cuore, Eldorian, merita di vedere la tua casa di nuovo integra.
+NPC_ELDORIAN_PLAYER_c458e9ee-e069-48f3-9da7-ddc5d47fc4a2_BASE	Alaric almeno lo sa?
+NPC_ELDORIAN_PLAYER_cd286897-0dba-4413-990d-f79c599ba3f9_BASE	Cosa intende Alaric con questo?
+NPC_ELDORIAN_PLAYER_cd63b208-5f07-40c0-88e9-be13a9c42db5_HEROIC	Un altro appuntamento. Accolgo volentieri l'occasione.
+NPC_ELDORIAN_PLAYER_cd63b208-5f07-40c0-88e9-be13a9c42db5_JOKER	Un altro appuntamento. Sai che non so resistere.
+NPC_ELDORIAN_PLAYER_cd63b208-5f07-40c0-88e9-be13a9c42db5_SCHOLAR	Un altro appuntamento. La cosa mi interessa senz'altro.
+NPC_ELDORIAN_PLAYER_cd63b208-5f07-40c0-88e9-be13a9c42db5_STOIC	Un altro appuntamento. Contaci.
+NPC_ELDORIAN_PLAYER_cdf79bb0-0d91-4d1a-9a93-50dbf3c5f9c2_BASE	"Come stai?"
+NPC_ELDORIAN_PLAYER_d18de2c2-590e-4720-bbaa-4678747e5140_HEROIC	Quali principi governano la foresta?
+NPC_ELDORIAN_PLAYER_d18de2c2-590e-4720-bbaa-4678747e5140_JOKER	Allora, quali regole tengono in riga la foresta?
+NPC_ELDORIAN_PLAYER_d18de2c2-590e-4720-bbaa-4678747e5140_SCHOLAR	Quali leggi definiscono l'ordine della foresta?
+NPC_ELDORIAN_PLAYER_d18de2c2-590e-4720-bbaa-4678747e5140_STOIC	Quali sono le leggi della foresta?
+NPC_ELDORIAN_PLAYER_d1e7f983-64c5-4b38-803d-1f2b3c8e7a67_HEROIC	Al Villaggio di Earlwood attendono il tuo ritorno.
+NPC_ELDORIAN_PLAYER_d1e7f983-64c5-4b38-803d-1f2b3c8e7a67_JOKER	Al Villaggio di Earlwood ti tengono il posto in caldo.
+NPC_ELDORIAN_PLAYER_d1e7f983-64c5-4b38-803d-1f2b3c8e7a67_SCHOLAR	Ti attendono al Villaggio di Earlwood. Non li farei aspettare a lungo.
+NPC_ELDORIAN_PLAYER_d1e7f983-64c5-4b38-803d-1f2b3c8e7a67_STOIC	Ti aspettano al Villaggio di Earlwood.
+NPC_ELDORIAN_PLAYER_d4c686dc-ed04-47fe-aebd-4a1f09ca7db8_HEROIC	Riporre fiducia in chiunque detenga tanto potere è un grave errore.
+NPC_ELDORIAN_PLAYER_d4c686dc-ed04-47fe-aebd-4a1f09ca7db8_JOKER	Affidare tanto potere a qualcuno. Audace, se ti piacciono le delusioni.
+NPC_ELDORIAN_PLAYER_d4c686dc-ed04-47fe-aebd-4a1f09ca7db8_SCHOLAR	Fiducia sommata a tanto potere: una pessima equazione. Dovresti saperlo.
+NPC_ELDORIAN_PLAYER_d4c686dc-ed04-47fe-aebd-4a1f09ca7db8_STOIC	Fidarsi di chi ha tanto potere è sciocco.
+NPC_ELDORIAN_PLAYER_db4f42ee-f7bc-429b-b838-6b5a0b4308c5_HEROIC	Certamente. Puoi contare sul mio aiuto. Questa volta procediamo con cautela.
+NPC_ELDORIAN_PLAYER_db4f42ee-f7bc-429b-b838-6b5a0b4308c5_JOKER	Certo. Una mano la do volentieri, di nuovo. Magari stavolta ci emozioniamo un po' meno.
+NPC_ELDORIAN_PLAYER_db4f42ee-f7bc-429b-b838-6b5a0b4308c5_SCHOLAR	Certamente. Ma questa volta pianifichiamo prima di lanciarci.
+NPC_ELDORIAN_PLAYER_db4f42ee-f7bc-429b-b838-6b5a0b4308c5_STOIC	Certo. Aiuto volentieri. Stavolta facciamo attenzione.
+NPC_ELDORIAN_PLAYER_dd797233-fc3e-4efc-8b6f-dc3c494c967d_HEROIC	So che sarà una meraviglia.
+NPC_ELDORIAN_PLAYER_dd797233-fc3e-4efc-8b6f-dc3c494c967d_JOKER	La bellezza trova sempre il modo di farsi viva, prima o poi.
+NPC_ELDORIAN_PLAYER_dd797233-fc3e-4efc-8b6f-dc3c494c967d_SCHOLAR	Sarà bello, senza dubbio. La crescita di solito lo è.
+NPC_ELDORIAN_PLAYER_dd797233-fc3e-4efc-8b6f-dc3c494c967d_STOIC	Sarà bellissimo.
+NPC_ELDORIAN_PLAYER_dfggbbnn-e781-4bf8-88a7-a3fbc368dbe0_HEROIC	Sembra che un pensiero ti pesi. È così?
+NPC_ELDORIAN_PLAYER_dfggbbnn-e781-4bf8-88a7-a3fbc368dbe0_JOKER	Sembra che tu stia facendo a pugni con un pensiero, lassù?
+NPC_ELDORIAN_PLAYER_dfggbbnn-e781-4bf8-88a7-a3fbc368dbe0_SCHOLAR	Sembra che un pensiero occupi la tua mente?
+NPC_ELDORIAN_PLAYER_dfggbbnn-e781-4bf8-88a7-a3fbc368dbe0_STOIC	Hai qualcosa per la testa?
+NPC_ELDORIAN_PLAYER_e029f496-e4e2-439e-8789-7899fbad9c03_HEROIC	Tanto dolore. Per quale ragione vuoi mostrarmelo?
+NPC_ELDORIAN_PLAYER_e029f496-e4e2-439e-8789-7899fbad9c03_JOKER	Tanto dolore. Era proprio questo che volevi mostrarmi?
+NPC_ELDORIAN_PLAYER_e029f496-e4e2-439e-8789-7899fbad9c03_SCHOLAR	Tanto dolore. Perché mostrarlo proprio a me?
+NPC_ELDORIAN_PLAYER_e029f496-e4e2-439e-8789-7899fbad9c03_STOIC	Tanto dolore. Perché volevi farmelo vedere?
+NPC_ELDORIAN_PLAYER_e18bc5e1-0a85-46f9-b6f9-b3ed00c9619f_HEROIC	Forse ci sarà un'altra occasione, un'altra volta.
+NPC_ELDORIAN_PLAYER_e18bc5e1-0a85-46f9-b6f9-b3ed00c9619f_JOKER	Magari un'altra volta, se il destino non ha altri programmi.
+NPC_ELDORIAN_PLAYER_e18bc5e1-0a85-46f9-b6f9-b3ed00c9619f_SCHOLAR	Forse un altro momento sarebbe più adatto.
+NPC_ELDORIAN_PLAYER_e18bc5e1-0a85-46f9-b6f9-b3ed00c9619f_STOIC	Magari un'altra volta.
+NPC_ELDORIAN_PLAYER_e5f208c1-b39b-4cb3-b87b-46d5ce47b289_BASE	"Prescelto della foresta? Cosa significa"
+NPC_ELDORIAN_PLAYER_e8b05cb3-c9d9-41ec-b576-2c37f7b617a2_HEROIC	Puoi contare su di me per occuparmi del lupo.
+NPC_ELDORIAN_PLAYER_e8b05cb3-c9d9-41ec-b576-2c37f7b617a2_JOKER	Il lupo ha scelto la strada sbagliata. Ci penso io.
+NPC_ELDORIAN_PLAYER_e8b05cb3-c9d9-41ec-b576-2c37f7b617a2_SCHOLAR	Il lupo è un problema risolvibile. Consideralo di mia competenza.
+NPC_ELDORIAN_PLAYER_e8b05cb3-c9d9-41ec-b576-2c37f7b617a2_STOIC	Posso occuparmi del lupo per te.
+NPC_ELDORIAN_PLAYER_ebb35e2d-6774-419d-82c6-1063e7f08d28_HEROIC	L'avventatezza accorcerà soltanto il tuo cammino, e il futuro che speri ti sfuggirà.
+NPC_ELDORIAN_PLAYER_ebb35e2d-6774-419d-82c6-1063e7f08d28_JOKER	Continua a buttarti così e il tuo futuro sarà solo una voce di corridoio.
+NPC_ELDORIAN_PLAYER_ebb35e2d-6774-419d-82c6-1063e7f08d28_SCHOLAR	L'avventatezza accorcia il futuro. Il tuo merita che si facciano due conti.
+NPC_ELDORIAN_PLAYER_ebb35e2d-6774-419d-82c6-1063e7f08d28_STOIC	Continua ad agire senza cautela e non vedrai il tuo futuro.
+NPC_ELDORIAN_PLAYER_f0918831-4846-40f6-a5e7-dc95b9445dad_HEROIC	Cosa puoi dirmi del Re della Foresta di Wildwood?
+NPC_ELDORIAN_PLAYER_f0918831-4846-40f6-a5e7-dc95b9445dad_JOKER	Qual è la storia del Re della Foresta di Wildwood?
+NPC_ELDORIAN_PLAYER_f0918831-4846-40f6-a5e7-dc95b9445dad_SCHOLAR	Cosa si conosce del Re della Foresta di Wildwood?
+NPC_ELDORIAN_PLAYER_f0918831-4846-40f6-a5e7-dc95b9445dad_STOIC	E il Re della Foresta di Wildwood?
+NPC_ELDORIAN_PLAYER_f1ef37fb-ab7d-4726-8f81-699a59428ae0_HEROIC	Resta fermo, Eldorian. Approfittane per recuperare le forze.
+NPC_ELDORIAN_PLAYER_f1ef37fb-ab7d-4726-8f81-699a59428ae0_JOKER	Resta fermo, Eldorian. Anche gli eroi meritano una pausa, ogni tanto.
+NPC_ELDORIAN_PLAYER_f1ef37fb-ab7d-4726-8f81-699a59428ae0_SCHOLAR	Resta fermo, Eldorian. La guarigione richiede immobilità prima di tutto.
+NPC_ELDORIAN_PLAYER_f1ef37fb-ab7d-4726-8f81-699a59428ae0_STOIC	Resta fermo, Eldorian. Riposa un momento.
+NPC_ELDORIAN_PLAYER_f40e4aac-c4fc-4cbc-8bcb-25df58e1717f_BASE	Come vanno le ferite?
+NPC_ELDORIAN_PLAYER_f5dfa984-6664-4b82-af8c-61bc90b36b9b_HEROIC	Conoscerli così a lungo, e vederli crescere. È qualcosa di prezioso.
+NPC_ELDORIAN_PLAYER_f5dfa984-6664-4b82-af8c-61bc90b36b9b_JOKER	Hai visto crescere un'intera famiglia. E poi dicono che gli Elfi sono pazienti.
+NPC_ELDORIAN_PLAYER_f5dfa984-6664-4b82-af8c-61bc90b36b9b_SCHOLAR	Li hai conosciuti dall'infanzia all'età adulta. Pochi assistono all'intero arco.
+NPC_ELDORIAN_PLAYER_f5dfa984-6664-4b82-af8c-61bc90b36b9b_STOIC	Li conosci da molto e li hai visti crescere.
+NPC_ELDORIAN_PLAYER_f66d8542-00dc-4225-a0d0-754fea3f9479_HEROIC	Sprechi le tue energie come sempre. Mostrami il disastro e lo sistemerò.
+NPC_ELDORIAN_PLAYER_f66d8542-00dc-4225-a0d0-754fea3f9479_JOKER	Bruci di nuovo tutte le energie. Indicami il pasticcio, ci penso io.
+NPC_ELDORIAN_PLAYER_f66d8542-00dc-4225-a0d0-754fea3f9479_SCHOLAR	Di nuovo imprudente con le tue energie. Indicami il luogo e rimedierò al danno.
+NPC_ELDORIAN_PLAYER_f66d8542-00dc-4225-a0d0-754fea3f9479_STOIC	Come sempre sprechi le tue energie. Dimmi dove, e ripulirò il tuo pasticcio.
+NPC_ELDORIAN_PLAYER_f6faed0e-5c05-4ee7-be06-27b6f1523495_HEROIC	Nessun problema. Ogni passo era sicuro e qui nulla rappresenta una minaccia.
+NPC_ELDORIAN_PLAYER_f6faed0e-5c05-4ee7-be06-27b6f1523495_JOKER	Nessun problema. A meno di contare la brezza, qui non c'è nulla di pericoloso.
+NPC_ELDORIAN_PLAYER_f6faed0e-5c05-4ee7-be06-27b6f1523495_SCHOLAR	Nessuno. Non ho trovato nulla che meritasse il nome di minaccia.
+NPC_ELDORIAN_PLAYER_f6faed0e-5c05-4ee7-be06-27b6f1523495_STOIC	Nessun problema. Qui nulla è una minaccia.
+NPC_ELDORIAN_PLAYER_fab975fc-864e-46e7-8e87-20bdd06694af_HEROIC	Un altro devoto di Alaric, come te.
+NPC_ELDORIAN_PLAYER_fab975fc-864e-46e7-8e87-20bdd06694af_JOKER	Un altro fanatico di Alaric, allora. Attorno a te si moltiplicano.
+NPC_ELDORIAN_PLAYER_fab975fc-864e-46e7-8e87-20bdd06694af_SCHOLAR	Sembra un altro fanatico di Alaric, molto simile a te.
+NPC_ELDORIAN_PLAYER_fab975fc-864e-46e7-8e87-20bdd06694af_STOIC	Un altro fanatico di Alaric. Proprio come te.
+NPC_ELDORIAN_PLAYER_fb566ad1-f206-4191-b0c3-60be75efdb46_HEROIC	Lo credo anch'io. Sarebbe qualcosa che vale la pena vedere.
+NPC_ELDORIAN_PLAYER_fb566ad1-f206-4191-b0c3-60be75efdb46_JOKER	Per una volta la speranza è dalla nostra parte. Mi piacerebbe.
+NPC_ELDORIAN_PLAYER_fb566ad1-f206-4191-b0c3-60be75efdb46_SCHOLAR	Condivido questa speranza. Sarebbe un esito gradito.
+NPC_ELDORIAN_PLAYER_fb566ad1-f206-4191-b0c3-60be75efdb46_STOIC	Lo spero anch'io. Mi piacerebbe.
+NPC_ELDORIAN_PLAYER_ff2e6a32-3e19-4e64-9436-7fb3cf5bf137_HEROIC	Questa strada è avventata. Se insisti, prosegui da solo.
+NPC_ELDORIAN_PLAYER_ff2e6a32-3e19-4e64-9436-7fb3cf5bf137_JOKER	Piano audace. Allora puoi marciare da solo.
+NPC_ELDORIAN_PLAYER_ff2e6a32-3e19-4e64-9436-7fb3cf5bf137_SCHOLAR	Una simile fretta fallisce più spesso di quanto riesca. Va' da solo, dunque.
+NPC_ELDORIAN_PLAYER_ff2e6a32-3e19-4e64-9436-7fb3cf5bf137_STOIC	È una decisione avventata. Puoi andare per conto tuo.
+NPC_ELDORIAN_RESPONSE_0358bce4-294e-4315-aea0-730adf24f094	"È un modo di vederla."<x1/><x2/>"Comunque, ti sono grato."<x3/><x4/>"Vieni. È ora di tornare alla Sede della Gilda."
+NPC_ELDORIAN_RESPONSE_06dc3530-9224-4ae8-b345-d8af3af7bc33	"Sopravvivrò. Le pozioni rimarginano in fretta i tagli profondi, e ne ho portate parecchie."
+NPC_ELDORIAN_RESPONSE_0d89bbfd-400b-41ef-b614-284e2d95a395	"Mi fa piacere che la pensi così."<x1/><x2/><x3/><x4/>*Eldorian si siede lentamente a terra e ti fa cenno di raggiungerlo. Osserva l'eco scintillante per qualche respiro, poi parla a voce più bassa.*<x5/><x6/>"Nessun altro può evocarla. Nessun altro può nemmeno vederla, se non sono io a mostrargliela."<x7/><x8/>"Nasce da qualcosa di particolare. Il mio legame con questo posto. La mia natura elfica. I miei ricordi di ciò che questa terra era, e la mia speranza di ciò che potrebbe tornare a essere."<x9/><x10/>"Forse è la verità più profonda sulla magia. È legata all'identità, nella forma e nell'esperienza."<x11/><x12/>"Ciò che sei plasma il suo aspetto. Ciò che hai vissuto plasma ciò che può racchiudere."<x13/><x14/>"Ecco perché lo stesso incantesimo può significare qualcosa di completamente diverso nelle mani di un'altra persona."<x15/><x16/>*Ti lancia un'occhiata e sorride, un po' timido.*<x17/><x18/>"Volevo portarti qui, dopo la nostra ultima chiacchierata."<x19/><x20/>"Volevo che vedessi ciò che vedo io quando dico che vale la pena salvare questa terra."<x21/><x22/>"Mi aiuta a ritrovare l'equilibrio. E mi fa venire voglia di migliorare."
+NPC_ELDORIAN_RESPONSE_105da1ff-43ab-41c3-9346-1ba9a1c7fd45	"Come sempre." *una lieve smorfia di dolore* "Un volto severo, parole ancora più severe."
+NPC_ELDORIAN_RESPONSE_13ab9fb6-3014-476a-b38e-89520ab68827	"Oh, giusto, l'accesso alla foresta! Scusa, mi sono lasciato trasportare un momento."<x1/><x2/><x3/><x4/>*Eldorian si raddrizza, cercando di darsi un contegno mentre indica il limitare degli alberi.*<x5/><x6/>"Dunque. Quando l'accesso si aprirà, tutti cominceranno ad avanzare. Ho ripulito quasi tutti i punti da cui si potrebbero tendere imboscate alla Gilda. Ne restano alcuni dove non ho finito il lavoro. Ho poche provviste e Alaric mi farebbe la pelle se andassi oltre. Se potessi occuparti di questi ultimi posti, sarebbe un grande aiuto."
+NPC_ELDORIAN_RESPONSE_1482a376-9d8f-47dc-9c14-b29beccad4d9	"Lo è davvero! Un giorno sarò grande come lui, un eroe alla guida del mio popolo."<x1/><x2/>"Ti serviva altro?"
+NPC_ELDORIAN_RESPONSE_160cb85c-df02-43e0-9b2a-e229e988bc35	*sbatte le palpebre* "Rinchiudermi? No. Rahaner e Alaric non lo farebbero. Questo lavoro è diverso dalle mie solite ricognizioni."<x1/><x2/><x3/><x4/>*deglutisce*<x5/><x6/>"Rahaner mi ha assegnato un giro del perimetro. Campi e margine del bosco, poi le vecchie postazioni degli esploratori. Devo rifare i segnali. È un compito da recluta. Capisco perché oggi tocchi a me."
+NPC_ELDORIAN_RESPONSE_17bb5d6f-54e0-4094-90fd-43b91d4dc05f	"Oh! Devo aver perso di nuovo la cognizione del tempo. Ma prima c'è una cosa di cui devo occuparmi. Non posso tornare finché non l'ho sistemata!"
+NPC_ELDORIAN_RESPONSE_1a184f5a-79d9-4e49-a2da-76e059055486	"Anche tu. Che Ceres guidi la tua lama, là fuori."
+NPC_ELDORIAN_RESPONSE_1c7e9060-3b62-4af7-8f3d-551c1719f033	"Io ascolto. È solo che… a volte non ci riesco."<x1/><x2/><x3/><x4/>*Prova a reggersi in piedi, poi annuisce fra sé.*<x5/><x6/>"Be'… ora c'è più calma. E sto guarendo in fretta." "Tornerò indietro. E… dovrei fare rapporto ad Alaric."
+NPC_ELDORIAN_RESPONSE_1e7399f6-4d92-4ec9-953c-c9519310b3a0	*Eldorian sorride appena.*<x1/><x2/>"Sì. Avevo il sospetto che avresti detto così. Avvicinati. C'è altro da vedere."<x3/><x4/><x5/><x6/>*Eldorian va sul bordo del rialzo e scruta il panorama sotto la luna. Dopo un momento alza una mano e ti fa cenno di avvicinarti.*<x7/><x8/>"Ora lo vedi?"<x9/><x10/>*I campi si stendono davanti a te, tutti in rovina, con sagome di Goblin che corrono lungo l'orizzonte.*
+NPC_ELDORIAN_RESPONSE_21c3488c-3127-4bd6-a167-3137adb3eaf5	"Arrivederci. Non correre rischi, là fuori."
+NPC_ELDORIAN_RESPONSE_24fd2e2f-00db-4e09-b6bc-498ec0116c4e	"Benissimo! Il villaggio è un po' nei guai, ma ci prendiamo cura l'uno dell'altro. E che occasione per dimostrare quanto valgo! Ogni eroe ha bisogno di una crisi che lo metta alla prova."
+NPC_ELDORIAN_RESPONSE_276170ff-18d3-4f12-a9ff-253f32f3bd8d	"Oh. Va bene. Un'altra notte, allora."<x1/><x2/><x3/><x4/>"È questo il posto."<x5/><x6/>"Volevo portarti qui come si deve."<x7/><x8/>"L'altra volta ci siamo passati accanto. È il mio posto preferito in tutta la campagna."
+NPC_ELDORIAN_RESPONSE_27a5d857-eefc-41ec-9408-8759e703cd15	"Sarà così. Sì. Hai già fatto tanto perché diventi vero."<x1/><x2/><x3/><x4/>"Un giorno… spero che tu possa vedere questi campi com'erano. Spero di essere io a mostrarteli."
+NPC_ELDORIAN_RESPONSE_286a4e34-2a80-44b6-b293-d38372e28ed0	"Di solito mi spingo più a fondo nella foresta. Tracce, vento, foglie spezzate. Devo vedere i guai prima che loro vedano noi."
+NPC_ELDORIAN_RESPONSE_2b66d9f4-5a45-4392-bbc8-6a7d6b9b1650	"È tutto vero, lo giuro!"<x1/><x2/>"Spero di essere anch'io un eroe, un giorno, qualcuno a cui il mio popolo possa guardare."<x3/><x4/>"Ti serviva altro?"
+NPC_ELDORIAN_RESPONSE_2bf03ac7-dcd4-445b-ab87-c5c57df144e6	"Sto bene, grazie a te. Una pozione al volo e sarò di nuovo in piedi."<x1/><x2/><x3/><x4/>*Si alza appoggiandosi all'albero, raddrizzandosi lentamente mentre recupera le forze.*<x5/><x6/>"Un altro minuto e sarei stato cibo per lupi. Quindi… grazie." *espira, cercando stabilità* "Alaric mi dice sempre che sono avventato. Che sono… incredibilmente imprevidente, per un Elfo. Forse stavolta ha ragione."
+NPC_ELDORIAN_RESPONSE_2d830dce-f101-4fd3-a4b7-a96425bae7e0	"Mi lasceresti fare da solo. Io… va bene. Allora vado. Ci vediamo in giro."
+NPC_ELDORIAN_RESPONSE_2f65733d-db5e-45d5-acd5-af3dd1d2b96f	"Sì. È proprio così."<x1/><x2/>"La sua volontà è feroce. Quasi da far paura."<x3/><x4/>"Forse è l'unica volontà che ho visto avvicinarsi a quella di Alaric, ma è nata da un fuoco molto diverso."<x5/><x6/><x7/><x8/>"Ricordo la sua prima vera missione. Ero il suo compagno."<x9/><x10/>"Doveva essere un semplice percorso di ricognizione. Solo noi due. Non rimase semplice a lungo."<x11/><x12/>"Ci imbattemmo in una piccola banda di Goblin. Cercai di guidarlo fra gli alberi per evitarli."<x13/><x14/>"Corin corse dritto verso di loro."<x15/><x16/>"Si portava dentro tutta quella rabbia per ciò che avevano fatto alla sua famiglia. Quando li vide, non contò più nient'altro."<x17/><x18/>"Mi voltai per aiutarlo, ma prima che potessi raggiungerlo era già in mezzo a loro."<x19/><x20/>"Un lampo d'acciaio. Una figura di morte vorticante."<x21/><x22/>"In pochi istanti i Goblin più piccoli erano a terra. Restava solo un bruto più grosso, più grande dei Picchiatori che vediamo qui adesso."<x23/><x24/>"Quando sferrò un colpo, Corin gli corse su per le braccia, aprendogli squarci a ogni passo, e gli staccò la testa di netto."<x25/><x26/>"Il sangue gli si lavò via di dosso abbastanza facilmente."<x27/><x28/>"Ma non dagli occhi."<x29/><x30/>"Mi ci volle tempo per capire che il sangue nei suoi occhi era lì da molto prima di quel giorno."
+NPC_ELDORIAN_RESPONSE_39662601-b183-4d2e-b70f-045ccd0715f3	"Lo farò. Ci rifletterò, e cambierò. Lo giuro."
+NPC_ELDORIAN_RESPONSE_3a7f36d6-c1a7-42e4-a296-a84f19a84a7b	"Sì. Stavolta sarà diverso. Te lo prometto."<x1/><x2/><x3/><x4/>"Questi sono... ehm, gli ordini di Rahaner. Parte della mia punizione per essermene andato da solo l'altra volta, senza dirlo a nessuno."
+NPC_ELDORIAN_RESPONSE_3af4fa26-b700-46ba-846d-5ba8724ce7e9	"Lo sarà. Sogno di rivederlo integro."<x1/><x2/><x3/><x4/>"Se non c'è altro, puoi tornare al villaggio. Credo che resterò qui ancora un po'. Solo… un momento di quiete per me."
+NPC_ELDORIAN_RESPONSE_3b80a936-03ad-4be4-9a1c-039cd3f82fcc	"Be'… ora che me lo dici, sì. Speravo che venissi con me per un'altra guardia notturna. Mi farebbe comodo un po' di compagnia."
+NPC_ELDORIAN_RESPONSE_3cda8fe3-360f-43f1-87eb-9bcdb936c6a9	"Te li segno sulla mappa! Ecco, questi cerchi. Occhio ai crinali. Gli piace appostarsi lì."<x1/><x2/><x3/><x4/>*Eldorian solleva lo zaino con una piccola smorfia di dolore e sistema le cinghie, preparandosi a partire.*<x5/><x6/>"Dovrei andare. Mi piacerebbe restare a guardarti combattere, ma queste ultime scaramucce mi hanno sfinito e ho preso qualche colpo di troppo. Alaric continua a dirmi di essere più prudente e aspettare il momento giusto. Per una volta sto cercando di ascoltarlo. Ti serve altro prima che torni indietro?"
+NPC_ELDORIAN_RESPONSE_3f4bc19f-9224-462d-9749-cf59794c2d1b	"Non preoccuparti, amico. Sono pur sempre un Elfo. Un passo fra gli alberi e nessuno mi vedrà né mi sentirà. Ci vediamo presto. Spero."
+NPC_ELDORIAN_RESPONSE_3fff7b22-d766-4414-9c3d-84bd4e6955a4	"Anch'io provo lo stesso."<x1/><x2/>"Non voglio perdere nemmeno io te, né l'occasione di conoscerti meglio."<x3/><x4/>"Starò più attento."<x5/><x6/>"Vieni. È ora di tornare alla Sede della Gilda."
+NPC_ELDORIAN_RESPONSE_43533727-3c8e-4ae3-88b2-a4a5bad00c8c	"Io… forse hai ragione." *distoglie lo sguardo* "Basta buttarmi a capofitto. Lo giuro."<x1/><x2/><x3/><x4/>*Eldorian prende fiato e imita una cadenza più ferma.*<x5/><x6/>"Lo dice sempre allo stesso modo." "Il pensiero prima dell'azione. L'intuito è pensiero addestrato a diventare istinto. Informazioni. Valutazione. Decisione. Poi azione rapida. È questo… l'ordine."
+NPC_ELDORIAN_RESPONSE_43e1cbe2-cf3c-4e89-8590-f02d80c6e0fd	*Il dubbio prende il sopravvento sul volto di Eldorian; i suoi occhi, scintillanti di magia temporale, tornano a fissare il terreno.*<x1/><x2/>"Io… voglio crederci. Davvero. Ma non ne sono certo."
+NPC_ELDORIAN_RESPONSE_44f7ebfd-ddb2-4344-8d00-e9d5012e12f1	"No. Non ancora. Mi dice di pensare con la mia testa. E quando torneremo con le prove… resterà colpito."
+NPC_ELDORIAN_RESPONSE_453f8eef-6015-44c1-a639-6b91a3188df3	"Oh, li conosco da parecchio tempo."<x1/><x2/><x3/><x4/>"Li incontrai quando arrivai a Earlwood. Cinquant'anni fa, forse."<x5/><x6/>"Il signor Haylor era solo un bambino, allora. Non aveva più di dieci anni."<x7/><x8/>"Gli insegnai a usare l'arco, a cacciare un po', a muoversi nella foresta senza annunciare ogni passo."<x9/><x10/>"Il vecchio Haylor detestava quelle uscite."<x11/><x12/>"Il ragazzo le adorava."<x13/><x14/>"Poi crebbe, ebbe dei figli suoi, e in qualche modo c'ero ancora anch'io."<x15/><x16/>"Alcuni abitanti ce l'hanno con la famiglia per la sua ricchezza. Ma non sono come il sindaco. Pratici, sì. A volte duri. Ma di buon cuore."
+NPC_ELDORIAN_RESPONSE_463c99cd-4323-4c74-b6d3-8be4a8dd0e33	"Sì. E no." *un sorriso piccolo, a disagio* "Io chiedo. Lui risponde quando può. Spesso si limita a… guardarmi, e io dovrei capire."
+NPC_ELDORIAN_RESPONSE_4664d339-556f-4035-9fbe-b84ee25b22af	"Non serve fingere di aver rischiato la vita. Ho visto come combatti. Non sono mai stati un pericolo per te."<x1/><x2/><x3/><x4/>*Il suo sguardo vaga sui campi.*<x5/><x6/>"Mi fa male al cuore vedere i campi sfregiati e bruciati."<x7/><x8/>"Be'. Il compito è finito. Era da tanto che non riuscivo a fermarmi a guardare davvero questi campi. Un tempo erano belli, e lo era anche la gente che li lavorava."
+NPC_ELDORIAN_RESPONSE_47f0ae3c-a1d1-4747-ad64-52c3a3a40bb3	"Ah, non preoccuparti."<x1/><x2/>"È già guarita abbastanza."<x3/><x4/>"Presto tornerò a combattere."<x5/><x6/><x7/><x8/>"Lo devo a te."<x9/><x10/>"Senza di te, quel giorno avrebbe potuto essere l'ultimo."
+NPC_ELDORIAN_RESPONSE_48e1523a-cba9-41fb-b48f-e65834e21d05	"L'ho addestrato un po', quando Alaric e Rahaner avevano altri doveri."<x1/><x2/><x3/><x4/>"Corin è un combattente straordinario. Sarà anche giovane, ma c'è vera grandezza in lui."<x5/><x6/>"Se continua su questa strada, un giorno potrebbe essere all'altezza di Alaric."<x7/><x8/>"Quando era ancora un ragazzo e gli facevo fare le esercitazioni, la sua velocità era sorprendente. Anche il gioco di gambe. Umani o Elfi, ne avevo visti ben pochi muoversi così."
+NPC_ELDORIAN_RESPONSE_4b9b243c-f217-4426-9603-5d431b7c7d12	*Eldorian abbassa gli occhi, come se qualcosa gli avesse ricordato ciò che avrebbe voluto dimenticare.*<x1/><x2/>"Ah… la tavoletta di pietra. Sì, è… difficile per noi parlarne."<x3/><x4/>"Racconta della Veylenth Vordae, l'Era dell'Atrocità Elfica."<x5/><x6/>"Il nostro stesso imperatore, i nostri re… si rivoltarono contro il nostro popolo. Nove su dieci perirono."
+NPC_ELDORIAN_RESPONSE_4be1229f-277e-48f7-b6f3-571569f8561e	"Mi rattrista sentirlo. Cos'è la vita, se non sappiamo imparare a vederne la bellezza?"<x1/><x2/><x3/><x4/>"Se non c'è altro, puoi tornare al villaggio. Credo che resterò qui ancora un po'. Solo… un momento di quiete per me."
+NPC_ELDORIAN_RESPONSE_4e8a6b74-5c5e-4cd1-a128-85e7393c792f	"Sai che noi Elfi possiamo vedere nel futuro… anche se ora soltanto pochi istanti più avanti."<x1/><x2/>"Molto tempo fa, i più forti fra noi vedevano molto più lontano: anni, secoli, persino millenni."<x3/><x4/>"Scelsero di decimare la nostra stirpe… credendo che avrebbe evitato un disastro più grande."<x5/><x6/>"Ancora oggi ci chiediamo: era giusto? Era necessario?"<x7/><x8/>"Tu cosa credi?"
+NPC_ELDORIAN_RESPONSE_4fa5f7f5-29dd-41ce-be5d-016c8e7fd722	"Capisco. Farò il mio giro e aspetterò all'ultimo punto. Solo... non correre rischi là fuori."
+NPC_ELDORIAN_RESPONSE_592e4de8-25cd-4f82-a3fc-cec4b10c7c80	"È il Mulino di Haylor."<x1/><x2/>"Appartiene alla famiglia Haylor, e sfama anche buona parte di Earlwood."<x3/><x4/>"Prima di tutto questo, il villaggio andava fiero dei suoi raccolti. Commercio, grano, terra buona. È per questo che arrivarono le famiglie fondatrici."
+NPC_ELDORIAN_RESPONSE_5a90c9e5-8aeb-49cc-a736-21c55747be06	"Ho conosciuto tre generazioni di Haylor."<x1/><x2/>"Non mi hanno mai dato motivo di dubitare di loro. Neanche una volta."
+NPC_ELDORIAN_RESPONSE_5e00c9a4-3796-4e63-8034-5cf2c3dd6301	*Eldorian alza gli occhi verso di te e sul suo volto torna l'esuberanza giovanile.*<x1/><x2/>"Grazie. Ricorderò le tue parole."<x3/><x4/>"E adesso, rimettiamoci al lavoro. Alla prossima!"
+NPC_ELDORIAN_RESPONSE_60a504c9-c212-482e-a548-34d94c062d51	"No. Non indugiare."<x1/><x2/>"Ricordare."<x3/><x4/>"C'è differenza."<x5/><x6/><x7/><x8/>"Un'altra stranezza dell'essere un Elfo…"<x9/><x10/>"Non sempre sai con certezza se una visione appartiene al passato o al futuro."<x11/><x12/>"A volte il peso sta nel decidere quale dei due sia."<x13/><x14/>*Mentre parla, il tuo sguardo scivola sulla sua ferita, ancora fasciata e in via di guarigione. Eldorian nota che i tuoi occhi vi si soffermano un momento.*
+NPC_ELDORIAN_RESPONSE_6541ed65-292e-4f1a-8730-ea35f1227e97	"No. Questa è una mia idea. Ho visto dei segni durante una ricognizione. Sembrava una pista che chiedeva solo di essere seguita."
+NPC_ELDORIAN_RESPONSE_66523a7f-f499-4463-94e8-5e01979f31ab	"Lo è, vero? È uno degli strani doni dell'essere un Elfo fra gli Umani."<x1/><x2/>"Crescono, cambiano, muoiono e lasciano nuova vita dietro di sé."<x3/><x4/>"E tu resti quasi uguale."
+NPC_ELDORIAN_RESPONSE_6a11f3a1-648d-4eb0-bc0e-f465825b158a	"Lo so, lo so."<x1/><x2/>"Tu, Alaric, Saqi… dite tutti la stessa cosa."<x3/><x4/>"Solo Corin no."<x5/><x6/>"Vieni. È ora di tornare alla Sede della Gilda."
+NPC_ELDORIAN_RESPONSE_6f8c0768-cb29-4798-8b88-6b3ffd166943	"Bene. Vieni, allora. So dove andare."<x1/><x2/><x3/><x4/>"È questo il posto."<x5/><x6/>"Volevo portarti qui come si deve."<x7/><x8/>"L'altra volta ci siamo passati accanto. È il mio posto preferito in tutta la campagna."
+NPC_ELDORIAN_RESPONSE_6fdf4e9f-8a4c-45a4-8885-027d914d03a5	"Non le conosci? Sono incredibili. Nell'ultima Crisi dei Goblin ha salvato il villaggio."<x1/><x2/>"Dicono che abbia respinto ondate e ondate di Goblin, tutto solo, senza mai arretrare!"<x3/><x4/>"Centinaia di Goblin annientati. Ha affrontato il Re Goblin e ha vinto. Dicono che non abbia mangiato né dormito per settimane."<x5/><x6/>"Ha salvato il villaggio; ha salvato la foresta. È così che è diventato una leggenda."<x7/><x8/>"I Goblin e persino la foresta stessa non lanceranno un assalto in piena forza finché lui resta qui. È anche per questo che non lascia il villaggio."
+NPC_ELDORIAN_RESPONSE_707d1390-d63d-45df-9de1-b94179f2016a	"È vero. Siamo sentimentali."<x1/><x2/>"È perché viviamo così vicini al tempo."<x3/><x4/><x5/><x6/>*Eldorian si siede lentamente a terra e ti fa cenno di raggiungerlo. Osserva l'eco scintillante per qualche respiro, poi parla a voce più bassa.*<x7/><x8/>"Nessun altro può evocarla. Nessun altro può nemmeno vederla, se non sono io a mostrargliela."<x9/><x10/>"Nasce da qualcosa di particolare. Il mio legame con questo posto. La mia natura elfica. I miei ricordi di ciò che questa terra era, e la mia speranza di ciò che potrebbe tornare a essere."<x11/><x12/>"Forse è la verità più profonda sulla magia. È legata all'identità, nella forma e nell'esperienza."<x13/><x14/>"Ciò che sei plasma il suo aspetto. Ciò che hai vissuto plasma ciò che può racchiudere."<x15/><x16/>"Ecco perché lo stesso incantesimo può significare qualcosa di completamente diverso nelle mani di un'altra persona."<x17/><x18/>*Ti lancia un'occhiata e sorride, un po' timido.*<x19/><x20/>"Volevo portarti qui, dopo la nostra ultima chiacchierata."<x21/><x22/>"Volevo che vedessi ciò che vedo io quando dico che vale la pena salvare questa terra."<x23/><x24/>"Mi aiuta a ritrovare l'equilibrio. E mi fa venire voglia di migliorare."
+NPC_ELDORIAN_RESPONSE_720b2a3f-e7ba-4689-a45f-905198262292	"Sì. Disciplina. Passi lenti, occhi attenti. In due si fa prima."<x1/><x2/><x3/><x4/>*alza gli occhi, più cauto del solito*<x5/><x6/>"È un lavoro semplice. Rifacciamo i segnali sbiaditi, poi finiamo qui, all'ultimo punto. Senza fretta. Senza sparire. Se ci separiamo, restiamo in vista."
+NPC_ELDORIAN_RESPONSE_72e4df13-1c08-41b5-9eeb-1a8b4f31b18f	*Ti guarda un momento, poi distoglie lo sguardo.*<x1/><x2/>"Sì… hai ragione. Non posso soffermarmi su questo."<x3/><x4/>"Torniamo al nostro compito."
+NPC_ELDORIAN_RESPONSE_80975854-76a0-4030-a018-d778ad8e7dda	*Eldorian ti vede e il suo sorriso si allarga; si raddrizza, pieno di energia improvvisa.*<x1/><x2/>"Ce l'hai fatta a tornare! Ci speravo davvero. Abbiamo sentito tutti l'urlo di morte del Re Goblin da qui. A Saqi è quasi caduto un intero vassoio di boccali. Earlwood ti deve ben più di un giro da bere, sai."
+NPC_ELDORIAN_RESPONSE_810da062-a72b-4d75-a14c-aeb0ff18b850	"Sì. Alaric si è guadagnato quella fiducia."<x1/><x2/>"E anche tu."<x3/><x4/>"Devo tenermelo stretto, o finirò per perdermi nelle domande."
+NPC_ELDORIAN_RESPONSE_82bf800a-d34f-4bee-9868-c8aea077266f	"Ah. Hai di nuovo ragione."<x1/><x2/>"Non preoccuparti. Starò più attento."<x3/><x4/>"Mi piace pensare di aver imparato quella lezione."<x5/><x6/><x7/><x8/>"Lo devo a te."<x9/><x10/>"Senza di te, quel giorno avrebbe potuto essere l'ultimo."
+NPC_ELDORIAN_RESPONSE_82fcedc7-4ef7-4c4e-b785-4630b6e4dc23	"Il Prescelto della Foresta deve guidarla nelle sue prove più dure."<x1/><x2/>"Ne viene nominato uno a ogni era; per noi Elfi è sacro. Il Prescelto ci guida verso una nuova era."<x3/><x4/>"E Alaric è il primo Umano mai scelto."<x5/><x6/>"Gli Elfi devono essersi infuriati: un Umano!"<x7/><x8/>"Ma quando il Cavaliere Verde giunge a cavallo con la volontà di Ceres e lo nomina, nessuno può negarlo."
+NPC_ELDORIAN_RESPONSE_83b813f9-0d8d-43da-b515-c2dfe9d44829	"Sono sovrani dell'intera foresta. Non di nome. Davvero."<x1/><x2/>"Crescita. Movimento. Predazione. Silenzio. Sentieri."<x3/><x4/>"Quando un Re della Foresta comanda, il bosco vivo obbedisce. Quindi… aspettati di tutto."
+NPC_ELDORIAN_RESPONSE_8bd31ad0-3980-4ff3-8f9f-ec0ff78964f6	"Se restiamo sul percorso di ricognizione e lontani dal terreno peggiore, dovremmo essere al sicuro. Li hai combattuti. L'ho visto. I Goblin non sono una minaccia se manteniamo la calma."
+NPC_ELDORIAN_RESPONSE_8d4718ef-1261-4701-baba-3f6fa7bb4168	"Sono andato in ricognizione alla fonte. I lupi mi sono saltati addosso appena ho messo piede lì. Non ho letto i segnali abbastanza in fretta. Un Elfo, preso in un'imboscata nella sua stessa foresta. Imbarazzante."
+NPC_ELDORIAN_RESPONSE_8f30ae9b-79a5-4877-b164-66845e1ab82e	"Io… scusa, hai ragione. Ho esagerato di nuovo. Ecco, ti segno i punti. Solo… cerca di tornare senza un graffio, va bene?"<x1/><x2/><x3/><x4/>*Eldorian solleva lo zaino con una piccola smorfia di dolore e sistema le cinghie, preparandosi a partire.*<x5/><x6/>"Dovrei andare. Mi piacerebbe restare a guardarti combattere, ma queste ultime scaramucce mi hanno sfinito e ho preso qualche colpo di troppo. Alaric continua a dirmi di essere più prudente e aspettare il momento giusto. Per una volta sto cercando di ascoltarlo. Ti serve altro prima che torni indietro?"
+NPC_ELDORIAN_RESPONSE_8fd4ea61-e837-4ae2-82e6-08d4c77a7a25	“Grazie. I Fangra non sono lupi normali; sono più veloci e più intelligenti. E anche più cattivi. Non farti cogliere alla sprovvista.”<x1/><x2/>“Tornerò al villaggio. Spero che ci rivedremo presto.”
+NPC_ELDORIAN_RESPONSE_901751de-a48f-4637-8f80-de41be474949	"Ah. Forse. Però direi che entrambi lo ammiravamo per una buona ragione."<x1/><x2/><x3/><x4/>"Corin è un combattente straordinario. Sarà anche giovane, ma c'è vera grandezza in lui."<x5/><x6/>"Se continua su questa strada, un giorno potrebbe essere all'altezza di Alaric."<x7/><x8/>"Quando era ancora un ragazzo e gli facevo fare le esercitazioni, la sua velocità era sorprendente. Anche il gioco di gambe. Umani o Elfi, ne avevo visti ben pochi muoversi così."
+NPC_ELDORIAN_RESPONSE_9385889f-384c-4f06-a158-9f9c2a3fc059	*Sul volto di Eldorian si accende l'allegria, con un sorriso da un orecchio all'altro.*<x1/><x2/>"Allora è vero! Ne parlano tutti. Hai sconfitto quella creatura?"<x3/><x4/>"È da una vita che nessuno compie un'impresa simile, dai tempi di Alaric."<x5/><x6/>"Devi essere un vero eroe. Spero di riuscirci anch'io, un giorno."
+NPC_ELDORIAN_RESPONSE_980aefb6-3067-420e-92c8-3893b3405d33	"Forse a prima vista. Avvicinati. Guarda ancora."<x1/><x2/><x3/><x4/>*Eldorian va sul bordo del rialzo e scruta il panorama sotto la luna. Dopo un momento alza una mano e ti fa cenno di avvicinarti.*<x5/><x6/>"Ora lo vedi?"<x7/><x8/>*I campi si stendono davanti a te, tutti in rovina, con sagome di Goblin che corrono lungo l'orizzonte.*
+NPC_ELDORIAN_RESPONSE_99c3e210-0e96-4e27-96f7-073fb4f9bc25	*Eldorian ha l'aria sconvolta di un cervo che ha appena visto una Palla di fuoco arrivargli addosso.*<x1/><x2/>"Ah… sì, certo. Scusa; ho corso troppo."
+NPC_ELDORIAN_RESPONSE_99ff10d0-146c-4a1b-876a-3e4000381d83	"Forse."<x1/><x2/>"La sopravvivenza non chiede se i nostri cuori siano pronti."<x3/><x4/>"Eppure… mi sembra ancora di alzare la mano contro una parte di ciò che mi ha reso quello che sono."
+NPC_ELDORIAN_RESPONSE_9acf7989-87c1-4d2e-887f-c8a6b737f9bc	"Oh. Sai…" *una risata fiacca* "Noi Elfi possiamo vedere nel futuro, un po'. Non abbastanza da salvarmi da questo, immagino… ah. Ah."
+NPC_ELDORIAN_RESPONSE_9b4f7652-003e-4745-b580-c57d6b1df7fa	“C'è un lupo, un Fangra, che si aggira troppo vicino alla strada. È un rischio per chiunque passi. Di solito non si spingono tanto da questa parte.”<x1/><x2/>“Dovevo tornare, ma non posso lasciare le cose così. Se te ne occupassi tu, potrei tornare da Alaric.”
+NPC_ELDORIAN_RESPONSE_9c753fad-c97c-462a-a67a-d11190f8ccc7	"Anche tu, amico. Mi piacerebbe riparlare presto con te."
+NPC_ELDORIAN_RESPONSE_a2269bcb-e52c-4ced-85d2-aa57f85b2bd7	"Hai sconfitto il Re della Foresta? Davvero? Wow."<x1/><x2/>"A casa mia ci insegnano dei Re della Foresta e delle leggi del bosco."<x3/><x4/>"Si dice che siano emissari di Ceres: la sua parola e la sua volontà, che prendono forma."<x5/><x6/>"Ognuno ha un regno. Ognuno ha la propria forma."
+NPC_ELDORIAN_RESPONSE_a3432062-1eba-4ef7-ab23-3deb072bcfcb	"Soprattutto spiriti della foresta. Ai Goblin questa zona non piace molto. I Treant li schiaccerebbero se osassero troppo. Quindi aspettati parecchia gente degli alberi e Driadi, veloci e agili."
+NPC_ELDORIAN_RESPONSE_a57b728a-a24e-4fa4-8669-233ba53a30c8	"Sa essere affettuoso. Davvero."<x1/><x2/>"Spero che un giorno tu possa vedere quel lato di lui."
+NPC_ELDORIAN_RESPONSE_a7c8de79-ff24-496d-81ff-19917cf84c0c	"Alaric? Non è il migliore?"<x1/><x2/>"L'eroe di Earlwood, il Prescelto della Foresta! Sai, le storie su di lui arrivano fino alla mia città natale e anche oltre!"<x3/><x4/>"È per lui che ho fatto il viaggio fino a Earlwood, per allenarmi sotto la sua guida e osservarlo."<x5/><x6/>"Un giorno sarò come lui."
+NPC_ELDORIAN_RESPONSE_ab41ebe7-9298-4796-9e65-a9e4af49423c	"Proprio come pensavo. Era da tanto che a Earlwood non si vedeva combattere qualcuno come te."<x1/><x2/><x3/><x4/>*Il suo sguardo vaga sui campi.*<x5/><x6/>"Mi fa male al cuore vedere i campi sfregiati e bruciati."<x7/><x8/>"Be'. Il compito è finito. Era da tanto che non riuscivo a fermarmi a guardare davvero questi campi. Un tempo erano belli, e lo era anche la gente che li lavorava."
+NPC_ELDORIAN_RESPONSE_abfafc39-a17f-46aa-ac65-61f8744e097d	"No. Sono nato nella Foresta Eterna, come la maggior parte degli Elfi. Ma quando ho sentito le storie, sono venuto. Earlwood è diventata casa. Più per la gente che per il posto."
+NPC_ELDORIAN_RESPONSE_aefb3335-6135-4b74-b584-696b55d0b217	"Non preoccuparti. La foresta è ancora casa mia, anche quando è arrabbiata. So sparire fra gli alberi e leggere le foglie abbastanza bene da ritrovare la via del ritorno."
+NPC_ELDORIAN_RESPONSE_b0a80bd9-a689-4594-955b-8dd8819a1fe7	"Hm… non molto. Fammi controllare. Ah, ecco, mi sono rimaste alcune pozioni. Prendile. Mi farà sentire meno in colpa per la corsa a casa a riposare."
+NPC_ELDORIAN_RESPONSE_b13a6c7d-f671-434c-8b6d-bc2d8e40794a	"Io? Be', sono uno dei migliori avventurieri e allievi di Alaric! Mi ha affidato la Bacheca degli incarichi. È qui che gli abitanti affiggono le loro richieste d'aiuto."
+NPC_ELDORIAN_RESPONSE_b68204a6-2008-4060-9f38-f354c7e61a08	"Non è una buona idea? Perché no? Se la lasciamo stare, cresce. Cresce sempre."<x1/><x2/><x3/><x4/>*Eldorian si avvicina e sussurra.*<x5/><x6/>"Raggiungimi nella foresta, in questo punto. Ti aspetterò. Insieme estirperemo questa Corruzione alla radice."
+NPC_ELDORIAN_RESPONSE_b7101e53-e646-420c-acef-705992d9d93d	"Un bel cuore…"<x1/><x2/>"Forse non sai quanto significhi per me."<x3/><x4/>"Ci aspettano giorni duri. Ma sono felice che tu sia qui ad affrontarli."<x5/><x6/><x7/><x8/>"Un'altra stranezza dell'essere un Elfo…"<x9/><x10/>"Non sempre sai con certezza se una visione appartiene al passato o al futuro."<x11/><x12/>"A volte il peso sta nel decidere quale dei due sia."<x13/><x14/>*Mentre parla, il tuo sguardo scivola sulla sua ferita, ancora fasciata e in via di guarigione. Eldorian nota che i tuoi occhi vi si soffermano un momento.*
+NPC_ELDORIAN_RESPONSE_b79f2775-ee2a-4eaf-82f2-782df88d52de	*arrossisce vistosamente* "Un appuntamento. Io, io non volevo... insinuare niente. Ma mi farebbe piacere la tua compagnia."<x1/><x2/><x3/><x4/>*alza gli occhi, più cauto del solito*<x5/><x6/>"È un lavoro semplice. Rifacciamo i segnali sbiaditi, poi finiamo qui, all'ultimo punto. Senza fretta. Senza sparire. Se ci separiamo, restiamo in vista."
+NPC_ELDORIAN_RESPONSE_ba601ea9-dbca-4dc0-8ec3-6e28023d6e4b	"Posso onorare entrambi. La foresta ha la sua bellezza. Ciò che le persone costruiscono con l'ingegno e la fatica ne ha un'altra, altrettanto grande a modo suo. Ogni vero seguace di Ceres lo sa."
+NPC_ELDORIAN_RESPONSE_bc5996ce-e2f3-45ba-85c5-a4ed400f04b4	"Esatto."<x1/><x2/>"È questo che vedono i tuoi occhi."<x3/><x4/>"I miei no."<x5/><x6/><x7/><x8/>*Eldorian fa un passo indietro e inspira lentamente. Alza gli occhi alla luna e la luce al loro interno si fa più intensa, splendente di magia temporale. Poi solleva una mano e lascia che l'incantesimo raccolto si disperda nell'aria davanti a te.*<x9/><x10/>*La magia si raccoglie in una lente tremolante. Attraverso di essa, i campi appaiono com'erano non molto tempo fa: grano al chiaro di luna che ondeggia nel vento, luci calde nelle fattorie e uccelli notturni che attraversano il cielo aperto.*<x11/><x12/>"Non posso mostrarti i campi com'erano davvero. Non ancora."<x13/><x14/>"Ma posso mostrarti questo."<x15/><x16/>"Un'eco. Ciò che vedo io."
+NPC_ELDORIAN_RESPONSE_bf17aa13-1cf3-4a52-bc63-3baf1cba2b04	"Bene. Grazie. Facciamolo come si deve."
+NPC_ELDORIAN_RESPONSE_bfcae91e-0fb9-4220-9a89-ef2afefed6fd	"Ah... sì. Ma è diverso dalle mie solite ricognizioni."<x1/><x2/><x3/><x4/>*deglutisce*<x5/><x6/>"Rahaner mi ha assegnato un giro del perimetro. Campi e margine del bosco, poi le vecchie postazioni degli esploratori. Devo rifare i segnali. È un compito da recluta. Capisco perché oggi tocchi a me."
+NPC_ELDORIAN_RESPONSE_c286883d-a7a6-4d9d-9370-528e6868bec1	"Ah. Anche a me piace pensarla così. Vieni, allora. Conosco il posto giusto."<x1/><x2/><x3/><x4/>"È questo il posto."<x5/><x6/>"Volevo portarti qui come si deve."<x7/><x8/>"L'altra volta ci siamo passati accanto. È il mio posto preferito in tutta la campagna."
+NPC_ELDORIAN_RESPONSE_c519b3fe-99f4-4fc3-8a34-f185b828dc1a	"Mi fa piacere che lo veda anche tu."<x1/><x2/>"Mi dà speranza."<x3/><x4/>"Ci aspettano giorni duri, ma credo che possiamo farcela."<x5/><x6/><x7/><x8/>"Un'altra stranezza dell'essere un Elfo…"<x9/><x10/>"Non sempre sai con certezza se una visione appartiene al passato o al futuro."<x11/><x12/>"A volte il peso sta nel decidere quale dei due sia."<x13/><x14/>*Mentre parla, il tuo sguardo scivola sulla sua ferita, ancora fasciata e in via di guarigione. Eldorian nota che i tuoi occhi vi si soffermano un momento.*
+NPC_ELDORIAN_RESPONSE_c72f0b19-f9b0-419a-b5ee-2893c2bb29c3	"No. Non come l'ultima volta. Lo giuro."<x1/><x2/><x3/><x4/>"Questi sono... ehm, gli ordini di Rahaner. Parte della mia punizione per essermene andato da solo l'altra volta, senza dirlo a nessuno."
+NPC_ELDORIAN_RESPONSE_c88369bf-d9c3-40e2-b7f1-d93e560bc236	"Sono i precetti di Ceres, trasmessi ai Re della Foresta attraverso la comunione con lei."<x1/><x2/>"Stabiliscono gli equilibri: quanto alti possano crescere gli alberi, quanto in fretta, quanto possano predare i lupi, quanto possano pascolare i cervi."<x3/><x4/>"E toccano anche la vita mortale: quanta caccia è tollerata, quanti alberi si possono abbattere. Tutto."
+NPC_ELDORIAN_RESPONSE_cd595f86-b6a7-4a44-a055-b80ffc67f68a	"Ti ho già detto che spero di mostrarti un giorno questi campi com'erano."<x1/><x2/>"Non posso farlo. Non ancora."<x3/><x4/>"Ma posso mostrarti qualcos'altro. Ciò che vedo io."<x5/><x6/><x7/><x8/>*Eldorian fa un passo indietro e inspira lentamente. Alza gli occhi alla luna e la luce al loro interno si fa più intensa, splendente di magia temporale. Poi solleva una mano e lascia che l'incantesimo raccolto si disperda nell'aria davanti a te.*<x9/><x10/>*La magia si raccoglie in una lente tremolante. Attraverso di essa, i campi appaiono com'erano non molto tempo fa: grano al chiaro di luna che ondeggia nel vento, luci calde nelle fattorie e uccelli notturni che attraversano il cielo aperto.*<x11/><x12/>"Non posso mostrarti i campi com'erano davvero. Non ancora."<x13/><x14/>"Ma posso mostrarti questo."<x15/><x16/>"Un'eco. Ciò che vedo io."
+NPC_ELDORIAN_RESPONSE_cf63eb72-19ed-4dd3-a656-9653f1c3b06e	"Ci credo, avrei voluto vederla, ma… oh! Giusto, l'accesso alla foresta!"<x1/><x2/><x3/><x4/>*Eldorian si raddrizza, cercando di darsi un contegno mentre indica il limitare degli alberi.*<x5/><x6/>"Dunque. Quando l'accesso si aprirà, tutti cominceranno ad avanzare. Ho ripulito quasi tutti i punti da cui si potrebbero tendere imboscate alla Gilda. Ne restano alcuni dove non ho finito il lavoro. Ho poche provviste e Alaric mi farebbe la pelle se andassi oltre. Se potessi occuparti di questi ultimi posti, sarebbe un grande aiuto."
+NPC_ELDORIAN_RESPONSE_cfb034fe-6565-410f-9987-41149e109374	"Certo. La Foresta Eterna è un mondo a sé."<x1/><x2/>"Ogni regno della foresta ha il suo Re, come le nostre regioni hanno i loro sovrani."<x3/><x4/>"Il mio popolo crede che le gerarchie mortali rispecchino l'ordine degli dèi, pallidi riflessi di ciò che la foresta già è."
+NPC_ELDORIAN_RESPONSE_d1f9e643-437b-46b2-bc59-7c020fb8f6cd	*Il dubbio prende il sopravvento sul volto di Eldorian; i suoi occhi, scintillanti di magia temporale, tornano a fissare il terreno.*<x1/><x2/>"Forse… hai ragione. Io… non lo so con certezza."
+NPC_ELDORIAN_RESPONSE_d404bb2e-f0b2-4f1f-bc5b-117701c0d76a	"Allora è una promessa. Un giorno cammineremo di nuovo fra i campi, ricostruiti e splendenti com'erano un tempo."<x1/><x2/><x3/><x4/>"Se non c'è altro, puoi tornare al villaggio. Credo che resterò qui ancora un po'. Solo… un momento di quiete per me."
+NPC_ELDORIAN_RESPONSE_d4dded82-ff9e-447d-9d0f-fe652cf2b679	"Ah… forse sì." *tossisce* "Comunque. Vederti combattere… è stato impressionante."<x1/><x2/><x3/><x4/>*Si alza appoggiandosi all'albero, raddrizzandosi lentamente mentre recupera le forze.*<x5/><x6/>"Un altro minuto e sarei stato cibo per lupi. Quindi… grazie." *espira, cercando stabilità* "Alaric mi dice sempre che sono avventato. Che sono… incredibilmente imprevidente, per un Elfo. Forse stavolta ha ragione."
+NPC_ELDORIAN_RESPONSE_d5b938fe-ff58-4731-a144-7eadde52cd2d	"Ah. C'è chi sarebbe d'accordo con te."<x1/><x2/>"Ma no, non credo che sia ciò che sono davvero."<x3/><x4/><x5/><x6/>"Li incontrai quando arrivai a Earlwood. Cinquant'anni fa, forse."<x7/><x8/>"Il signor Haylor era solo un bambino, allora. Non aveva più di dieci anni."<x9/><x10/>"Gli insegnai a usare l'arco, a cacciare un po', a muoversi nella foresta senza annunciare ogni passo."<x11/><x12/>"Il vecchio Haylor detestava quelle uscite."<x13/><x14/>"Il ragazzo le adorava."<x15/><x16/>"Poi crebbe, ebbe dei figli suoi, e in qualche modo c'ero ancora anch'io."<x17/><x18/>"Alcuni abitanti ce l'hanno con la famiglia per la sua ricchezza. Ma non sono come il sindaco. Pratici, sì. A volte duri. Ma di buon cuore."
+NPC_ELDORIAN_RESPONSE_d612c543-3a03-4382-abf0-a6e8bf7cbfe2	"Oh… giusto. Capito. Be', allora… ci vediamo quando sarà finita."
+NPC_ELDORIAN_RESPONSE_d706424f-96c1-4564-87f4-f1f712607521	"Ah. Tutti gli abbiamo insegnato qualcosa, in un modo o nell'altro."<x1/><x2/>"Ma no, non credo che sia merito mio."<x3/><x4/>"Lo muove qualcosa di profondo, e da fratello maggiore… temo ciò che quella spinta potrebbe fare di lui."
+NPC_ELDORIAN_RESPONSE_d884dc27-50f0-4c6e-b50a-2df9f3a95b90	"Grazie, le tue parole mi danno forza."<x1/><x2/>"Un giorno sarò un grande eroe, come Alaric e come te."
+NPC_ELDORIAN_RESPONSE_dc6a2bee-8c7e-46ec-a74c-9efb035307e2	"No, non lo sostituiscono."<x1/><x2/>"Ma l'addestramento rivela ciò che c'è già, e Corin aveva qualcosa di raro fin dall'inizio."<x3/><x4/><x5/><x6/>"Ricordo la sua prima vera missione. Ero il suo compagno."<x7/><x8/>"Doveva essere un semplice percorso di ricognizione. Solo noi due. Non rimase semplice a lungo."<x9/><x10/>"Ci imbattemmo in una piccola banda di Goblin. Cercai di guidarlo fra gli alberi per evitarli."<x11/><x12/>"Corin corse dritto verso di loro."<x13/><x14/>"Si portava dentro tutta quella rabbia per ciò che avevano fatto alla sua famiglia. Quando li vide, non contò più nient'altro."<x15/><x16/>"Mi voltai per aiutarlo, ma prima che potessi raggiungerlo era già in mezzo a loro."<x17/><x18/>"Un lampo d'acciaio. Una figura di morte vorticante."<x19/><x20/>"In pochi istanti i Goblin più piccoli erano a terra. Restava solo un bruto più grosso, più grande dei Picchiatori che vediamo qui adesso."<x21/><x22/>"Quando sferrò un colpo, Corin gli corse su per le braccia, aprendogli squarci a ogni passo, e gli staccò la testa di netto."<x23/><x24/>"Il sangue gli si lavò via di dosso abbastanza facilmente."<x25/><x26/>"Ma non dagli occhi."<x27/><x28/>"Mi ci volle tempo per capire che il sangue nei suoi occhi era lì da molto prima di quel giorno."
+NPC_ELDORIAN_RESPONSE_e8b50c6f-3890-416d-9227-cd8a0e281fb1	"Allora avrei dovuto imparare più di quanto abbia fatto."<x1/><x2/><x3/><x4/>*Prova a reggersi in piedi, poi annuisce fra sé.*<x5/><x6/>"Be'… ora c'è più calma. E sto guarendo in fretta." "Tornerò indietro. E… dovrei fare rapporto ad Alaric."
+NPC_ELDORIAN_RESPONSE_ee8a1fc6-a720-472b-b64b-56c677cfda50	"Parole dure. Ma hai ragione. Se ha abbastanza forza, resiste. Lo so."<x1/><x2/><x3/><x4/>"Un giorno… spero che tu possa vedere questi campi com'erano. Spero di essere io a mostrarteli."
+NPC_ELDORIAN_RESPONSE_f057542d-f76d-4405-abe7-496729b6a2f6	"Bene. Che Ceres guidi le nostre lame."
+NPC_ELDORIAN_RESPONSE_f4f8b9f1-eeb6-465c-b99c-7d37a32766dc	"Non voglio pietà. Ti sono grato. Volevo solo... passare del tempo con te, senza il pericolo addosso."<x1/><x2/><x3/><x4/>*alza gli occhi, più cauto del solito*<x5/><x6/>"È un lavoro semplice. Rifacciamo i segnali sbiaditi, poi finiamo qui, all'ultimo punto. Senza fretta. Senza sparire. Se ci separiamo, restiamo in vista."
+NPC_ELDORIAN_RESPONSE_f621a57d-44e6-439e-b612-3d26706274c4	"Non sono cresciuto qui, quindi so meno di lui che dei Re di casa mia."<x1/><x2/>"Ma credo che un tempo gli Elfi e i Fae di qui lo chiamassero Aelwynor."<x3/><x4/>"Forse hai visto il suo volto nelle antiche rovine elfiche, nel folto della foresta."<x5/><x6/>"Gli abitanti lo venerano, anche se dubito che i più lo abbiano mai visto davvero."<x7/><x8/>"Dicono che in mille anni si sia mostrato a un solo mortale: Alaric, quando fu nominato Prescelto della Foresta."<x9/><x10/><x11/><x12/>*Il volto di Eldorian si oscura e per un momento non riesce a incontrare il tuo sguardo.*<x13/><x14/>"Moltissimi al villaggio pensano che questa guerra sia il giudizio di Ceres."<x15/><x16/>"Che la foresta si rivolti contro di noi perché ce lo siamo meritato."<x17/><x18/>"Vorrei dire che è una sciocchezza. Davvero. Ma…"<x19/><x20/>"Se i Re della Foresta sono davvero estensioni della sua volontà, come può uno di loro rivoltarsi contro l'ordine che lei ha creato? Non dovrebbe essere possibile."<x21/><x22/>"Quindi, se non è la sua volontà, dev'essere la Corruzione. E se è la Corruzione… perché il mio cuore dubita ancora?"
+NPC_ELDORIAN_RESPONSE_f6c06318-f796-4c90-a3ee-21180562b698	"Sapevo che l'avresti fatto. Davvero. Grazie."<x1/><x2/><x3/><x4/>*Eldorian si avvicina e sussurra.*<x5/><x6/>"Raggiungimi nella foresta, in questo punto. Ti aspetterò. Insieme estirperemo questa Corruzione alla radice."
+NPC_ELDORIAN_RESPONSE_fb7670dc-bdec-41fc-acca-4d03fe7ff69f	"Hai ragione… lo giuro. Basta buttarmi a capofitto."<x1/><x2/><x3/><x4/>*Eldorian prende fiato e imita una cadenza più ferma.*<x5/><x6/>"Lo dice sempre allo stesso modo." "Il pensiero prima dell'azione. L'intuito è pensiero addestrato a diventare istinto. Informazioni. Valutazione. Decisione. Poi azione rapida. È questo… l'ordine."
+NPC_ELDORIAN_RESPONSE_ff3ffcef-8d20-4698-9b1d-abb92013b961	"Corin? Ah, è il mio fratellino."<x1/><x2/>"Be'… non di sangue. Ma quasi."<x3/><x4/>"Era un ragazzo quando arrivò qui. I Goblin gli avevano sterminato la famiglia."<x5/><x6/>"La Gilda lo accolse dopo di allora. Seguiva Alaric come un cucciolo, solo con quel piccolo cipiglio duro che ha ancora."
+NPC_ELDORIAN_RESPONSE_ff573725-cb95-434d-822f-eb301694e4f5	"Al sicuro nella parte centrale del villaggio."<x1/><x2/>"Sono sopravvissuti agli attacchi, per fortuna. Altri no."<x3/><x4/>"Quando i combattimenti finiranno, ci sarà molto da ricucire."
+NPC_ELDORIAN_TITLE	L'esploratore di Earlwood

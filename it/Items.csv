@@ -1,0 +1,1014 @@
+﻿Key,Text
+ITEM_ALPHACLAW_DESC,"Un enorme artiglio rinforzato per natura, apprezzato per la robustezza e il valore simbolico."
+ITEM_ALPHACLAW_EFFECT,Nessuno
+ITEM_ALPHACLAW_NAME,Artiglio Alfa
+ITEM_ALPHAFUR_DESC,"Spessa pelliccia di un predatore alfa, folta e capace di trattenere il calore."
+ITEM_ALPHAFUR_EFFECT,Nessuno
+ITEM_ALPHAFUR_NAME,Pelliccia Alfa
+ITEM_APPLE_DESC,"Una mela succosa, ottima come spuntino in viaggio."
+ITEM_APPLE_EFFECT,Ripristina il Nutrimento.
+ITEM_APPLE_NAME,Mela
+ITEM_APPLEJUICE_DESC,Succo di Mela dolce diluito con acqua. Ottimo per ripristinare il Nutrimento in viaggio. Berlo aumenta per un certo tempo la Rigenerazione del vigore.
+ITEM_APPLEJUICE_EFFECT,Ripristina il Nutrimento e aumenta la Rigenerazione del vigore del 10% per 30 minuti. Può essere attivo un solo bonus da bevanda alla volta.
+ITEM_APPLEJUICE_NAME,Succo di Mela
+ITEM_APPLESEED_DESC,Un seme di melo.
+ITEM_APPLESEED_EFFECT,Nessuno
+ITEM_APPLESEED_NAME,Seme di Melo
+ITEM_BEASTMEAT_DESC,"Carne sostanziosa delle bestie di Mirkea, apprezzata per il sapore e il valore nutritivo."
+ITEM_BEASTMEAT_EFFECT,Ripristina il Nutrimento ma riduce la Rigenerazione del vigore per 5 minuti.
+ITEM_BEASTMEAT_NAME,Carne di Bestia
+ITEM_BELLFLOWERSOUP_DESC,Una zuppa aromatica e mistica di Campanula Canterina e Thaumablossom. Il suo aroma etereo calma i sensi e protegge dalle instabili energie dell'Etere.
+ITEM_BELLFLOWERSOUP_EFFECT,Ripristina il Nutrimento. Conferisce 10% Salute massima e 25% Resistenza all'etere per 30 minuti.
+ITEM_BELLFLOWERSOUP_NAME,Zuppa di Campanula
+ITEM_BLIGHTCROW_DESC,"Originari delle paludi, i Corvi del Morbo cercano prede indebolite, aggravandone il male mentre le seguono per giorni."
+ITEM_BLIGHTCROW_EFFECT,"Sorveglia i nemici Avvelenati e sputa contro di loro un dardo tossico, applicando accumuli aggiuntivi di Veleno."
+ITEM_BLIGHTCROW_NAME,Corvo del Morbo
+ITEM_BLOODRAGEPOTION_DESC,"Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve."
+ITEM_BLOODRAGEPOTION_EFFECT,Bevi per applicare 5 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION_NAME,Pozione della Furia Sanguinaria
+ITEM_BLOODRAGEPOTION1_DESC,"Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve."
+ITEM_BLOODRAGEPOTION1_EFFECT,Bevi per applicare 5 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION1_NAME,Pozione della Furia Sanguinaria +1
+ITEM_BLOODRAGEPOTION2_DESC,"Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve."
+ITEM_BLOODRAGEPOTION2_EFFECT,Bevi per applicare 5 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION2_NAME,Pozione della Furia Sanguinaria +2
+ITEM_BLOODRAGEPOTION3_DESC,"Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve."
+ITEM_BLOODRAGEPOTION3_EFFECT,Bevi per applicare 5 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION3_NAME,Pozione della Furia Sanguinaria +3
+ITEM_BLOODRAGEPOTION4_DESC,"Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve."
+ITEM_BLOODRAGEPOTION4_EFFECT,Bevi per applicare 5 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION4_NAME,Pozione della Furia Sanguinaria +4
+ITEM_BLOODRAGEPOTION5_DESC,"Una potente Pozione della Furia Sanguinaria, ricavata dall'essenza di un grande Goblin. Conferisce temporaneamente Furia a chi la beve."
+ITEM_BLOODRAGEPOTION5_EFFECT,Bevi per applicare 5 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_BLOODRAGEPOTION5_NAME,Pozione della Furia Sanguinaria +5
+ITEM_BRUSHFLAX_DESC,Lino resistente raccolto nel sottobosco.
+ITEM_BRUSHFLAX_EFFECT,Nessuno
+ITEM_BRUSHFLAX_NAME,Lino Selvatico
+ITEM_BURNSALVE_DESC,Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE_EFFECT,Cura Ustione.\n Cariche si ricarica riposando.
+ITEM_BURNSALVE_NAME,Unguento per ustioni
+ITEM_BURNSALVE1_DESC,Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE1_EFFECT,Cura Ustione.\n Cariche si ricarica riposando.
+ITEM_BURNSALVE1_NAME,Unguento per ustioni +1
+ITEM_BURNSALVE2_DESC,Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE2_EFFECT,Cura Ustione.\n Cariche si ricarica riposando.
+ITEM_BURNSALVE2_NAME,Unguento per ustioni +2
+ITEM_BURNSALVE3_DESC,Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE3_EFFECT,Cura Ustione.\n Cariche si ricarica riposando.
+ITEM_BURNSALVE3_NAME,Unguento per ustioni +3
+ITEM_BURNSALVE4_DESC,Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE4_EFFECT,Cura Ustione.\n Cariche si ricarica riposando.
+ITEM_BURNSALVE4_NAME,Unguento per ustioni +4
+ITEM_BURNSALVE5_DESC,Un unguento rapido fatto con stoffa e bacche curative. Rimuove l'Ustione da chi lo usa.
+ITEM_BURNSALVE5_EFFECT,Cura Ustione.\n Cariche si ricarica riposando.
+ITEM_BURNSALVE5_NAME,Unguento per ustioni +5
+ITEM_BURROWBROTH_DESC,Un brodo rustico e confortante di Carne di Bestiola e uova fresche. Apprezzato dagli esploratori del sottosuolo perché sostiene sia la salute fisica sia la concentrazione.
+ITEM_BURROWBROTH_EFFECT,Ripristina il Nutrimento. Conferisce 5% Salute massima e Concentrazione massima per 30 minuti.
+ITEM_BURROWBROTH_NAME,Brodo di Tana
+ITEM_CARRIONPARROT_DESC,"Uccelli predatori apprezzati dai cacciatori di Aldoria, i Pappagalli Carogna eccellono nel seguire i deboli, i feriti e i moribondi."
+ITEM_CARRIONPARROT_EFFECT,"Sorveglia i nemici con Sanguinamento, poi piomba su di loro, applicando accumuli aggiuntivi di Sanguinamento al bersaglio e a un nemico vicino."
+ITEM_CARRIONPARROT_NAME,Pappagallo Carogna
+ITEM_CHICKENEGG_DESC,Un delizioso Uovo di Gallina crudo.
+ITEM_CHICKENEGG_NAME,Uovo di Gallina
+ITEM_COOKEDBEASTMEAT_DESC,"Un piatto semplice e saziante, apprezzato da viandanti e raccoglitori. Cotto per preservarne il sapore naturale e ripristinare il Nutrimento nelle terre selvagge."
+ITEM_COOKEDBEASTMEAT_EFFECT,Ripristina il Nutrimento e aumenta la Salute massima del 10% per 30 minuti. Può essere attivo un solo bonus da cibo alla volta.
+ITEM_COOKEDBEASTMEAT_NAME,Carne di bestia cotta
+ITEM_COOKEDCRITTER_DESC,"Un pasto semplice arrostito sulla fiamma viva, che fornisce un modesto Nutrimento in viaggio."
+ITEM_COOKEDCRITTER_EFFECT,Ripristina il Nutrimento e aumenta la Salute massima del 5% per 30 minuti. Può essere attivo un solo bonus da cibo alla volta.
+ITEM_COOKEDCRITTER_NAME,Bestiola Cotta
+ITEM_COPPERORE_DESC,"Roccia grezza contenente rame, estratta dalle miniere di Mirkea."
+ITEM_COPPERORE_EFFECT,Nessuno
+ITEM_COPPERORE_NAME,Minerale di Rame
+ITEM_COPPERPICKAXE_DESC,"Uno strumento da minatore con testa forgiata in rame, progettato per scavare facilmente nella pietra compatta."
+ITEM_COPPERPICKAXE_NAME,Piccone di Rame
+ITEM_COPPERTHROWINGKNIFE_DESC,Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.\n Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE_NAME,Coltello da Lancio di Rame
+ITEM_COPPERTHROWINGKNIFE1_DESC,Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE1_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.\n Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE1_NAME,Coltello da Lancio di Rame +1
+ITEM_COPPERTHROWINGKNIFE2_DESC,Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE2_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.\n Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE2_NAME,Coltello da Lancio di Rame +2
+ITEM_COPPERTHROWINGKNIFE3_DESC,Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE3_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.\n Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE3_NAME,Coltello da Lancio di Rame +3
+ITEM_COPPERTHROWINGKNIFE4_DESC,Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE4_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.\n Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE4_NAME,Coltello da Lancio di Rame +4
+ITEM_COPPERTHROWINGKNIFE5_DESC,Un Coltello da Lancio di Rame ben bilanciato che attraversa i nemici. Apprezzato in combattimento per precisione e peso.
+ITEM_COPPERTHROWINGKNIFE5_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento. I coltelli attraversano i nemici.\n Le cariche si ricaricano riposando.
+ITEM_COPPERTHROWINGKNIFE5_NAME,Coltello da Lancio di Rame +5
+ITEM_COPPERWOODCUTTINGAXE_DESC,Un'ascia migliorata con filo di rame. Incide più a fondo la corteccia e accelera la raccolta del legno.
+ITEM_COPPERWOODCUTTINGAXE_NAME,Ascia da Legna di Rame
+ITEM_CORRUPTEDTREANTBARK_DESC,"Corteccia annerita strappata a un Treant, deformata dalla corruzione.\n \n Un ingrediente essenziale per creare incantesimi."
+ITEM_CORRUPTEDTREANTBARK_EFFECT,Nessuno
+ITEM_CORRUPTEDTREANTBARK_NAME,Corteccia di Treant Corrotto
+ITEM_CORRUPTEDTREANTHEAD_DESC,"Contorta e annerita dalla magia oscura, la testa recisa di un Treant corrotto pulsa di energia innaturale. Liane spinose ne attraversano la corteccia crepata come vene d'odio, e il suo peso sembra eccessivo per del semplice legno."
+ITEM_CORRUPTEDTREANTHEAD_NAME,Testa di Treant Corrotto
+ITEM_CORRUPTEDTREANTHEART_DESC,Il cuore nodoso di un Treant corrotto.\n \n Un ingrediente essenziale per creare incantesimi.
+ITEM_CORRUPTEDTREANTHEART_EFFECT,Nessuno
+ITEM_CORRUPTEDTREANTHEART_NAME,Cuore di Treant Corrotto
+ITEM_CRITTERMEAT_DESC,Carne appena ricavata da piccola selvaggina.
+ITEM_CRITTERMEAT_EFFECT,Ripristina il Nutrimento ma riduce la Rigenerazione del vigore per 5 minuti.
+ITEM_CRITTERMEAT_NAME,Carne di Bestiola
+ITEM_DROOPCORE_DESC,"Il cuore vivo di un Droop, che pulsa ancora debolmente di energia arcana."
+ITEM_DROOPCORE_NAME,Nucleo di Droop
+ITEM_DROOPGELO_DESC,"Una sostanza scivolosa e gelatinosa estratta dal Droop. Idratante per natura, offusca la mente se non viene raffinata."
+ITEM_DROOPGELO_NAME,Gelatina di Droop
+ITEM_DRYADEYE_DESC,Un occhio cristallino di una Driade caduta. Si dice riveli frammenti della memoria della foresta.
+ITEM_DRYADEYE_EFFECT,Nessuno
+ITEM_DRYADEYE_NAME,Occhio di Driade
+ITEM_DRYADLOCK_DESC,"Una ciocca di capelli argentei di Driade, ancora calda di una debole scintilla vitale."
+ITEM_DRYADLOCK_EFFECT,Nessuno
+ITEM_DRYADLOCK_NAME,Ciocca di Driade
+ITEM_EARLWOODFEAST_DESC,"Un banchetto ricco e saziante di sostanziosa Carne di Bestia e uova fresche, cotto lentamente sul calore intenso del Legno di Treant. Potenzia in modo equilibrato tutti gli attributi fisici e mentali."
+ITEM_EARLWOODFEAST_EFFECT,"Ripristina il Nutrimento. Conferisce 7% Salute, Vigore e Concentrazione massimi per 30 minuti."
+ITEM_EARLWOODFEAST_NAME,Banchetto di Earlwood
+ITEM_ELIXIROFREBIRTH_DESC,Un raro elisir di rinnovamento. Bevilo per annullare tutti gli Attributi assegnati e recuperarne il valore in XP.
+ITEM_ELIXIROFREBIRTH_EFFECT,Azzera i tuoi Attributi e restituisce i punti esperienza.
+ITEM_ELIXIROFREBIRTH_NAME,Elisir della Rinascita
+ITEM_EMBERBLESSSOUP_DESC,"Una zuppa sostanziosa e riscaldante, con l'essenza ardente di Emberbloom e tenera Carne di Bestia. Riempie lo stomaco e protegge dal calore intenso e dalle fiamme impetuose."
+ITEM_EMBERBLESSSOUP_EFFECT,"Ripristina il Nutrimento. Conferisce 10% Salute massima, 25% Resistenza al fuoco e Resistenza all'ustione per 30 minuti."
+ITEM_EMBERBLESSSOUP_NAME,Zuppa Benedetta dalla Brace
+ITEM_EMBERBLOOM_DESC,"Una pianta rara che cresce nel cuore della foresta, rinomata per le sue proprietà potenzianti."
+ITEM_EMBERBLOOM_EFFECT,Nessuno
+ITEM_EMBERBLOOM_NAME,Emberbloom
+ITEM_EMBERBLOOMSEED_DESC,Un seme di Emberbloom.
+ITEM_EMBERBLOOMSEED_EFFECT,Nessuno
+ITEM_EMBERBLOOMSEED_NAME,Seme di Emberbloom
+ITEM_EMBERHOUND_DESC,Una razza nata da antichi esperimenti magici. Oggi i Cani di Brace sono spesso considerati fastidi pericolosi.
+ITEM_EMBERHOUND_EFFECT,"Scatta attraverso i nemici lungo una breve linea, lasciando una fossa infuocata all'arrivo. Infligge Danno da fuoco e applica Ustione a tutti i nemici colpiti."
+ITEM_EMBERHOUND_NAME,Cane di Brace
+ITEM_EXPLOSIVEFLASK_DESC,"Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione."
+ITEM_EXPLOSIVEFLASK_EFFECT,Lancia per creare una pozza ardente.\n Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK_NAME,Fiasca Esplosiva
+ITEM_EXPLOSIVEFLASK1_DESC,"Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione."
+ITEM_EXPLOSIVEFLASK1_EFFECT,Lancia per creare una pozza ardente.\n Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK1_NAME,Fiasca Esplosiva +1
+ITEM_EXPLOSIVEFLASK2_DESC,"Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione."
+ITEM_EXPLOSIVEFLASK2_EFFECT,Lancia per creare una pozza ardente.\n Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK2_NAME,Fiasca Esplosiva +2
+ITEM_EXPLOSIVEFLASK3_DESC,"Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione."
+ITEM_EXPLOSIVEFLASK3_EFFECT,Lancia per creare una pozza ardente.\n Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK3_NAME,Fiasca Esplosiva +3
+ITEM_EXPLOSIVEFLASK4_DESC,"Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione."
+ITEM_EXPLOSIVEFLASK4_EFFECT,Lancia per creare una pozza ardente.\n Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK4_NAME,Fiasca Esplosiva +4
+ITEM_EXPLOSIVEFLASK5_DESC,"Una fiala instabile progettata per esplodere al contatto, bruciando i nemici nel raggio dell'esplosione."
+ITEM_EXPLOSIVEFLASK5_EFFECT,Lancia per creare una pozza ardente.\n Le cariche si ricaricano riposando.
+ITEM_EXPLOSIVEFLASK5_NAME,Fiasca Esplosiva +5
+ITEM_FANGRACUB_DESC,"Un giovane lupo Fangra della Foresta di Wildwood, non ancora adulto ma già un cacciatore feroce."
+ITEM_FANGRACUB_EFFECT,"Attraversa il nemico più vicino con un balzo selvaggio, infliggendo Danno da taglio e applicando Sanguinamento e Gelo."
+ITEM_FANGRACUB_NAME,Cucciolo di Fangra
+ITEM_FLAMINGOIL_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco."
+ITEM_FLAMINGOIL_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da fuoco per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FLAMINGOIL_NAME,Olio Fiammeggiante
+ITEM_FLAMINGOIL1_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco."
+ITEM_FLAMINGOIL1_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da fuoco per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FLAMINGOIL1_NAME,Olio Fiammeggiante +1
+ITEM_FLAMINGOIL2_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco."
+ITEM_FLAMINGOIL2_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da fuoco per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FLAMINGOIL2_NAME,Olio Fiammeggiante +2
+ITEM_FLAMINGOIL3_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco."
+ITEM_FLAMINGOIL3_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da fuoco per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FLAMINGOIL3_NAME,Olio Fiammeggiante +3
+ITEM_FLAMINGOIL4_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco."
+ITEM_FLAMINGOIL4_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da fuoco per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FLAMINGOIL4_NAME,Olio Fiammeggiante +4
+ITEM_FLAMINGOIL5_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da fuoco."
+ITEM_FLAMINGOIL5_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da fuoco per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FLAMINGOIL5_NAME,Olio Fiammeggiante +5
+ITEM_FLAXGLOVES_DESC,Guanti leggeri tessuti con lino della foresta. Offrono una protezione modesta e presa durante la raccolta.
+ITEM_FLAXGLOVES_NAME,Guanti di Lino
+ITEM_FLAXROPE_DESC,Una semplice corda di lino.
+ITEM_FLAXROPE_NAME,Corda di Lino
+ITEM_FLAXSEED_DESC,Semi per coltivare Lino.
+ITEM_FLAXSEED_EFFECT,Nessuno
+ITEM_FLAXSEED_NAME,Seme di Lino
+ITEM_FORESTKINGFUR_DESC,Un folto ciuffo di pelliccia incantata che fluttua nell'aria come privo di peso.
+ITEM_FORESTKINGFUR_EFFECT,Nessuno
+ITEM_FORESTKINGFUR_NAME,Pelliccia del Re della Foresta
+ITEM_FORESTKINGTINE_DESC,"Una punta spezzata di un enorme palco di corna, liscia al tatto e intrisa di potente magia."
+ITEM_FORESTKINGTINE_EFFECT,Nessuno
+ITEM_FORESTKINGTINE_NAME,Punta di Corno del Re della Foresta
+ITEM_FRAYEDCLOTH_DESC,"Una striscia strappata di tessuto logoro, con bordi sfilacciati e consunti."
+ITEM_FRAYEDCLOTH_EFFECT,Nessuno
+ITEM_FRAYEDCLOTH_NAME,Stoffa Logora
+ITEM_FRIEDCHICKENEGG_DESC,"Un delizioso Uovo Fritto. Semplice e rapido da preparare, è ricco dell'energia essenziale per mantenere la concentrazione in viaggio."
+ITEM_FRIEDCHICKENEGG_EFFECT,Ripristina il Nutrimento. Conferisce 5% Vigore massimo e Concentrazione massima per 30 minuti.
+ITEM_FRIEDCHICKENEGG_NAME,Uovo Fritto
+ITEM_FROSTBOUNDPOTION_DESC,Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION_EFFECT,Usalo per ottenere 5 di Vincolo gelido.\n Cariche si ricarica riposando.
+ITEM_FROSTBOUNDPOTION_NAME,Pozione del Vincolo Gelido
+ITEM_FROSTBOUNDPOTION1_DESC,Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION1_EFFECT,Usalo per ottenere 5 di Vincolo gelido.\n Cariche si ricarica riposando.
+ITEM_FROSTBOUNDPOTION1_NAME,Pozione del Vincolo Gelido +1
+ITEM_FROSTBOUNDPOTION2_DESC,Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION2_EFFECT,Usalo per ottenere 5 di Vincolo gelido.\n Cariche si ricarica riposando.
+ITEM_FROSTBOUNDPOTION2_NAME,Pozione del Vincolo Gelido +2
+ITEM_FROSTBOUNDPOTION3_DESC,Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION3_EFFECT,Usalo per ottenere 5 di Vincolo gelido.\n Cariche si ricarica riposando.
+ITEM_FROSTBOUNDPOTION3_NAME,Pozione del Vincolo Gelido +3
+ITEM_FROSTBOUNDPOTION4_DESC,Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION4_EFFECT,Usalo per ottenere 5 di Vincolo gelido.\n Cariche si ricarica riposando.
+ITEM_FROSTBOUNDPOTION4_NAME,Pozione del Vincolo Gelido +4
+ITEM_FROSTBOUNDPOTION5_DESC,Una pozione a base di infuso di Thaumablossom che protegge dal Ghiaccio.
+ITEM_FROSTBOUNDPOTION5_EFFECT,Usalo per ottenere 5 di Vincolo gelido.\n Cariche si ricarica riposando.
+ITEM_FROSTBOUNDPOTION5_NAME,Pozione del Vincolo Gelido +5
+ITEM_FROSTEDOIL_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio."
+ITEM_FROSTEDOIL_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da ghiaccio per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FROSTEDOIL_NAME,Olio Gelido
+ITEM_FROSTEDOIL1_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio."
+ITEM_FROSTEDOIL1_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da ghiaccio per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FROSTEDOIL1_NAME,Olio Gelido +1
+ITEM_FROSTEDOIL2_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio."
+ITEM_FROSTEDOIL2_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da ghiaccio per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FROSTEDOIL2_NAME,Olio Gelido +2
+ITEM_FROSTEDOIL3_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio."
+ITEM_FROSTEDOIL3_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da ghiaccio per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FROSTEDOIL3_NAME,Olio Gelido +3
+ITEM_FROSTEDOIL4_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio."
+ITEM_FROSTEDOIL4_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da ghiaccio per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FROSTEDOIL4_NAME,Olio Gelido +4
+ITEM_FROSTEDOIL5_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da ghiaccio."
+ITEM_FROSTEDOIL5_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da ghiaccio per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_FROSTEDOIL5_NAME,Olio Gelido +5
+ITEM_FROSTOWL_DESC,"Originarie delle vette gelate dei Monti di Dimraeth, le Civette Gelide vanno in letargo d'estate e vagano per Mirkea d'inverno."
+ITEM_FROSTOWL_EFFECT,"Sorveglia i nemici Assiderati, poi piomba su di loro per diffondere Gelo a tutti i nemici vicini."
+ITEM_FROSTOWL_NAME,Civetta Gelida
+ITEM_GLASSVIAL_DESC,"Un recipiente trasparente di qualità alchemica, progettato per contenere pozioni, estratti o miscele instabili."
+ITEM_GLASSVIAL_EFFECT,Nessuno
+ITEM_GLASSVIAL_NAME,Fiala di Vetro
+ITEM_GOBLINKINGHEAD_DESC,"La testa di un Re Goblin, con gli occhi spalancati e iniettati di sangue, come se cercasse ancora il prossimo pasto."
+ITEM_GOBLINKINGHEAD_EFFECT,Nessuno
+ITEM_GOBLINKINGHEAD_NAME,Testa del Re Goblin
+ITEM_GOBLINTOOTH_DESC,"Un piccolo dente ingiallito, scheggiato e storto, estratto dalla mascella di un goblin."
+ITEM_GOBLINTOOTH_EFFECT,Nessuno
+ITEM_GOBLINTOOTH_NAME,Dente di Goblin
+ITEM_HEARTOAK_DESC,Legno pesante ricavato dalla venerata Quercia del Cuore di Aldoria.
+ITEM_HEARTOAK_EFFECT,Nessuno
+ITEM_HEARTOAK_NAME,Quercia del Cuore
+ITEM_HEARTOAKPLANKS_DESC,Tavole robuste ricavate dal legno di Quercia del Cuore. Essenziali per costruire.
+ITEM_HEARTOAKPLANKS_NAME,Tavole di Quercia del Cuore
+ITEM_HORDEKINGTOOTH_DESC,"Una zanna seghettata del Re del Tesoro, macchiata di scuro vicino alla radice."
+ITEM_HORDEKINGTOOTH_EFFECT,Nessuno
+ITEM_HORDEKINGTOOTH_NAME,Dente del Re del Tesoro
+ITEM_HOUND_DESC,"Un cane da caccia originario di Aldoria, tenuto comunemente dai cacciatori dei villaggi."
+ITEM_HOUND_EFFECT,"Cerca il nemico più vicino e gli si avventa contro, infliggendo Danno da taglio e ulteriore Accumulo di stordimento."
+ITEM_HOUND_NAME,Cane
+ITEM_HUNTERSSTEW_DESC,"Uno stufato caldo e nutriente, cotto lentamente con cura. Spesso condiviso ai focolari del villaggio dopo lunghe giornate di lavoro."
+ITEM_HUNTERSSTEW_EFFECT,Ripristina il Nutrimento e aumenta Salute massima e Vigore massimo del 10% per 30 minuti. Può essere attivo un solo bonus da cibo alla volta.
+ITEM_HUNTERSSTEW_NAME,Stufato del Cacciatore
+ITEM_INNOCULATIONPOTION_DESC,Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION_EFFECT,Usalo per ottenere 5 di Inoculazione.\n Cariche si ricarica riposando.
+ITEM_INNOCULATIONPOTION_NAME,Pozione di Inoculazione
+ITEM_INNOCULATIONPOTION1_DESC,Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION1_EFFECT,Usalo per ottenere 5 di Inoculazione.\n Cariche si ricarica riposando.
+ITEM_INNOCULATIONPOTION1_NAME,Pozione di Inoculazione +1
+ITEM_INNOCULATIONPOTION2_DESC,Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION2_EFFECT,Usalo per ottenere 5 di Inoculazione.\n Cariche si ricarica riposando.
+ITEM_INNOCULATIONPOTION2_NAME,Pozione di Inoculazione +2
+ITEM_INNOCULATIONPOTION3_DESC,Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION3_EFFECT,Usalo per ottenere 5 di Inoculazione.\n Cariche si ricarica riposando.
+ITEM_INNOCULATIONPOTION3_NAME,Pozione di Inoculazione +3
+ITEM_INNOCULATIONPOTION4_DESC,Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION4_EFFECT,Usalo per ottenere 5 di Inoculazione.\n Cariche si ricarica riposando.
+ITEM_INNOCULATIONPOTION4_NAME,Pozione di Inoculazione +4
+ITEM_INNOCULATIONPOTION5_DESC,Una pozione a base di infuso di veleno che protegge dagli effetti velenosi e dal Decadimento.
+ITEM_INNOCULATIONPOTION5_EFFECT,Usalo per ottenere 5 di Inoculazione.\n Cariche si ricarica riposando.
+ITEM_INNOCULATIONPOTION5_NAME,Pozione di Inoculazione +5
+ITEM_KINDLINGPOTION_DESC,Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION_EFFECT,Usalo per ottenere 5 di Innesco.\n Cariche si ricarica riposando.
+ITEM_KINDLINGPOTION_NAME,Pozione d'Innesco
+ITEM_KINDLINGPOTION1_DESC,Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION1_EFFECT,Usalo per ottenere 5 di Innesco.\n Cariche si ricarica riposando.
+ITEM_KINDLINGPOTION1_NAME,Pozione d'Innesco +1
+ITEM_KINDLINGPOTION2_DESC,Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION2_EFFECT,Usalo per ottenere 5 di Innesco.\n Cariche si ricarica riposando.
+ITEM_KINDLINGPOTION2_NAME,Pozione d'Innesco +2
+ITEM_KINDLINGPOTION3_DESC,Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION3_EFFECT,Usalo per ottenere 5 di Innesco.\n Cariche si ricarica riposando.
+ITEM_KINDLINGPOTION3_NAME,Pozione d'Innesco +3
+ITEM_KINDLINGPOTION4_DESC,Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION4_EFFECT,Usalo per ottenere 5 di Innesco.\n Cariche si ricarica riposando.
+ITEM_KINDLINGPOTION4_NAME,Pozione d'Innesco +4
+ITEM_KINDLINGPOTION5_DESC,Una pozione a base di infuso di Emberbloom che protegge dal Fuoco.
+ITEM_KINDLINGPOTION5_EFFECT,Usalo per ottenere 5 di Innesco.\n Cariche si ricarica riposando.
+ITEM_KINDLINGPOTION5_NAME,Pozione d'Innesco +5
+ITEM_LARGEGOBLINTOOTH_DESC,"Un dente di goblin enorme, pesante e spesso, con solchi profondi."
+ITEM_LARGEGOBLINTOOTH_EFFECT,Nessuno
+ITEM_LARGEGOBLINTOOTH_NAME,Dente di Goblin Grande
+ITEM_LESSERCONCENTRATIONPOTION_DESC,Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION_EFFECT,Ripristina 450 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONPOTION_NAME,Pozione Minore di Concentrazione
+ITEM_LESSERCONCENTRATIONPOTION1_DESC,Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION1_EFFECT,Ripristina 450 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONPOTION1_NAME,Pozione Minore di Concentrazione +1
+ITEM_LESSERCONCENTRATIONPOTION2_DESC,Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION2_EFFECT,Ripristina 450 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONPOTION2_NAME,Pozione Minore di Concentrazione +2
+ITEM_LESSERCONCENTRATIONPOTION3_DESC,Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION3_EFFECT,Ripristina 450 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONPOTION3_NAME,Pozione Minore di Concentrazione +3
+ITEM_LESSERCONCENTRATIONPOTION4_DESC,Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION4_EFFECT,Ripristina 450 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONPOTION4_NAME,Pozione Minore di Concentrazione +4
+ITEM_LESSERCONCENTRATIONPOTION5_DESC,Una pozione di lucidità distillata da fiori rari ed essenza arcana.
+ITEM_LESSERCONCENTRATIONPOTION5_EFFECT,Ripristina 450 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONPOTION5_NAME,Pozione Minore di Concentrazione +5
+ITEM_LESSERCONCENTRATIONTHROWFLASK_DESC,Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK_EFFECT,Lancialo per ripristinare 300 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONTHROWFLASK_NAME,Fiasca da Lancio Minore di Concentrazione
+ITEM_LESSERCONCENTRATIONTHROWFLASK1_DESC,Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK1_EFFECT,Lancialo per ripristinare 300 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONTHROWFLASK1_NAME,Fiasca da Lancio Minore di Concentrazione +1
+ITEM_LESSERCONCENTRATIONTHROWFLASK2_DESC,Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK2_EFFECT,Lancialo per ripristinare 300 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONTHROWFLASK2_NAME,Fiasca da Lancio Minore di Concentrazione +2
+ITEM_LESSERCONCENTRATIONTHROWFLASK3_DESC,Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK3_EFFECT,Lancialo per ripristinare 300 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONTHROWFLASK3_NAME,Fiasca da Lancio Minore di Concentrazione +3
+ITEM_LESSERCONCENTRATIONTHROWFLASK4_DESC,Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK4_EFFECT,Lancialo per ripristinare 300 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONTHROWFLASK4_NAME,Fiasca da Lancio Minore di Concentrazione +4
+ITEM_LESSERCONCENTRATIONTHROWFLASK5_DESC,Una Pozione Minore di Concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_LESSERCONCENTRATIONTHROWFLASK5_EFFECT,Lancialo per ripristinare 300 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERCONCENTRATIONTHROWFLASK5_NAME,Fiasca da Lancio Minore di Concentrazione +5
+ITEM_LESSERHEALTHPOTION_DESC,Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION_EFFECT,Ripristina 450 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHPOTION_NAME,Pozione Minore di Salute
+ITEM_LESSERHEALTHPOTION1_DESC,Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION1_EFFECT,Ripristina 450 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHPOTION1_NAME,Pozione Minore di Salute +1
+ITEM_LESSERHEALTHPOTION2_DESC,Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION2_EFFECT,Ripristina 450 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHPOTION2_NAME,Pozione Minore di Salute +2
+ITEM_LESSERHEALTHPOTION3_DESC,Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION3_EFFECT,Ripristina 450 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHPOTION3_NAME,Pozione Minore di Salute +3
+ITEM_LESSERHEALTHPOTION4_DESC,Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION4_EFFECT,Ripristina 450 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHPOTION4_NAME,Pozione Minore di Salute +4
+ITEM_LESSERHEALTHPOTION5_DESC,Una bevanda curativa preparata con acqua incantata ed erbe.
+ITEM_LESSERHEALTHPOTION5_EFFECT,Ripristina 450 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHPOTION5_NAME,Pozione Minore di Salute +5
+ITEM_LESSERHEALTHTHROWFLASK_DESC,Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK_EFFECT,Lancialo per ripristinare 300 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHTHROWFLASK_NAME,Fiasca da Lancio Minore di Salute
+ITEM_LESSERHEALTHTHROWFLASK1_DESC,Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK1_EFFECT,Lancialo per ripristinare 300 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHTHROWFLASK1_NAME,Fiasca da Lancio Minore di Salute +1
+ITEM_LESSERHEALTHTHROWFLASK2_DESC,Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK2_EFFECT,Lancialo per ripristinare 300 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHTHROWFLASK2_NAME,Fiasca da Lancio Minore di Salute +2
+ITEM_LESSERHEALTHTHROWFLASK3_DESC,Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK3_EFFECT,Lancialo per ripristinare 300 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHTHROWFLASK3_NAME,Fiasca da Lancio Minore di Salute +3
+ITEM_LESSERHEALTHTHROWFLASK4_DESC,Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK4_EFFECT,Lancialo per ripristinare 300 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHTHROWFLASK4_NAME,Fiasca da Lancio Minore di Salute +4
+ITEM_LESSERHEALTHTHROWFLASK5_DESC,Una Pozione Minore di Salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_LESSERHEALTHTHROWFLASK5_EFFECT,Lancialo per ripristinare 300 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERHEALTHTHROWFLASK5_NAME,Fiasca da Lancio Minore di Salute +5
+ITEM_LESSERSTAMINAPOTION_DESC,Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION_EFFECT,Ripristina 450 di Vigore in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINAPOTION_NAME,Pozione Minore di Vigore
+ITEM_LESSERSTAMINAPOTION1_DESC,Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION1_EFFECT,Ripristina 450 di Vigore in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINAPOTION1_NAME,Pozione Minore di Vigore +1
+ITEM_LESSERSTAMINAPOTION2_DESC,Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION2_EFFECT,Ripristina 450 di Vigore in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINAPOTION2_NAME,Pozione Minore di Vigore +2
+ITEM_LESSERSTAMINAPOTION3_DESC,Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION3_EFFECT,Ripristina 450 di Vigore in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINAPOTION3_NAME,Pozione Minore di Vigore +3
+ITEM_LESSERSTAMINAPOTION4_DESC,Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION4_EFFECT,Ripristina 450 di Vigore in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINAPOTION4_NAME,Pozione Minore di Vigore +4
+ITEM_LESSERSTAMINAPOTION5_DESC,Un tonico rivitalizzante al profumo di menta ed erbe selvatiche.
+ITEM_LESSERSTAMINAPOTION5_EFFECT,Ripristina 450 di Vigore in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINAPOTION5_NAME,Pozione Minore di Vigore +5
+ITEM_LESSERSTAMINATHROWFLASK_DESC,Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK_EFFECT,Lancialo per ripristinare 300 di Vigore a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINATHROWFLASK_NAME,Fiasca da Lancio Minore di Vigore
+ITEM_LESSERSTAMINATHROWFLASK1_DESC,Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK1_EFFECT,Lancialo per ripristinare 300 di Vigore a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINATHROWFLASK1_NAME,Fiasca da Lancio Minore di Vigore +1
+ITEM_LESSERSTAMINATHROWFLASK2_DESC,Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK2_EFFECT,Lancialo per ripristinare 300 di Vigore a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINATHROWFLASK2_NAME,Fiasca da Lancio Minore di Vigore +2
+ITEM_LESSERSTAMINATHROWFLASK3_DESC,Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK3_EFFECT,Lancialo per ripristinare 300 di Vigore a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINATHROWFLASK3_NAME,Fiasca da Lancio Minore di Vigore +3
+ITEM_LESSERSTAMINATHROWFLASK4_DESC,Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK4_EFFECT,Lancialo per ripristinare 300 di Vigore a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINATHROWFLASK4_NAME,Fiasca da Lancio Minore di Vigore +4
+ITEM_LESSERSTAMINATHROWFLASK5_DESC,Una Pozione Minore di Vigore con una corda legata attorno. Utile per ripristinare il Vigore altrui in combattimento.
+ITEM_LESSERSTAMINATHROWFLASK5_EFFECT,Lancialo per ripristinare 300 di Vigore a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_LESSERSTAMINATHROWFLASK5_NAME,Fiasca da Lancio Minore di Vigore +5
+ITEM_LIGHTBANDAGES_DESC,Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES_EFFECT,Cura Sanguinamento.\n Cariche si ricarica riposando.
+ITEM_LIGHTBANDAGES_NAME,Bende Leggere
+ITEM_LIGHTBANDAGES1_DESC,Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES1_EFFECT,Cura Sanguinamento.\n Cariche si ricarica riposando.
+ITEM_LIGHTBANDAGES1_NAME,Bende Leggere +1
+ITEM_LIGHTBANDAGES2_DESC,Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES2_EFFECT,Cura Sanguinamento.\n Cariche si ricarica riposando.
+ITEM_LIGHTBANDAGES2_NAME,Bende Leggere +2
+ITEM_LIGHTBANDAGES3_DESC,Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES3_EFFECT,Cura Sanguinamento.\n Cariche si ricarica riposando.
+ITEM_LIGHTBANDAGES3_NAME,Bende Leggere +3
+ITEM_LIGHTBANDAGES4_DESC,Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES4_EFFECT,Cura Sanguinamento.\n Cariche si ricarica riposando.
+ITEM_LIGHTBANDAGES4_NAME,Bende Leggere +4
+ITEM_LIGHTBANDAGES5_DESC,Bende avvolte strettamente e preparate con unguenti curativi. Usate per trattare le ferite sul campo.
+ITEM_LIGHTBANDAGES5_EFFECT,Cura Sanguinamento.\n Cariche si ricarica riposando.
+ITEM_LIGHTBANDAGES5_NAME,Bende Leggere +5
+ITEM_LINEN_DESC,Tessuto a trama fitta ottenuto da fibre vegetali trattate.
+ITEM_LINEN_EFFECT,Nessuno
+ITEM_LINEN_NAME,Lino
+ITEM_LINENGLOVES_DESC,Robusti guanti da lavoro cuciti in tela. Migliorano presa e comfort durante la raccolta prolungata.
+ITEM_LINENGLOVES_NAME,Guanti di Tela
+ITEM_MINORBLOODRAGEPOTION_DESC,Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION_EFFECT,Bevi per applicare 2 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION_NAME,Pozione Scarsa della Furia Sanguinaria
+ITEM_MINORBLOODRAGEPOTION1_DESC,Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION1_EFFECT,Bevi per applicare 2 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION1_NAME,Pozione Scarsa della Furia Sanguinaria +1
+ITEM_MINORBLOODRAGEPOTION2_DESC,Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION2_EFFECT,Bevi per applicare 2 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION2_NAME,Pozione Scarsa della Furia Sanguinaria +2
+ITEM_MINORBLOODRAGEPOTION3_DESC,Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION3_EFFECT,Bevi per applicare 2 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION3_NAME,Pozione Scarsa della Furia Sanguinaria +3
+ITEM_MINORBLOODRAGEPOTION4_DESC,Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION4_EFFECT,Bevi per applicare 2 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION4_NAME,Pozione Scarsa della Furia Sanguinaria +4
+ITEM_MINORBLOODRAGEPOTION5_DESC,Una pozione ricavata dall'essenza di un Goblin. Conferisce temporaneamente Furia a chi la beve.
+ITEM_MINORBLOODRAGEPOTION5_EFFECT,Bevi per applicare 2 accumuli di Furia.\n Le cariche si ricaricano riposando.
+ITEM_MINORBLOODRAGEPOTION5_NAME,Pozione Scarsa della Furia Sanguinaria +5
+ITEM_MINORCONCENTRATIONTHROWFLASK_DESC,Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK_EFFECT,Lancialo per ripristinare 100 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK_NAME,Fiasca da Lancio Scarsa di Concentrazione
+ITEM_MINORCONCENTRATIONTHROWFLASK1_DESC,Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK1_EFFECT,Lancialo per ripristinare 100 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK1_NAME,Fiasca da Lancio Scarsa di Concentrazione +1
+ITEM_MINORCONCENTRATIONTHROWFLASK2_DESC,Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK2_EFFECT,Lancialo per ripristinare 100 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK2_NAME,Fiasca da Lancio Scarsa di Concentrazione +2
+ITEM_MINORCONCENTRATIONTHROWFLASK3_DESC,Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK3_EFFECT,Lancialo per ripristinare 100 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK3_NAME,Fiasca da Lancio Scarsa di Concentrazione +3
+ITEM_MINORCONCENTRATIONTHROWFLASK4_DESC,Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK4_EFFECT,Lancialo per ripristinare 100 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK4_NAME,Fiasca da Lancio Scarsa di Concentrazione +4
+ITEM_MINORCONCENTRATIONTHROWFLASK5_DESC,Un estratto scarso di concentrazione con una corda legata attorno. Utile per ripristinare la Concentrazione altrui in combattimento.
+ITEM_MINORCONCENTRATIONTHROWFLASK5_EFFECT,Lancialo per ripristinare 100 di Concentrazione a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORCONCENTRATIONTHROWFLASK5_NAME,Fiasca da Lancio Scarsa di Concentrazione +5
+ITEM_MINORHEALTHTHROWFLASK_DESC,Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK_EFFECT,Lancialo per ripristinare 100 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORHEALTHTHROWFLASK_NAME,Fiasca da Lancio Scarsa di Salute
+ITEM_MINORHEALTHTHROWFLASK1_DESC,Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK1_EFFECT,Lancialo per ripristinare 100 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORHEALTHTHROWFLASK1_NAME,Fiasca da Lancio Scarsa di Salute +1
+ITEM_MINORHEALTHTHROWFLASK2_DESC,Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK2_EFFECT,Lancialo per ripristinare 100 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORHEALTHTHROWFLASK2_NAME,Fiasca da Lancio Scarsa di Salute +2
+ITEM_MINORHEALTHTHROWFLASK3_DESC,Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK3_EFFECT,Lancialo per ripristinare 100 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORHEALTHTHROWFLASK3_NAME,Fiasca da Lancio Scarsa di Salute +3
+ITEM_MINORHEALTHTHROWFLASK4_DESC,Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK4_EFFECT,Lancialo per ripristinare 100 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORHEALTHTHROWFLASK4_NAME,Fiasca da Lancio Scarsa di Salute +4
+ITEM_MINORHEALTHTHROWFLASK5_DESC,Un estratto scarso di salute con una corda legata attorno. Utile per curare gli altri in combattimento.
+ITEM_MINORHEALTHTHROWFLASK5_EFFECT,Lancialo per ripristinare 100 di Salute a un alleato in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_MINORHEALTHTHROWFLASK5_NAME,Fiasca da Lancio Scarsa di Salute +5
+ITEM_MONKEY_NAME,Scimmia
+ITEM_MOONCAT_DESC,"Un compagno comune degli apprendisti maghi della Grande Accademia di Aldoria, noto per la sua magia rivitalizzante e la presenza rasserenante."
+ITEM_MOONCAT_EFFECT,Resta vicino al giocatore ed emette pulsazioni regolari che ripristinano la Concentrazione nel tempo.
+ITEM_MOONCAT_NAME,Gatto Lunare
+ITEM_NATURESCALMTONIC_DESC,"Un tonico lenitivo e calmante preparato con Thaumablossom al chiaro di luna e Legno di Treant. Placa la mente, favorendo una concentrazione profonda e un recupero più rapido della Concentrazione."
+ITEM_NATURESCALMTONIC_EFFECT,Ripristina il Nutrimento. Conferisce 10% Concentrazione massima e Rigenerazione della concentrazione per 30 minuti.
+ITEM_NATURESCALMTONIC_NAME,Tonico della Calma Naturale
+ITEM_NATURESWARDSTEAK_DESC,Una bistecca di bestia cotta con Legno di Treant e condita con Thaumablossom. Conferisce resistenza prolungata agli effetti del veleno.
+ITEM_NATURESWARDSTEAK_EFFECT,"Ripristina il Nutrimento. Conferisce 10% Salute massima, 25% Resistenza al decadimento e Resistenza al veleno per 30 minuti."
+ITEM_NATURESWARDSTEAK_NAME,Bistecca della Protezione Naturale
+ITEM_OIL_DESC,Un liquido denso e scivoloso che prende fuoco facilmente e brucia a lungo.
+ITEM_OIL_EFFECT,Nessuno
+ITEM_OIL_NAME,Olio
+ITEM_OILFLASK_DESC,"Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici."
+ITEM_OILFLASK_EFFECT,Lancia per creare una Pozza d'Olio.\n Le cariche si ricaricano riposando.
+ITEM_OILFLASK_NAME,Fiasca d'Olio
+ITEM_OILFLASK1_DESC,"Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici."
+ITEM_OILFLASK1_EFFECT,Lancia per creare una Pozza d'Olio.\n Le cariche si ricaricano riposando.
+ITEM_OILFLASK1_NAME,Fiasca d'Olio +1
+ITEM_OILFLASK2_DESC,"Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici."
+ITEM_OILFLASK2_EFFECT,Lancia per creare una Pozza d'Olio.\n Le cariche si ricaricano riposando.
+ITEM_OILFLASK2_NAME,Fiasca d'Olio +2
+ITEM_OILFLASK3_DESC,"Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici."
+ITEM_OILFLASK3_EFFECT,Lancia per creare una Pozza d'Olio.\n Le cariche si ricaricano riposando.
+ITEM_OILFLASK3_NAME,Fiasca d'Olio +3
+ITEM_OILFLASK4_DESC,"Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici."
+ITEM_OILFLASK4_EFFECT,Lancia per creare una Pozza d'Olio.\n Le cariche si ricaricano riposando.
+ITEM_OILFLASK4_NAME,Fiasca d'Olio +4
+ITEM_OILFLASK5_DESC,"Una fiasca di olio denso e infiammabile, usato per rivestire superfici, accendere trappole o alimentare fuochi alchemici."
+ITEM_OILFLASK5_EFFECT,Lancia per creare una Pozza d'Olio.\n Le cariche si ricaricano riposando.
+ITEM_OILFLASK5_NAME,Fiasca d'Olio +5
+ITEM_PINEWOODPLANKS_DESC,"Tavole ricavate dal Pino di Wildwood, apprezzate per la robustezza e usate in costruzioni resistenti."
+ITEM_PINEWOODPLANKS_NAME,Tavole di Pino
+ITEM_POETSBREW_DESC,"Una bevanda ispiratrice e melodiosa con infuso di Campanula Canterina. Schiarisce la gola e accelera il battito, donando ai viandanti la resistenza di un bardo rinomato."
+ITEM_POETSBREW_EFFECT,Ripristina il Nutrimento. Conferisce 10% Vigore massimo e Rigenerazione del vigore per 30 minuti.
+ITEM_POETSBREW_NAME,Infuso del Poeta
+ITEM_POISON_DESC,Un liquido velenoso denso.
+ITEM_POISON_EFFECT,Nessuno
+ITEM_POISON_NAME,Veleno
+ITEM_POISONCURE_DESC,Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE_EFFECT,Cura Veleno.\n Cariche si ricarica riposando.
+ITEM_POISONCURE_NAME,Antidoto
+ITEM_POISONCURE1_DESC,Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE1_EFFECT,Cura Veleno.\n Cariche si ricarica riposando.
+ITEM_POISONCURE1_NAME,Antidoto +1
+ITEM_POISONCURE2_DESC,Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE2_EFFECT,Cura Veleno.\n Cariche si ricarica riposando.
+ITEM_POISONCURE2_NAME,Antidoto +2
+ITEM_POISONCURE3_DESC,Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE3_EFFECT,Cura Veleno.\n Cariche si ricarica riposando.
+ITEM_POISONCURE3_NAME,Antidoto +3
+ITEM_POISONCURE4_DESC,Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE4_EFFECT,Cura Veleno.\n Cariche si ricarica riposando.
+ITEM_POISONCURE4_NAME,Antidoto +4
+ITEM_POISONCURE5_DESC,Un tonico alle erbe formulato per eliminare le tossine nocive dal corpo. Apprezzato dagli esploratori esperti.
+ITEM_POISONCURE5_EFFECT,Cura Veleno.\n Cariche si ricarica riposando.
+ITEM_POISONCURE5_NAME,Antidoto +5
+ITEM_POISONFLASK_DESC,Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK_EFFECT,Lancia per creare una Pozza di Veleno.\n Le cariche si ricaricano riposando.
+ITEM_POISONFLASK_NAME,Fiasca di Veleno
+ITEM_POISONFLASK1_DESC,Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK1_EFFECT,Lancia per creare una Pozza di Veleno.\n Le cariche si ricaricano riposando.
+ITEM_POISONFLASK1_NAME,Fiasca di Veleno +1
+ITEM_POISONFLASK2_DESC,Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK2_EFFECT,Lancia per creare una Pozza di Veleno.\n Le cariche si ricaricano riposando.
+ITEM_POISONFLASK2_NAME,Fiasca di Veleno +2
+ITEM_POISONFLASK3_DESC,Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK3_EFFECT,Lancia per creare una Pozza di Veleno.\n Le cariche si ricaricano riposando.
+ITEM_POISONFLASK3_NAME,Fiasca di Veleno +3
+ITEM_POISONFLASK4_DESC,Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK4_EFFECT,Lancia per creare una Pozza di Veleno.\n Le cariche si ricaricano riposando.
+ITEM_POISONFLASK4_NAME,Fiasca di Veleno +4
+ITEM_POISONFLASK5_DESC,Un contenitore sigillato di potente tossina. Spesso usato per creare zone avvelenate o miscele letali.
+ITEM_POISONFLASK5_EFFECT,Lancia per creare una Pozza di Veleno.\n Le cariche si ricaricano riposando.
+ITEM_POISONFLASK5_NAME,Fiasca di Veleno +5
+ITEM_RECIPEALCHEMYTABLE_DESC,Ricetta: Tavolo d'alchimia. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEALCHEMYTABLE_NAME,Ricetta: Tavolo d'alchimia
+ITEM_RECIPEALPHAFURRUG_DESC,Ricetta: Tappeto di Pelliccia Alfa. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEALPHAFURRUG_NAME,Ricetta: Tappeto di Pelliccia Alfa
+ITEM_RECIPEAPPLEJUICE_DESC,Ricetta: Succo di Mela. Usa per apprendere la ricetta.
+ITEM_RECIPEAPPLEJUICE_NAME,Ricetta: Succo di Mela
+ITEM_RECIPEAPPLETREEPLOT_DESC,Ricetta: Appezzamento di Meli. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEAPPLETREEPLOT_NAME,Ricetta: Appezzamento di Meli
+ITEM_RECIPEBASILTONGARDEN_DESC,Ricetta: Giardino di Basilton. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEBASILTONGARDEN_NAME,Ricetta: Giardino di Basilton
+ITEM_RECIPEBELLFLOWERSOUP_DESC,Ricetta: Zuppa di Campanula. Usa per apprendere la ricetta.
+ITEM_RECIPEBELLFLOWERSOUP_NAME,Ricetta: Zuppa di Campanula
+ITEM_RECIPEBLOODRAGEPOTION_DESC,Ricetta: Pozione della Furia Sanguinaria. Usa per apprendere la ricetta.
+ITEM_RECIPEBLOODRAGEPOTION_NAME,Ricetta: Pozione della Furia Sanguinaria
+ITEM_RECIPEBURNSALVE_DESC,Ricetta: Unguento per ustioni. Usa per apprendere la ricetta.
+ITEM_RECIPEBURNSALVE_NAME,Ricetta: Unguento per ustioni
+ITEM_RECIPEBURROWBROTH_DESC,Ricetta: Brodo di Tana. Usa per apprendere la ricetta.
+ITEM_RECIPEBURROWBROTH_NAME,Ricetta: Brodo di Tana
+ITEM_RECIPECHICKENCOOP_DESC,Ricetta: Pollaio. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPECHICKENCOOP_NAME,Ricetta: Pollaio
+ITEM_RECIPECOOKEDBEASTMEAT_DESC,Ricetta: Carne di bestia cotta. Usa per apprendere la ricetta.
+ITEM_RECIPECOOKEDBEASTMEAT_NAME,Ricetta: Carne di bestia cotta
+ITEM_RECIPECOOKEDCRITTER_DESC,Ricetta: Bestiola Cotta. Usa per apprendere la ricetta.
+ITEM_RECIPECOOKEDCRITTER_NAME,Ricetta: Bestiola Cotta
+ITEM_RECIPECOPPERPICKAXE_DESC,Ricetta: Piccone di Rame. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERPICKAXE_NAME,Ricetta: Piccone di Rame
+ITEM_RECIPECOPPERQUARRY_DESC,Ricetta: Cava di Rame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERQUARRY_NAME,Ricetta: Cava di Rame
+ITEM_RECIPECOPPERTHROWINGKNIFE_DESC,Ricetta: Coltello da Lancio di Rame. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERTHROWINGKNIFE_NAME,Ricetta: Coltello da Lancio di Rame
+ITEM_RECIPECOPPERWOODCUTTINGAXE_DESC,Ricetta: Ascia da Legna di Rame. Usa per apprendere la ricetta.
+ITEM_RECIPECOPPERWOODCUTTINGAXE_NAME,Ricetta: Ascia da Legna di Rame
+ITEM_RECIPECORRUPTEDTREANTTROPHY_DESC,Ricetta: Trofeo di Treant Corrotto. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPECORRUPTEDTREANTTROPHY_NAME,Ricetta: Trofeo di Treant Corrotto
+ITEM_RECIPEDAISYPATCH_DESC,Ricetta: Aiuola di Margherite. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEDAISYPATCH_NAME,Ricetta: Aiuola di Margherite
+ITEM_RECIPEDROOPFARM_DESC,Ricetta: Allevamento di Droop. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEDROOPFARM_NAME,Ricetta: Allevamento di Droop
+ITEM_RECIPEEARLWOODBANNER_DESC,Ricetta: Stendardo di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODBANNER_NAME,Ricetta: Stendardo di Earlwood
+ITEM_RECIPEEARLWOODBARRELCHAIR_DESC,Ricetta: Sedia a Botte di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODBARRELCHAIR_NAME,Ricetta: Sedia a Botte di Earlwood
+ITEM_RECIPEEARLWOODBRAZIER_DESC,Ricetta: Braciere di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODBRAZIER_NAME,Ricetta: Braciere di Earlwood
+ITEM_RECIPEEARLWOODFEAST_DESC,Ricetta: Banchetto di Earlwood. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODFEAST_NAME,Ricetta: Banchetto di Earlwood
+ITEM_RECIPEEARLWOODFENCE_DESC,Ricetta: Recinto di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODFENCE_NAME,Ricetta: Recinto di Earlwood
+ITEM_RECIPEEARLWOODHEARTH_DESC,Ricetta: Focolare di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODHEARTH_NAME,Ricetta: Focolare di Earlwood
+ITEM_RECIPEEARLWOODPOTPLANT_DESC,Ricetta: Pianta in Vaso di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODPOTPLANT_NAME,Ricetta: Pianta in Vaso di Earlwood
+ITEM_RECIPEEARLWOODTRAININGDUMMY_DESC,Ricetta: Manichino da Allenamento di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODTRAININGDUMMY_NAME,Ricetta: Manichino da Allenamento di Earlwood
+ITEM_RECIPEEARLWOODWALLBANNER_DESC,Ricetta: Stendardo da Muro di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEEARLWOODWALLBANNER_NAME,Ricetta: Stendardo da Muro di Earlwood
+ITEM_RECIPEELIXIROFREBIRTH_DESC,Ricetta: Elisir della Rinascita. Usa per apprendere la ricetta.
+ITEM_RECIPEELIXIROFREBIRTH_NAME,Ricetta: Elisir della Rinascita
+ITEM_RECIPEEMBERBLESSSOUP_DESC,Ricetta: Zuppa Benedetta dalla Brace. Usa per apprendere la ricetta.
+ITEM_RECIPEEMBERBLESSSOUP_NAME,Ricetta: Zuppa Benedetta dalla Brace
+ITEM_RECIPEEXPLOSIVEFLASK_DESC,Ricetta: Fiasca Esplosiva. Usa per apprendere la ricetta.
+ITEM_RECIPEEXPLOSIVEFLASK_NAME,Ricetta: Fiasca Esplosiva
+ITEM_RECIPEFACILITYCENTRE_DESC,Ricetta: Centro Servizi. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEFACILITYCENTRE_NAME,Ricetta: Centro Servizi
+ITEM_RECIPEFLAMINGOIL_DESC,Ricetta: Olio Fiammeggiante. Usa per apprendere la ricetta.
+ITEM_RECIPEFLAMINGOIL_NAME,Ricetta: Olio Fiammeggiante
+ITEM_RECIPEFLAXGLOVES_DESC,Ricetta: Guanti di Lino. Usa per apprendere la ricetta.
+ITEM_RECIPEFLAXGLOVES_NAME,Ricetta: Guanti di Lino
+ITEM_RECIPEFLAXROPE_DESC,Ricetta: Corda di Lino. Usa per apprendere la ricetta.
+ITEM_RECIPEFLAXROPE_NAME,Ricetta: Corda di Lino
+ITEM_RECIPEFRAYEDRUG_DESC,Ricetta: Tappeto Logoro. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEFRAYEDRUG_NAME,Ricetta: Tappeto Logoro
+ITEM_RECIPEFRIEDCHICKENEGG_DESC,Ricetta: Uovo Fritto. Usa per apprendere la ricetta.
+ITEM_RECIPEFRIEDCHICKENEGG_NAME,Ricetta: Uovo Fritto
+ITEM_RECIPEFROSTBOUNDPOTION_DESC,Ricetta: Pozione del Vincolo Gelido. Usa per apprendere la ricetta.
+ITEM_RECIPEFROSTBOUNDPOTION_NAME,Ricetta: Pozione del Vincolo Gelido
+ITEM_RECIPEFROSTEDOIL_DESC,Ricetta: Olio Gelido. Usa per apprendere la ricetta.
+ITEM_RECIPEFROSTEDOIL_NAME,Ricetta: Olio Gelido
+ITEM_RECIPEGOBLINKINGTROPHY_DESC,Ricetta: Trofeo del Re Goblin. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEGOBLINKINGTROPHY_NAME,Ricetta: Trofeo del Re Goblin
+ITEM_RECIPEGRASSPATCH_DESC,Ricetta: Zona d'Erba. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEGRASSPATCH_NAME,Ricetta: Zona d'Erba
+ITEM_RECIPEHEARTOAKBED_DESC,Ricetta: Letto di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKBED_NAME,Ricetta: Letto di Quercia del Cuore
+ITEM_RECIPEHEARTOAKDOORWAY_DESC,Ricetta: Vano di Porta di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKDOORWAY_NAME,Ricetta: Vano di Porta di Quercia del Cuore
+ITEM_RECIPEHEARTOAKFENCE_DESC,Ricetta: Recinto di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKFENCE_NAME,Ricetta: Recinto di Quercia del Cuore
+ITEM_RECIPEHEARTOAKPLANKS_DESC,Ricetta: Tavole di Quercia del Cuore. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTOAKPLANKS_NAME,Ricetta: Tavole di Quercia del Cuore
+ITEM_RECIPEHEARTWOODCHEST_DESC,Ricetta: Cassa in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODCHEST_NAME,Ricetta: Cassa in Durame
+ITEM_RECIPEHEARTWOODFOUNDATION_DESC,Ricetta: Fondazione in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODFOUNDATION_NAME,Ricetta: Fondazione in Durame
+ITEM_RECIPEHEARTWOODTABLE_DESC,Ricetta: Tavolo in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODTABLE_NAME,Ricetta: Tavolo in Durame
+ITEM_RECIPEHEARTWOODWALL_DESC,Ricetta: Muro in Durame. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEARTWOODWALL_NAME,Ricetta: Muro in Durame
+ITEM_RECIPEHEATOAKMILL_DESC,Ricetta: Mulino di Quercia del Cuore. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEHEATOAKMILL_NAME,Ricetta: Mulino di Quercia del Cuore
+ITEM_RECIPEHUNTERSSTEW_DESC,Ricetta: Stufato del Cacciatore. Usa per apprendere la ricetta.
+ITEM_RECIPEHUNTERSSTEW_NAME,Ricetta: Stufato del Cacciatore
+ITEM_RECIPEINNOCULATIONPOTION_DESC,Ricetta: Pozione di Inoculazione. Usa per apprendere la ricetta.
+ITEM_RECIPEINNOCULATIONPOTION_NAME,Ricetta: Pozione di Inoculazione
+ITEM_RECIPEKINDLINGPOTION_DESC,Ricetta: Pozione d'Innesco. Usa per apprendere la ricetta.
+ITEM_RECIPEKINDLINGPOTION_NAME,Ricetta: Pozione d'Innesco
+ITEM_RECIPELESSERCONCENTRATIONPOTION_DESC,Ricetta: Pozione Minore di Concentrazione. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERCONCENTRATIONPOTION_NAME,Ricetta: Pozione Minore di Concentrazione
+ITEM_RECIPELESSERCONCENTRATIONTHROWFLASK_DESC,Ricetta: Fiasca da Lancio Minore di Concentrazione. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERCONCENTRATIONTHROWFLASK_NAME,Ricetta: Fiasca da Lancio Minore di Concentrazione
+ITEM_RECIPELESSERHEALTHPOTION_DESC,Ricetta: Pozione Minore di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERHEALTHPOTION_NAME,Ricetta: Pozione Minore di Salute
+ITEM_RECIPELESSERHEALTHTHROWFLASK_DESC,Ricetta: Fiasca da Lancio Minore di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERHEALTHTHROWFLASK_NAME,Ricetta: Fiasca da Lancio Minore di Salute
+ITEM_RECIPELESSERSTAMINAPOTION_DESC,Ricetta: Pozione Minore di Vigore. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERSTAMINAPOTION_NAME,Ricetta: Pozione Minore di Vigore
+ITEM_RECIPELESSERSTAMINATHROWFLASK_DESC,Ricetta: Fiasca da Lancio Minore di Vigore. Usa per apprendere la ricetta.
+ITEM_RECIPELESSERSTAMINATHROWFLASK_NAME,Ricetta: Fiasca da Lancio Minore di Vigore
+ITEM_RECIPELIGHTBANDAGES_DESC,Ricetta: Bende Leggere. Usa per apprendere la ricetta.
+ITEM_RECIPELIGHTBANDAGES_NAME,Ricetta: Bende Leggere
+ITEM_RECIPELINENGLOVES_DESC,Ricetta: Guanti di Tela. Usa per apprendere la ricetta.
+ITEM_RECIPELINENGLOVES_NAME,Ricetta: Guanti di Tela
+ITEM_RECIPELINENRUG_DESC,Ricetta: Tappeto di Lino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPELINENRUG_NAME,Ricetta: Tappeto di Lino
+ITEM_RECIPEMINORBLOODRAGEPOTION_DESC,Ricetta: Pozione Scarsa della Furia Sanguinaria. Usa per apprendere la ricetta.
+ITEM_RECIPEMINORBLOODRAGEPOTION_NAME,Ricetta: Pozione Scarsa della Furia Sanguinaria
+ITEM_RECIPEMINORCONCENTRATIONTHROWFLASK_DESC,Ricetta: Fiasca da Lancio Scarsa di Concentrazione. Usa per apprendere la ricetta.
+ITEM_RECIPEMINORCONCENTRATIONTHROWFLASK_NAME,Ricetta: Fiasca da Lancio Scarsa di Concentrazione
+ITEM_RECIPEMINORHEALTHTHROWFLASK_DESC,Ricetta: Fiasca da Lancio Scarsa di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPEMINORHEALTHTHROWFLASK_NAME,Ricetta: Fiasca da Lancio Scarsa di Salute
+ITEM_RECIPEMUDFENCE_DESC,Ricetta: Recinto di Fango. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEMUDFENCE_NAME,Ricetta: Recinto di Fango
+ITEM_RECIPENATURESCALMTONIC_DESC,Ricetta: Tonico della Calma Naturale. Usa per apprendere la ricetta.
+ITEM_RECIPENATURESCALMTONIC_NAME,Ricetta: Tonico della Calma Naturale
+ITEM_RECIPENATURESWARDSTEAK_DESC,Ricetta: Bistecca della Protezione Naturale. Usa per apprendere la ricetta.
+ITEM_RECIPENATURESWARDSTEAK_NAME,Ricetta: Bistecca della Protezione Naturale
+ITEM_RECIPEOAKCABINET_DESC,Ricetta: Credenza di Quercia. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEOAKCABINET_NAME,Ricetta: Credenza di Quercia
+ITEM_RECIPEOILFLASK_DESC,Ricetta: Fiasca d'Olio. Usa per apprendere la ricetta.
+ITEM_RECIPEOILFLASK_NAME,Ricetta: Fiasca d'Olio
+ITEM_RECIPEPINEWOODCHAIR_DESC,Ricetta: Sedia di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODCHAIR_NAME,Ricetta: Sedia di Pino
+ITEM_RECIPEPINEWOODCHEST_DESC,Ricetta: Cassa di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODCHEST_NAME,Ricetta: Cassa di Pino
+ITEM_RECIPEPINEWOODDOOR_DESC,Ricetta: Porta di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODDOOR_NAME,Ricetta: Porta di Pino
+ITEM_RECIPEPINEWOODFOUNDATION_DESC,Ricetta: Fondazione di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODFOUNDATION_NAME,Ricetta: Fondazione di Pino
+ITEM_RECIPEPINEWOODMILL_DESC,Ricetta: Mulino di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODMILL_NAME,Ricetta: Mulino di Pino
+ITEM_RECIPEPINEWOODTABLE_DESC,Ricetta: Tavolo di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODTABLE_NAME,Ricetta: Tavolo di Pino
+ITEM_RECIPEPINEWOODTREEGARDEN_DESC,Ricetta: Giardino di Pini. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODTREEGARDEN_NAME,Ricetta: Giardino di Pini
+ITEM_RECIPEPINEWOODWALL_DESC,Ricetta: Muro di Pino. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEPINEWOODWALL_NAME,Ricetta: Muro di Pino
+ITEM_RECIPEPOETSBREW_DESC,Ricetta: Infuso del Poeta. Usa per apprendere la ricetta.
+ITEM_RECIPEPOETSBREW_NAME,Ricetta: Infuso del Poeta
+ITEM_RECIPEPOISONCURE_DESC,Ricetta: Antidoto. Usa per apprendere la ricetta.
+ITEM_RECIPEPOISONCURE_NAME,Ricetta: Antidoto
+ITEM_RECIPEPOISONFLASK_DESC,Ricetta: Fiasca di Veleno. Usa per apprendere la ricetta.
+ITEM_RECIPEPOISONFLASK_NAME,Ricetta: Fiasca di Veleno
+ITEM_RECIPERECIPEEARLWOODBED_DESC,Ricetta: Letto di Earlwood. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPERECIPEEARLWOODBED_NAME,Ricetta: Letto di Earlwood
+ITEM_RECIPEROUGHPAPER_DESC,Ricetta: Carta Grezza. Usa per apprendere la ricetta.
+ITEM_RECIPEROUGHPAPER_NAME,Ricetta: Carta Grezza
+ITEM_RECIPESTANDINGTORCH_DESC,Ricetta: Torcia a Stelo. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTANDINGTORCH_NAME,Ricetta: Torcia a Stelo
+ITEM_RECIPESTONEDOORWAY_DESC,Ricetta: Vano di Porta di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEDOORWAY_NAME,Ricetta: Vano di Porta di Pietra
+ITEM_RECIPESTONEFENCE_DESC,Ricetta: Recinto di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEFENCE_NAME,Ricetta: Recinto di Pietra
+ITEM_RECIPESTONEFOUNDATION_DESC,Ricetta: Fondazione di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEFOUNDATION_NAME,Ricetta: Pavimento di Pietra
+ITEM_RECIPESTONEPICKAXE_DESC,Ricetta: Piccone di Pietra. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEPICKAXE_NAME,Ricetta: Piccone di Pietra
+ITEM_RECIPESTONEQUARRY_DESC,Ricetta: Cava di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEQUARRY_NAME,Ricetta: Cava di Pietra
+ITEM_RECIPESTONETHROWINGKNIFE_DESC,Ricetta: Coltello da Lancio di Pietra. Usa per apprendere la ricetta.
+ITEM_RECIPESTONETHROWINGKNIFE_NAME,Ricetta: Coltello da Lancio di Pietra
+ITEM_RECIPESTONEWALL_DESC,Ricetta: Muro di Pietra. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEWALL_NAME,Ricetta: Muro di Pietra
+ITEM_RECIPESTONEWOODCUTTINGAXE_DESC,Ricetta: Ascia da Legna di Pietra. Usa per apprendere la ricetta.
+ITEM_RECIPESTONEWOODCUTTINGAXE_NAME,Ricetta: Ascia da Legna di Pietra
+ITEM_RECIPESUNFLOWERPATCH_DESC,Ricetta: Aiuola di Girasoli. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPESUNFLOWERPATCH_NAME,Ricetta: Aiuola di Girasoli
+ITEM_RECIPETENDERBERRYPLOT_DESC,Ricetta: Appezzamento di Tenderberry. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETENDERBERRYPLOT_NAME,Ricetta: Appezzamento di Tenderberry
+ITEM_RECIPETENDERBERRYTEA_DESC,Ricetta: Tè di Tenderberry. Usa per apprendere la ricetta.
+ITEM_RECIPETENDERBERRYTEA_NAME,Ricetta: Tè di Tenderberry
+ITEM_RECIPETHAUMABLOSSOMPLOT_DESC,Ricetta: Appezzamento di Thaumablossom. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETHAUMABLOSSOMPLOT_NAME,Ricetta: Appezzamento di Thaumablossom
+ITEM_RECIPETHAUMABLOSSOMTEA_DESC,Ricetta: Tè di Thaumablossom. Usa per apprendere la ricetta.
+ITEM_RECIPETHAUMABLOSSOMTEA_NAME,Ricetta: Tè di Thaumablossom
+ITEM_RECIPETHICKBLOODBROTH_DESC,Ricetta: Brodo di Sangue Denso. Usa per apprendere la ricetta.
+ITEM_RECIPETHICKBLOODBROTH_NAME,Ricetta: Brodo di Sangue Denso
+ITEM_RECIPETOXICOIL_DESC,Ricetta: Olio Tossico. Usa per apprendere la ricetta.
+ITEM_RECIPETOXICOIL_NAME,Ricetta: Olio Tossico
+ITEM_RECIPETREANTTROPHY_DESC,Ricetta: Trofeo di Treant. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETREANTTROPHY_NAME,Ricetta: Trofeo di Treant
+ITEM_RECIPETREANTWOODSTOOL_DESC,Ricetta: Sgabello di Legno di Treant. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPETREANTWOODSTOOL_NAME,Ricetta: Sgabello di Legno di Treant
+ITEM_RECIPEWARMINGBROTH_DESC,Ricetta: Brodo Riscaldante. Usa per apprendere la ricetta.
+ITEM_RECIPEWARMINGBROTH_NAME,Ricetta: Brodo Riscaldante
+ITEM_RECIPEWATER_DESC,Ricetta: Acqua. Usa per apprendere la ricetta.
+ITEM_RECIPEWATER_NAME,Ricetta: Acqua
+ITEM_RECIPEWATERFLASK_DESC,Ricetta: Fiasca d'Acqua. Usa per apprendere la ricetta.
+ITEM_RECIPEWATERFLASK_NAME,Ricetta: Fiasca d'Acqua
+ITEM_RECIPEWATERWELL_DESC,Ricetta: Pozzo d'Acqua. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEWATERWELL_NAME,Ricetta: Pozzo d'Acqua
+ITEM_RECIPEWEAKHEALTHEXTRACT_DESC,Ricetta: Estratto Debole di Salute. Usa per apprendere la ricetta.
+ITEM_RECIPEWEAKHEALTHEXTRACT_NAME,Ricetta: Estratto Debole di Salute
+ITEM_RECIPEWEAKMAGICEXTRACT_DESC,Ricetta: Estratto Debole di Magia. Usa per apprendere la ricetta.
+ITEM_RECIPEWEAKMAGICEXTRACT_NAME,Ricetta: Estratto Debole di Magia
+ITEM_RECIPEWOODFIRESTOVE_DESC,Ricetta: Stufa a legna. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEWOODFIRESTOVE_NAME,Ricetta: Stufa a legna
+ITEM_RECIPEWORKBENCH_DESC,Ricetta: Banco da lavoro. Si può costruire solo nel Santuario. Usa per apprendere la ricetta.
+ITEM_RECIPEWORKBENCH_NAME,Ricetta: Banco da lavoro
+ITEM_ROASTEDDROOPCORE_DESC,Un succulento Nucleo di Droop arrostito sul fuoco. Uno dei pasti più semplici e abbondanti di Mirkea.
+ITEM_ROASTEDDROOPCORE_EFFECT,Ripristina il Nutrimento.
+ITEM_ROASTEDDROOPCORE_NAME,Nucleo di Droop Arrostito
+ITEM_ROUGHPAPER_DESC,"Carta lacera infusa di magia, a malapena integra ma ancora utile."
+ITEM_ROUGHPAPER_NAME,Carta Grezza
+ITEM_SILVERCAT_DESC,"Addestrati nella magia della Barriera alla Grande Accademia di Aldoria, i Gatti Argentati sono preziosi compagni dei maghi inviati in battaglia."
+ITEM_SILVERCAT_EFFECT,"Quando il giocatore subisce danni, conferisce una Barriera magica che assorbe danni per 3 secondi."
+ITEM_SILVERCAT_NAME,Gatto Argentato
+ITEM_SINGINGBELLFLOWER_DESC,"Una pianta rara che cresce nel cuore della foresta, nota per le sue proprietà rigeneranti."
+ITEM_SINGINGBELLFLOWER_EFFECT,Nessuno
+ITEM_SINGINGBELLFLOWER_NAME,Campanula Canterina
+ITEM_SINGINGBELLFLOWERSEED_DESC,Un seme di Campanula Canterina.
+ITEM_SINGINGBELLFLOWERSEED_EFFECT,Nessuno
+ITEM_SINGINGBELLFLOWERSEED_NAME,Seme di Campanula Canterina
+ITEM_SPELLBOOKADRENALINE_DESC,Un libro degli incantesimi che insegna Adrenalina a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKADRENALINE_NAME,Libro degli incantesimi: Adrenalina
+ITEM_SPELLBOOKAETHERFANGPHALANX_DESC,Un libro degli incantesimi che insegna Falange Zanna d'Etere a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKAETHERFANGPHALANX_NAME,Libro degli incantesimi: Falange Zanna d'Etere
+ITEM_SPELLBOOKALPHAHOWL_DESC,Un libro degli incantesimi che insegna Ululato Alfa a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKALPHAHOWL_NAME,Libro degli incantesimi: Ululato Alfa
+ITEM_SPELLBOOKBARRIER_DESC,Un libro degli incantesimi che insegna Barriera a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBARRIER_NAME,Libro degli incantesimi: Barriera
+ITEM_SPELLBOOKBASH_DESC,Un libro degli incantesimi che insegna Percossa a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBASH_NAME,Libro degli incantesimi: Percossa
+ITEM_SPELLBOOKBLACKHOLE_DESC,Un libro degli incantesimi che insegna Buco Nero a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBLACKHOLE_NAME,Libro degli incantesimi: Buco Nero
+ITEM_SPELLBOOKBRAMBLEFAN_DESC,Un libro degli incantesimi che insegna Ventaglio di Spine a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKBRAMBLEFAN_NAME,Libro degli incantesimi: Ventaglio di Spine
+ITEM_SPELLBOOKCIRCLEOFMAGIC_DESC,Un libro degli incantesimi che insegna Cerchio di Magia a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCIRCLEOFMAGIC_NAME,Libro degli incantesimi: Cerchio di Magia
+ITEM_SPELLBOOKCLEARWATER_DESC,Un libro degli incantesimi che insegna Acqua Limpida a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCLEARWATER_NAME,Libro degli incantesimi: Acqua Limpida
+ITEM_SPELLBOOKCOMBATMEDIC_DESC,Un libro degli incantesimi che insegna Medico da Campo a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCOMBATMEDIC_NAME,Libro degli incantesimi: Medico da Campo
+ITEM_SPELLBOOKCONFLAGURATION_DESC,Un libro degli incantesimi che insegna Conflagrazione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCONFLAGURATION_NAME,Libro degli incantesimi: Conflagrazione
+ITEM_SPELLBOOKCRIPPLINGSTRIKE_DESC,Un libro degli incantesimi che insegna Colpo Storpiante a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKCRIPPLINGSTRIKE_NAME,Libro degli incantesimi: Colpo Storpiante
+ITEM_SPELLBOOKDEVOUR_DESC,Un libro degli incantesimi che insegna Divorare a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKDEVOUR_NAME,Libro degli incantesimi: Divorare
+ITEM_SPELLBOOKEMPOWERALLY_DESC,Un libro degli incantesimi che insegna Potenzia Alleato a chi lo legge.
+ITEM_SPELLBOOKEMPOWERALLY_NAME,Libro degli incantesimi: Potenzia Alleato
+ITEM_SPELLBOOKENTANGLINGROOTS_DESC,Un libro degli incantesimi che insegna Radici Avviluppanti a chi lo legge.
+ITEM_SPELLBOOKENTANGLINGROOTS_NAME,Libro degli incantesimi: Radici Avviluppanti
+ITEM_SPELLBOOKERUPT_DESC,Un libro degli incantesimi che insegna Eruzione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKERUPT_NAME,Libro degli incantesimi: Eruzione
+ITEM_SPELLBOOKFIREBURST_DESC,Un libro degli incantesimi che insegna Scoppio di Fuoco a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFIREBURST_NAME,Libro degli incantesimi: Scoppio di Fuoco
+ITEM_SPELLBOOKFLAMINGSTRIKE_DESC,Un libro degli incantesimi che insegna Colpo Fiammeggiante a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFLAMINGSTRIKE_NAME,Libro degli incantesimi: Colpo Fiammeggiante
+ITEM_SPELLBOOKFRENZIEDSLASHES_DESC,Un libro degli incantesimi che insegna Tagli Frenetici a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFRENZIEDSLASHES_NAME,Libro degli incantesimi: Tagli Frenetici
+ITEM_SPELLBOOKFROZENSTRIKE_DESC,Un libro degli incantesimi che insegna Colpo Congelato a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKFROZENSTRIKE_NAME,Libro degli incantesimi: Colpo Congelato
+ITEM_SPELLBOOKGOBLINTOSS_DESC,Un libro degli incantesimi che insegna Lancio di Goblin a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKGOBLINTOSS_NAME,Libro degli incantesimi: Lancio di Goblin
+ITEM_SPELLBOOKGUST_DESC,Un libro degli incantesimi che insegna Raffica a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKGUST_NAME,Libro degli incantesimi: Raffica
+ITEM_SPELLBOOKHEAVYSTRIKE_DESC,Un libro degli incantesimi che insegna Colpo Pesante a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKHEAVYSTRIKE_NAME,Libro degli incantesimi: Colpo Pesante
+ITEM_SPELLBOOKINFECTIOUSSWARM_DESC,Un libro degli incantesimi che insegna Sciame Infettivo a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKINFECTIOUSSWARM_NAME,Libro degli incantesimi: Sciame Infettivo
+ITEM_SPELLBOOKJUNKHAIL_DESC,Un libro degli incantesimi che insegna Grandine di Rottami a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKJUNKHAIL_NAME,Libro degli incantesimi: Grandine di Rottami
+ITEM_SPELLBOOKMETEOR_DESC,Un libro degli incantesimi che insegna Meteorite a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKMETEOR_NAME,Libro degli incantesimi: Meteorite
+ITEM_SPELLBOOKPOISONSPORES_DESC,Un libro degli incantesimi che insegna Nebbia velenosa a chi lo legge.
+ITEM_SPELLBOOKPOISONSPORES_NAME,Libro degli incantesimi: Nebbia velenosa
+ITEM_SPELLBOOKREJECTION_DESC,Un libro degli incantesimi che insegna Repulsione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKREJECTION_NAME,Libro degli incantesimi: Repulsione
+ITEM_SPELLBOOKRIPPLE_DESC,Un libro degli incantesimi che insegna Ondulazione a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKRIPPLE_NAME,Libro degli incantesimi: Ondulazione
+ITEM_SPELLBOOKSAPARTILLERY_DESC,Un libro degli incantesimi che insegna Artiglieria di Linfa a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSAPARTILLERY_NAME,Libro degli incantesimi: Artiglieria di Linfa
+ITEM_SPELLBOOKSAVAGECLAW_DESC,Un libro degli incantesimi che insegna Artiglio Selvaggio a chi lo legge.
+ITEM_SPELLBOOKSAVAGECLAW_NAME,Libro degli incantesimi: Artiglio Selvaggio
+ITEM_SPELLBOOKSEEDBOMB_DESC,Un libro degli incantesimi che insegna Bomba di Semi a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSEEDBOMB_NAME,Libro degli incantesimi: Bomba di Semi
+ITEM_SPELLBOOKSHOCKWAVE_DESC,Un libro degli incantesimi che insegna Onda di Shock a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSHOCKWAVE_NAME,Libro degli incantesimi: Onda di Shock
+ITEM_SPELLBOOKSPAWNFORESTHEART_DESC,Un libro degli incantesimi che insegna Evoca Cuore della Foresta a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKSPAWNFORESTHEART_NAME,Libro degli incantesimi: Evoca Cuore della Foresta
+ITEM_SPELLBOOKSPIRITSWAP_DESC,Un libro degli incantesimi che insegna Scambio Spirituale a chi lo legge.
+ITEM_SPELLBOOKSPIRITSWAP_NAME,Libro degli incantesimi: Scambio Spirituale
+ITEM_SPELLBOOKTENDONSLICE_DESC,Un libro degli incantesimi che insegna Taglio dei Tendini a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKTENDONSLICE_NAME,Libro degli incantesimi: Taglio dei Tendini
+ITEM_SPELLBOOKTOXICSLICE_DESC,Un libro degli incantesimi che insegna Taglio Tossico a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKTOXICSLICE_NAME,Libro degli incantesimi: Taglio Tossico
+ITEM_SPELLBOOKWARBANNER_DESC,Un libro degli incantesimi che insegna Stendardo di Guerra a chi lo legge. Usa per apprendere l'incantesimo se hai gli attributi richiesti.
+ITEM_SPELLBOOKWARBANNER_NAME,Libro degli incantesimi: Stendardo di Guerra
+ITEM_SPELLBOOKWATERSURGE_DESC,Un libro degli incantesimi che insegna Ondata d'Acqua a chi lo legge.
+ITEM_SPELLBOOKWATERSURGE_NAME,Libro degli incantesimi: Ondata d'Acqua
+ITEM_STONE_DESC,"Pietra finemente frantumata, raccolta nei siti di scavo di Mirkea."
+ITEM_STONE_EFFECT,Nessuno
+ITEM_STONE_NAME,Pietra
+ITEM_STONENAILS_DESC,"Chiodi di Pietra intagliati a mano, usati per costruire mobili rustici e telai di sostegno."
+ITEM_STONENAILS_NAME,Chiodi di Pietra
+ITEM_STONEPICKAXE_DESC,Un piccone pesante rinforzato per spaccare la pietra ed estrarre minerali da terreni rocciosi.
+ITEM_STONEPICKAXE_NAME,Piccone di Pietra
+ITEM_STONETHROWINGKNIFE_DESC,Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento.\n Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE_NAME,Coltello da Lancio di Pietra
+ITEM_STONETHROWINGKNIFE1_DESC,Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE1_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento.\n Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE1_NAME,Coltello da Lancio di Pietra +1
+ITEM_STONETHROWINGKNIFE2_DESC,Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE2_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento.\n Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE2_NAME,Coltello da Lancio di Pietra +2
+ITEM_STONETHROWINGKNIFE3_DESC,Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE3_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento.\n Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE3_NAME,Coltello da Lancio di Pietra +3
+ITEM_STONETHROWINGKNIFE4_DESC,Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE4_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento.\n Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE4_NAME,Coltello da Lancio di Pietra +4
+ITEM_STONETHROWINGKNIFE5_DESC,Un coltello da lancio ricavato da una pietra affilata e avvolto in corda leggera. Lancialo ai nemici per ferirli in profondità e farli sanguinare.
+ITEM_STONETHROWINGKNIFE5_EFFECT,Lancia per danneggiare i nemici e applicare Sanguinamento.\n Le cariche si ricaricano riposando.
+ITEM_STONETHROWINGKNIFE5_NAME,Coltello da Lancio di Pietra +5
+ITEM_STONEWOODCUTTINGAXE_DESC,"Un'affidabile ascia da boscaiolo, bilanciata per colpi regolari durante la raccolta di legname nelle terre selvagge."
+ITEM_STONEWOODCUTTINGAXE_NAME,Ascia da Legna di Pietra
+ITEM_TENDERBERRY_DESC,"Una morbida bacca cremisi, nota per la dolcezza delicata e il calore curativo."
+ITEM_TENDERBERRY_EFFECT,Ripristina il Nutrimento.
+ITEM_TENDERBERRY_NAME,Tenderberry
+ITEM_TENDERBERRYSEED_DESC,Semi per coltivare cespugli di Tenderberry.
+ITEM_TENDERBERRYSEED_EFFECT,Nessuno
+ITEM_TENDERBERRYSEED_NAME,Seme di Tenderberry
+ITEM_TENDERBERRYTEA_DESC,Un tè lenitivo preparato con bacche della foresta. Noto per la delicata azione ristoratrice sullo spirito e per l'idratazione.
+ITEM_TENDERBERRYTEA_EFFECT,Ripristina il Nutrimento e aumenta la Salute massima del 10% per 30 minuti. Può essere attivo un solo bonus da bevanda alla volta.
+ITEM_TENDERBERRYTEA_NAME,Tè di Tenderberry
+ITEM_THAUMABLOSSOM_DESC,Un fiore viola luminoso che si ritiene cresca vicino alle fratture delle linee di forza.
+ITEM_THAUMABLOSSOM_EFFECT,Nessuno
+ITEM_THAUMABLOSSOM_NAME,Thaumablossom
+ITEM_THAUMABLOSSOMSEED_DESC,Semi per coltivare Thaumablossom.
+ITEM_THAUMABLOSSOMSEED_EFFECT,Nessuno
+ITEM_THAUMABLOSSOMSEED_NAME,Seme di Thaumablossom
+ITEM_THAUMABLOSSOMTEA_DESC,Un raro infuso d'erbe preparato al chiaro di luna.
+ITEM_THAUMABLOSSOMTEA_EFFECT,"Ripristina il Nutrimento, aumenta la Concentrazione massima del 10% e ripristina 1 Concentrazione al colpo per 30 minuti. Può essere attivo un solo bonus da bevanda alla volta."
+ITEM_THAUMABLOSSOMTEA_NAME,Tè di Thaumablossom
+ITEM_THICKBLOODBROTH_DESC,"Un brodo ricavato dall'essenza di un grande Goblin, il cui sapore è mascherato dalla dolcezza della Mela. Conferisce Resistenza al sanguinamento a chi lo consuma."
+ITEM_THICKBLOODBROTH_EFFECT,Ripristina il Nutrimento. Conferisce Resistenza al sanguinamento per 30 minuti.
+ITEM_THICKBLOODBROTH_NAME,Brodo di Sangue Denso
+ITEM_TOXICOIL_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da decadimento."
+ITEM_TOXICOIL_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da decadimento per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_TOXICOIL_NAME,Olio Tossico
+ITEM_TOXICOIL1_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno."
+ITEM_TOXICOIL1_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da decadimento per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_TOXICOIL1_NAME,Olio Tossico +1
+ITEM_TOXICOIL2_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno."
+ITEM_TOXICOIL2_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da decadimento per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_TOXICOIL2_NAME,Olio Tossico +2
+ITEM_TOXICOIL3_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno."
+ITEM_TOXICOIL3_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da decadimento per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_TOXICOIL3_NAME,Olio Tossico +3
+ITEM_TOXICOIL4_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno."
+ITEM_TOXICOIL4_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da decadimento per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_TOXICOIL4_NAME,Olio Tossico +4
+ITEM_TOXICOIL5_DESC,"Usa per rivestire l'arma, convertendo parte del suo danno in Danno da veleno."
+ITEM_TOXICOIL5_EFFECT,I tuoi attacchi infliggono 50% del loro danno come Danno da decadimento per 12 secondi.\n Cariche si ricarica riposando.
+ITEM_TOXICOIL5_NAME,Olio Tossico +5
+ITEM_TREANTHEAD_DESC,"L'enorme testa coperta di corteccia di un Treant caduto, con i lineamenti lignei irrigiditi in una cupa sfida. Il muschio aderisce ancora alla mascella e un debole calore permane nelle radici che un tempo lo nutrivano."
+ITEM_TREANTHEAD_NAME,Testa di Treant
+ITEM_TREANTHEART_DESC,"Il nucleo pulsante di un Treant, colmo di magia vitale latente. Se ne avverte ancora il battito ritmico nel palmo."
+ITEM_TREANTHEART_EFFECT,Nessuno
+ITEM_TREANTHEART_NAME,Cuore di Treant
+ITEM_TREANTWOOD_DESC,"Legno spesso e vivo ricavato dai Treant, che vibra debolmente di forza rigenerante."
+ITEM_TREANTWOOD_EFFECT,Nessuno
+ITEM_TREANTWOOD_NAME,Legno di Treant
+ITEM_WARCAT_DESC,"Originari delle Terre Sterili, i Gatti da Guerra sono compagni comuni dei minotauri di Xwin e marciano spesso al loro fianco in battaglia."
+ITEM_WARCAT_EFFECT,"Lancia un grido di battaglia all'inizio del combattimento, conferendo Furia al giocatore. Poi conferisce quantità minori di Furia aggiuntiva ogni 6 secondi finché il combattimento continua."
+ITEM_WARCAT_NAME,Gatto da Guerra
+ITEM_WARMINGBROTH_DESC,"Un brodo confortante che trattiene il calore, con infuso di petali ardenti di Emberbloom e uova nutrienti. Scaccia il freddo dell'inverno più rigido e protegge dalle temperature gelide."
+ITEM_WARMINGBROTH_EFFECT,"Ripristina il Nutrimento. Conferisce 10% Salute massima, 25% Resistenza al ghiaccio e Resistenza al gelo per 30 minuti."
+ITEM_WARMINGBROTH_NAME,Brodo Riscaldante
+ITEM_WATER_DESC,L'acqua distillata è perfetta da bere in viaggio. È un ingrediente comune in cucina e in alchimia in tutta Mirkea.
+ITEM_WATER_EFFECT,Ripristina il Nutrimento.
+ITEM_WATER_NAME,Acqua
+ITEM_WATERFLASK_DESC,Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK_EFFECT,Lancia per creare una Pozza d'Acqua.\n Le cariche si ricaricano riposando.
+ITEM_WATERFLASK_NAME,Fiasca d'Acqua
+ITEM_WATERFLASK1_DESC,Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK1_EFFECT,Lancia per creare una Pozza d'Acqua.\n Le cariche si ricaricano riposando.
+ITEM_WATERFLASK1_NAME,Fiasca d'Acqua +1
+ITEM_WATERFLASK2_DESC,Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK2_EFFECT,Lancia per creare una Pozza d'Acqua.\n Le cariche si ricaricano riposando.
+ITEM_WATERFLASK2_NAME,Fiasca d'Acqua +2
+ITEM_WATERFLASK3_DESC,Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK3_EFFECT,Lancia per creare una Pozza d'Acqua.\n Le cariche si ricaricano riposando.
+ITEM_WATERFLASK3_NAME,Fiasca d'Acqua +3
+ITEM_WATERFLASK4_DESC,Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK4_EFFECT,Lancia per creare una Pozza d'Acqua.\n Le cariche si ricaricano riposando.
+ITEM_WATERFLASK4_NAME,Fiasca d'Acqua +4
+ITEM_WATERFLASK5_DESC,Una fiasca sigillata contenente acqua.
+ITEM_WATERFLASK5_EFFECT,Lancia per creare una Pozza d'Acqua.\n Le cariche si ricaricano riposando.
+ITEM_WATERFLASK5_NAME,Fiasca d'Acqua +5
+ITEM_WEAKHEALTHEXTRACT_DESC,Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT_EFFECT,Ripristina 150 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKHEALTHEXTRACT_NAME,Estratto Debole di Salute
+ITEM_WEAKHEALTHEXTRACT1_DESC,Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT1_EFFECT,Ripristina 150 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKHEALTHEXTRACT1_NAME,Estratto Debole di Salute +1
+ITEM_WEAKHEALTHEXTRACT2_DESC,Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT2_EFFECT,Ripristina 150 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKHEALTHEXTRACT2_NAME,Estratto Debole di Salute +2
+ITEM_WEAKHEALTHEXTRACT3_DESC,Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT3_EFFECT,Ripristina 150 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKHEALTHEXTRACT3_NAME,Estratto Debole di Salute +3
+ITEM_WEAKHEALTHEXTRACT4_DESC,Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT4_EFFECT,Ripristina 150 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKHEALTHEXTRACT4_NAME,Estratto Debole di Salute +4
+ITEM_WEAKHEALTHEXTRACT5_DESC,Un estratto concentrato d'erbe usato negli unguenti curativi di base.
+ITEM_WEAKHEALTHEXTRACT5_EFFECT,Ripristina 150 di Salute in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKHEALTHEXTRACT5_NAME,Estratto Debole di Salute +5
+ITEM_WEAKMAGICEXTRACT_DESC,Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT_EFFECT,Ripristina 150 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKMAGICEXTRACT_NAME,Estratto Debole di Magia
+ITEM_WEAKMAGICEXTRACT1_DESC,Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT1_EFFECT,Ripristina 150 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKMAGICEXTRACT1_NAME,Estratto Debole di Magia +1
+ITEM_WEAKMAGICEXTRACT2_DESC,Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT2_EFFECT,Ripristina 150 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKMAGICEXTRACT2_NAME,Estratto Debole di Magia +2
+ITEM_WEAKMAGICEXTRACT3_DESC,Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT3_EFFECT,Ripristina 150 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKMAGICEXTRACT3_NAME,Estratto Debole di Magia +3
+ITEM_WEAKMAGICEXTRACT4_DESC,Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT4_EFFECT,Ripristina 150 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKMAGICEXTRACT4_NAME,Estratto Debole di Magia +4
+ITEM_WEAKMAGICEXTRACT5_DESC,Una tintura alchemica ricavata da piante selvatiche.
+ITEM_WEAKMAGICEXTRACT5_EFFECT,Ripristina 150 di Concentrazione in 4 secondi.\n Cariche si ricarica riposando.
+ITEM_WEAKMAGICEXTRACT5_NAME,Estratto Debole di Magia +5
+ITEM_WILDWOODPINE_DESC,"Un pino alto e resistente, originario delle regioni più selvagge di Aldoria, apprezzato per la robustezza e la flessibilità."
+ITEM_WILDWOODPINE_EFFECT,Nessuno
+ITEM_WILDWOODPINE_NAME,Pino di Wildwood
+ITEM_WOLFFANG_DESC,Una zanna ricurva di lupo selvatico.
+ITEM_WOLFFANG_EFFECT,Nessuno
+ITEM_WOLFFANG_NAME,Zanna di Lupo

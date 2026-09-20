@@ -1,0 +1,311 @@
+﻿Key,Text
+ARCHETYPE_AERIE_DEFENDER,Difensore del Nido
+ARCHETYPE_ANCESTRAL_MYSTIC,Mistico Ancestrale
+ARCHETYPE_BEASTLAND_MYSTIC,Mistico delle Terre Ferine
+ARCHETYPE_BLOSSOM_SOULCALLER,Evocatore di Anime dei Fiori
+ARCHETYPE_BOGLAND_HEALER,Guaritore delle Torbiere
+ARCHETYPE_BRIDGE_KEEPER,Custode del Ponte
+ARCHETYPE_CLOUDSHADOW_ASSASSIN,Assassino dell'Ombra delle Nubi
+ARCHETYPE_COLOSSAL_BRAWLER,Rissoso Colossale
+ARCHETYPE_DEEPVEIN_STALKER,Predatore delle Vene Profonde
+ARCHETYPE_DEFENDER_OF_THE_REALM,Difensore del Regno
+ARCHETYPE_DEWDROP_SPY,Spia della Rugiada
+ARCHETYPE_EARTHSHAKER,Scuotiterra
+ARCHETYPE_ECHO_WEAVER,Tessitore d'Eco
+ARCHETYPE_ELEMENTAL_BINDER,Vincolatore Elementale
+ARCHETYPE_ELEMENTAL_RANGER,Ranger Elementale
+ARCHETYPE_ETERNAL_SCULPTOR,Scultore Eterno
+ARCHETYPE_FOREST_WHISPERER,Sussurratore della Foresta
+ARCHETYPE_FORGEWRIGHT,Artefice della Fucina
+ARCHETYPE_GLOOM_STALKER,Cacciatore dell'Ombra
+ARCHETYPE_GRANITE_SENTINEL,Sentinella di Granito
+ARCHETYPE_GRASSLAND_AMBUSHER,Assalitore delle Praterie
+ARCHETYPE_HAMMERFALL_BERSERKER,Berserker del Martello Tonante
+ARCHETYPE_HOOFED_FURY,Furia degli Zoccoli
+ARCHETYPE_HORNED_VANGUARD,Avanguardia Cornuta
+ARCHETYPE_IRONHOLD_WARDEN,Custode di Roccaferrea
+ARCHETYPE_LABYRINTH_GUARDIAN,Guardiano del Labirinto
+ARCHETYPE_MARSH_BERSERKER,Berserker delle Paludi
+ARCHETYPE_MASTER_ARCHITECT,Mastro Architetto
+ARCHETYPE_MIRE_ENGINEER,Ingegnere del Pantano
+ARCHETYPE_MONUMENTAL_MASON,Muratore Monumentale
+ARCHETYPE_NATURE'S_ARTISAN,Artigiano della Natura
+ARCHETYPE_NECTARBLADE_FIGHTER,Guerriero della Lama di Nettare
+ARCHETYPE_NESTMASTER_ENGINEER,Ingegnere Maestro dei Nidi
+ARCHETYPE_NIGHT'S_WHISPER,Sussurro della Notte
+ARCHETYPE_PEBBLE_SNEAK,Furtivo dei Ciottoli
+ARCHETYPE_PETAL_CONSTRUCTOR,Costruttore dei Petali
+ARCHETYPE_PHASE_DUELLIST,Duellante di Fase
+ARCHETYPE_PIXIE_SPELLWEAVER,Tessincantesimi Folletto
+ARCHETYPE_PLAINSWALKER_MAGE,Mago Viandante delle Pianure
+ARCHETYPE_PRAIRIE_SEER,Veggente della Prateria
+ARCHETYPE_RUNEFORGE_MAGE,Mago della Fucina Runica
+ARCHETYPE_SAVANNA_CRAFTSMAN,Artigiano della Savana
+ARCHETYPE_SKY_SORCERER,Stregone del Cielo
+ARCHETYPE_SPIRIT_GUARDIAN,Guardiano degli Spiriti
+ARCHETYPE_STEPPE_VANGUARD,Avanguardia della Steppa
+ARCHETYPE_STONE_SPIRITIST,Spiritista della Pietra
+ARCHETYPE_SWAMP_WARLOCK,Stregone della Palude
+ARCHETYPE_SYLVAN_PROTECTOR,Protettore Silvano
+ARCHETYPE_TALON_KNIGHT,Cavaliere dell'Artiglio
+ARCHETYPE_THISTLESHIELD_WARDEN,Custode dello Scudo di Cardi
+ARCHETYPE_UNDERBRIDGE_ROGUE,Furfante del Sottoponte
+ARCHETYPE_WILDSTRIDER,Passosilvestre
+ARCHETYPE_WINDSPIRIT_SHAMAN,Sciamano dello Spirito del Vento
+ARCHETYPE_XWIN_DREADHORN,Cornispavento di Xwin
+PASSIVE_ACCELERATEDCASTING_DESC,"Dopo aver usato un'abilità da Elfo, ottieni +15% Velocità di movimento per 3 secondi e +15% Velocità d'attacco per 3 secondi"
+PASSIVE_ACCELERATEDCASTING_NAME,Lancio Accelerato
+PASSIVE_AMBUSH_DESC,"Danno perforante +20%; dopo uno Scatto rapido, il tuo prossimo attacco a segno entro 3 secondi infligge +25% Danno fisico."
+PASSIVE_AMBUSH_NAME,Imboscata
+PASSIVE_ARCANEENDURANCE_DESC,Ora Energia aumenta la Concentrazione massima di 5
+PASSIVE_ARCANEENDURANCE_NAME,Resistenza Arcana
+PASSIVE_ARROWOFTHEDEEPCOLD_DESC,"Quando colpisci un nemico con il terzo attacco a distanza, se è Assiderato, scagli da dietro di lui un'enorme freccia di ghiaccio che trafigge tutti i nemici colpiti, infliggendo Danno da ghiaccio."
+PASSIVE_ARROWOFTHEDEEPCOLD_NAME,Freccia del Freddo Profondo
+PASSIVE_ASHENESCALATION_DESC,"Ogni volta che i tuoi incantesimi consumano Ustione, ottieni 20% Danno da ustione per accumulo consumato per 8 secondi."
+PASSIVE_ASHENESCALATION_NAME,Escalation di Cenere
+PASSIVE_BEASTFURY_NAME,Furia Ferina
+PASSIVE_BLACKBLOODTEMPO_DESC,"Colpire un nemico con un Attacco finale consuma fino a 10 accumuli di Veleno dal bersaglio e applica Sanguinamento pari al Veleno consumato. Se consumi almeno 5 accumuli di Veleno, ottieni 5 accumuli di Inoculazione. Tempo di recupero: 6 secondi."
+PASSIVE_BLACKBLOODTEMPO_NAME,Tempo di Sangue Nero
+PASSIVE_BLAZEBORNEDAGGERS_DESC,"Colpire un nemico con il tuo Attacco finale scatena una scarica di fuoco che infligge Danno da fuoco a tutti i nemici vicini. Il danno aumenta in base ai tuoi accumuli di Ondata temporale, fino a 10."
+PASSIVE_BLAZEBORNEDAGGERS_NAME,Pugnali Nati dalla Fiamma
+PASSIVE_BLAZINGWRATH_DESC,"Dopo aver speso Furia, ottieni un'Aura di Fuoco per 5 secondi, che brucia i nemici e applica accumuli di Ustione. La durata aumenta di 0,5 secondi per ogni accumulo di Furia speso."
+PASSIVE_BLAZINGWRATH_NAME,Ira Ardente
+PASSIVE_BLIGHTSEED_NAME,Seme del Morbo
+PASSIVE_BLOODFRENZY_DESC,Probabilità di critico +6%; infliggi +12% Danno fisico ai nemici con Sanguinamento.
+PASSIVE_BLOODFRENZY_NAME,Frenesia Sanguinaria
+PASSIVE_BLOODINTHEWATER_DESC,"Colpendo un nemico con almeno 10 accumuli di Sanguinamento, ottieni +15% Probabilità di critico per 5 secondi."
+PASSIVE_BLOODINTHEWATER_NAME,Sangue nell'Acqua
+PASSIVE_BLUNTFORCEEXECUTE_DESC,"Quando uccidi un nemico con Danno contundente, ottieni 20% Danno fisico per 5 secondi."
+PASSIVE_BLUNTFORCEEXECUTE_NAME,Esecuzione Contundente
+PASSIVE_BONEBREAKER_DESC,Gli attacchi base infliggono Danno contundente
+PASSIVE_BONEBREAKER_NAME,Spaccaossa
+PASSIVE_BULWARK_DESC,"Danno fisico +15%; quando un singolo colpo ti infligge danni superiori al 30% degli HP, ottieni +25 Armatura per 3 secondi."
+PASSIVE_BULWARK_NAME,Baluardo
+PASSIVE_CALLTOTHEMOON_DESC,"Durante la canalizzazione, gli impatti di Ululato Alfa piovono sul punto di mira, seguendone gli spostamenti."
+PASSIVE_CALLTOTHEMOON_NAME,Richiamo alla Luna
+PASSIVE_CALMDRIFT_DESC,"Dopo aver subito danni, la Rigen. salute aumenta del 50% per 5 secondi"
+PASSIVE_CALMDRIFT_NAME,Deriva Calma
+PASSIVE_CHANNELEDCALL_DESC,"Tieni premuto per canalizzare: Ululato Alfa genera impatti attorno a te finché canalizzi, consumando Concentrazione ogni secondo."
+PASSIVE_CHANNELEDCALL_NAME,Richiamo Canalizzato
+PASSIVE_CHILLHOWL_DESC,"Ululato spara una raffica di dardi di ghiaccio che inseguono i nemici vicini, infliggendo Danno da ghiaccio e applicando 2 accumuli di Gelo."
+PASSIVE_CHILLHOWL_NAME,Ululato Gelido
+PASSIVE_CINDERDETONATION_DESC,"Quando colpisci un nemico con il terzo attacco, se ha Ustione, scateni un'esplosione di Fuoco."
+PASSIVE_CINDERDETONATION_NAME,Detonazione di Brace
+PASSIVE_COLDSCALEDPOWER_DESC,"Quando applichi Gelo a un nemico, ottieni Danno magico bonus pari alla quantità di Gelo sul nemico per 5 secondi."
+PASSIVE_COLDSCALEDPOWER_NAME,Potere Scalato dal Freddo
+PASSIVE_COUNTERFIREDISCIPLINE_DESC,"Dopo una Parata riuscita, il tuo prossimo Attacco finale a distanza infligge il 30% di danno in più. Dura 6 secondi."
+PASSIVE_COUNTERFIREDISCIPLINE_NAME,Disciplina del Controfuoco
+PASSIVE_DASHBURST_NAME,Scatto Esplosivo
+PASSIVE_DEADLYRHYTHM_DESC,"Con un colpo critico, ottieni +25% Velocità d'attacco per 3 secondi"
+PASSIVE_DEADLYRHYTHM_NAME,Ritmo Letale
+PASSIVE_DECAYCHANNEL_DESC,"Dopo aver lanciato un incantesimo di Magia della peste, ottieni il 15% di Danno magico in più per 3 secondi."
+PASSIVE_DECAYCHANNEL_NAME,Canalizzazione Decadimento
+PASSIVE_DEEPREST_NAME,Riposo Profondo
+PASSIVE_DEFENDANDASSAULT_DESC,Una Rappresaglia riuscita conferisce 15% Velocità d'attacco per 6 secondi.
+PASSIVE_DEFENDANDASSAULT_NAME,Difesa e Assalto
+PASSIVE_DISMANTLE_DESC,"Ogni volta che consumi Sanguinamento su un nemico, il danno nel tempo residuo viene inflitto anche tutto insieme come Danno da etere."
+PASSIVE_DISMANTLE_NAME,Smonta
+PASSIVE_DUALBOND_DESC,Potere della Natura Selvaggia si applica sia a te sia al tuo bersaglio.
+PASSIVE_DUALBOND_NAME,Doppio Vincolo
+PASSIVE_DUALPATH_DESC,"Dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte."
+PASSIVE_DUALPATH_NAME,Doppia Via
+PASSIVE_EARTHSHAKER_DESC,"Forza conferisce 0,5 Danno magico aggiuntivo"
+PASSIVE_EARTHSHAKER_NAME,Scuotiterra
+PASSIVE_ECHOEDFOCUS_DESC,"Quando un nemico vicino ha più di 5 accumuli di Eco, ottieni 15% Rigen. concentrazione."
+PASSIVE_ECHOEDFOCUS_NAME,Concentrazione Riecheggiata
+PASSIVE_ECHOESOFICE_DESC,"Ogni volta che consumi Gelo su un nemico, applichi la stessa quantità di Eco temporale per la durata residua."
+PASSIVE_ECHOESOFICE_NAME,Echi di Ghiaccio
+PASSIVE_ECHOINGVANISH_DESC,Dissolvenza perfetta applica 5 accumuli di Eco temporale.
+PASSIVE_ECHOINGVANISH_NAME,Dissolvenza Echeggiante
+PASSIVE_ECHOSHADE_DESC,"Quando consumi Eco temporale da un nemico, se ne consumi almeno 5 accumuli, crei un Clone d'ombra vicino a quel nemico per 8 secondi. Poi mandi i Cloni d'ombra vicini, incluso quello creato, ad attaccarlo. Tempo di recupero: 10 secondi."
+PASSIVE_ECHOSHADE_NAME,Ombra d'Eco
+PASSIVE_ECHOWEAVER_DESC,"Agilità conferisce 0,5 Danno magico aggiuntivo"
+PASSIVE_ECHOWEAVER_NAME,Tessitore d'Eco
+PASSIVE_ELEMENTALRANGER_DESC,L'avventura fornisce 0.25 Danno magico in più
+PASSIVE_ELEMENTALRANGER_NAME,Ranger Elementale
+PASSIVE_ELVISHVELOCITY_DESC,"Dopo aver usato un'abilità da Elfo, ottieni +15% Velocità di movimento per 2 secondi."
+PASSIVE_ELVISHVELOCITY_NAME,Velocità Elfica
+PASSIVE_EMBERCASCADE_DESC,"Colpire un nemico con Ustione con un attacco a distanza scaglia una piccola Palla di fuoco contro il bersaglio. Il numero di palle di fuoco aumenta in base agli accumuli di Ustione, fino a 10."
+PASSIVE_EMBERCASCADE_NAME,Cascata di Brace
+PASSIVE_EMBERLASH_DESC,"Gli attacchi ravvicinati possono incendiare i nemici colpiti, infliggendo una scarica di danno. La probabilità dipende dal numero di accumuli di Ustione sul bersaglio."
+PASSIVE_EMBERLASH_NAME,Sferzata di Brace
+PASSIVE_ENRAGINGPARRY_DESC,Le parate riuscite conferiscono 5 accumuli di Furia.
+PASSIVE_ENRAGINGPARRY_NAME,Parata Infuriante
+PASSIVE_FERALBOND_NAME,Vincolo Ferino
+PASSIVE_FESTERINGWOUNDS_DESC,"Quando infliggi un colpo critico a un nemico Avvelenato, prolunghi il Veleno su quel nemico di 2 secondi. Tempo di recupero: 3 secondi per nemico"
+PASSIVE_FESTERINGWOUNDS_NAME,Ferite Purulente
+PASSIVE_FINISHINGEDGE_DESC,"Quando infliggi un colpo critico a un nemico sotto il 40% di Salute, ottieni il 20% di Danno critico in più per 3 secondi."
+PASSIVE_FINISHINGEDGE_NAME,Filo Finale
+PASSIVE_FLAMEFEEDFRENZY_DESC,"Ogni volta che i tuoi incantesimi consumano Ustione, ottieni 2 Celerità magica e 2% Velocità d'attacco per accumulo consumato, fino al 24%, per 5 secondi."
+PASSIVE_FLAMEFEEDFRENZY_NAME,Frenesia Nutrifiamma
+PASSIVE_FOCUSEDASSAULT_DESC,"Dopo aver usato un'abilità da Elfo, ottieni +15% Danno d'attacco per 3 secondi."
+PASSIVE_FOCUSEDASSAULT_NAME,Assalto Focalizzato
+PASSIVE_FROSTBITEFOCUS_DESC,Attaccare un nemico Assiderato conferisce un Effetto ad accumulo che aumenta il tuo Danno da ghiaccio per 10 secondi
+PASSIVE_FROSTBITEFOCUS_NAME,Concentrazione del Congelamento
+PASSIVE_FROSTBORNEDAGGERS_DESC,"Quando colpisci un nemico con il tuo Attacco finale, se ha almeno 5 accumuli di Eco temporale, li consumi tutti per scatenare una scarica di ghiaccio che applica a tutti i nemici vicini Gelo pari all'Eco temporale consumata."
+PASSIVE_FROSTBORNEDAGGERS_NAME,Pugnali Nati dal Gelo
+PASSIVE_FROSTFORGEDMIGHT_DESC,Lanciare un incantesimo di ghiaccio aumenta il tuo Danno fisico del 25% per 5 secondi.
+PASSIVE_FROSTFORGEDMIGHT_NAME,Possanza Forgiata dal Gelo
+PASSIVE_FROSTQUAKE_DESC,"In combattimento, ogni secondo un nemico Assiderato vicino casuale viene colpito da un tremore che infligge Danno contundente."
+PASSIVE_FROSTQUAKE_NAME,Sisma Gelido
+PASSIVE_FROSTSHOCK_DESC,Tutte le fonti di danno infliggono il 5% di Danno da stordimento in più per ogni accumulo di Gelo sul bersaglio.
+PASSIVE_FROSTSHOCK_NAME,Scossa Gelida
+PASSIVE_GLACIALDRAG_DESC,"Ogni volta che i tuoi incantesimi consumano Gelo su un nemico, gli applichi per 5 secondi un Rallentamento pari alla potenza degli accumuli consumati."
+PASSIVE_GLACIALDRAG_NAME,Trascinamento Glaciale
+PASSIVE_GLOOMSTALKER_DESC,L'avventura fornisce 0.25% Velocità d'attacco in più
+PASSIVE_GLOOMSTALKER_NAME,Cacciatore dell'Ombra
+PASSIVE_GOREWRAITHAMBUSH_DESC,"Dopo essere uscito dalla Furtività, il tuo prossimo Attacco finale entro 5 secondi verifica la tua Furia. Se hai almeno 5 accumuli di Furia, ne consuma fino a 10 per infliggere più Danno da taglio e applicare al bersaglio Sanguinamento pari alla Furia consumata. Crea anche un Clone d'ombra nel punto d'impatto per 8 secondi, poi manda i Cloni d'ombra vicini, incluso quello creato, a sferrare un pesante colpo d'ascia al bersaglio. Tempo di recupero: 10 secondi."
+PASSIVE_GOREWRAITHAMBUSH_NAME,Imboscata dello Spettro Cruento
+PASSIVE_GUARDSTEP_DESC,Cambio conferisce a te e al tuo bersaglio un breve aumento di velocità. Ottieni anche Armatura durante l'aumento di velocità.
+PASSIVE_GUARDSTEP_NAME,Passo Guardiano
+PASSIVE_HAYMAKER_DESC,"Probabilità di critico +8%; Armatura +12; dopo uno scatto rapido, ottieni +20% Danno fisico per 5 secondi."
+PASSIVE_HAYMAKER_NAME,Colpo Demolitore
+PASSIVE_INFECTIONSCENT_DESC,"Colpendo un nemico con almeno 10 accumuli di Veleno, ottieni +15% Probabilità di critico per 5 secondi."
+PASSIVE_INFECTIONSCENT_NAME,Odore d'Infezione
+PASSIVE_INFECTIOUSCLEAVER_DESC,"Lanciare un'abilità delle Arti dell'ascia o di Magia della peste conferisce Mannaia Infettiva per 10 secondi. Mentre è attiva, il tuo prossimo Attacco finale contro un nemico con Sanguinamento ne consuma fino a 10 accumuli per applicare Veleno pari al Sanguinamento consumato e creare una scarica di Decadimento attorno al bersaglio. Tempo di recupero: 6 secondi."
+PASSIVE_INFECTIOUSCLEAVER_NAME,Mannaia Infettiva
+PASSIVE_KINDLEDFOCUS_DESC,"Quando applichi Ustione a un nemico, ottieni 15% Rigenerazione della concentrazione per 5 secondi."
+PASSIVE_KINDLEDFOCUS_NAME,Concentrazione Ravvivata
+PASSIVE_KINDLINGSTRIKE_DESC,Colpire un nemico con il terzo attacco ravvicinato conferisce al tuo prossimo incantesimo di fuoco un bonus cumulabile al Danno da fuoco del 5% per ogni accumulo di Ustione sul nemico. Il bonus si consuma con il prossimo incantesimo di fuoco.
+PASSIVE_KINDLINGSTRIKE_NAME,Colpo Innesco
+PASSIVE_KNOCKOUTRESERVES_DESC,"Quando stordisci un nemico, ripristini il 20% del tuo Vigore massimo."
+PASSIVE_KNOCKOUTRESERVES_NAME,Riserve da Knockout
+PASSIVE_LIFEBLOOM_NAME,Fiore della Vita
+PASSIVE_LIONSURGE_DESC,Danno critico +30%; i colpi critici con Danno perforante conferiscono +20% Danno perforante per 5 secondi.
+PASSIVE_LIONSURGE_NAME,Ondata del Leone
+PASSIVE_MANYCUTPHANTOM_DESC,"Uscire dalla Furtività conferisce Fantasma dai Molti Tagli per 5 secondi. Mentre è attivo, il tuo Attacco finale contro un nemico con almeno 10 accumuli di Sanguinamento ne consuma 10 dal bersaglio, crea un Clone d'ombra vicino a quel nemico per 8 secondi, poi manda i Cloni d'ombra vicini, incluso quello creato, a colpirlo. Tempo di recupero: 12 secondi."
+PASSIVE_MANYCUTPHANTOM_NAME,Fantasma dai Molti Tagli
+PASSIVE_MOMENTUM_NAME,Slancio
+PASSIVE_MURDERTEMPO_DESC,"Quando uccidi un nemico con un colpo critico, ottieni il 20% di Velocità d'attacco e il 15% di Danno critico in più per 4 secondi"
+PASSIVE_MURDERTEMPO_NAME,Tempo Omicida
+PASSIVE_MYSTWEAVE_NAME,Trama Mistica
+PASSIVE_NERVEBLIGHT_DESC,Il tuo Danno da veleno genera anche Accumulo di stordimento.
+PASSIVE_NERVEBLIGHT_NAME,Piaga Nervosa
+PASSIVE_NIGHTSWHISPER_DESC,"Agilità conferisce 2,5 Vigore aggiuntivo"
+PASSIVE_NIGHTSWHISPER_NAME,Sussurro della Notte
+PASSIVE_OVERCHANNEL_DESC,"Concentrazione +20%; quando spendi oltre 30 Concentrazione in una volta, ottieni +20% Danno magico per 5 secondi."
+PASSIVE_OVERCHANNEL_NAME,Sovraccanalizzazione
+PASSIVE_PACKBOND_DESC,Potere della Natura Selvaggia si applica a tutti gli alleati attorno a te.
+PASSIVE_PACKBOND_NAME,Vincolo del Branco
+PASSIVE_PATHSURGE_DESC,"Dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte. Aumenta entrambi gli effetti al 7% per accumulo."
+PASSIVE_PATHSURGE_NAME,Ondata di Sentieri
+PASSIVE_PATHWEAVER_DESC,"Dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte."
+PASSIVE_PATHWEAVER_NAME,Tessitore di Sentieri
+PASSIVE_PERMAFROSTRHYTHM_DESC,"Ogni volta che i tuoi incantesimi consumano Gelo, riduci i tempi di recupero dei tuoi incantesimi dell'1% per accumulo consumato."
+PASSIVE_PERMAFROSTRHYTHM_NAME,Ritmo del Permafrost
+PASSIVE_PESTILENTTREMOR_DESC,"Lanciare un'abilità di Magia del Minotauro o di Magia della peste con almeno 5 accumuli di Inoculazione ne consuma fino a 10 per creare un Tremore Pestilenziale che dura 1 secondo per accumulo consumato. Tremore Pestilenziale ti segue, colpendo continuamente con scosse i nemici vicini e infliggendo Danno da decadimento. Consuma 2 accumuli di Veleno da ciascun bersaglio per infliggere Danno da stordimento bonus."
+PASSIVE_PESTILENTTREMOR_NAME,Tremore Pestilenziale
+PASSIVE_PHANTOMCROSSFIRE_DESC,"Dopo aver usato Cambio arma per passare alla balestra, il tuo prossimo Attacco finale a distanza a segno crea un Clone d'ombra vicino al bersaglio per 8 secondi. Poi fa sparare ai Cloni d'ombra vicini, incluso quello creato, un Pugnale d'ombra verso quel nemico. Tempo di recupero: 8 secondi."
+PASSIVE_PHANTOMCROSSFIRE_NAME,Fuoco Incrociato Fantasma
+PASSIVE_PHASEDUELLIST_DESC,La forza fornisce 0.25% Velocità d'attacco in più
+PASSIVE_PHASEDUELLIST_NAME,Duellante di Fase
+PASSIVE_PLAGUEMARKSMANSHIP_DESC,"Colpire un nemico con un Attacco finale a distanza, Tiro mirato o un dardo di balestra di Cambio arma consuma 5 accumuli di Veleno dal bersaglio per creare una scarica tossica che infligge Danno da decadimento ai nemici vicini. Richiede almeno 5 accumuli di Veleno sul bersaglio. Tempo di recupero: 2 secondi."
+PASSIVE_PLAGUEMARKSMANSHIP_NAME,Tiro della Peste
+PASSIVE_PLAGUEMIND_DESC,"Quando un nemico raggiunge 5 accumuli di Veleno, ottieni Concentrazione al colpo per 5 secondi. Tempo di recupero: 6 secondi"
+PASSIVE_PLAGUEMIND_NAME,Mente della Peste
+PASSIVE_PULVERIZINGFRENZY_DESC,Colpire un nemico con il terzo attacco ravvicinato mentre hai più di 5 accumuli di Furia consuma la tua Furia per lanciare Polverizza senza costo.
+PASSIVE_PULVERIZINGFRENZY_NAME,Frenesia Polverizzante
+PASSIVE_PUMMEL_DESC,Velocità d'attacco +10%; HP % +10%; colpire rapidamente lo stesso nemico con Danno contundente aumenta il tuo Danno fisico del +20% per 3 secondi.
+PASSIVE_PUMMEL_NAME,Martellamento
+PASSIVE_PYREECHO_DESC,"Quando applichi Ustione a un nemico, ottieni Danno magico bonus pari alla quantità di Ustione sul nemico per 5 secondi."
+PASSIVE_PYREECHO_NAME,Eco della Pira
+PASSIVE_QUICKTRADE_DESC,Cambio conferisce a te e al tuo bersaglio un breve aumento di velocità.
+PASSIVE_QUICKTRADE_NAME,Scambio Rapido
+PASSIVE_RAGEFROMRUIN_DESC,"Quando stordisci un nemico, ottieni 2 accumuli di Furia."
+PASSIVE_RAGEFROMRUIN_NAME,Furia dalla Rovina
+PASSIVE_RECOVERATIVERAGE_DESC,La tua Rigen. vigore aumenta del 2% per accumulo di Furia.
+PASSIVE_RECOVERATIVERAGE_NAME,Furia Recuperativa
+PASSIVE_RECOVERINGFINISHER_DESC,Il terzo attacco del Minotauro ripristina il 20% del Vigore massimo del giocatore se colpisce un nemico
+PASSIVE_RECOVERINGFINISHER_NAME,Finisher Ristoratore
+PASSIVE_REGENERATIVERAGE_DESC,La Rigen. vigore aumenta del 10% per accumulo di Furia
+PASSIVE_REGENERATIVERAGE_NAME,Furia Rigenerativa
+PASSIVE_REJUVENATINGRAGE_DESC,La Rigen. concentrazione aumenta del 10% per accumulo di Furia
+PASSIVE_REJUVENATINGRAGE_NAME,Furia Ringiovanente
+PASSIVE_RIPOSTE_DESC,"HP % +20%; Velocità d'attacco +8%; dopo aver parato un attacco, ottieni +20% Danno da taglio per 3 secondi."
+PASSIVE_RIPOSTE_NAME,Riposta
+PASSIVE_RIPOSTEDISCIPLINE_DESC,"Dopo una Parata riuscita, il tuo prossimo Terzo Colpo infligge il 30% di danno in più. Dura 6 secondi."
+PASSIVE_RIPOSTEDISCIPLINE_NAME,Disciplina della Riposta
+PASSIVE_RIPPLINGECHOES_DESC,"Quando a un nemico viene applicata Eco temporale oltre 5 accumuli, rilasci un'Ondulazione Temporale che infligge Danno da etere e Danno da stordimento aggiuntivo a quel nemico e a tutti quelli attorno. L'ondulazione ha un tempo di recupero di 4 secondi per nemico."
+PASSIVE_RIPPLINGECHOES_NAME,Echi Ondeggianti
+PASSIVE_RIPTIDE_DESC,Riduce del 33% il tempo di recupero di Ondata d'Acqua.
+PASSIVE_RIPTIDE_NAME,Marea Impetuosa
+PASSIVE_ROOTBLOOM_NAME,Fiore di Radici
+PASSIVE_ROOTFAN_DESC,Ora Radici Avviluppanti evoca 3 radici in un cono.
+PASSIVE_ROOTFAN_NAME,Ventaglio di Radici
+PASSIVE_SECONDWIND_DESC,"Quando lanci un incantesimo o un'abilità il cui costo in Vigore supera il 30% del tuo massimo, recuperi il 50% del costo. Questo effetto può verificarsi solo una volta ogni 15 secondi."
+PASSIVE_SECONDWIND_NAME,Secondo Respiro
+PASSIVE_SEEDROT_DESC,Ora le tue Bombe di Semi lasciano una Pozza di Veleno quando esplodono.
+PASSIVE_SEEDROT_NAME,Marciume di Semi
+PASSIVE_SEEDSTORM_DESC,Lancia un gruppo di semi anziché uno solo.
+PASSIVE_SEEDSTORM_NAME,Tempesta di Semi
+PASSIVE_SEEINGRED_DESC,Colpire un nemico con Sanguinamento con un attacco a distanza conferisce 1% Velocità d'attacco per ogni accumulo di Sanguinamento sul bersaglio per 5 secondi.
+PASSIVE_SEEINGRED_NAME,Vedere Rosso
+PASSIVE_SEISMICECHO_DESC,"Dopo aver lanciato un incantesimo del Minotauro, il tuo terzo attacco sprigiona un tremore che infligge Danno contundente ai nemici vicini."
+PASSIVE_SEISMICECHO_NAME,Eco Sismica
+PASSIVE_SEPTICAFTERCUT_DESC,"Quando consumi Sanguinamento o Veleno da un nemico, ottieni accumuli di Colpo doppio pari al Sanguinamento o al Veleno consumato, fino a 10. Tempo di recupero: 10 secondi."
+PASSIVE_SEPTICAFTERCUT_NAME,Taglio Settico
+PASSIVE_SHADOWDUELIST_DESC,"Usare Cambio arma per passare alla spada conferisce Furtività per 3 secondi. Il tuo prossimo attacco ravvicinato dalla Furtività conta come Attacco finale. Colpire un nemico con questo Attacco finale crea un Clone d'ombra sul bersaglio per 8 secondi, poi fa scattare i Cloni d'ombra vicini, incluso quello creato, verso quel nemico per colpirlo e infliggere Danno da taglio. Tempo di recupero: 6 secondi."
+PASSIVE_SHADOWDUELIST_NAME,Duellante d'Ombra
+PASSIVE_SHADOWEDSTEEL_DESC,"Dopo aver usato un'abilità dell'Arte dell'ombra, ottieni il 15% di Danno fisico in più per 3 secondi"
+PASSIVE_SHADOWEDSTEEL_NAME,Acciaio Ombrato
+PASSIVE_SHADOWQUAKE_DESC,"Lanciare un'abilità di Magia del Minotauro o delle Arti dell'ombra crea un Clone d'ombra vicino a te per 8 secondi. Poi i Cloni d'ombra vicini, incluso quello creato, sprigionano un'Onda d'Ombra nel terreno, infliggendo Danno contundente ai nemici vicini. Tempo di recupero: 10 secondi."
+PASSIVE_SHADOWQUAKE_NAME,Sisma d'Ombra
+PASSIVE_SHATTERSTUN_DESC,"Quando stordisci un nemico, scateni un tremore ad area che infligge Danno contundente ad area a tutti quelli attorno"
+PASSIVE_SHATTERSTUN_NAME,Stordimento Frantumante
+PASSIVE_SILENTRECOVERY_DESC,"Quando il tuo Vigore scende sotto il 35%, ottieni il 30% di Rigenerazione del vigore in più per 4 secondi. Tempo di recupero: 12 secondi."
+PASSIVE_SILENTRECOVERY_NAME,Recupero Silenzioso
+PASSIVE_SLASHANDBASH_DESC,"Quando uccidi un nemico con Danno da taglio, ottieni 20% Danno fisico per 5 secondi."
+PASSIVE_SLASHANDBASH_NAME,Taglia e Percuoti
+PASSIVE_SONICDAGGERS_DESC,"Quando spendi 5 accumuli di Ondata temporale, ottieni Pugnali Sonici per 5 secondi. Mentre è attivo, colpire i nemici con un attacco scaglia un Dardo Sonico che li attraversa e infligge danno ripartito tra Danno perforante e Danno contundente."
+PASSIVE_SONICDAGGERS_NAME,Pugnali Sonici
+PASSIVE_STILLWATER_NAME,Acqua Ferma
+PASSIVE_STONEHIDE_DESC,"Armatura +12; quando colpisci un nemico con Danno contundente, ottieni 15 Armatura per 5 secondi."
+PASSIVE_STONEHIDE_NAME,Pelle di Pietra
+PASSIVE_STUNNINGTEMPO_DESC,"Quando stordisci un nemico, ottieni 25% Velocità d'attacco per 3 secondi."
+PASSIVE_STUNNINGTEMPO_NAME,Tempo Stordente
+PASSIVE_SUDDENSTRIDE_DESC,"Quando infliggi un colpo critico a un nemico, ottieni 20% Velocità di movimento per 3 secondi."
+PASSIVE_SUDDENSTRIDE_NAME,Falcata Improvvisa
+PASSIVE_SURGECASTING_DESC,"Quando ottieni Ondata temporale, il tuo prossimo incantesimo ha +15% Danno magico. L'effetto dura 5 secondi."
+PASSIVE_SURGECASTING_NAME,Lancio d'Ondata
+PASSIVE_SURGEOFMASTERY_DESC,"Dopo un colpo critico, ottieni +25% Velocità d'attacco per 3 secondi."
+PASSIVE_SURGEOFMASTERY_NAME,Ondata di Maestria
+PASSIVE_SURGINGVANISH_DESC,Dissolvenza perfetta conferisce 5 accumuli di Ondata temporale.
+PASSIVE_SURGINGVANISH_NAME,Dissolvenza Montante
+PASSIVE_SWIFTSTEP_NAME,Passo Rapido
+PASSIVE_TEMPOCONVERSION_DESC,"Dopo aver usato un incantesimo o un'abilità, il tuo prossimo Terzo Colpo ha +15% Probabilità di critico. L'effetto dura 5 secondi."
+PASSIVE_TEMPOCONVERSION_NAME,Conversione di Tempo
+PASSIVE_TEMPORALCLEAVE_DESC,Colpire un nemico con il tuo Attacco finale spende la tua Ondata temporale per applicare a tutti i nemici vicini Sanguinamento pari all'Ondata temporale spesa
+PASSIVE_TEMPORALCLEAVE_NAME,Fendente Temporale
+PASSIVE_TEMPORALROT_DESC,"Quando consumi Veleno da un nemico, applichi Eco temporale pari al Veleno consumato, fino a 10 accumuli. Se consumi almeno 5 accumuli di Veleno, crei una scarica di Decadimento attorno al bersaglio. Tempo di recupero: 6 secondi."
+PASSIVE_TEMPORALROT_NAME,Marciume Temporale
+PASSIVE_THICKSKIN_DESC,"Quando subisci un danno che ti porterebbe sotto il 40% degli HP, il danno si dimezza. Può accadere solo una volta ogni 30 secondi."
+PASSIVE_THICKSKIN_NAME,Pelle Spessa
+PASSIVE_TIDEPOOL_DESC,Ondata d'Acqua lascia una pozza dietro di sé.
+PASSIVE_TIDEPOOL_NAME,Pozza di Marea
+PASSIVE_TIDESTORM_NAME,Tempesta di Marea
+PASSIVE_TIMELESSFLAMES_DESC,"Dopo aver usato un'abilità da Elfo, il tuo prossimo incantesimo di Fuoco spende fino a 10 accumuli di Ondata temporale per ridurre il proprio tempo di recupero del 4% per accumulo speso. L'effetto dura 5 secondi e ha un tempo di recupero di 10 secondi."
+PASSIVE_TIMELESSFLAMES_NAME,Fiamme Atemporali
+PASSIVE_TOXICBLOOM_DESC,Le tue radici applicano 2 accumuli di Veleno in più.
+PASSIVE_TOXICBLOOM_NAME,Fiore Tossico
+PASSIVE_VANGUARD_DESC,La forza fornisce 2.5 Vigore in più
+PASSIVE_VANGUARD_NAME,Avanguardia
+PASSIVE_VIRULENTCASTING_DESC,"Quando infliggi un colpo critico con un incantesimo, ottieni il 15% di Celerità magica in più per 3 secondi"
+PASSIVE_VIRULENTCASTING_NAME,Lancio Virulento
+PASSIVE_VITALCONDUIT_DESC,Ora Memoria aumenta il Vigore massimo di 5
+PASSIVE_VITALCONDUIT_NAME,Condotto Vitale
+PASSIVE_WEAKPOINTSENSE_DESC,"Quando infliggi un colpo critico a un nemico sotto il 40% di Salute, la tua prossima abilità dell'Arte dell'ombra ha il 20% di Probabilità di critico in più. Tempo di recupero: 6 secondi"
+PASSIVE_WEAKPOINTSENSE_NAME,Senso del Punto Debole
+PASSIVE_WEAVINGJABS_DESC,"Dopo aver usato Cambio arma, per 5 secondi lanci automaticamente Jab rapido contro un bersaglio vicino quando attacchi in mischia."
+PASSIVE_WEAVINGJABS_NAME,Jab Intrecciati
+PASSIVE_WHIRLOFGORE_DESC,"Quando colpisci un nemico con Sanguinamento, hai una probabilità di attivare un attacco rotante ad area. La probabilità aumenta per ogni accumulo di Sanguinamento"
+PASSIVE_WHIRLOFGORE_NAME,Vortice di Sangue
+PASSIVE_WILDFIRE_DESC,HP % +20%; infliggi +15% danno ai nemici con Ustione.
+PASSIVE_WILDFIRE_NAME,Incendio Selvaggio
+PASSIVE_WILDSTRIDER_DESC,L'avventura fornisce 0.25 Danno fisico in più
+PASSIVE_WILDSTRIDER_NAME,Passo Silvestre
+PASSIVE_WINTERFOCUS_DESC,"Quando applichi Gelo a un nemico, ottieni 15% Rigenerazione della concentrazione per 5 secondi."
+PASSIVE_WINTERFOCUS_NAME,Concentrazione Invernale
+PASSIVE_WINTERGUARD_DESC,Armatura +16; i nemici Assiderati ti infliggono il 10% di danno in meno.
+PASSIVE_WINTERGUARD_NAME,Guardia Invernale
+PASSIVE_XWINDREADHORN_DESC,La forza fornisce 0.25% Velocità d'attacco in più
+PASSIVE_XWINDREADHORN_NAME,Cornispavento di Xwin

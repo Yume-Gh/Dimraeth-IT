@@ -1,0 +1,190 @@
+﻿Key,Text
+EQUIP_Amulet_1,Amuleto Semplice
+EQUIP_Amulet_2,Amuleto Migliorato
+EQUIP_Amulet_3,Amuleto Borchiato
+EQUIP_Amulet_4,Amuleto Mistico
+EQUIP_Amulet_5,Amuleto Divino
+EQUIP_Amulet_6,Amuleto Celestiale
+EQUIP_Badge_1,Emblema del Novizio
+EQUIP_Badge_2,Emblema dell'Adepto
+EQUIP_Badge_3,Emblema del Cercatore
+EQUIP_Badge_4,Emblema Eroico
+EQUIP_Badge_5,Emblema Mitico
+EQUIP_Badge_6,Emblema Celestiale
+EQUIP_Belt_1,Fascia Semplice
+EQUIP_Belt_2,Cintura Rinforzata
+EQUIP_Belt_3,Cintura Temprata
+EQUIP_Belt_4,Cintura Benedetta
+EQUIP_Belt_5,Cintura Mitica
+EQUIP_Belt_6,Cintura Celestiale
+EQUIP_Bracer_1,Bracciale Semplice
+EQUIP_Bracer_2,Bracciale Rinforzato
+EQUIP_Bracer_3,Bracciale Temprato
+EQUIP_Bracer_4,Bracciale Potenziato
+EQUIP_Bracer_5,Bracciale Mitico
+EQUIP_Bracer_6,Bracciale Celestiale
+EQUIP_Charm_1,Talismano Comune
+EQUIP_Charm_2,Ciondolo Imbevuto
+EQUIP_Charm_3,Ciondolo Runico
+EQUIP_Charm_4,Ciondolo Arcano
+EQUIP_Charm_5,Ciondolo Divino
+EQUIP_Charm_6,Ciondolo Celestiale
+EQUIP_NAME_FORMAT,{2} {0} {3}
+EQUIP_NAME_FORMAT_NOPREFIX,{1} {2}
+EQUIP_Ring_1,Anello Modesto
+EQUIP_Ring_2,Anello Lucidato
+EQUIP_Ring_3,Anello Dorato
+EQUIP_Ring_4,Anello Arcano
+EQUIP_Ring_5,Anello Mitico
+EQUIP_Ring_6,Anello Celestiale
+EQUIP_Rune_1,Runa Sbiadita
+EQUIP_Rune_2,Runa Raffinata
+EQUIP_Rune_3,Runa Incisa
+EQUIP_Rune_4,Runa Potenziata
+EQUIP_Rune_5,Capolavoro Runico
+EQUIP_Rune_6,Runa Perfezionata
+EQUIP_Undercoat_1,Fodera di Stoffa
+EQUIP_Undercoat_2,Sottoveste Imbottita
+EQUIP_Undercoat_3,Sottoveste a Strati
+EQUIP_Undercoat_4,Sottoveste Fortificata
+EQUIP_Undercoat_5,Sottoveste Mitica
+EQUIP_Undercoat_6,Sottoveste Celestiale
+EQUIPMENT_AETHERSHADE_BONUS_6,"Vetro Notturno: i tuoi attacchi di Etere contro nemici con Sanguinamento o Avvelenati ripristinano 10 Concentrazione. Tempo di recupero: 0,5 s"
+EQUIPMENT_AETHERSHADE_NAME,Ombra d'Etere
+EQUIPMENT_AETHERSHADE_OF,dell'Ombra d'Etere
+EQUIPMENT_BLIGHTSEED_BONUS_3,Marciume di Semi: ora le tue Bombe di Semi lasciano una Pozza di Veleno quando esplodono
+EQUIPMENT_BLIGHTSEED_BONUS_6,Tempesta di Semi: lancia un gruppo di semi anziché uno solo
+EQUIPMENT_BLIGHTSEED_NAME,Seme del Morbo
+EQUIPMENT_BLIGHTSEED_OF,del Seme del Morbo
+EQUIPMENT_BRUTALCLAW_BONUS_3,Artiglio Sanguinante: Artiglio Selvaggio è potenziato e applica 5 accumuli aggiuntivi di Sanguinamento
+EQUIPMENT_BRUTALCLAW_BONUS_5,Artiglio Potenziato: Artiglio Selvaggio è potenziato e infligge il 33% di danno extra
+EQUIPMENT_BRUTALCLAW_NAME,Artiglio Brutale
+EQUIPMENT_BRUTALCLAW_OF,dell'Artiglio Brutale
+EQUIPMENT_BULLHEART_BONUS_5,"Pelle di Pietra: quando colpisci un nemico con Danno contundente, ottieni 15 Armatura per 5 secondi"
+EQUIPMENT_BULLHEART_NAME,Cuore di Toro
+EQUIPMENT_BULLHEART_OF,del Cuore di Toro
+EQUIPMENT_BURNWARD_BONUS_4,"Pelle Callosa: quando lanci un incantesimo di Fuoco, aumenti la tua Resistenza al fuoco del 18% e ottieni Resistenza all'ustione per 4 secondi"
+EQUIPMENT_BURNWARD_NAME,Guardia Ardente
+EQUIPMENT_BURNWARD_OF,della Guardia Ardente
+EQUIPMENT_CHILLHOWL_BONUS_3,"Richiamo Canalizzato: tieni premuto per canalizzare. Ululato Alfa genera impatti attorno a te finché canalizzi, consumando Concentrazione ogni secondo"
+EQUIPMENT_CHILLHOWL_BONUS_5,"Richiamo alla Luna: durante la canalizzazione, gli impatti di Ululato Alfa piovono sul punto di mira, seguendone gli spostamenti"
+EQUIPMENT_CHILLHOWL_NAME,Ululato Gelido
+EQUIPMENT_CHILLHOWL_OF,dell'Ululato Gelido
+EQUIPMENT_CONVERGENCE_BONUS_6,"Sovraccanalizzazione: quando spendi oltre 30 Concentrazione in una volta, ottieni +20% Danno magico per 5 secondi"
+EQUIPMENT_CONVERGENCE_NAME,Convergenza
+EQUIPMENT_CONVERGENCE_OF,della Convergenza
+EQUIPMENT_DAZZLER_BONUS_4,Repulsione Abbagliante: Repulsione causa Accumulo di stordimento oltre a respingere i nemici. L'Accumulo di stordimento di Repulsione Abbagliante cresce con il Potere magico
+EQUIPMENT_DAZZLER_NAME,Accecante
+EQUIPMENT_DAZZLER_OF,dell'Accecante
+EQUIPMENT_DUSKBLOOM_BONUS_6,"Foglia Tossica: dopo uno scatto rapido, il tuo prossimo colpo di Etere o perforante entro 4 secondi conferisce +10% Velocità di movimento per 3 secondi. Tempo di recupero: 1 s"
+EQUIPMENT_DUSKBLOOM_NAME,Fiore del Crepuscolo
+EQUIPMENT_DUSKBLOOM_OF,del Fiore del Crepuscolo
+EQUIPMENT_ENFLAMED_BONUS_4,"Ardore Eterno: quando lanci un incantesimo di Fuoco, spari un colpo di mortaio verso un nemico vicino casuale, infliggendo Danno da fuoco"
+EQUIPMENT_ENFLAMED_NAME,Infiammato
+EQUIPMENT_ENFLAMED_OF,dell'Infiammato
+EQUIPMENT_ERUPTING_BONUS_3,Residui d'Acqua: ora Eruzione sparge Pozze d'Acqua con un lancio caricato al massimo
+EQUIPMENT_ERUPTING_NAME,Eruttante
+EQUIPMENT_ERUPTING_OF,dell'Eruttante
+EQUIPMENT_FERALBOND_BONUS_3,Doppio Vincolo: Potere della Natura Selvaggia si applica sia a te sia al tuo bersaglio
+EQUIPMENT_FERALBOND_BONUS_6,Vincolo del Branco: Potere della Natura Selvaggia si applica a tutti gli alleati attorno a te
+EQUIPMENT_FERALBOND_NAME,Vincolo Ferino
+EQUIPMENT_FERALBOND_OF,del Vincolo Ferino
+EQUIPMENT_FORESTLINKED_BONUS_5,Cuore Aggiuntivo: Cuore della Foresta ha una carica in più
+EQUIPMENT_FORESTLINKED_NAME,Legato alla Foresta
+EQUIPMENT_FORESTLINKED_OF,del Legato alla Foresta
+EQUIPMENT_FROSTWARD_BONUS_6,Guardia Invernale: i nemici Assiderati ti infliggono il 10% di danno in meno
+EQUIPMENT_FROSTWARD_NAME,Guardia Gelida
+EQUIPMENT_FROSTWARD_OF,della Guardia Gelida
+EQUIPMENT_GLOOMFANG_BONUS_6,"Ferita Marcescente: i tuoi attacchi di Decadimento contro nemici Avvelenati ripristinano 8 Vigore. Tempo di recupero: 0,5 s"
+EQUIPMENT_GLOOMFANG_NAME,Zanna Tenebrosa
+EQUIPMENT_GLOOMFANG_OF,della Zanna Tenebrosa
+EQUIPMENT_GOBLINCALLER_BONUS_3,Più Goblin: Lancio di Goblin genera 3 Goblin anziché 1
+EQUIPMENT_GOBLINCALLER_BONUS_6,Gruppo di Goblin: ogni impatto di Grandine di Rottami genera un servitore Goblin
+EQUIPMENT_GOBLINCALLER_NAME,Evocatore di Goblin
+EQUIPMENT_GOBLINCALLER_OF,dell'Evocatore di Goblin
+EQUIPMENT_GOBLINFRIEND_BONUS_4,"Grande Amico: evoca un Picchiatore che ti segue e combatte con te. Se muore, risorge dopo il combattimento"
+EQUIPMENT_GOBLINFRIEND_NAME,Amico dei Goblin
+EQUIPMENT_GOBLINFRIEND_OF,dell'Amico dei Goblin
+EQUIPMENT_GOREHORN_BONUS_5,Frenesia Sanguinaria: infliggi +12% Danno fisico ai nemici con Sanguinamento
+EQUIPMENT_GOREHORN_NAME,Corno Cruento
+EQUIPMENT_GOREHORN_OF,del Corno Cruento
+EQUIPMENT_GRAVEVEIL_BONUS_5,"Croce Sepolcrale: dopo uno scatto rapido, ottieni +12% Danno da decadimento per 4 secondi. Tempo di recupero: 3 s"
+EQUIPMENT_GRAVEVEIL_NAME,Velo Sepolcrale
+EQUIPMENT_GRAVEVEIL_OF,del Velo Sepolcrale
+EQUIPMENT_GUSTING_BONUS_3,Raffica Assiderante: Raffica infligge Danno da ghiaccio e applica 6 accumuli di Gelo
+EQUIPMENT_GUSTING_NAME,Raffica
+EQUIPMENT_GUSTING_OF,della Raffica
+EQUIPMENT_IRONFIST_BONUS_6,Martellamento: colpire rapidamente lo stesso nemico con Danno contundente aumenta il tuo Danno fisico del +20% per 3 secondi
+EQUIPMENT_IRONFIST_NAME,Pugno di Ferro
+EQUIPMENT_IRONFIST_OF,del Pugno di Ferro
+EQUIPMENT_LIFEBLOOM_NAME,Fiore della Vita
+EQUIPMENT_LIFEBLOOM_OF,del Fiore della Vita
+EQUIPMENT_LIONSPEAR_BONUS_6,Ondata del Leone: i colpi critici con Danno perforante conferiscono +20% Danno perforante per 5 secondi
+EQUIPMENT_LIONSPEAR_NAME,Lancia del Leone
+EQUIPMENT_LIONSPEAR_OF,della Lancia del Leone
+EQUIPMENT_MOMENTUM_BONUS_3,"Scatto Esplosivo: dopo uno scatto rapido, ottieni un breve aumento della Velocità di movimento"
+EQUIPMENT_MOMENTUM_NAME,Slancio
+EQUIPMENT_MOMENTUM_OF,dello Slancio
+EQUIPMENT_MOONTHORN_BONUS_4,"Foglia Rapida: dopo uno scatto rapido, ottieni +12% Danno perforante per 4 secondi. Tempo di recupero: 3 s"
+EQUIPMENT_MOONTHORN_NAME,Spina Lunare
+EQUIPMENT_MOONTHORN_OF,della Spina Lunare
+EQUIPMENT_PATHWEAVER_BONUS_3,"Doppia Via: dopo aver inflitto Danno fisico, ottieni 3% Danno magico cumulabile per 4 secondi. Dopo aver inflitto Danno magico, ottieni 3% Danno fisico cumulabile per 4 secondi. Ogni effetto si accumula fino a 5 volte"
+EQUIPMENT_PATHWEAVER_BONUS_6,Ondata di Sentieri: aumenta entrambi gli effetti al 7% per accumulo
+EQUIPMENT_PATHWEAVER_NAME,Tessitore di Sentieri
+EQUIPMENT_PATHWEAVER_OF,del Tessitore di Sentieri
+EQUIPMENT_PITFIGHTER_NAME,Lottatore da Fossa
+EQUIPMENT_PITFIGHTER_OF,del Lottatore da Fossa
+EQUIPMENT_PRECISIONFANG_BONUS_5,"Zanna Guidata: ora Falange Zanna d'Etere spara ogni proiettile nella direzione scelta nell'arco di 1,5 secondi. Il danno di ciascun proiettile aumenta del 33%"
+EQUIPMENT_PRECISIONFANG_NAME,Zanna di Precisione
+EQUIPMENT_PRECISIONFANG_OF,della Zanna di Precisione
+EQUIPMENT_PUTRID_BONUS_3,Eruzione Putrida: ora Eruzione infligge Danno da decadimento e tutte le Pozze d'Acqua generate diventano Pozze di Veleno
+EQUIPMENT_PUTRID_BONUS_5,Eruzione Espansiva: ora Eruzione sparge Pozze di Veleno con un lancio caricato al massimo
+EQUIPMENT_PUTRID_NAME,Putrido
+EQUIPMENT_PUTRID_OF,del Putrido
+EQUIPMENT_PYREWEAVER_BONUS_6,Incendio Selvaggio: infliggi +15% danno ai nemici con Ustione
+EQUIPMENT_PYREWEAVER_NAME,Tessitore di Fiamme
+EQUIPMENT_PYREWEAVER_OF,del Tessitore di Fiamme
+EQUIPMENT_REDSTEEL_BONUS_6,"Imboscata: dopo uno Scatto rapido, il tuo prossimo colpo entro 3 secondi infligge +25% Danno fisico"
+EQUIPMENT_REDSTEEL_NAME,Acciaio Rosso
+EQUIPMENT_REDSTEEL_OF,dell'Acciaio Rosso
+EQUIPMENT_RIPPING_BONUS_3,"Squarcio Lacerante: Tagli Frenetici continua per 3 secondi dopo il lancio iniziale, infliggendo Danno da taglio e applicando Sanguinamento ogni secondo ai nemici vicini"
+EQUIPMENT_RIPPING_BONUS_5,Tagli Sanguinosi: Tagli Frenetici applica il doppio del Sanguinamento
+EQUIPMENT_RIPPING_NAME,Squarciante
+EQUIPMENT_RIPPING_OF,dello Squarciante
+EQUIPMENT_ROOTBLOOM_BONUS_3,Ventaglio di Radici: ora Radici Avviluppanti evoca 3 radici in un cono
+EQUIPMENT_ROOTBLOOM_BONUS_6,Fiore Tossico: le tue radici applicano 2 accumuli di Veleno in più
+EQUIPMENT_ROOTBLOOM_NAME,Fiore di Radici
+EQUIPMENT_ROOTBLOOM_OF,del Fiore di Radici
+EQUIPMENT_ROOTBOUND_BONUS_3,"Colpo di Radice: quando colpisci un nemico con il tuo Attacco finale, una spina di radice appare sotto di esso, infliggendo Danno da taglio"
+EQUIPMENT_ROOTBOUND_NAME,Legato alle Radici
+EQUIPMENT_ROOTBOUND_OF,del Legato alle Radici
+EQUIPMENT_RUMBLER_BONUS_6,"Colpo Demolitore: dopo uno scatto rapido, ottieni +20% Danno fisico per 5 secondi"
+EQUIPMENT_RUMBLER_NAME,Rombante
+EQUIPMENT_RUMBLER_OF,del Rombante
+EQUIPMENT_SHAKERS_BONUS_4,"Onda di Shock Caricata: ora Onda di Shock richiede di tenere premuto per il lancio. Alla carica massima emette un'onda più grande dopo la prima, che infligge il 40% del danno"
+EQUIPMENT_SHAKERS_NAME,Scuotitori
+EQUIPMENT_SHAKERS_OF,degli Scuotitori
+EQUIPMENT_SHATTERING_BONUS_4,"Stordisci e Frantuma: quando stordisci un nemico, una pioggia di rocce si sparge sul campo di battaglia, infliggendo Danno contundente a tutti i nemici colpiti"
+EQUIPMENT_SHATTERING_NAME,Frantumante
+EQUIPMENT_SHATTERING_OF,della Frantumazione
+EQUIPMENT_SHIELDLINE_BONUS_6,"Riposta: dopo aver parato un attacco, ottieni +20% Danno da taglio per 3 secondi"
+EQUIPMENT_SHIELDLINE_NAME,Linea di Scudi
+EQUIPMENT_SHIELDLINE_OF,della Linea di Scudi
+EQUIPMENT_SPIRITBOUND_BONUS_5,"Benedizione di Ceres: quando lanci un incantesimo di Etere, ottieni il 20% di Danno magico extra per 3 secondi"
+EQUIPMENT_SPIRITBOUND_BONUS_7,"Ira di Ceres: ogni volta che lanci un incantesimo di Etere, generi un dardo d'etere che, dopo un breve ritardo, insegue un nemico vicino casuale e infligge Danno da etere all'impatto"
+EQUIPMENT_SPIRITBOUND_NAME,Legato allo Spirito
+EQUIPMENT_SPIRITBOUND_OF,del Legato allo Spirito
+EQUIPMENT_STONEHOOVE_BONUS_6,"Baluardo: quando un singolo colpo ti infligge danni superiori al 30% degli HP, ottieni +25 Armatura per 3 secondi"
+EQUIPMENT_STONEHOOVE_NAME,Zoccolo di Pietra
+EQUIPMENT_STONEHOOVE_OF,dello Zoccolo di Pietra
+EQUIPMENT_SWIFTSTEP_BONUS_3,Scambio Rapido: Cambio conferisce a te e al tuo bersaglio un breve aumento di velocità
+EQUIPMENT_SWIFTSTEP_BONUS_6,Passo Guardiano: ottieni anche 25% Armatura durante l'aumento di velocità
+EQUIPMENT_SWIFTSTEP_NAME,Passo Rapido
+EQUIPMENT_SWIFTSTEP_OF,del Passo Rapido
+EQUIPMENT_THORNBORN_BONUS_4,"Cerchio di Spine: Ventaglio di Spine spara proiettili tutt'attorno a te, infliggendo Danno perforante. Cerchio di Spine si applica ai Cuori della Foresta"
+EQUIPMENT_THORNBORN_NAME,Nato dalle Spine
+EQUIPMENT_THORNBORN_OF,del Nato dalle Spine
+EQUIPMENT_TIDESTORM_BONUS_3,Pozza di Marea: Ondata d'Acqua lascia una pozza dietro di sé
+EQUIPMENT_TIDESTORM_BONUS_6,Marea Impetuosa: riduce del 33% il tempo di recupero di Ondata d'Acqua
+EQUIPMENT_TIDESTORM_NAME,Tempesta di Marea
+EQUIPMENT_TIDESTORM_OF,della Tempesta di Marea

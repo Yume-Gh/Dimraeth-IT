@@ -1,0 +1,3 @@
+# I CSV vengono spliciati byte per byte dentro il file del gioco:
+# nessuna conversione di fine riga, in nessuna direzione.
+* -text
