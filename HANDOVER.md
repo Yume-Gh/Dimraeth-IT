@@ -79,12 +79,38 @@ Il glossario è a **481 termini**, 457 verificabili automaticamente. Dopo ogni m
 
 ## Sicurezza del lavoro e aggiornamenti del gioco
 
+### Su GitHub
+
+**https://github.com/Yume-Gh/Dimraeth-IT** — pubblico, con le release
+scaricabili. L'exe della `v1.0` è stato riscaricato dal link pubblico e il suo
+sha256 combacia con quello costruito in locale.
+
+Il repository **non contiene lo script originale del gioco**: `.gitignore`
+esclude `source/` e `glossary/`, e tratta `work/` per **allowlist** — quello che
+non è esplicitamente ammesso resta fuori, così una dimenticanza non finisce
+online. Ammessi solo i `.md`, la terminologia e i `.it.tsv`. Prima di
+pubblicare, il contenuto del commit è stato passato al setaccio cercando
+frasi inglesi di gioco: le uniche trovate sono coppie brevi d'interfaccia
+dentro `reference.tsv`, cioè il glossario.
+
+`.gitattributes` imposta `* -text`: **nessuna conversione di fine riga**, in
+nessuna direzione. I CSV vengono spliciati byte per byte nel file del gioco, e
+una normalizzazione li romperebbe silenziosamente.
+
+Per una versione nuova:
+
+```bash
+python installer/build.py
+gh release create v1.1 installer/release/*/Dimraeth-IT-Setup.exe --notes-file <note>
+```
+
 ### Dov'è il lavoro, e cosa lo minaccia
 
 Il progetto vive in `E:\Dimraeth-IT`, **fuori dalla cartella del gioco**: un
 aggiornamento Steam non lo tocca. Sono 20,8 MB, 240 file.
 
-**Copia di sicurezza:** `D:- Games\Dimraeth-IT-backup6-09-20\`
+**Copie di sicurezza:** GitHub (tutto tranne `source/` e `glossary/`) e
+`D:- Games\Dimraeth-IT-backup6-09-20\` (tutto, compresi gli originali)
 verificata con SHA256 file per file, zero differenze. È su un **disco fisico
 diverso** (D: è il SATA da 4 TB, E: un NVMe), quindi regge anche a un guasto
 del disco di lavoro. Rifarla dopo ogni sessione di modifiche, con la data nuova.
