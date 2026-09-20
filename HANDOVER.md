@@ -109,11 +109,24 @@ gh release create v1.1 installer/release/*/Dimraeth-IT-Setup.exe --notes-file <n
 Il progetto vive in `E:\Dimraeth Traduzione IT`, **fuori dalla cartella del gioco**: un
 aggiornamento Steam non lo tocca. Sono 20,8 MB, 240 file.
 
-**Copie di sicurezza:** GitHub (tutto tranne `source/` e `glossary/`) e
-`D:\10- Games\Dimraeth Traduzione IT - backup\2026-09-20\` (tutto, compresi gli originali)
-verificata con SHA256 file per file, zero differenze. È su un **disco fisico
-diverso** (D: è il SATA da 4 TB, E: un NVMe), quindi regge anche a un guasto
-del disco di lavoro. Rifarla dopo ogni sessione di modifiche, con la data nuova.
+**Copia di sicurezza: solo GitHub.** La copia su un secondo disco è stata
+rimossa su richiesta dopo la pubblicazione del repository.
+
+**Attenzione a cosa questo comporta.** GitHub non contiene `source/` né
+`glossary/`, perché sono testi del gioco che non vanno ripubblicati — ma **da
+`source/` dipende tutta la catena di strumenti**: `validate.py`, `apply_it.py`,
+`mt.py` e `glossary.py` leggono da lì. Clonando il repository si ottiene la
+traduzione e il codice, **non un progetto funzionante**.
+
+`source/` si rigenera con `tools/extract.py`, ma solo finché il gioco è
+installato e **alla stessa build**. Dopo un aggiornamento, la fotografia della
+build su cui è stata fatta la traduzione non è più recuperabile: resta solo la
+copia in `E:\Dimraeth Traduzione IT`. Se quel disco si guasta, si perde la
+possibilità di confrontare vecchio e nuovo per capire quali righe sono cambiate.
+
+Se un domani si vuole rimettere una rete di sicurezza, bastano `source/` e
+`glossary/` — una quindicina di MB — copiati su un altro disco: tutto il resto
+è su GitHub.
 
 **Non protetto:** il backup dell'originale del gioco,
 `sharedassets1.assets.dimraeth-it.bak` (283 MB), sta **dentro la cartella
@@ -153,7 +166,7 @@ python tools/patch.py status --game "<gioco>"     # dira' se il backup e' obsole
 # se lo e':
 #   1. spostare altrove il .bak vecchio, senza cancellarlo
 #   2. python tools/extract.py --game "<gioco>"
-#   3. confrontare i nuovi source/English con la copia in D:\...\Dimraeth Traduzione IT - backup
+#   3. confrontare i nuovi source/English con la copia in la copia precedente di source/English
 ```
 
 Se il testo inglese è **invariato**, basta reinstallare: il nuovo backup viene
