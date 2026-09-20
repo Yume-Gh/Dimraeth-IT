@@ -21,8 +21,9 @@ vengono ripristinati byte per byte.
 
 ## Perché la lingua si chiama «Italiano» ma era il russo
 
-Il gioco ha otto lingue decise quando è stato compilato (IL2CPP), e l'italiano
-non è fra quelle: non si può aggiungerne una nona senza ricompilare il gioco.
+L'elenco delle lingue è fissato dentro l'eseguibile quando il gioco viene
+compilato (IL2CPP), e l'italiano non c'è: non se ne può aggiungere una nuova
+senza ricompilare il gioco.
 La traduzione occupa quindi lo **slot russo** — l'unico con margine di byte in
 tutte e sedici le categorie, perché il cirillico in UTF-8 costa due byte per
 carattere — e la voce del menu viene rinominata in «Italiano».
@@ -30,7 +31,7 @@ carattere — e la voce del menu viene rinominata in «Italiano».
 Questo permette una sostituzione **byte-esatta** dentro
 `Dimraeth_Data/sharedassets1.assets`: nessun offset del file si sposta e non
 serve ricostruire le tabelle di Unity. Finché la traduzione è installata il
-russo non è disponibile; le altre sette lingue restano intatte.
+russo non è disponibile; tutte le altre lingue del gioco restano intatte.
 
 ## Com'è stata fatta
 

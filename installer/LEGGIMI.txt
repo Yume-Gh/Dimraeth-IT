@@ -23,14 +23,14 @@ COME SI INSTALLA
 
 PERCHE' LA LINGUA SI CHIAMA "ITALIANO" MA ERA IL RUSSO
 
-  Il gioco ha otto lingue fisse, decise quando e' stato compilato, e
-  l'italiano non e' fra quelle: non c'e' modo di aggiungerne una nona senza
+  L'elenco delle lingue e' fissato dentro l'eseguibile quando il gioco viene
+  compilato, e l'italiano non c'e': non si puo' aggiungerne una nuova senza
   rifare il gioco. La traduzione prende quindi il posto del RUSSO, che e'
   l'unico slot abbastanza capiente in tutte le categorie, e la voce del menu
   viene rinominata in "Italiano".
 
   Conseguenza: finche' la traduzione e' installata, il russo non e' piu'
-  disponibile. Le altre sette lingue restano intatte.
+  disponibile. Tutte le altre lingue del gioco restano intatte.
 
 
 COME SI DISINSTALLA
