@@ -48,7 +48,7 @@ torna all'originale, rimozione con soli backup vecchi che non tocca i file.
 lavora, e fermarsi lì è utile per accorgersi dell'aggiornamento.
 
 Pacchetto: `installer/release/Dimraeth-Traduzione-Italiana-1.1.zip`.
-Exe sha256 `f4f9e895dec09060…`.
+Exe sha256 `f4f9e895dec09060…`. Pubblicato come release **v1.1** su GitHub; l'exe riscaricato dal link pubblico ha lo stesso sha.
 
 **Cartella del progetto:** `E:\Dimraeth Traduzione IT`
 **Cartella del gioco:** `E:\Games\Steam\steamapps\common\Dimraeth`
