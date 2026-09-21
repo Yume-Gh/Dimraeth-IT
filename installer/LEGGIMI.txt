@@ -1,5 +1,5 @@
 ===============================================================================
-  DIMRAETH - TRADUZIONE ITALIANA          versione 1.0
+  DIMRAETH - TRADUZIONE ITALIANA          versione 1.1
   traduzione amatoriale, non ufficiale, non affiliata a Mudtek
 ===============================================================================
 
@@ -7,7 +7,7 @@
 COSA C'E' DENTRO
 
   Traduzione italiana completa di Dimraeth: tutte e sedici le categorie di
-  testo del gioco, 20.373 stringhe. Interfaccia, oggetti, abilita',
+  testo del gioco, 20.374 stringhe. Interfaccia, oggetti, abilita',
   incantesimi, missioni, codex e i 5.202 dialoghi degli NPC.
 
 

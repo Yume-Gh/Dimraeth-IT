@@ -57,7 +57,9 @@ def main():
         n = 0
         for name, s in best.items():
             with open(os.path.join(d, name + ".csv"), "wb") as f:
-                f.write(s.payload(data))
+                # un solo BOM: utf-8-sig, usato da tutti gli strumenti, ne
+                # toglie uno e un secondo finirebbe nell'intestazione "Key"
+                f.write(uf.BOM + s.payload(data).lstrip(uf.BOM))
             n += 1
         print(f"  {lg}: {n} file -> {os.path.relpath(d, ROOT)}")
 

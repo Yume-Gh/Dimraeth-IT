@@ -746,7 +746,7 @@ SPELL_TIDALWAVE_NAME,Onda di Marea
 SPELL_TIMELESSVOID_DESC,"Premi per lanciare. Crea un ampio dominio temporale. I nemici al suo interno subiscono Danno da etere nel tempo; il danno loro inflitto accumula Pressione temporale. Alla scadenza il dominio collassa, infliggendo Danno da etere aumentato dalla Pressione accumulata."
 SPELL_TIMELESSVOID_EFFECT_0,Danno da etere al secondo: (MA:0.47)
 SPELL_TIMELESSVOID_EFFECT_1,Danno del collasso: (MA:2.35)
-SPELL_TIMELESSVOID_MOD_0,Vuoto Focalizzato: Riduce il raggio di Vuoto eterno del 40%. I nemici al suo interno possono immagazzinare il 30% di Pressione temporale in più e il danno loro inflitto immagazzina il 15% di Pressione in più.
+SPELL_TIMELESSVOID_MOD_0,Vuoto Focalizzato: Riduce il raggio di Vuoto eterno del 40%. Vuoto eterno può immagazzinare il 30% di Pressione temporale in più e il danno inflitto al suo interno immagazzina il 15% di Pressione in più.
 SPELL_TIMELESSVOID_MOD_1,"Vuoto protettivo: Quando Vuoto eterno collassa, gli alleati al suo interno ottengono uno scudo protettivo. La raccolta di Pressione temporale è ridotta del 20%."
 SPELL_TIMELESSVOID_MOD_2,Vuoto sigillato: I nemici all'interno di Vuoto eterno vengono rallentati del 30% e quelli sopravvissuti vengono nuovamente rallentati quando il dominio collassa. Vuoto eterno infligge il 25% di Danno da etere nel tempo in meno.
 SPELL_TIMELESSVOID_MOD_3,"Vuoto Echeggiante: Applica 5 cariche di Eco temporale a tutti i nemici nel dominio, ma non infligge più danno."

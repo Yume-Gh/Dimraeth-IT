@@ -29,7 +29,7 @@ TARGET_LANG = "Russian"
 BAK = ".dimraeth-it.bak"
 LABEL_FROM = "Русский".encode("utf-8")            # 14 byte
 LABEL_TO = "Italiano".encode("utf-8") + b" " * 6  # 14 byte, stessa lunghezza
-VERSION = "1.0"
+VERSION = "1.1"
 AUTORE = "Yume"
 AUTORE_URL = "https://steamcommunity.com/id/yumexx/"
 GIOCO_URL = "https://store.steampowered.com/app/%s/" % APPID
@@ -167,6 +167,34 @@ def backup_stale(assets, data=None):
     return None
 
 
+def meta_backup_stale(meta):
+    """True se il backup di global-metadata.dat viene da un'altra build.
+
+    La rinomina scambia 14 byte con altri 14, quindi un backup valido e'
+    esattamente il file attuale con l'etichetta rimessa in russo. Il controllo
+    su sharedassets1.assets non basta: gli aggiornamenti riscrivono anche questo,
+    e ripristinare un metadata vecchio romperebbe il gioco.
+    """
+    bak = meta + BAK
+    if not os.path.exists(bak):
+        return False
+    if os.path.getsize(bak) != os.path.getsize(meta):
+        return True
+    with open(meta, "rb") as f, open(bak, "rb") as g:
+        return f.read().replace(LABEL_TO, LABEL_FROM) != g.read()
+
+
+def _scarta_backup_obsoleti(assets, meta):
+    """Dopo un aggiornamento i file del gioco sono quelli nuovi scritti da
+    Steam, senza traduzione: i backup vecchi non servono piu' a nulla, e
+    rimetterli danneggerebbe il gioco. Si tolgono, e l'installazione riparte
+    da zero come per un utente nuovo."""
+    if backup_stale(assets) and os.path.exists(assets + BAK):
+        os.remove(assets + BAK)
+    if meta_backup_stale(meta):
+        os.remove(meta + BAK)
+
+
 def status(game):
     """(stato, dettaglio) leggibili da un essere umano."""
     if not is_game_folder(game):
@@ -179,8 +207,9 @@ def status(game):
         return "errore", "Non riesco a leggere il file del gioco: %s" % e
     motivo = backup_stale(assets, data)
     if motivo:
-        return "aggiornato", ("Il gioco e' stato aggiornato dopo l'installazione: "
-                              + motivo + ". La traduzione non e' piu' attiva.")
+        return "aggiornato", ("Il gioco e' stato aggiornato e la traduzione non e' "
+                              "piu' attiva. Premi «Installa la traduzione» "
+                              "per rimetterla.")
     bak = assets + BAK
     if not os.path.exists(bak):
         return "originale", "Gioco originale, traduzione non installata."
@@ -212,19 +241,14 @@ def install(game, progress=lambda pct, testo: None):
     with open(assets, "rb") as f:
         data = f.read()
 
-    motivo = backup_stale(assets, data)
-    if motivo:
-        raise Problema(
-            "Il gioco e' stato aggiornato dopo un'installazione precedente:\n"
-            + motivo + ".\n\n"
-            "Il backup non e' piu' utilizzabile e reinstallare adesso "
-            "danneggerebbe il gioco.\n\n"
-            "Rinomina o sposta questo file, poi riprova:\n"
-            + os.path.basename(assets) + BAK)
+    # Gioco aggiornato dopo un'installazione precedente: il backup vecchio non
+    # e' piu' una base valida (i suoi offset corromperebbero il file nuovo),
+    # quindi gli slot si cercano nel file attuale, che e' l'originale di Steam.
+    aggiornato = backup_stale(assets, data) is not None
 
     progress(15, "Cerco le tabelle della lingua...")
     bak = assets + BAK
-    src = bak if os.path.exists(bak) else assets
+    src = bak if os.path.exists(bak) and not aggiornato else assets
     with open(src, "rb") as f:
         picked, probs = uf.pick_slots(uf.scan(f.read()), TARGET_LANG)
     if probs:
@@ -256,6 +280,7 @@ def install(game, progress=lambda pct, testo: None):
                        "Serve una versione nuova della traduzione.")
 
     progress(45, "Creo il backup del gioco originale...")
+    _scarta_backup_obsoleti(assets, meta)
     if not os.path.exists(bak):
         shutil.copy2(assets, bak)
 
@@ -299,17 +324,20 @@ def uninstall(game, progress=lambda pct, testo: None):
         raise Problema("In questa cartella non c'e' Dimraeth.")
     if game_running():
         raise Problema("Dimraeth e' aperto.\n\nChiudi il gioco e riprova.")
-    motivo = backup_stale(assets)
-    if motivo:
-        raise Problema(
-            "Non posso ripristinare: " + motivo + ".\n\n"
-            "Il gioco e' stato aggiornato dopo l'installazione, quindi il "
-            "backup contiene una versione vecchia: rimetterlo danneggerebbe "
-            "il gioco.\n\n"
-            "Usa invece Steam: Proprieta' del gioco -> File installati -> "
-            "Verifica integrita'.")
     n = 0
     progress(30, "Ripristino i file originali...")
+    # I backup di un'altra build non si rimettono: dopo un aggiornamento il
+    # file del gioco e' gia' quello originale di Steam.
+    if backup_stale(assets):
+        os.remove(assets + BAK)
+        n += 1
+    if meta_backup_stale(meta):
+        os.remove(meta + BAK)
+        with open(meta, "rb") as f:
+            md = f.read()
+        if LABEL_TO in md:
+            _atomic_write(meta, md.replace(LABEL_TO, LABEL_FROM))
+        n += 1
     for p in (assets, meta):
         bak = p + BAK
         if os.path.exists(bak):

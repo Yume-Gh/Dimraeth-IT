@@ -20,6 +20,7 @@ ERROR_CHARACTER_NAME_TAKEN,Il nome del personaggio è già in uso o riservato
 ERROR_CHARACTER_NAME_TOO_LONG,Il nome del personaggio è troppo lungo
 ERROR_CHARACTER_NAME_TOO_SHORT,Il nome del personaggio deve avere almeno 2 caratteri
 ERROR_CHARACTER_NEW_ONLY,Questo server ammette solo personaggi nuovi o di ritorno
+ERROR_CHARACTER_SAVE_FAILED,Impossibile salvare il personaggio. Assicurati che l'antivirus o la protezione delle cartelle non stiano bloccando il gioco.
 ERROR_CHEST_FULL,Quella cassa è piena.
 ERROR_CLASS_REQUIRED,Questo incantesimo richiede la classe {0}
 ERROR_COMBAT_ITEM_NOT_FULL,Deve essere completamente carico per lasciare la barra rapida. Riposa per ricaricarlo.

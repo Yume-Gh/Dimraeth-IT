@@ -36,3 +36,6 @@ install-manifest.json
 __pycache__/
 *.pyc
 *.bak
+
+# fotografie di build precedenti: testi e file del gioco
+old-build-*/

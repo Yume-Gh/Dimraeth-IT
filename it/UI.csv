@@ -67,8 +67,8 @@ FACILITY_MANGASHOP_LEVEL1_DESC,Guadagno essenza runica: +10% grezza e modellata
 FACILITY_MANGASHOP_LEVEL2_DESC,Guadagno essenza runica: +20% grezza e modellata
 FACILITY_MANGASHOP_NAME,Fucina di Manga
 FACILITY_MYRLLSHOP_DESC,Negozio di Myrll
-FACILITY_MYRLLSHOP_LEVEL1_DESC,"Recinto: 12 posti, allena i compagni fino al livello 10, +10% XP del recinto."
-FACILITY_MYRLLSHOP_LEVEL2_DESC,"Recinto: 24 posti, allena i compagni fino al livello 15, +20% XP del recinto."
+FACILITY_MYRLLSHOP_LEVEL1_DESC,"Recinto: 12 posti, allena i compagni fino al livello 4, +10% XP del recinto."
+FACILITY_MYRLLSHOP_LEVEL2_DESC,"Recinto: 24 posti, allena i compagni fino al livello 6, +20% XP del recinto."
 FACILITY_MYRLLSHOP_NAME,Negozio di Myrll
 FACILITY_REQUIRED_MATS,Materiali richiesti
 FACILITY_SAQISHOP_DESC,Migliora Saqi per ampliare il suo menu di pasti preparati.

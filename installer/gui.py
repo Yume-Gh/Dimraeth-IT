@@ -186,7 +186,7 @@ class App(tk.Tk):
             self._abilita(True, os.path.exists(core.rel_paths(g)[0] + core.BAK))
         elif stato == "aggiornato":
             self.btn_install.config(text="Installa la traduzione")
-            self._abilita(False, False)
+            self._abilita(True, False)
         else:
             self._abilita(False, False)
 

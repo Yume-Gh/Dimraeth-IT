@@ -1,8 +1,54 @@
 # Dimraeth — traduzione italiana: stato e prosecuzione
 
-Documento di passaggio fra sessioni. Aggiornato al 2026-09-20.
+Documento di passaggio fra sessioni. Aggiornato al 2026-09-21.
 
-**La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata.
+**La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
+sulla build del gioco del 2026-09-21.
+
+---
+
+## Aggiornamento del gioco del 2026-09-21 (versione 1.1)
+
+Steam ha aggiornato il gioco; la guardia sul backup obsoleto ha fermato
+l'installer come previsto, senza danni. Cosa è cambiato nel testo inglese:
+**1 riga nuova e 8 modificate**, tutte tradotte, validate e installate.
+
+| categoria | chiavi | cosa |
+|---|---|---|
+| Errors | `ERROR_CHARACTER_SAVE_FAILED` | nuova: errore di salvataggio del personaggio |
+| Skills, Spells, Codex | `SKILL_ELF_SS3B1/B2/B4/U1_DESC`, `SPELL_TIMELESSVOID_MOD_0`, `CODEX_SPELLTIMELESSVOID_FOCUSEDVOID_DESC` | ribilanciamento di Vuoto eterno: ora è il Vuoto, non i nemici, a immagazzinare la Pressione temporale |
+| UI | `FACILITY_MYRLLSHOP_LEVEL1/2_DESC` | livelli massimi del recinto: 10→4 e 15→6 |
+
+La fotografia della build precedente è in `old-build-2026-09-20/`
+(`source/` vecchio e i due backup vecchi, esclusi da git): serve solo per
+confrontare, si può cancellare quando non serve più.
+
+**Due trappole nuove, entrambe corrette:**
+
+- **BOM doppio.** Nella build nuova i CSV inglesi di Codex, Skills e Spells
+  iniziano con `EF BB BF EF BB BF`. Lo scanner agganciava il secondo BOM, leggeva
+  il primo come lunghezza e scartava lo slot: `extract.py` lasciava in `source/`
+  i file vecchi **senza dirlo**. Ora `scan()` risale sopra i BOM ripetuti e
+  `extract.py` scrive i CSV con un solo BOM (`utf-8-sig` ne toglie uno). Dopo un
+  aggiornamento, controllare che `extract.py` riporti **16 categorie English**.
+- **Anche il backup del metadata diventa obsoleto.** L'aggiornamento riscrive
+  pure `global-metadata.dat`, ma la guardia controllava solo `sharedassets1`.
+  Il backup vecchio restava, e «Rimuovi» avrebbe rimesso un metadata della
+  build precedente, rompendo il gioco. Ora `core.meta_backup_stale()` lo
+  riconosce: un backup valido è il file attuale con l'etichetta rimessa in russo.
+
+**L'installer 1.1 gestisce da solo il gioco aggiornato.** Prima si fermava e
+chiedeva di spostare il `.bak` a mano, cosa che un utente non sa fare. Ma dopo
+un aggiornamento il file del gioco è l'originale nuovo di Steam, e i backup
+vecchi non servono a niente: ora «Installa» li scarta e installa da zero, e
+«Rimuovi» li scarta senza ripristinarli. Provato su una copia con i file nuovi
+e i backup vecchi: installazione byte-identica a `patch.py`, rimozione che
+torna all'originale, rimozione con soli backup vecchi che non tocca i file.
+`tools/patch.py` resta invece prudente e si ferma: è lo strumento di chi
+lavora, e fermarsi lì è utile per accorgersi dell'aggiornamento.
+
+Pacchetto: `installer/release/Dimraeth-Traduzione-Italiana-1.1.zip`.
+Exe sha256 `f4f9e895dec09060…`.
 
 **Cartella del progetto:** `E:\Dimraeth Traduzione IT`
 **Cartella del gioco:** `E:\Games\Steam\steamapps\common\Dimraeth`
@@ -164,9 +210,11 @@ non solo del risultato.
 ```bash
 python tools/patch.py status --game "<gioco>"     # dira' se il backup e' obsoleto
 # se lo e':
-#   1. spostare altrove il .bak vecchio, senza cancellarlo
-#   2. python tools/extract.py --game "<gioco>"
-#   3. confrontare i nuovi source/English con la copia in la copia precedente di source/English
+#   1. copiare source/ e spostare i due .bak vecchi (assets E metadata) in old-build-<data>/
+#   2. python tools/extract.py --game "<gioco>" --lang English German Portuguese Russian Spanish
+#      e controllare che English riporti 16 categorie
+#   3. confrontare per chiave source/English con old-build-<data>/source/English
+#   4. tradurre le righe nuove o cambiate in it/, validate.py, patch.py install --label
 ```
 
 Se il testo inglese è **invariato**, basta reinstallare: il nuovo backup viene

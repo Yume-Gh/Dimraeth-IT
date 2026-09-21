@@ -1547,7 +1547,7 @@ SKILL_ELF_SS2U7_DESC,"Il primo impulso consuma fino a 10 cariche di Eco temporal
 SKILL_ELF_SS2U7_NAME,Fenditura Riecheggiato
 SKILL_ELF_SS3_DESC,"Premi per lanciare. Crea un ampio dominio temporale. I nemici al suo interno subiscono Danno da etere nel tempo; il danno che infliggi loro, escluso quello degli effetti di stato, accumula Pressione temporale. Alla scadenza il dominio collassa, infliggendo a tutti i nemici al suo interno Danno da etere aumentato dalla Pressione accumulata."
 SKILL_ELF_SS3_NAME,Vuoto eterno
-SKILL_ELF_SS3B1_DESC,Aumenta del 12% per punto il danno massimo immagazzinato per nemico da Vuoto eterno.
+SKILL_ELF_SS3B1_DESC,Aumenta del 12% per punto la Pressione temporale massima che Vuoto eterno può immagazzinare.
 SKILL_ELF_SS3B1_NAME,Aumento capacità di Vuoto eterno I
 SKILL_ELF_SS3B10_DESC,Aumenta la durata di Vuoto eterno di 0.5 secondi per punto.
 SKILL_ELF_SS3B10_NAME,Aumento di Durata Vuoto eterno II
@@ -1569,7 +1569,7 @@ SKILL_ELF_SS3B18_DESC,Aumenta di 1 per punto il valore di Eco temporale applicat
 SKILL_ELF_SS3B18_NAME,Aumento di Vuoto Echeggiante II
 SKILL_ELF_SS3B19_DESC,Aumenta del 5% per punto la percentuale di danno applicata come Danno da stordimento da Vuoto Riecheggiato.
 SKILL_ELF_SS3B19_NAME,Aumento di Vuoto Riecheggiato II
-SKILL_ELF_SS3B2_DESC,Aumenta del 12% per punto il danno massimo immagazzinato per nemico da Vuoto eterno.
+SKILL_ELF_SS3B2_DESC,Aumenta del 12% per punto la Pressione temporale massima che Vuoto eterno può immagazzinare.
 SKILL_ELF_SS3B2_NAME,Aumento capacità di Vuoto eterno II
 SKILL_ELF_SS3B20_DESC,Aumenta di 1 per punto le cariche di Sanguinamento applicate da Vuoto Lacerante.
 SKILL_ELF_SS3B20_NAME,Aumento di Vuoto Lacerante II
@@ -1589,7 +1589,7 @@ SKILL_ELF_SS3B27_DESC,Aumenta di 1 per punto il valore di Ondata temporale otten
 SKILL_ELF_SS3B27_NAME,Aumento di Vuoto Montante III
 SKILL_ELF_SS3B3_DESC,Aumenta del 4% per punto la percentuale di danno immagazzinata per colpo da Vuoto eterno.
 SKILL_ELF_SS3B3_NAME,Aumento ritenzione di Vuoto eterno I
-SKILL_ELF_SS3B4_DESC,Aumenta del 12% per punto il danno massimo immagazzinato per nemico da Vuoto eterno.
+SKILL_ELF_SS3B4_DESC,Aumenta del 12% per punto la Pressione temporale massima che Vuoto eterno può immagazzinare.
 SKILL_ELF_SS3B4_NAME,Aumento capacità di Vuoto eterno III
 SKILL_ELF_SS3B5_DESC,Aumenta del 4% per punto la percentuale di danno immagazzinata per colpo da Vuoto eterno.
 SKILL_ELF_SS3B5_NAME,Aumento ritenzione di Vuoto eterno II
@@ -1601,7 +1601,7 @@ SKILL_ELF_SS3B8_DESC,Aumenta la durata di Vuoto eterno di 0.5 secondi per punto.
 SKILL_ELF_SS3B8_NAME,Aumento di Durata Vuoto eterno I
 SKILL_ELF_SS3B9_DESC,Riduce di 10% per punto il tempo di recupero di Vuoto eterno.
 SKILL_ELF_SS3B9_NAME,Riduzione del Tempo di recupero di Vuoto eterno II
-SKILL_ELF_SS3U1_DESC,Riduce il raggio di Vuoto eterno del 40%. I nemici al suo interno possono immagazzinare il 30% di Pressione temporale in più e il danno loro inflitto immagazzina il 15% di Pressione in più.
+SKILL_ELF_SS3U1_DESC,Riduce il raggio di Vuoto eterno del 40%. Vuoto eterno può immagazzinare il 30% di Pressione temporale in più e il danno inflitto al suo interno immagazzina il 15% di Pressione in più.
 SKILL_ELF_SS3U1_NAME,Vuoto Focalizzato
 SKILL_ELF_SS3U2_DESC,"Quando Vuoto eterno collassa, gli alleati al suo interno ottengono uno scudo protettivo. La raccolta di Pressione temporale è ridotta del 20%."
 SKILL_ELF_SS3U2_NAME,Vuoto protettivo

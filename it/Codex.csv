@@ -1683,7 +1683,7 @@ CODEX_SPELLTIMELESSVOID_ECHOEDVOID_DESC,"Quando Vuoto eterno collassa, consuma t
 CODEX_SPELLTIMELESSVOID_ECHOEDVOID_NAME,Vuoto Riecheggiato
 CODEX_SPELLTIMELESSVOID_ECHOINGVOID_DESC,"Applica 5 accumuli di Eco temporale a tutti i nemici nel dominio, che però non infligge più danni."
 CODEX_SPELLTIMELESSVOID_ECHOINGVOID_NAME,Vuoto Echeggiante
-CODEX_SPELLTIMELESSVOID_FOCUSEDVOID_DESC,Riduce il raggio di Vuoto eterno del 40%. I nemici al suo interno possono conservare il 30% di Pressione temporale in più e i danni loro inflitti accumulano il 15% di Pressione in più.
+CODEX_SPELLTIMELESSVOID_FOCUSEDVOID_DESC,Riduce il raggio di Vuoto eterno del 40%. Vuoto eterno può conservare il 30% di Pressione temporale in più e i danni inflitti al suo interno accumulano il 15% di Pressione in più.
 CODEX_SPELLTIMELESSVOID_FOCUSEDVOID_NAME,Vuoto Focalizzato
 CODEX_SPELLTIMELESSVOID_NAME,Vuoto eterno
 CODEX_SPELLTIMELESSVOID_RENDINGVOID_DESC,I danni nel tempo inflitti da Vuoto eterno applicano 1 accumulo di Sanguinamento.

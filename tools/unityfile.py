@@ -79,6 +79,11 @@ def scan(data):
     slots = []
     for m in MARKER.finditer(data):
         bom = m.start()
+        # dalla build del 2026-09-21 alcuni CSV (inglese di Codex, Skills,
+        # Spells) iniziano con DUE BOM: il marker aggancia l'ultimo, ma il
+        # payload comincia dal primo
+        while bom >= 3 and data[bom - 3:bom] == BOM:
+            bom -= 3
         if bom < 8:
             continue
         len_off = bom - 4
