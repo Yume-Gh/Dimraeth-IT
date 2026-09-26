@@ -17,7 +17,7 @@ a `it/`.
 **Versione 1.2** dell'installer: `installer/release/Dimraeth-Traduzione-Italiana-1.2.zip`,
 exe sha256 `58da8ee00c9cc8a9…`. Provata sul gioco vero: `--selftest` 16/16,
 rimozione che torna all'originale di Steam (sha `83ebbc01…`), installazione da
-zero byte-identica a `it/`. Il LEGGIMI ora dice 20.400 stringhe (20.403
+zero byte-identica a `it/`. Pubblicata come release **v1.2** su GitHub; l'exe riscaricato dal link pubblico ha lo stesso sha. Il LEGGIMI ora dice 20.400 stringhe (20.403
 traducibili meno le tre etichette «HP»).
 
 **Trappola ripetuta:** `sed -i` su `LEGGIMI.txt` toglie i CRLF e, con `\r$`
