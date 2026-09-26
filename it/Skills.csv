@@ -329,7 +329,7 @@ SKILL_BRAWLER_WBR7_DESC,Aumenta la tua Celerità magica di 2.
 SKILL_BRAWLER_WBR7_NAME,Celerità magica
 SKILL_BRAWLER_WBR9_DESC,Aumenta la tua Celerità magica di 2.
 SKILL_BRAWLER_WBR9_NAME,Celerità magica
-SKILL_BRAWLER_WS1_DESC,"Premi per lanciare. Scatta verso il bersaglio e colpisci, infliggendo Danno da taglio. Il lancio costa Salute."
+SKILL_BRAWLER_WS1_DESC,"Premi per lanciare. Scatta verso il bersaglio e colpisci, infliggendo Danno da taglio."
 SKILL_BRAWLER_WS1_NAME,Colpo furioso
 SKILL_BRAWLER_WS1B1_DESC,Aumenta di 8% per punto il danno di Colpo furioso.
 SKILL_BRAWLER_WS1B1_NAME,Aumento del danno da Colpo furioso I
@@ -359,14 +359,14 @@ SKILL_BRAWLER_WS1B4_DESC,Riduce di 10% per punto il tempo di recupero di Colpo f
 SKILL_BRAWLER_WS1B4_NAME,Riduzione del Tempo di recupero di Colpo furioso I
 SKILL_BRAWLER_WS1B5_DESC,Riduce di 10% per punto il tempo di recupero di Colpo furioso.
 SKILL_BRAWLER_WS1B5_NAME,Riduzione del Tempo di recupero di Colpo furioso II
-SKILL_BRAWLER_WS1B6_DESC,Riduce del 10% per punto la Salute sacrificata da Colpo furioso.
-SKILL_BRAWLER_WS1B6_NAME,Riduzione costo in Salute di Colpo furioso I
+SKILL_BRAWLER_WS1B6_DESC,Aumenta del 10% per punto la portata dello scatto di Colpo furioso.
+SKILL_BRAWLER_WS1B6_NAME,Aumento portata di Colpo furioso I
 SKILL_BRAWLER_WS1B7_DESC,Riduce di 10% per punto il tempo di recupero di Colpo furioso.
 SKILL_BRAWLER_WS1B7_NAME,Riduzione del Tempo di recupero di Colpo furioso III
-SKILL_BRAWLER_WS1B8_DESC,Riduce del 10% per punto la Salute sacrificata da Colpo furioso.
-SKILL_BRAWLER_WS1B8_NAME,Riduzione costo in Salute di Colpo furioso II
-SKILL_BRAWLER_WS1B9_DESC,Riduce del 10% per punto la Salute sacrificata da Colpo furioso.
-SKILL_BRAWLER_WS1B9_NAME,Riduzione costo in Salute di Colpo furioso III
+SKILL_BRAWLER_WS1B8_DESC,Aumenta del 10% per punto la portata dello scatto di Colpo furioso.
+SKILL_BRAWLER_WS1B8_NAME,Aumento portata di Colpo furioso II
+SKILL_BRAWLER_WS1B9_DESC,Aumenta del 10% per punto la portata dello scatto di Colpo furioso.
+SKILL_BRAWLER_WS1B9_NAME,Aumento portata di Colpo furioso III
 SKILL_BRAWLER_WS1U1_DESC,Il tempo di recupero di Colpo furioso si azzera all'uccisione.
 SKILL_BRAWLER_WS1U1_NAME,Colpo Ripetuto
 SKILL_BRAWLER_WS1U2_DESC,"Colpo furioso ora infligge Danno contundente, ma infligge il 20% di danno in meno."
@@ -2493,7 +2493,7 @@ SKILL_MAGICIAN_EBR5R5_DESC,Aumenta di 60% il danno della tua Ustione
 SKILL_MAGICIAN_EBR5R5_NAME,Aumento del danno da Ustione
 SKILL_MAGICIAN_EBR5R6_DESC,Aumenta di 20% il danno della tua Ustione
 SKILL_MAGICIAN_EBR5R6_NAME,Aumento del danno da Ustione
-SKILL_MAGICIAN_EBR5R7_DESC,"Ogni volta che i tuoi incantesimi consumano Ustione, ottieni il 20% di Danno da ustione per carica consumata per 8 secondi."
+SKILL_MAGICIAN_EBR5R7_DESC,"Ogni volta che i tuoi incantesimi consumano Ustione, ottieni il 10% di Danno da ustione per carica consumata, fino al 100%, per 8 secondi."
 SKILL_MAGICIAN_EBR5R7_NAME,Escalation di Cenere
 SKILL_MAGICIAN_EBR7_DESC,Aumenta di 1 il valore massimo di Ustione applicabile.
 SKILL_MAGICIAN_EBR7_NAME,Aumento di Ustione max
@@ -2551,11 +2551,11 @@ SKILL_MAGICIAN_ES1U3_DESC,"Palla di fuoco attraversa i nemici, infliggendo danno
 SKILL_MAGICIAN_ES1U3_NAME,Palla di fuoco Penetrante
 SKILL_MAGICIAN_ES1U4_DESC,Palla di fuoco applica 2 cariche aggiuntive di Ustione ai nemici colpiti.
 SKILL_MAGICIAN_ES1U4_NAME,Palla di fuoco incendiaria
-SKILL_MAGICIAN_ES1U5_DESC,"Palla di fuoco consuma fino a 10 cariche di Ustione da ogni nemico colpito. Per ogni carica di Ustione consumata, Palla di fuoco infligge il 12% di Danno da fuoco in più a quel nemico."
+SKILL_MAGICIAN_ES1U5_DESC,"Palla di fuoco consuma fino a 10 cariche di Ustione da ogni nemico colpito. Per ogni carica di Ustione consumata, Palla di fuoco infligge il 5% di Danno da fuoco in più a quel nemico."
 SKILL_MAGICIAN_ES1U5_NAME,Palla di fuoco comburente
 SKILL_MAGICIAN_ES1U6_DESC,"Palla di fuoco non applica più Ustione, ma conferisce 1 carica di Ravvivato per ogni nemico ustionato colpito."
 SKILL_MAGICIAN_ES1U6_NAME,Palla di fuoco Innesco
-SKILL_MAGICIAN_ES1U7_DESC,"Palla di fuoco consuma fino a 10 delle tue cariche di Ravvivato al lancio. Per ogni carica di Ravvivato consumata, Palla di fuoco infligge il 10% di Danno da fuoco in più."
+SKILL_MAGICIAN_ES1U7_DESC,"Palla di fuoco consuma fino a 10 delle tue cariche di Ravvivato al lancio. Per ogni carica di Ravvivato consumata, Palla di fuoco infligge il 5% di Danno da fuoco in più."
 SKILL_MAGICIAN_ES1U7_NAME,Palla di fuoco Fiammeggiante
 SKILL_MAGICIAN_ES1U8_DESC,Palla di fuoco consuma Gelo da ogni nemico colpito per applicare 1 carica di Ustione ogni 4 cariche di Gelo consumate.
 SKILL_MAGICIAN_ES1U8_NAME,Palla di fuoco Incandescente
@@ -3251,7 +3251,7 @@ SKILL_MINOTAUR_NS3B9_DESC,Riduce di 10% per punto il tempo di recupero di Fenden
 SKILL_MINOTAUR_NS3B9_NAME,Riduzione del Tempo di recupero di Fendente veemente III
 SKILL_MINOTAUR_NS3U1_DESC,"Fendente veemente infligge il 30% di danno in più ai nemici sotto il 40% di Salute, ma il 30% in meno ai nemici sopra il 60%"
 SKILL_MINOTAUR_NS3U1_NAME,Fendente esecutore
-SKILL_MINOTAUR_NS3U2_DESC,"Fendente veemente infligge Danno contundente, ma infligge il 30% di danno in meno."
+SKILL_MINOTAUR_NS3U2_DESC,"Fendente veemente infligge Danno contundente, ma infligge il 20% di danno in meno."
 SKILL_MINOTAUR_NS3U2_NAME,Fendente Contundente
 SKILL_MINOTAUR_NS3U3_DESC,"Se Fendente veemente colpisce almeno un nemico con una carica elevata, sferra un secondo fendente più debole dopo un breve ritardo, con il 50% del danno. Il colpo iniziale di Fendente veemente infligge il 20% di danno in meno."
 SKILL_MINOTAUR_NS3U3_NAME,Fendente Ripetuto
@@ -4693,11 +4693,11 @@ SKILL_WILDSTRIDER_HWYSW2_DESC,Aumenta il tuo Danno critico di 6%
 SKILL_WILDSTRIDER_HWYSW2_NAME,Aumento di Danno critico
 SKILL_WILDSTRIDER_KEYSTONENE_DESC,"Dopo aver usato Cambio arma, per 5 secondi lanci automaticamente Jab rapido contro un bersaglio vicino quando attacchi in mischia."
 SKILL_WILDSTRIDER_KEYSTONENE_NAME,Jab Intrecciati
-SKILL_WILDSTRIDER_KEYSTONENW_DESC,Colpire un nemico con il tuo terzo attacco in mischia mentre hai più di 5 Furia consuma la tua Furia per lanciare Polverizza senza costi. Può verificarsi solo una volta ogni 2 secondi.
+SKILL_WILDSTRIDER_KEYSTONENW_DESC,Colpire un nemico con il tuo terzo attacco in mischia mentre hai più di 5 Furia consuma la tua Furia per lanciare Polverizza senza costi. Può verificarsi solo una volta ogni 10 secondi.
 SKILL_WILDSTRIDER_KEYSTONENW_NAME,Frenesia Polverizzante
 SKILL_WILDSTRIDER_KEYSTONESE_DESC,Il tuo Danno da veleno genera anche Accumulo di stordimento.
 SKILL_WILDSTRIDER_KEYSTONESE_NAME,Piaga Nervosa
-SKILL_WILDSTRIDER_KEYSTONESW_DESC,Colpire un nemico sanguinante con un attacco a distanza conferisce il 2% di Velocità d'attacco per carica di Sanguinamento sul bersaglio per 5 secondi.
+SKILL_WILDSTRIDER_KEYSTONESW_DESC,"Colpire un nemico sanguinante con un attacco a distanza conferisce l'1% di Velocità d'attacco per carica di Sanguinamento sul bersaglio per 5 secondi, fino al 100%."
 SKILL_WILDSTRIDER_KEYSTONESW_NAME,Vedere Rosso
 SKILL_WILDSTRIDER_N10BL1_DESC,Aumenta l'Accumulo di stordimento di 5%
 SKILL_WILDSTRIDER_N10BL1_NAME,Aumento di l'Accumulo di stordimento

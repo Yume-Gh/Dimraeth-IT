@@ -61,7 +61,7 @@ PASSIVE_ARCANEENDURANCE_DESC,Ora Energia aumenta la Concentrazione massima di 5
 PASSIVE_ARCANEENDURANCE_NAME,Resistenza Arcana
 PASSIVE_ARROWOFTHEDEEPCOLD_DESC,"Quando colpisci un nemico con il terzo attacco a distanza, se è Assiderato, scagli da dietro di lui un'enorme freccia di ghiaccio che trafigge tutti i nemici colpiti, infliggendo Danno da ghiaccio."
 PASSIVE_ARROWOFTHEDEEPCOLD_NAME,Freccia del Freddo Profondo
-PASSIVE_ASHENESCALATION_DESC,"Ogni volta che i tuoi incantesimi consumano Ustione, ottieni 20% Danno da ustione per accumulo consumato per 8 secondi."
+PASSIVE_ASHENESCALATION_DESC,"Ogni volta che i tuoi incantesimi consumano Ustione, ottieni il 10% di Danno da ustione per accumulo consumato, fino al 100%, per 8 secondi."
 PASSIVE_ASHENESCALATION_NAME,Escalation di Cenere
 PASSIVE_BEASTFURY_NAME,Furia Ferina
 PASSIVE_BLACKBLOODTEMPO_DESC,"Colpire un nemico con un Attacco finale consuma fino a 10 accumuli di Veleno dal bersaglio e applica Sanguinamento pari al Veleno consumato. Se consumi almeno 5 accumuli di Veleno, ottieni 5 accumuli di Inoculazione. Tempo di recupero: 6 secondi."
@@ -203,7 +203,7 @@ PASSIVE_PLAGUEMARKSMANSHIP_DESC,"Colpire un nemico con un Attacco finale a dista
 PASSIVE_PLAGUEMARKSMANSHIP_NAME,Tiro della Peste
 PASSIVE_PLAGUEMIND_DESC,"Quando un nemico raggiunge 5 accumuli di Veleno, ottieni Concentrazione al colpo per 5 secondi. Tempo di recupero: 6 secondi"
 PASSIVE_PLAGUEMIND_NAME,Mente della Peste
-PASSIVE_PULVERIZINGFRENZY_DESC,Colpire un nemico con il terzo attacco ravvicinato mentre hai più di 5 accumuli di Furia consuma la tua Furia per lanciare Polverizza senza costo.
+PASSIVE_PULVERIZINGFRENZY_DESC,Colpire un nemico con il terzo attacco ravvicinato mentre hai più di 5 accumuli di Furia consuma la tua Furia per lanciare Polverizza senza costo. Può verificarsi solo una volta ogni 10 secondi.
 PASSIVE_PULVERIZINGFRENZY_NAME,Frenesia Polverizzante
 PASSIVE_PUMMEL_DESC,Velocità d'attacco +10%; HP % +10%; colpire rapidamente lo stesso nemico con Danno contundente aumenta il tuo Danno fisico del +20% per 3 secondi.
 PASSIVE_PUMMEL_NAME,Martellamento
@@ -238,7 +238,7 @@ PASSIVE_SEEDROT_DESC,Ora le tue Bombe di Semi lasciano una Pozza di Veleno quand
 PASSIVE_SEEDROT_NAME,Marciume di Semi
 PASSIVE_SEEDSTORM_DESC,Lancia un gruppo di semi anziché uno solo.
 PASSIVE_SEEDSTORM_NAME,Tempesta di Semi
-PASSIVE_SEEINGRED_DESC,Colpire un nemico con Sanguinamento con un attacco a distanza conferisce 1% Velocità d'attacco per ogni accumulo di Sanguinamento sul bersaglio per 5 secondi.
+PASSIVE_SEEINGRED_DESC,"Colpire un nemico con Sanguinamento con un attacco a distanza conferisce 1% Velocità d'attacco per ogni accumulo di Sanguinamento sul bersaglio per 5 secondi, fino al 100%."
 PASSIVE_SEEINGRED_NAME,Vedere Rosso
 PASSIVE_SEISMICECHO_DESC,"Dopo aver lanciato un incantesimo del Minotauro, il tuo terzo attacco sprigiona un tremore che infligge Danno contundente ai nemici vicini."
 PASSIVE_SEISMICECHO_NAME,Eco Sismica

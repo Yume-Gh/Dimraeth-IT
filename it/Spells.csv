@@ -40,7 +40,7 @@ SPELL_ALTHAEASSWAP_NAME,Scambio di Althaea
 SPELL_ALTHAEASTIDALWAVE_DESC,"Scatena un'ampia ondata di marea che rimuove gli effetti negativi degli alleati, converte in acqua tutte le pozze vicine e inonda l'area con nuove Pozze d'Acqua."
 SPELL_ALTHAEASTIDALWAVE_NAME,Onda di Marea di Althaea
 SPELL_ARROWOFTHEDEEPCOLD_DESC,Colpire un nemico assiderato con il tuo terzo attacco a distanza scocca da dietro di lui una freccia di ghiaccio gigante che trafigge tutti i nemici sul suo percorso e infligge Danno da ghiaccio.
-SPELL_ARROWOFTHEDEEPCOLD_EFFECT_0,Danno da ghiaccio: (MI:0.71)
+SPELL_ARROWOFTHEDEEPCOLD_EFFECT_0,Danno da ghiaccio: (MI:0.58)
 SPELL_ARROWOFTHEDEEPCOLD_NAME,Freccia del Freddo Profondo
 SPELL_ASTRALPURR_DESC,Resta vicino al giocatore ed emette un impulso costante che ripristina Concentrazione nell'arco di 2 secondi.
 SPELL_ASTRALPURR_NAME,Fusa Astrali
@@ -81,10 +81,10 @@ SPELL_BLADEDANCE_MOD_6,Danza Avvelenante: Ogni colpo di Danza delle lame applica
 SPELL_BLADEDANCE_MOD_7,Danza Inoculante: Ogni colpo di Danza delle lame conferisce 1 carica di Inoculazione se colpisce un bersaglio avvelenato.
 SPELL_BLADEDANCE_NAME,Danza delle lame
 SPELL_BLAZEBORNEDAGGERS_DESC,"Colpire un nemico con il tuo Attacco finale scatena una scarica di fuoco attorno a lui, infliggendo Danno da fuoco a tutti i nemici vicini e consumando fino a 10 cariche di Ondata temporale; il danno aumenta per ogni carica consumata."
-SPELL_BLAZEBORNEDAGGERS_EFFECT_0,Danno da fuoco: (MF:0.38)
+SPELL_BLAZEBORNEDAGGERS_EFFECT_0,Danno da fuoco: (MF:0.3)
 SPELL_BLAZEBORNEDAGGERS_NAME,Pugnali Nati dalla Fiamma
 SPELL_BLAZINGWRATH_DESC,"Dopo aver consumato Furia, ottieni un'Aura di Fuoco per 5 secondi, che infligge Danno da fuoco e applica Ustione ai nemici vicini ogni secondo. La durata aumenta di 0.5 secondi per ogni Furia consumata."
-SPELL_BLAZINGWRATH_EFFECT_0,Danno da fuoco: (MF:0.64)
+SPELL_BLAZINGWRATH_EFFECT_0,Danno da fuoco: (MF:0.44)
 SPELL_BLAZINGWRATH_NAME,Ira Ardente
 SPELL_BLIGHTEDTRAIL_NAME,Scia Infetta
 SPELL_BLIZZARD_DESC,"Premi per lanciare. Crea una tormenta in una posizione bersaglio. Infligge Danno da ghiaccio, applica Gelo ogni secondo e lascia una Pozza di ghiaccio."
@@ -139,7 +139,7 @@ SPELL_CHRONOSPIKE_MOD_4,Spina Lacerante: Le cariche anticipate vengono convertit
 SPELL_CHRONOSPIKE_MOD_5,Spina Montante: Usare Spina cronale conferisce 3 cariche di Ondata temporale.
 SPELL_CHRONOSPIKE_NAME,Spina cronale
 SPELL_CINDERDETONATION_DESC,"Colpire un nemico ustionato con il tuo terzo attacco scatena un'esplosione infuocata, infliggendo Danno da fuoco."
-SPELL_CINDERDETONATION_EFFECT_0,Danno da fuoco: (MF:0.73)
+SPELL_CINDERDETONATION_EFFECT_0,Danno da fuoco: (MF:0.92)
 SPELL_CINDERDETONATION_NAME,Detonazione di Brace
 SPELL_CIRCLEOFMAGIC_DESC,Premi per lanciare. Crea un Cerchio di Magia per 10 secondi che potenzia del 25% il Danno magico di tutti gli alleati al suo interno.
 SPELL_CIRCLEOFMAGIC_NAME,Cerchio di Magia
@@ -148,9 +148,10 @@ SPELL_CLAW_NAME,Artiglio
 SPELL_CLEARWATER_DESC,Premi per lanciare. Converti tutte le pozze elementali in un'ampia area in Pozze d'Acqua.
 SPELL_CLEARWATER_NAME,Acqua Limpida
 SPELL_CLONEDAGGERTHROW_DESC,"I tuoi Cloni d'ombra lanciano ciascuno un Pugnale d'ombra contro il bersaglio, infliggendo Danno perforante e applicando Sanguinamento con ogni pugnale."
-SPELL_CLONEDAGGERTHROW_EFFECT_0,Danno perforante: (PT:0.66)
+SPELL_CLONEDAGGERTHROW_EFFECT_0,Danno perforante per pugnale: (PT:0.12)
 SPELL_CLONEDAGGERTHROW_NAME,Lancio di Pugnale del Clone
 SPELL_CLONESTRIKE_DESC,"I tuoi Cloni d'ombra replicano il tuo attacco, ciascuno colpendo il bersaglio per una parte del tuo danno."
+SPELL_CLONESTRIKE_EFFECT_0,Danno da taglio per clone: (PS:1.68)
 SPELL_CLONESTRIKE_NAME,Colpo Clone
 SPELL_CLUBSWINGANDSLAM_NAME,Mazzata e Schianto
 SPELL_CLUBSWINGANDSLAMSTUCK_NAME,Mazzata e Schianto Bloccati
@@ -209,8 +210,16 @@ SPELL_CROSSBOWSWAP_NAME,Cambio a balestra
 SPELL_CROWNBREAKERSWEEP_DESC,"Ampia spazzata di una mazza di rottami che attraversa la sala, lasciando solo un piccolo spazio sicuro accanto al braccio."
 SPELL_CROWNBREAKERSWEEP_NAME,Spazzata Spaccacorona
 SPELL_DECAYBURST_DESC,"Una scarica tossica di decadimento erutta attorno al bersaglio, infliggendo Danno da decadimento a tutti i nemici vicini."
-SPELL_DECAYBURST_EFFECT_0,Danno da decadimento: (MD:0.61)
+SPELL_DECAYBURST_EFFECT_0,Danno da decadimento (Mannaia Infettiva): (MD:3.08)
+SPELL_DECAYBURST_EFFECT_1,Danno da decadimento (Tiro della Peste): (MD:1.59)
+SPELL_DECAYBURST_EFFECT_2,Danno da decadimento (Marciume Temporale): (MD:4.02)
 SPELL_DECAYBURST_NAME,Scarica di Decadimento
+SPELL_DECAYBURSTINFECTIOUSCLEAVER_DESC,Parametro di bilanciamento di Scarica di Decadimento quando è attivata da Mannaia Infettiva.
+SPELL_DECAYBURSTINFECTIOUSCLEAVER_NAME,Scarica di Decadimento (Mannaia Infettiva)
+SPELL_DECAYBURSTPLAGUEMARKSMANSHIP_DESC,Parametro di bilanciamento di Scarica di Decadimento quando è attivata da Tiro della Peste.
+SPELL_DECAYBURSTPLAGUEMARKSMANSHIP_NAME,Scarica di Decadimento (Tiro della Peste)
+SPELL_DECAYBURSTTEMPORALROT_DESC,Parametro di bilanciamento di Scarica di Decadimento quando è attivata da Marciume Temporale.
+SPELL_DECAYBURSTTEMPORALROT_NAME,Scarica di Decadimento (Marciume Temporale)
 SPELL_DESCRIPTION,Descrizione
 SPELL_DEVOUR_DESC,"Premi per lanciare. Divora il nemico davanti a te, infliggendo Danno da taglio che aumenta quanto più bassa è la salute del nemico. Uccidere un nemico con Divorare ti conferisce uno scudo protettivo."
 SPELL_DEVOUR_EFFECT_0,Danno da taglio: (PS:3.05)
@@ -263,7 +272,7 @@ SPELL_ELFFINALATTACK_NAME,Attacco Finale dell'Elfo
 SPELL_ELFMELEEATTACK_DESC,Attacco base in mischia dell'Elfo
 SPELL_ELFMELEEATTACK_NAME,Attacco in Mischia dell'Elfo
 SPELL_EMBERCASCADE_DESC,"Colpire un nemico ustionato con un attacco a distanza lancia una piccola palla di fuoco contro il bersaglio, infliggendo Danno da fuoco. Il numero di palle di fuoco aumenta con le cariche di Ustione del bersaglio, fino a 10."
-SPELL_EMBERCASCADE_EFFECT_0,Danno da fuoco: (MF:0.1)
+SPELL_EMBERCASCADE_EFFECT_0,Danno da fuoco: (MF:0.11)
 SPELL_EMBERCASCADE_NAME,Cascata di Brace
 SPELL_EMPOWERWOLF_DESC,Potenzia i Lupi vicini con il tuo potere
 SPELL_EMPOWERWOLF_NAME,Potenzia Lupo
@@ -295,9 +304,9 @@ SPELL_FIREBALL_MOD_1,"Palla di fuoco carica: Palla di fuoco diventa un incantesi
 SPELL_FIREBALL_MOD_2,"Braci rapide: Il danno di Palla di fuoco è ridotto del 50%, ma il tempo di recupero si riduce del 40%."
 SPELL_FIREBALL_MOD_3,"Palla di fuoco penetrante: Palla di fuoco attraversa i nemici, infliggendo danno a ogni nemico colpito e attivando Impatto esplosivo a ogni colpo, ma non alla fine. Palla di fuoco infligge il 30% di danno in meno."
 SPELL_FIREBALL_MOD_4,Palla di fuoco incendiaria: Palla di fuoco applica 2 cariche aggiuntive di Ustione ai nemici colpiti.
-SPELL_FIREBALL_MOD_5,"Palla di fuoco comburente: Palla di fuoco consuma fino a 10 cariche di Ustione da ogni nemico colpito. Per ogni carica di Ustione consumata, Palla di fuoco infligge il 12% di Danno da fuoco in più a quel nemico."
+SPELL_FIREBALL_MOD_5,"Palla di fuoco comburente: Palla di fuoco consuma fino a 10 cariche di Ustione da ogni nemico colpito. Per ogni carica di Ustione consumata, Palla di fuoco infligge il 5% di Danno da fuoco in più a quel nemico."
 SPELL_FIREBALL_MOD_6,"Palla di fuoco d'Innesco: Palla di fuoco non applica più Ustione, ma conferisce 1 carica di Ravvivato per ogni nemico ustionato colpito."
-SPELL_FIREBALL_MOD_7,"Palla di fuoco Fiammeggiante: Palla di fuoco consuma fino a 10 delle tue cariche di Ravvivato al lancio. Per ogni carica di Ravvivato consumata, Palla di fuoco infligge il 10% di Danno da fuoco in più."
+SPELL_FIREBALL_MOD_7,"Palla di fuoco Fiammeggiante: Palla di fuoco consuma fino a 10 delle tue cariche di Ravvivato al lancio. Per ogni carica di Ravvivato consumata, Palla di fuoco infligge il 5% di Danno da fuoco in più."
 SPELL_FIREBALL_MOD_8,Palla di fuoco Incandescente: Palla di fuoco consuma Gelo da ogni nemico colpito per applicare 1 carica di Ustione ogni 4 cariche di Gelo consumate.
 SPELL_FIREBALL_NAME,Palla di fuoco
 SPELL_FIREBURST_DESC,"Premi per lanciare. Accumula energia infuocata, poi rilasciala in una scarica attorno a te, infliggendo Danno da fuoco e applicando Ustione."
@@ -371,14 +380,14 @@ SPELL_FROSTJAVELIN_MOD_8,"Giavellotto di fuoco gelido: Giavellotto gelido consum
 SPELL_FROSTJAVELIN_MOD_9,"Giavellotto scheggiante: Ogni 2 cariche di Gelo consumate, Giavellotto gelido lancia 1 frammento contro un nemico vicino, infliggendo il 20% del danno di Giavellotto gelido."
 SPELL_FROSTJAVELIN_NAME,Giavellotto gelido
 SPELL_FROSTQUAKE_DESC,"Mentre sei in combattimento, ogni secondo un tremore colpisce un nemico assiderato vicino scelto a caso, infliggendo Danno contundente."
-SPELL_FROSTQUAKE_EFFECT_0,Danno contundente: (PB:1.02)
+SPELL_FROSTQUAKE_EFFECT_0,Danno contundente: (PB:0.6)
 SPELL_FROSTQUAKE_NAME,Sisma Gelido
 SPELL_FROZENSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpire, infliggendo danno suddiviso tra (AT) e Danno da ghiaccio, applicando fino a 5 cariche di Gelo e interrompendo i nemici colpiti. Attaccare dopo un colpo a carica completa avvia un Attacco finale."
 SPELL_FROZENSTRIKE_EFFECT_0,(AT): (PX:1.66)
 SPELL_FROZENSTRIKE_EFFECT_1,Danno da ghiaccio: (MI:1.66)
 SPELL_FROZENSTRIKE_NAME,Colpo Congelato
-SPELL_FURIOUSSTRIKE_DESC,"Premi per lanciare. Scatta verso il bersaglio e colpisci, infliggendo Danno da taglio. Il lancio costa Salute."
-SPELL_FURIOUSSTRIKE_EFFECT_0,Danno da taglio: (PS:5.43)
+SPELL_FURIOUSSTRIKE_DESC,"Premi per lanciare. Scatta verso il bersaglio e colpisci, infliggendo Danno da taglio."
+SPELL_FURIOUSSTRIKE_EFFECT_0,Danno da taglio: (PS:5.26)
 SPELL_FURIOUSSTRIKE_MOD_0,Colpo ripetuto: Il tempo di recupero di Colpo furioso si azzera all'uccisione.
 SPELL_FURIOUSSTRIKE_MOD_1,"Colpo Contundente: Colpo furioso ora infligge Danno contundente, ma infligge il 20% di danno in meno."
 SPELL_FURIOUSSTRIKE_MOD_2,"Colpo scheggiante: Colpo furioso infligge il 20% di danno in meno, ma al colpo fa spruzzare sangue al bersaglio in una piccola area, infliggendo danno ai nemici vicini. Il colpo ad area eredita il modificatore della soglia effetto selezionato per Colpo furioso."
@@ -462,8 +471,7 @@ SPELL_JUNKHAILPLAYER_DESC,"Premi per lanciare. Fai cadere una grandine di rottam
 SPELL_JUNKHAILPLAYER_EFFECT_0,Danno da taglio: (PS:3.85)
 SPELL_JUNKHAILPLAYER_NAME,Grandine di Rottami
 SPELL_KINDLINGPOTION_NAME,Pozione d'Innesco
-SPELL_KINDLINGSTRIKE_DESC,"Colpire un nemico con il tuo terzo attacco in mischia scatena una scarica di fuoco, infliggendo Danno da fuoco ai nemici attorno al bersaglio e potenziando il tuo prossimo incantesimo di fuoco del 5% per carica di Ustione sul nemico, fino a 10."
-SPELL_KINDLINGSTRIKE_EFFECT_0,Danno da fuoco: (MF:0.73)
+SPELL_KINDLINGSTRIKE_DESC,"Colpire un nemico con il tuo terzo attacco in mischia conferisce un potenziamento cumulabile del 5% al Danno da fuoco per ogni carica di Ustione sul nemico, fino a 10 cariche. Il potenziamento si consuma con il tuo prossimo incantesimo di fuoco."
 SPELL_KINDLINGSTRIKE_NAME,Colpo Innesco
 SPELL_LAUGHINGSLASHES_NAME,Tagli Beffardi
 SPELL_LESSERCONCENTRATIONPOTION_NAME,Pozione Minore di Concentrazione
@@ -535,8 +543,8 @@ SPELL_PARRY_DESC,"Tieni premuto per parare. Durante la guardia, i colpi in arriv
 SPELL_PARRY_MOD_0,Contrattacco Tagliente: Le Parate riuscite applicano Sanguinamento a tutti i nemici colpiti.
 SPELL_PARRY_NAME,Parata
 SPELL_PESTILENTTREMOR_DESC,"Consuma Inoculazione per creare un Tremore Pestilenziale che ti segue per 1 secondo per carica di Inoculazione consumata. Ogni secondo, il tremore infligge Danno da decadimento ai nemici vicini e consuma 2 cariche di Veleno da essi per infliggere Danno da stordimento bonus."
-SPELL_PESTILENTTREMOR_EFFECT_0,Danno da decadimento: (MD:0.45)
-SPELL_PESTILENTTREMOR_EFFECT_1,Danno da stordimento: (MU:0.9)
+SPELL_PESTILENTTREMOR_EFFECT_0,Danno da decadimento: (MD:0.71)
+SPELL_PESTILENTTREMOR_EFFECT_1,Danno da stordimento: (MU:1.42)
 SPELL_PESTILENTTREMOR_NAME,Tremore Pestilenziale
 SPELL_PLAGUESHARDS_DESC,"Premi per lanciare. Lancia un gruppo di frammenti di peste con una dispersione stretta, infliggendo Danno da decadimento. I frammenti aggiuntivi che colpiscono lo stesso nemico infliggono danno bonus."
 SPELL_PLAGUESHARDS_EFFECT_0,Danno da decadimento: (MD:0.53)
@@ -643,7 +651,7 @@ SPELL_SEEDBOMBPLAYER_EFFECT_0,Danno da decadimento: (MD:4.01)
 SPELL_SEEDBOMBPLAYER_NAME,Bomba di Semi
 SPELL_SEEDBOMBS_NAME,Bombe di Semi
 SPELL_SEISMICECHO_DESC,"Dopo aver lanciato un incantesimo del Minotauro, il tuo terzo attacco rilascia un tremore, infliggendo Danno contundente ai nemici vicini."
-SPELL_SEISMICECHO_EFFECT_0,Danno contundente: (PB:0.53)
+SPELL_SEISMICECHO_EFFECT_0,Danno contundente: (PB:0.59)
 SPELL_SEISMICECHO_NAME,Eco Sismica
 SPELL_SEISMICSTAMPEDE_DESC,"Tieni premuto per canalizzare. Emetti Onde di Shock che si espandono nel terreno, infliggendo Danno contundente ogni secondo ai nemici entro il raggio. Durante la canalizzazione, ottieni il 50% di Armatura e Resistenza in più."
 SPELL_SEISMICSTAMPEDE_EFFECT_0,Danno impulso 1: (PB:2.25)
@@ -682,11 +690,11 @@ SPELL_SHADOWDAGGERS_MOD_5,Pugnali Mietente: I Pugnali d'ombra al ritorno consuma
 SPELL_SHADOWDAGGERS_MOD_6,Pugnali Corrompente: I Pugnali d'ombra al ritorno infliggono Danno da decadimento anziché Danno perforante. I pugnali al ritorno consumano fino a 3 cariche di Sanguinamento da ogni nemico colpito e applicano 1 carica di Veleno per carica di Sanguinamento consumata. I pugnali al ritorno non applicano più il loro Sanguinamento base.
 SPELL_SHADOWDAGGERS_NAME,Pugnali d'ombra
 SPELL_SHADOWSHOCKWAVE_DESC,"I tuoi Cloni d'ombra scatenano ciascuno un'Onda di Shock nel terreno, infliggendo Danno contundente ai nemici sul loro percorso."
-SPELL_SHADOWSHOCKWAVE_EFFECT_0,Danno contundente: (PB:0.35)
+SPELL_SHADOWSHOCKWAVE_EFFECT_0,Danno contundente: (PB:0.96)
 SPELL_SHADOWSHOCKWAVE_NAME,Onda d'Ombra
 SPELL_SHANKANDRUN_NAME,Accoltella e Fuggi
 SPELL_SHATTERSTUN_DESC,"Stordire un nemico scatena un tremore attorno a lui, infliggendo Danno contundente a tutti i nemici vicini."
-SPELL_SHATTERSTUN_EFFECT_0,Danno contundente: (PB:0.73)
+SPELL_SHATTERSTUN_EFFECT_0,Danno contundente: (PB:1.48)
 SPELL_SHATTERSTUN_NAME,Stordimento Frantumante
 SPELL_SHOCKWAVE_DESC,Premi per lanciare. Scatena un'Onda di Shock che infligge Danno contundente e respinge i nemici.
 SPELL_SHOCKWAVE_EFFECT_0,Danno contundente: (PB:2.51)
@@ -695,8 +703,8 @@ SPELL_SILVERWARD_DESC,"Quando subisci danno, conferisce una Barriera magica che 
 SPELL_SILVERWARD_NAME,Guardia d'Argento
 SPELL_SMASHMOUTHCLUBSWINGANDSLAM_NAME,Mazzata e Schianto di Smashmouth
 SPELL_SONICBOLT_DESC,"Colpire un nemico mentre Pugnali Sonici è attivo lancia un Dardo Sonico che attraversa i nemici, infliggendo danno suddiviso in Danno perforante e Danno contundente."
-SPELL_SONICBOLT_EFFECT_0,Danno perforante: (PT:0.29)
-SPELL_SONICBOLT_EFFECT_1,Danno contundente: (PB:0.29)
+SPELL_SONICBOLT_EFFECT_0,Danno perforante: (PT:0.13)
+SPELL_SONICBOLT_EFFECT_1,Danno contundente: (PB:0.13)
 SPELL_SONICBOLT_NAME,Dardo Sonico
 SPELL_SPAWNELEMENTALPOOL_NAME,Evoca Pozza Elementale
 SPELL_SPAWNFORESTHEART_DESC,"Premi per lanciare. Evoca un Cuore della Foresta nella posizione bersaglio, un condotto per Ventaglio di Spine e Artiglieria di Linfa."
@@ -735,7 +743,7 @@ SPELL_SWIFTSTRIKE_NAME,Colpo Veloce
 SPELL_SWORDSWAP_DESC,"La parte di Cambio arma relativa alla spada. Scatta in avanti e colpisci, infliggendo Danno da taglio a tutti i nemici sul tuo percorso."
 SPELL_SWORDSWAP_NAME,Cambio a spada
 SPELL_TEMPORALRIPPLE_DESC,"Applicare più di 5 cariche di Eco temporale a un nemico rilascia un'Ondulazione Temporale, infliggendo Danno da etere e Accumulo di stordimento a quel nemico e a tutti quelli attorno."
-SPELL_TEMPORALRIPPLE_EFFECT_0,Danno da etere: (MA:0.7)
+SPELL_TEMPORALRIPPLE_EFFECT_0,Danno da etere: (MA:1.12)
 SPELL_TEMPORALRIPPLE_NAME,Ondulazione Temporale
 SPELL_TENDONSLICE_DESC,"Premi per lanciare. Fendi rapidamente i nemici davanti a te, infliggendo Danno da taglio e applicando Sanguinamento."
 SPELL_TENDONSLICE_EFFECT_0,Danno da taglio: (PS:1.57)
@@ -793,9 +801,9 @@ SPELL_VANISHINGSTRIKE_MOD_6,"Dissolvenza Corrompente: Colpo dissolvente ora infl
 SPELL_VANISHINGSTRIKE_MOD_7,Dissolvenza Purgante: Colpo dissolvente consuma fino a 5 cariche di Veleno dai nemici colpiti alle spalle. Ogni carica di Veleno consumata aumenta il danno di Colpo dissolvente dell'8%.
 SPELL_VANISHINGSTRIKE_NAME,Colpo dissolvente
 SPELL_VEHEMENTCLEAVE_DESC,"Tieni premuto per caricare. Rilascia per sferrare un fendente frontale che cresce con il tempo di carica, infliggendo Danno da taglio e respingendo i nemici. Consuma fino a 10 Furia per aumentare il danno, con maggiori benefici a carica più alta. Interrompe i nemici colpiti."
-SPELL_VEHEMENTCLEAVE_EFFECT_0,Danno da taglio: (PS:7.18)
+SPELL_VEHEMENTCLEAVE_EFFECT_0,Danno da taglio: (PS:6.8)
 SPELL_VEHEMENTCLEAVE_MOD_0,"Fendente esecutore: Fendente veemente infligge il 30% di danno in più ai nemici sotto il 40% di Salute, ma il 30% in meno ai nemici sopra il 60%"
-SPELL_VEHEMENTCLEAVE_MOD_1,"Fendente Contundente: Fendente veemente infligge Danno contundente, ma infligge il 30% di danno in meno."
+SPELL_VEHEMENTCLEAVE_MOD_1,"Fendente Contundente: Fendente veemente infligge Danno contundente, ma infligge il 20% di danno in meno."
 SPELL_VEHEMENTCLEAVE_MOD_2,"Fendente ripetuto: Se Fendente veemente colpisce almeno un nemico con una carica elevata, sferra un secondo fendente più debole dopo un breve ritardo, con il 50% del danno. Il colpo iniziale di Fendente veemente infligge il 20% di danno in meno."
 SPELL_VEHEMENTCLEAVE_MOD_3,"Fendente Infuriante: Fendente veemente non consuma più Furia. Conferisce invece 2 Furia per ogni nemico colpito, più altre 2 Furia se rilasciato a carica completa."
 SPELL_VEHEMENTCLEAVE_MOD_4,"Fendente Furente: Fendente veemente ignora il 4% dell'Armatura nemica per Furia consumata, fino al 40%"
@@ -865,7 +873,7 @@ SPELL_WEAPONSWAP_MOD_7,"Cambio Mietente: Cambio a spada consuma il Sanguinamento
 SPELL_WEAPONSWAP_MOD_8,Cambio Avvelenante: Cambio a balestra applica 3 cariche di Veleno con ogni tiro. Cambio a spada applica 3 cariche di Veleno ai nemici colpiti che sono già sanguinanti.
 SPELL_WEAPONSWAP_NAME,Cambio arma
 SPELL_WHIRLOFGORE_DESC,"Colpire un nemico sanguinante può attivare un Vortice di Sangue rotante, infliggendo Danno da taglio a tutti i nemici attorno a te. La probabilità aumenta con ogni carica di Sanguinamento sui nemici vicini."
-SPELL_WHIRLOFGORE_EFFECT_0,Danno da taglio: (PS:0.76)
+SPELL_WHIRLOFGORE_EFFECT_0,Danno da taglio: (PS:1.43)
 SPELL_WHIRLOFGORE_NAME,Vortice di Sangue
 SPELL_WOLDROOTSTOMP_DESC,"Il Treant pesta il terreno, infliggendo danno in un'ampia area."
 SPELL_WOLDROOTSTOMP_NAME,Pestone di Woldroot

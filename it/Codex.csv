@@ -970,7 +970,7 @@ CODEX_SPELLAIMEDSHOT_SURPRISINGSHOT_DESC,Tiro mirato infligge il 60% di danno bo
 CODEX_SPELLAIMEDSHOT_SURPRISINGSHOT_NAME,Tiro a Sorpresa
 CODEX_SPELLALPHAHOWLPLAYER_DESC,"Premi per lanciare. Richiama una scarica di proiettili che si spargono casualmente sul campo di battaglia, ciascuno infliggendo danno ripartito tra Ghiaccio ed Etere nel punto d'impatto.\n\n\nDanno da ghiaccio: (MI:0.82), Danno da etere: (MA:0.82)"
 CODEX_SPELLALPHAHOWLPLAYER_NAME,Ululato Alfa
-CODEX_SPELLARROWOFTHEDEEPCOLD_DESC,Colpire un nemico Assiderato con il terzo attacco a distanza scaglia da dietro di lui un'enorme freccia di ghiaccio che attraversa tutti i nemici sul percorso e infligge Danno da ghiaccio.\n\n\nDanno da ghiaccio: (MI:0.66)
+CODEX_SPELLARROWOFTHEDEEPCOLD_DESC,Colpire un nemico Assiderato con il terzo attacco a distanza scaglia da dietro di lui un'enorme freccia di ghiaccio che attraversa tutti i nemici sul percorso e infligge Danno da ghiaccio.\n\n\nDanno da ghiaccio: (MI:0.58)
 CODEX_SPELLARROWOFTHEDEEPCOLD_NAME,Freccia del Freddo Profondo
 CODEX_SPELLBACKSTEPSTRIKE_CRIPPLINGBACKSTEP_DESC,"I nemici colpiti vengono rallentati del 15% per 2 secondi, ma Colpo in arretramento infligge il 20% di danno in meno."
 CODEX_SPELLBACKSTEPSTRIKE_CRIPPLINGBACKSTEP_NAME,Passo indietro Storpiante
@@ -1034,9 +1034,9 @@ CODEX_SPELLBLADEDANCE_SWEEPINGDANCE_DESC,"Ogni colpo di Danza delle lame infligg
 CODEX_SPELLBLADEDANCE_SWEEPINGDANCE_NAME,Danza a Spazzata
 CODEX_SPELLBLADEDANCE_THRUSTINGDANCE_DESC,Danza delle lame infligge Danno perforante.
 CODEX_SPELLBLADEDANCE_THRUSTINGDANCE_NAME,Danza Perforante
-CODEX_SPELLBLAZEBORNEDAGGERS_DESC,"Colpire un nemico con il tuo Attacco finale scatena una scarica di fuoco attorno a lui, infliggendo Danno da fuoco a tutti i nemici vicini e consumando fino a 10 accumuli di Ondata temporale; il danno aumenta per ogni accumulo consumato.\n\n\nDanno da fuoco: (MF:0.42)"
+CODEX_SPELLBLAZEBORNEDAGGERS_DESC,"Colpire un nemico con il tuo Attacco finale scatena una scarica di fuoco attorno a lui, infliggendo Danno da fuoco a tutti i nemici vicini e consumando fino a 10 accumuli di Ondata temporale; il danno aumenta per ogni accumulo consumato.\n\n\nDanno da fuoco: (MF:0.3)"
 CODEX_SPELLBLAZEBORNEDAGGERS_NAME,Pugnali Nati dalla Fiamma
-CODEX_SPELLBLAZINGWRATH_DESC,"Dopo aver speso Furia, ottieni un'Aura di Fuoco per 5 secondi, che infligge Danno da fuoco e applica Ustione ai nemici vicini ogni secondo. La durata aumenta di 0,5 secondi per ogni accumulo di Furia speso.\n\n\nDanno da fuoco: (MF:0.4)"
+CODEX_SPELLBLAZINGWRATH_DESC,"Dopo aver speso Furia, ottieni un'Aura di Fuoco per 5 secondi, che infligge Danno da fuoco e applica Ustione ai nemici vicini ogni secondo. La durata aumenta di 0,5 secondi per ogni accumulo di Furia speso.\n\n\nDanno da fuoco: (MF:0.44)"
 CODEX_SPELLBLAZINGWRATH_NAME,Ira Ardente
 CODEX_SPELLBLIZZARD_CENTEREDBLIZZARD_DESC,Tormenta viene lanciata sulla tua posizione e ti segue. Raggio e danno aumentano del 25%.
 CODEX_SPELLBLIZZARD_CENTEREDBLIZZARD_NAME,Tormenta Centrata
@@ -1092,15 +1092,15 @@ CODEX_SPELLCHRONOSPIKE_SPLITTINGSPIKE_DESC,"Scaglia 3 proiettili contro i primi 
 CODEX_SPELLCHRONOSPIKE_SPLITTINGSPIKE_NAME,Spina Scindente
 CODEX_SPELLCHRONOSPIKE_SURGINGSPIKE_DESC,Ottieni 3 accumuli di Ondata temporale al lancio.
 CODEX_SPELLCHRONOSPIKE_SURGINGSPIKE_NAME,Spina Montante
-CODEX_SPELLCINDERDETONATION_DESC,Colpire un nemico con Ustione con il terzo attacco scatena un'esplosione infuocata che infligge Danno da fuoco.\n\n\nDanno da fuoco: (MF:0.87)
+CODEX_SPELLCINDERDETONATION_DESC,Colpire un nemico con Ustione con il terzo attacco scatena un'esplosione infuocata che infligge Danno da fuoco.\n\n\nDanno da fuoco: (MF:0.92)
 CODEX_SPELLCINDERDETONATION_NAME,Detonazione di Brace
 CODEX_SPELLCIRCLEOFMAGIC_DESC,Premi per lanciare. Crea un Cerchio di Magia per 10 secondi che aumenta del 25% il Danno magico di tutti gli alleati al suo interno.
 CODEX_SPELLCIRCLEOFMAGIC_NAME,Cerchio di Magia
 CODEX_SPELLCLEARWATER_DESC,Premi per lanciare. Converti tutte le pozze elementali in un'ampia area in Pozze d'Acqua.
 CODEX_SPELLCLEARWATER_NAME,Acqua Limpida
-CODEX_SPELLCLONEDAGGERTHROW_DESC,"I tuoi Cloni d'ombra lanciano ciascuno un Pugnale d'ombra al bersaglio, infliggendo Danno perforante e applicando Sanguinamento con ogni pugnale.\n\n\nDanno perforante: (PT:0.6)"
+CODEX_SPELLCLONEDAGGERTHROW_DESC,"I tuoi Cloni d'ombra lanciano ciascuno un Pugnale d'ombra al bersaglio, infliggendo Danno perforante e applicando Sanguinamento con ogni pugnale.\n\n\nDanno perforante per pugnale: (PT:0.12)"
 CODEX_SPELLCLONEDAGGERTHROW_NAME,Lancio di Pugnale del Clone
-CODEX_SPELLCLONESTRIKE_DESC,"I tuoi Cloni d'ombra imitano il tuo attacco, colpendo ciascuno il bersaglio per una parte del tuo danno."
+CODEX_SPELLCLONESTRIKE_DESC,"I tuoi Cloni d'ombra imitano il tuo attacco, colpendo ciascuno il bersaglio per una parte del tuo danno.\n\n\nDanno da taglio per clone: (PS:1.68)"
 CODEX_SPELLCLONESTRIKE_NAME,Colpo Clone
 CODEX_SPELLCOMBATMEDIC_DESC,"Premi per lanciare. Accorri da un alleato e rimuovi tutti i suoi accumuli di Ustione, Gelo, Veleno, Scossa e Sanguinamento."
 CODEX_SPELLCOMBATMEDIC_NAME,Medico da Campo
@@ -1150,7 +1150,7 @@ CODEX_SPELLCRIPPLINGSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpir
 CODEX_SPELLCRIPPLINGSTRIKE_NAME,Colpo Storpiante
 CODEX_SPELLCROSSBOWSWAP_DESC,"La parte di Cambio arma relativa alla balestra. Salta indietro e spara 2 colpi nella direzione bersaglio, ciascuno infliggendo Danno perforante."
 CODEX_SPELLCROSSBOWSWAP_NAME,Cambio a balestra
-CODEX_SPELLDECAYBURST_DESC,"Una scarica tossica di decadimento esplode attorno al bersaglio, infliggendo Danno da decadimento a tutti i nemici vicini.\n\n\nDanno da decadimento: (MD:0.87)"
+CODEX_SPELLDECAYBURST_DESC,"Una scarica tossica di decadimento esplode attorno al bersaglio, infliggendo Danno da decadimento a tutti i nemici vicini.\n\n\nDanno da decadimento (Mannaia Infettiva): (MD:3.08), Danno da decadimento (Tiro della Peste): (MD:1.59), Danno da decadimento (Marciume Temporale): (MD:4.02)"
 CODEX_SPELLDECAYBURST_NAME,Scarica di Decadimento
 CODEX_SPELLDEVOUR_DESC,"Premi per lanciare. Divora il nemico davanti a te, infliggendo Danno da taglio tanto maggiore quanto più bassa è la sua salute. Uccidere un nemico con Divorare ti conferisce uno scudo protettivo.\n\n\nDanno da taglio: (PS:3.43)"
 CODEX_SPELLDEVOUR_NAME,Divorare
@@ -1210,7 +1210,7 @@ CODEX_SPELLECHORIFT_SURGEDRIFT_DESC,Consuma Ondata temporale per aumentare il ri
 CODEX_SPELLECHORIFT_SURGEDRIFT_NAME,Fenditura Montante
 CODEX_SPELLECHORIFT_SURGINGRIFT_DESC,Ottieni Ondata temporale per ogni nemico colpito da entrambi gli impulsi.
 CODEX_SPELLECHORIFT_SURGINGRIFT_NAME,Fenditura Montante
-CODEX_SPELLEMBERCASCADE_DESC,"Colpire con un attacco a distanza un nemico affetto da Ustione scaglia una piccola palla di fuoco contro il bersaglio, infliggendo Danno da fuoco. Il numero di palle di fuoco aumenta con gli accumuli di Ustione del bersaglio, fino a 10.\n\n\nDanno da fuoco: (MF:1.42)"
+CODEX_SPELLEMBERCASCADE_DESC,"Colpire con un attacco a distanza un nemico affetto da Ustione scaglia una piccola palla di fuoco contro il bersaglio, infliggendo Danno da fuoco. Il numero di palle di fuoco aumenta con gli accumuli di Ustione del bersaglio, fino a 10.\n\n\nDanno da fuoco: (MF:0.11)"
 CODEX_SPELLEMBERCASCADE_NAME,Cascata di Brace
 CODEX_SPELLENTANGLINGROOTSPLAYER_DESC,"Evoca radici nella posizione bersaglio, poi le trascina verso l'incantatore. Tutti i nemici intrappolati nelle radici vengono rallentati e subiscono danni.\n\n\n\n\nDanno da taglio: (PS:3.71), Veleno: 2, Riduzione della velocità di movimento: 75%"
 CODEX_SPELLENTANGLINGROOTSPLAYER_NAME,Radici Avviluppanti
@@ -1222,12 +1222,12 @@ CODEX_SPELLEVERBURNMORTAR_DESC,"Lanciare un incantesimo di fuoco scaglia un colp
 CODEX_SPELLEVERBURNMORTAR_NAME,Mortaio Eternofuoco
 CODEX_SPELLFIREBALL_CHARGEDFIREBALL_DESC,"Palla di fuoco diventa un incantesimo da caricare tenendo premuto. Caricala per un massimo di 1,5 secondi. A carica completa, infligge il 50% di Danno da fuoco in più e viaggia il 20% più velocemente."
 CODEX_SPELLFIREBALL_CHARGEDFIREBALL_NAME,Palla di Fuoco Caricata
-CODEX_SPELLFIREBALL_COMBUSTINGFIREBALL_DESC,"Palla di fuoco consuma fino a 10 accumuli di Ustione da ciascun nemico colpito. Per ogni accumulo consumato, infligge il 12% di Danno da fuoco in più a quel nemico."
+CODEX_SPELLFIREBALL_COMBUSTINGFIREBALL_DESC,"Palla di fuoco consuma fino a 10 accumuli di Ustione da ciascun nemico colpito. Per ogni accumulo consumato, infligge il 5% di Danno da fuoco in più a quel nemico."
 CODEX_SPELLFIREBALL_COMBUSTINGFIREBALL_NAME,Palla di Fuoco Combustiva
 CODEX_SPELLFIREBALL_DESC,"Premi per lanciare. Scaglia una palla di fuoco contro un bersaglio, infliggendo Danno da fuoco.\n\n\n\n\nDanno da fuoco: (MF:3.2), Ustione: 2"
 CODEX_SPELLFIREBALL_EXPLOSIVEIMPACT_DESC,"Palla di fuoco esplode all'impatto, infliggendo Danno da fuoco ai nemici vicini."
 CODEX_SPELLFIREBALL_EXPLOSIVEIMPACT_NAME,Impatto Esplosivo
-CODEX_SPELLFIREBALL_FLARINGFIREBALL_DESC,"Palla di fuoco consuma fino a 10 tuoi accumuli di Ravvivato al lancio. Per ogni accumulo consumato, infligge il 10% di Danno da fuoco in più."
+CODEX_SPELLFIREBALL_FLARINGFIREBALL_DESC,"Palla di fuoco consuma fino a 10 tuoi accumuli di Ravvivato al lancio. Per ogni accumulo consumato, infligge il 5% di Danno da fuoco in più."
 CODEX_SPELLFIREBALL_FLARINGFIREBALL_NAME,Palla di fuoco Fiammeggiante
 CODEX_SPELLFIREBALL_FLASHHEATINGFIREBALL_DESC,Palla di fuoco consuma gli accumuli di Assiderato da ciascun nemico colpito per applicare 1 accumulo di Ustione ogni 4 accumuli di Assiderato consumati.
 CODEX_SPELLFIREBALL_FLASHHEATINGFIREBALL_NAME,Palla di fuoco Incandescente
@@ -1326,13 +1326,13 @@ CODEX_SPELLFROSTJAVELIN_SPLITTINGJAVELIN_DESC,"Giavellotto gelido si frantuma al
 CODEX_SPELLFROSTJAVELIN_SPLITTINGJAVELIN_NAME,Giavellotto Scindente
 CODEX_SPELLFROSTJAVELIN_STEADYJAVELIN_DESC,La velocità del proiettile di Giavellotto gelido aumenta del 20%.
 CODEX_SPELLFROSTJAVELIN_STEADYJAVELIN_NAME,Giavellotto Stabile
-CODEX_SPELLFROSTQUAKE_DESC,"Durante il combattimento, ogni secondo un tremore colpisce un nemico Assiderato casuale nelle vicinanze, infliggendo Danno contundente.\n\n\nDanno contundente: (PB:1.19)"
+CODEX_SPELLFROSTQUAKE_DESC,"Durante il combattimento, ogni secondo un tremore colpisce un nemico Assiderato casuale nelle vicinanze, infliggendo Danno contundente.\n\n\nDanno contundente: (PB:0.6)"
 CODEX_SPELLFROSTQUAKE_NAME,Sisma Gelido
 CODEX_SPELLFROZENSTRIKE_DESC,"Tieni premuto per caricare. Rilascia per colpire, infliggendo danni suddivisi tra (AT) e Danno da ghiaccio, applicando fino a 5 accumuli di Gelo e interrompendo i nemici colpiti. Attaccare dopo un colpo a carica completa avvia un Attacco finale.\n\n\n(AT): (PX:1.6), Danno da ghiaccio: (MI:1.6)"
 CODEX_SPELLFROZENSTRIKE_NAME,Colpo Congelato
 CODEX_SPELLFURIOUSSTRIKE_BLUNTSTRIKE_DESC,"Colpo furioso ora infligge Danno contundente, ma infligge il 20% di danni in meno."
 CODEX_SPELLFURIOUSSTRIKE_BLUNTSTRIKE_NAME,Colpo Contundente
-CODEX_SPELLFURIOUSSTRIKE_DESC,Scatta verso il bersaglio. Infligge Danno da taglio all'impatto.\n\n\n\n\nDanno da taglio: (PS:4.1)
+CODEX_SPELLFURIOUSSTRIKE_DESC,Scatta verso il bersaglio. Infligge Danno da taglio all'impatto.\n\n\n\n\nDanno da taglio: (PS:5.26)
 CODEX_SPELLFURIOUSSTRIKE_ENRAGINGSTRIKE_DESC,Colpo furioso conferisce 1 accumulo di Furia ogni 3 accumuli di Sanguinamento sul bersaglio.
 CODEX_SPELLFURIOUSSTRIKE_ENRAGINGSTRIKE_NAME,Colpo Infuriante
 CODEX_SPELLFURIOUSSTRIKE_HARVESTINGSTRIKE_DESC,"Colpo furioso consuma Sanguinamento sul bersaglio per infliggere il 6% di danni in più per accumulo consumato, fino al 60%."
@@ -1432,7 +1432,7 @@ CODEX_SPELLJOLTDAGGER_DESC,"Premi per lanciare. Scaglia un fulmine nella direzio
 CODEX_SPELLJOLTDAGGER_NAME,Pugnale Folgorante
 CODEX_SPELLJUNKHAILPLAYER_DESC,Premi per lanciare. Fai piovere rottami nell'area bersaglio; ogni pezzo infligge Danno da taglio.\n\n\nDanno da taglio: (PS:1.12)
 CODEX_SPELLJUNKHAILPLAYER_NAME,Grandine di Rottami
-CODEX_SPELLKINDLINGSTRIKE_DESC,"Colpire un nemico con il tuo terzo attacco in mischia sprigiona un'esplosione di fuoco che infligge Danno da fuoco ai nemici intorno al bersaglio e potenzia il tuo prossimo incantesimo di fuoco del 5% per ogni accumulo di Ustione sul nemico, fino a 10 accumuli.\n\n\nDanno da fuoco: (MF:0.87)"
+CODEX_SPELLKINDLINGSTRIKE_DESC,"Colpire un nemico con il tuo terzo attacco in mischia conferisce un potenziamento cumulabile del 5% al Danno da fuoco per ogni accumulo di Ustione sul nemico, fino a 10 accumuli. Il potenziamento si consuma con il tuo prossimo incantesimo di fuoco."
 CODEX_SPELLKINDLINGSTRIKE_NAME,Colpo Innesco
 CODEX_SPELLLIGHTNINGSURGE_DESC,"Premi per lanciare. Scatta verso la posizione bersaglio avvolto dai fulmini, infliggendo Danno da elettricità e ottenendo Scossa per ogni nemico colpito.\n\n\nDanno da elettricità: (ME:4.38)"
 CODEX_SPELLLIGHTNINGSURGE_NAME,Ondata Fulminea
@@ -1484,7 +1484,7 @@ CODEX_SPELLPARRY_DESC,"Tieni premuto per canalizzare, parare il prossimo attacco
 CODEX_SPELLPARRY_NAME,Parata
 CODEX_SPELLPARRY_SLICINGCOUNTER_DESC,Le Parate riuscite applicano Sanguinamento a tutti i nemici colpiti.
 CODEX_SPELLPARRY_SLICINGCOUNTER_NAME,Contrattacco Tagliente
-CODEX_SPELLPESTILENTTREMOR_DESC,"Consuma Inoculazione per creare un tremore pestilenziale che ti segue per 1 secondo per ogni accumulo consumato. Ogni secondo, il tremore infligge Danno da decadimento ai nemici vicini e consuma 2 loro accumuli di Veleno per infliggere Danno da stordimento aggiuntivo.\n\n\nDanno da decadimento: (MD:0.29), Danno da stordimento: (MU:0.58)"
+CODEX_SPELLPESTILENTTREMOR_DESC,"Consuma Inoculazione per creare un tremore pestilenziale che ti segue per 1 secondo per ogni accumulo consumato. Ogni secondo, il tremore infligge Danno da decadimento ai nemici vicini e consuma 2 loro accumuli di Veleno per infliggere Danno da stordimento aggiuntivo.\n\n\nDanno da decadimento: (MD:0.71), Danno da stordimento: (MU:1.42)"
 CODEX_SPELLPESTILENTTREMOR_NAME,Tremore Pestilenziale
 CODEX_SPELLPLAGUESHARDS_CHANNELEDSHARDS_DESC,"Frammenti di peste diventa un incantesimo canalizzato. Tieni premuto per scagliare continuamente frammenti di peste frastagliati in un ventaglio stretto, infliggendo Danno da decadimento ogni 0,5 secondi ai nemici colpiti. Frammenti di peste non scaglia più una raffica iniziale. Il suo tempo di recupero base diventa di 3 secondi."
 CODEX_SPELLPLAGUESHARDS_CHANNELEDSHARDS_NAME,Frammenti Canalizzati
@@ -1582,7 +1582,7 @@ CODEX_SPELLSEEDBOMBPLAYER_BLIGHTSEED_DESC,Le tue bombe di semi ora lasciano una 
 CODEX_SPELLSEEDBOMBPLAYER_BLIGHTSEED_NAME,Seme del Morbo
 CODEX_SPELLSEEDBOMBPLAYER_DESC,"Premi per lanciare. Evoca dal terreno una bomba di semi che esplode al passaggio dei nemici, infliggendo Danno da decadimento.\n\n\n\n\nDanno da decadimento: (MD:3.27)"
 CODEX_SPELLSEEDBOMBPLAYER_NAME,Bomba di Semi
-CODEX_SPELLSEISMICECHO_DESC,"Dopo aver lanciato un incantesimo da Minotauro, il tuo terzo attacco sprigiona un tremore che infligge Danno contundente ai nemici vicini.\n\n\nDanno contundente: (PB:0.77)"
+CODEX_SPELLSEISMICECHO_DESC,"Dopo aver lanciato un incantesimo da Minotauro, il tuo terzo attacco sprigiona un tremore che infligge Danno contundente ai nemici vicini.\n\n\nDanno contundente: (PB:0.59)"
 CODEX_SPELLSEISMICECHO_NAME,Eco Sismica
 CODEX_SPELLSEISMICSTAMPEDE_DAZINGSTAMPEDE_DESC,Le onde di shock ora rallentano i nemici del 50%.
 CODEX_SPELLSEISMICSTAMPEDE_DAZINGSTAMPEDE_NAME,Carica Travolgente Frastornante
@@ -1636,13 +1636,13 @@ CODEX_SPELLSHADOWDAGGERS_PIERCINGDAGGERS_DESC,"Pugnali d'ombra attraversa i nemi
 CODEX_SPELLSHADOWDAGGERS_PIERCINGDAGGERS_NAME,Pugnali Penetranti
 CODEX_SPELLSHADOWDAGGERS_RENDINGDAGGERS_DESC,I Pugnali d'ombra in andata applicano 1 accumulo aggiuntivo di Sanguinamento. I Pugnali d'ombra di ritorno applicano 1 accumulo aggiuntivo di Sanguinamento.
 CODEX_SPELLSHADOWDAGGERS_RENDINGDAGGERS_NAME,Pugnali Laceranti
-CODEX_SPELLSHADOWSHOCKWAVE_DESC,"Ciascuno dei tuoi Cloni d'ombra sprigiona un'onda di shock nel terreno, infliggendo Danno contundente ai nemici sul percorso.\n\n\nDanno contundente: (PB:0.51)"
+CODEX_SPELLSHADOWSHOCKWAVE_DESC,"Ciascuno dei tuoi Cloni d'ombra sprigiona un'onda di shock nel terreno, infliggendo Danno contundente ai nemici sul percorso.\n\n\nDanno contundente: (PB:0.96)"
 CODEX_SPELLSHADOWSHOCKWAVE_NAME,Onda d'Ombra
-CODEX_SPELLSHATTERSTUN_DESC,"Stordire un nemico sprigiona un tremore intorno a lui, infliggendo Danno contundente a tutti i nemici vicini.\n\n\nDanno contundente: (PB:0.6)"
+CODEX_SPELLSHATTERSTUN_DESC,"Stordire un nemico sprigiona un tremore intorno a lui, infliggendo Danno contundente a tutti i nemici vicini.\n\n\nDanno contundente: (PB:1.48)"
 CODEX_SPELLSHATTERSTUN_NAME,Stordimento Frantumante
 CODEX_SPELLSHOCKWAVE_DESC,Premi per lanciare. Sprigiona un'onda di shock che respinge i nemici e infligge Danno contundente.\n\n\n\n\nDanno contundente: (PB:3.11)
 CODEX_SPELLSHOCKWAVE_NAME,Onda di Shock
-CODEX_SPELLSONICBOLT_DESC,"Colpire un nemico mentre Pugnali Sonici è attivo scaglia un dardo sonico che attraversa i nemici, infliggendo danni suddivisi tra Danno perforante e Danno contundente.\n\n\nDanno perforante: (PT:0.28), Danno contundente: (PB:0.28)"
+CODEX_SPELLSONICBOLT_DESC,"Colpire un nemico mentre Pugnali Sonici è attivo scaglia un dardo sonico che attraversa i nemici, infliggendo danni suddivisi tra Danno perforante e Danno contundente.\n\n\nDanno perforante: (PT:0.13), Danno contundente: (PB:0.13)"
 CODEX_SPELLSONICBOLT_NAME,Dardo Sonico
 CODEX_SPELLSPAWNFORESTHEART_DESC,Premi per lanciare. Evoca un Cuore della Foresta nella posizione bersaglio. Funge da tramite per Ventaglio di Spine e Artiglieria di Linfa.
 CODEX_SPELLSPAWNFORESTHEART_NAME,Evoca Cuore della Foresta
@@ -1674,7 +1674,7 @@ CODEX_SPELLSWIFTSTRIKE_DESC,"Premi per lanciare. Colpisci rapidamente, infliggen
 CODEX_SPELLSWIFTSTRIKE_NAME,Colpo Veloce
 CODEX_SPELLSWORDSWAP_DESC,"La parte di Cambio arma dedicata alla spada. Scatta in avanti e colpisci, infliggendo Danno da taglio a tutti i nemici sul percorso."
 CODEX_SPELLSWORDSWAP_NAME,Cambio a spada
-CODEX_SPELLTEMPORALRIPPLE_DESC,Applicare più di 5 accumuli di Eco temporale a un nemico sprigiona un'Ondulazione Temporale che infligge Danno da etere e Accumulo di stordimento a quel nemico e a tutti quelli intorno a lui.\n\n\nDanno da etere: (MA:0.58)
+CODEX_SPELLTEMPORALRIPPLE_DESC,Applicare più di 5 accumuli di Eco temporale a un nemico sprigiona un'Ondulazione Temporale che infligge Danno da etere e Accumulo di stordimento a quel nemico e a tutti quelli intorno a lui.\n\n\nDanno da etere: (MA:1.12)
 CODEX_SPELLTEMPORALRIPPLE_NAME,Ondulazione Temporale
 CODEX_SPELLTENDONSLICE_DESC,"Premi per lanciare. Fendi rapidamente i nemici davanti a te, infliggendo Danno da taglio e applicando Sanguinamento.\n\n\nDanno da taglio: (PS:2.12), Sanguinamento: 5"
 CODEX_SPELLTENDONSLICE_NAME,Taglio dei Tendini
@@ -1742,11 +1742,11 @@ CODEX_SPELLVANISHINGSTRIKE_VANISHINGROLL_DESC,"Dopo essere entrato in Furtività
 CODEX_SPELLVANISHINGSTRIKE_VANISHINGROLL_NAME,Rotolata Dissolvente
 CODEX_SPELLVEHEMENTCLEAVE_BLOODYCLEAVE_DESC,Fendente ora applica Sanguinamento ai nemici colpiti.
 CODEX_SPELLVEHEMENTCLEAVE_BLOODYCLEAVE_NAME,Fendente Sanguinoso
-CODEX_SPELLVEHEMENTCLEAVE_BLUNTCLEAVE_DESC,"Fendente veemente infligge Danno contundente, ma infligge il 30% di danni in meno."
+CODEX_SPELLVEHEMENTCLEAVE_BLUNTCLEAVE_DESC,"Fendente veemente infligge Danno contundente, ma infligge il 20% di danni in meno."
 CODEX_SPELLVEHEMENTCLEAVE_BLUNTCLEAVE_NAME,Fendente Contundente
 CODEX_SPELLVEHEMENTCLEAVE_CRIPPLINGCLEAVE_DESC,Fendente rallenta tutti i nemici colpiti del 50%.
 CODEX_SPELLVEHEMENTCLEAVE_CRIPPLINGCLEAVE_NAME,Fendente Storpiante
-CODEX_SPELLVEHEMENTCLEAVE_DESC,Tieni premuto per canalizzare. Scatena un fendente brutale che infligge Danno da taglio e respinge i nemici. Diventa più ampio quanto più a lungo canalizzi.\n\n\n\n\n\n\n\n\nPuò interrompere gli attacchi dei nemici piccoli.
+CODEX_SPELLVEHEMENTCLEAVE_DESC,"Tieni premuto per caricare. Rilascia per sferrare un fendente frontale che cresce con il tempo di carica, infliggendo Danno da taglio e respingendo i nemici. Consuma fino a 10 Furia per aumentare il danno, con maggiori benefici a carica più alta. Interrompe i nemici colpiti.\n\n\n\n\nDanno da taglio: (PS:6.8)"
 CODEX_SPELLVEHEMENTCLEAVE_ENRAGINGCLEAVE_DESC,"Fendente veemente non spende più Furia. Conferisce invece 2 accumuli di Furia per ogni nemico colpito, più altri 2 se rilasciato a carica completa."
 CODEX_SPELLVEHEMENTCLEAVE_ENRAGINGCLEAVE_NAME,Fendente Infuriante
 CODEX_SPELLVEHEMENTCLEAVE_EXECUTINGCLEAVE_DESC,"Fendente veemente infligge il 30% di danni in più ai nemici sotto il 40% di Salute, ma il 30% in meno a quelli sopra il 60%."
@@ -1836,7 +1836,7 @@ CODEX_SPELLWEAPONSWAP_SUPPORTVERSATILITY_DESC,Guerriero Versatile influenza anch
 CODEX_SPELLWEAPONSWAP_SUPPORTVERSATILITY_NAME,Versatilità di Supporto
 CODEX_SPELLWEAPONSWAP_VERSATILEWARRIOR_DESC,Cambio arma aumenta tutti i tuoi danni per 8 s.
 CODEX_SPELLWEAPONSWAP_VERSATILEWARRIOR_NAME,Guerriero Versatile
-CODEX_SPELLWHIRLOFGORE_DESC,Colpire un nemico affetto da Sanguinamento può scatenare un Vortice di Sangue che infligge Danno da taglio a tutti i nemici intorno a te. La probabilità aumenta con ogni accumulo di Sanguinamento sui nemici vicini.\n\n\nDanno da taglio: (PS:0.9)
+CODEX_SPELLWHIRLOFGORE_DESC,Colpire un nemico affetto da Sanguinamento può scatenare un Vortice di Sangue che infligge Danno da taglio a tutti i nemici intorno a te. La probabilità aumenta con ogni accumulo di Sanguinamento sui nemici vicini.\n\n\nDanno da taglio: (PS:1.43)
 CODEX_SPELLWHIRLOFGORE_NAME,Vortice di Sangue
 CODEX_STATARMOR_BLUNTARMOR_DESC,"Armatura fissa valida solo contro il Danno contundente, che si aggiunge alla tua Armatura generale."
 CODEX_STATARMOR_BLUNTARMOR_NAME,Armatura contundente
@@ -2004,7 +2004,7 @@ CODEX_TIMEDARMORDOWN_DESC,Un malus temporaneo che riduce la tua Armatura per tut
 CODEX_TIMEDARMORDOWN_NAME,Riduzione di Armatura
 CODEX_TIMEDARMORUP_DESC,Un bonus temporaneo che aumenta la tua Armatura per tutta la sua durata.
 CODEX_TIMEDARMORUP_NAME,Aumento di Armatura
-CODEX_TIMEDASHENESCALATION_DESC,Escalation di Cenere ha aumentato il Danno da fuoco in base agli accumuli di Ustione consumati.
+CODEX_TIMEDASHENESCALATION_DESC,Escalation di Cenere ha aumentato il Danno da ustione in base agli accumuli di Ustione consumati.
 CODEX_TIMEDASHENESCALATION_NAME,Escalation di Cenere
 CODEX_TIMEDATTACKSPEEDDOWN_DESC,Un malus temporaneo che riduce la tua Velocità d'attacco per tutta la sua durata.
 CODEX_TIMEDATTACKSPEEDDOWN_NAME,Riduzione di Velocità d'attacco

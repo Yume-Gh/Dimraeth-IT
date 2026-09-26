@@ -1,9 +1,46 @@
 # Dimraeth — traduzione italiana: stato e prosecuzione
 
-Documento di passaggio fra sessioni. Aggiornato al 2026-09-21.
+Documento di passaggio fra sessioni. Aggiornato al 2026-09-26.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
-sulla build del gioco del 2026-09-21.
+sulla build del gioco del 2026-09-26 (Steam buildid 25535277).
+
+---
+
+## Aggiornamento del gioco del 2026-09-26
+
+Secondo aggiornamento, quasi tutto **ribilanciamento**: **33 righe nuove, 63
+modificate, 1 rimossa** nel testo inglese. Tutte portate in `it/`, validate
+(0 errori, 0 avvisi, glossario pulito) e installate: 16/16 slot byte-identici
+a `it/`.
+
+**Versione 1.2** dell'installer: `installer/release/Dimraeth-Traduzione-Italiana-1.2.zip`,
+exe sha256 `58da8ee00c9cc8a9…`. Provata sul gioco vero: `--selftest` 16/16,
+rimozione che torna all'originale di Steam (sha `83ebbc01…`), installazione da
+zero byte-identica a `it/`. Il LEGGIMI ora dice 20.400 stringhe (20.403
+traducibili meno le tre etichette «HP»).
+
+**Trappola ripetuta:** `sed -i` su `LEGGIMI.txt` toglie i CRLF e, con `\r$`
+nel pattern, non sostituisce nemmeno. Modificarlo in Python sui byte.
+
+| categoria | cosa |
+|---|---|
+| Spells, Codex | coefficienti di danno `(XX:n)` ribilanciati in ~20 incantesimi; Palla di fuoco 12/10%→5%, Fendente Contundente 30→20% |
+| Spells, Codex | Scarica di Decadimento ora ha un valore per ciascuna delle tre passive che la attivano (Mannaia Infettiva, Tiro della Peste, Marciume Temporale), più tre voci interne «Balance-only dial» |
+| Spells, Codex | Colpo Innesco riscritto (non esplode più: è solo un potenziamento); Fendente veemente riscritto — il testo italiano esisteva già in `SKILL_MINOTAUR_NS3_DESC` ed è stato riusato; righe «per pugnale» / «per clone» |
+| Skills, Spells | Colpo furioso non costa più Salute: i tre nodi «Riduzione costo in Salute» diventano «Aumento portata» |
+| Passives, Skills, Attributes | Escalation di Cenere (10%, fino al 100%, e ora «Danno da ustione»), Frenesia Polverizzante (una volta ogni 10 s), Vedere Rosso (1%, fino al 100%) |
+| UI | 14 «Azione», «Mostra la missione seguita» ×2, `MONSTER_SHEEP` «Pecora», poker «Salta il turno», tre messaggi di accesso al server e uno anti-cheat |
+
+`UI_JOIN_BANNED` è reso «Questo server ti ha bandito», neutro rispetto al
+genere del giocatore.
+
+Il validatore vede solo chiavi **nuove o sparite**, non quelle **cambiate**:
+il confronto per chiave fra `source/English` e `old-build-<data>/source/English`
+resta indispensabile. Dopo la traduzione è stato fatto anche un controllo che
+per ogni riga toccata i numeri dell'italiano coincidano con quelli dell'inglese.
+
+La fotografia della build del 2026-09-21 è in `old-build-2026-09-21/`.
 
 ---
 

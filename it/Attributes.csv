@@ -274,7 +274,7 @@ EFFECT_ARMORDOWN_DESC,L'Armatura è ridotta e aumenta il Danno fisico subito.
 EFFECT_ARMORUP,Aumento di Armatura
 EFFECT_ARMORUP_DESC,L'Armatura è aumentata e riduce il Danno fisico subito.
 EFFECT_ASHENESCALATION,Escalation di Cenere
-EFFECT_ASHENESCALATION_DESC,Escalation di Cenere ha aumentato il Danno da fuoco in base agli accumuli di Ustione consumati.
+EFFECT_ASHENESCALATION_DESC,Escalation di Cenere ha aumentato il Danno da ustione in base agli accumuli di Ustione consumati.
 EFFECT_ATTACKSPEEDDOWN,Riduzione di Velocità d'attacco
 EFFECT_ATTACKSPEEDDOWN_DESC,la Velocità d'attacco si riduce.
 EFFECT_ATTACKSPEEDUP,Aumento di Velocità d'attacco
