@@ -1,9 +1,24 @@
 # Dimraeth — traduzione italiana: stato e prosecuzione
 
-Documento di passaggio fra sessioni. Aggiornato al 2026-09-26.
+Documento di passaggio fra sessioni. Aggiornato al 2026-09-27.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
-sulla build del gioco del 2026-09-26 (Steam buildid 25535277).
+sulla build del gioco del 2026-09-26 (Steam buildid 25535277, poi 25546572 senza cambiamenti).
+
+---
+
+## Aggiornamento Steam del 2026-09-27: nessun cambiamento
+
+Steam ha portato il buildid a **25546572**, ma è solo un cambio di depot
+(2402681 → 2402682) con contenuto identico. `content_log.txt`: «has no
+changes … 0 updated, 0 moved, 0 deleted files». Verificato sui byte: il backup
+dell'originale ha ancora sha `83ebbc01…` (il `base_sha` della v1.2), il file
+installato `44d6b8b3…`, `patch.py status` 16/16, `validate.py` 0 errori e 0
+avvisi. Testo inglese invariato: **la v1.2 resta valida**, nessuna release nuova.
+
+**Primo controllo da fare dopo un aggiornamento:** cercare `2402680` in
+`E:\Games\Steam\logs\content_log.txt` e leggere quanti file ha aggiornato la
+commit. Se sono zero, non c'è altro da fare.
 
 ---
 
