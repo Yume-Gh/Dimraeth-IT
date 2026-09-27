@@ -1,5 +1,6 @@
 ===============================================================================
-  DIMRAETH - TRADUZIONE ITALIANA          versione 1.2
+  DIMRAETH - TRADUZIONE ITALIANA        versione 1.2.1
+  per Dimraeth build Steam 25546572
   traduzione amatoriale, non ufficiale, non affiliata a Mudtek
 ===============================================================================
 
@@ -48,6 +49,11 @@ SE IL GIOCO VIENE AGGIORNATO
   Un aggiornamento di Steam riscrive i file del gioco, quindi la traduzione
   sparisce e va reinstallata. Riapri l'installer e premi di nuovo
   "Installa la traduzione".
+
+  La build del gioco installata la mostra l'installer, sotto lo stato.
+  Se e' diversa da 25546572 non e' per forza un problema: Steam cambia
+  numero di build anche quando i testi restano uguali, e l'installer
+  controlla da solo che la traduzione sia compatibile.
 
   Se dopo l'aggiornamento l'installer dice che non e' compatibile, vuol dire
   che gli sviluppatori hanno cambiato i testi: serve una versione nuova della

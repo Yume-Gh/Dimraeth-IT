@@ -3,7 +3,7 @@
 Documento di passaggio fra sessioni. Aggiornato al 2026-09-27.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
-sulla build del gioco del 2026-09-26 (Steam buildid 25535277, poi 25546572 senza cambiamenti).
+sulla build Steam **25546572** (contenuto identico alla 25535277 del 2026-09-26).
 
 ---
 
@@ -14,11 +14,32 @@ Steam ha portato il buildid a **25546572**, ma è solo un cambio di depot
 changes … 0 updated, 0 moved, 0 deleted files». Verificato sui byte: il backup
 dell'originale ha ancora sha `83ebbc01…` (il `base_sha` della v1.2), il file
 installato `44d6b8b3…`, `patch.py status` 16/16, `validate.py` 0 errori e 0
-avvisi. Testo inglese invariato: **la v1.2 resta valida**, nessuna release nuova.
+avvisi. Testo inglese invariato.
 
 **Primo controllo da fare dopo un aggiornamento:** cercare `2402680` in
 `E:\Games\Steam\logs\content_log.txt` e leggere quanti file ha aggiornato la
-commit. Se sono zero, non c'è altro da fare.
+commit. Se sono zero, i testi non sono cambiati.
+
+### Versione 1.2.1: la build al posto della data
+
+Stessi 16 CSV della v1.2. Cambia solo il riferimento alla versione del gioco,
+ora esplicito per **buildid Steam** invece che per data:
+
+- `installer/core.py`: `VERSION = "1.2.1"` e **`GAME_BUILD = "25546572"`** —
+  **da aggiornare a ogni release**, insieme al LEGGIMI e al README.
+  `core.game_build(game)` legge il buildid da `appmanifest_2402680.acf`, due
+  livelli sopra la cartella del gioco.
+- `installer/gui.py`: la build compare sotto il titolo, nel piede e sotto lo
+  stato («Build del gioco: …, la stessa della traduzione», oppure diversa, con
+  la precisazione che la compatibilità si controlla all'installazione). È
+  **solo informativa**: il blocco resta quello sugli slot, perché Steam cambia
+  buildid anche a contenuto identico, come in questo aggiornamento.
+- `LEGGIMI.txt` (intestazione e paragrafo sugli aggiornamenti) e `README.md`.
+
+Provata sul gioco vero: `--selftest` 16/16 con la build letta, rimozione che
+torna a `83ebbc01…`, installazione da zero a `44d6b8b3…` (identica alla v1.2).
+Pacchetto `installer/release/Dimraeth-Traduzione-Italiana-1.2.1.zip`, exe
+sha256 `21414eea365aecc5…`. Pubblicata come release **v1.2.1**.
 
 ---
 

@@ -44,6 +44,9 @@ class App(tk.Tk):
                  anchor="w").pack(side="left")
         self._icona_steam(testa)
         tk.Label(self, text="Sostituisce i testi russi del gioco con quelli italiani.",
+                 fg="#57606a", anchor="w").pack(fill="x", **pad)
+        tk.Label(self, text="Versione %s, per Dimraeth build Steam %s."
+                 % (core.VERSION, core.GAME_BUILD),
                  fg="#57606a", anchor="w").pack(fill="x", pady=(0, 14), **pad)
 
         tk.Label(self, text="Cartella del gioco", anchor="w",
@@ -92,7 +95,8 @@ class App(tk.Tk):
         piede = tk.Frame(self)
         piede.pack(fill="x", pady=(6, 12), **pad)
         grigio = "#8c959f"
-        tk.Label(piede, text="versione %s  ·  traduzione di " % core.VERSION,
+        tk.Label(piede, text="versione %s  ·  build %s  ·  traduzione di "
+                 % (core.VERSION, core.GAME_BUILD),
                  fg=grigio).pack(side="left")
 
         link = tk.Label(piede, text=core.AUTORE, fg="#0969da", cursor="hand2",
@@ -177,6 +181,13 @@ class App(tk.Tk):
             self._abilita(False, False)
             return
         stato, testo = core.status(g)
+        build = core.game_build(g) if stato != "assente" else None
+        if build == core.GAME_BUILD:
+            testo += chr(10) + "Build del gioco: %s, la stessa della traduzione." % build
+        elif build:
+            testo += (chr(10) + "Build del gioco: %s (la traduzione e' per la %s): "
+                      "all'installazione viene controllato che i testi siano "
+                      "compatibili." % (build, core.GAME_BUILD))
         self.lbl_stato.config(text=testo, fg=COLORI.get(stato, "#24292f"))
         if stato == "installata":
             self.btn_install.config(text="Reinstalla")
@@ -283,6 +294,8 @@ def selftest():
     g = core.find_game()
     righe.append("autore: %s <%s>" % (core.AUTORE, core.AUTORE_URL))
     righe.append("gioco: %s" % g)
+    righe.append("build: %s (traduzione per %s)"
+                 % (core.game_build(g) if g else None, core.GAME_BUILD))
     righe.append("stato: %s" % ((core.status(g),) if g else ("non trovato",)))
     testo = chr(10).join(righe)
     with open(os.path.join(os.path.dirname(sys.executable

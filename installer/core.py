@@ -29,7 +29,12 @@ TARGET_LANG = "Russian"
 BAK = ".dimraeth-it.bak"
 LABEL_FROM = "Русский".encode("utf-8")            # 14 byte
 LABEL_TO = "Italiano".encode("utf-8") + b" " * 6  # 14 byte, stessa lunghezza
-VERSION = "1.2"
+VERSION = "1.2.1"
+# buildid Steam su cui la traduzione e' stata verificata. Solo informativo: Steam
+# cambia buildid anche senza toccare i file (25535277 -> 25546572 fu un cambio
+# di depot a contenuto identico), quindi la compatibilita' vera la decidono gli
+# slot in install(), non questo numero.
+GAME_BUILD = "25546572"
 AUTORE = "Yume"
 AUTORE_URL = "https://steamcommunity.com/id/yumexx/"
 GIOCO_URL = "https://store.steampowered.com/app/%s/" % APPID
@@ -113,6 +118,25 @@ def find_game():
         cand = os.path.join(lib, "steamapps", "common", INSTALLDIR)
         if is_game_folder(cand):
             return cand
+    return None
+
+
+def game_build(game):
+    """buildid Steam del gioco installato in `game`, o None se non si legge.
+
+    L'appmanifest sta in <libreria>/steamapps, due livelli sopra la cartella
+    del gioco (<libreria>/steamapps/common/<installdir>).
+    """
+    acf = os.path.join(os.path.dirname(os.path.dirname(os.path.normpath(game))),
+                       "appmanifest_%s.acf" % APPID)
+    try:
+        with open(acf, encoding="utf-8", errors="replace") as f:
+            for line in f:
+                parts = line.split('"')
+                if len(parts) >= 4 and parts[1] == "buildid":
+                    return parts[3]
+    except OSError:
+        pass
     return None
 
 
