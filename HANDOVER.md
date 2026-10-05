@@ -1,9 +1,37 @@
 # Dimraeth — traduzione italiana: stato e prosecuzione
 
-Documento di passaggio fra sessioni. Aggiornato al 2026-09-27.
+Documento di passaggio fra sessioni. Aggiornato al 2026-10-05.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
-sulla build Steam **25546572** (contenuto identico alla 25535277 del 2026-09-26).
+sulla build Steam **25684114** (testi identici alla 25535277 del 2026-09-26).
+
+---
+
+## Aggiornamento Steam del 2026-10-05: file nuovi, testi invariati (v1.2.2)
+
+Build **25684114**. Questa volta l'aggiornamento è vero: `content_log.txt`
+riporta **71 file aggiornati e 2 cancellati**, fra cui `sharedassets1.assets`
+(283.884.360 → 283.890.104 byte, sha originale ora `0eb342cd…`) e
+`global-metadata.dat`. La traduzione installata era quindi sparita, e
+`patch.py status` ha segnalato il backup obsoleto come previsto.
+
+Procedura seguita: `source/` e i due `.bak` vecchi spostati in
+`old-build-2026-09-27/`, `extract.py` (English 16 categorie; l'avviso sul
+doppio `Attributes` inglese c'era già nella build precedente, 26.225 e 15.082
+byte), poi confronto byte per byte di **tutti** i CSV estratti, cinque lingue:
+**identici**. Quindi nessuna riga da tradurre: `validate.py` 0 errori e 0
+avvisi, `patch.py install --label`, slot 16/16 byte-identici a `it/`, sha
+installato `87509e14…`.
+
+**Versione 1.2.2**: stessi CSV, cambiano solo `VERSION`, `GAME_BUILD =
+"25684114"`, LEGGIMI e README. Provata: `--selftest` dell'exe 16/16 con build
+25684114, rimozione che torna a `0eb342cd…` senza backup residuo, installazione
+da zero a `87509e14…`. Pacchetto
+`installer/release/Dimraeth-Traduzione-Italiana-1.2.2.zip`, exe sha256
+`88b558919d1057c6…`. Pubblicata come release **v1.2.2**.
+
+Agli utenti serve comunque **reinstallare** (Steam ha riscritto il file): la
+1.2.1 funzionerebbe anche, ma la 1.2.2 mostra la build giusta.
 
 ---
 
