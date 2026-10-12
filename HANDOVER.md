@@ -34,7 +34,9 @@ stringhe 20.400 → **20.402** (20.405 traducibili meno le tre «HP»). Provata:
 `--selftest` 16/16 con build 25880827, rimozione che torna a `5a9ea79d…`
 senza backup residuo, installazione da zero a `ad177c90…`. Pacchetto
 `installer/release/Dimraeth-Traduzione-Italiana-1.3.zip`, exe sha256
-`a0212f8181c10463…`.
+`a0212f8181c10463…`. Pubblicata come release **v1.3** (al primo tentativo
+GitHub ha risposto HTTP 500 senza lasciare né bozza né tag; il secondo è
+riuscito). Exe e zip riscaricati dal link pubblico: sha identici.
 
 **Le versioni 1.2.x su questa build** dovrebbero ancora installarsi (i loro CSV
 sono più corti, quindi entrano negli slot; non provato), ma mancano le due
