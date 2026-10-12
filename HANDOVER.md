@@ -1,9 +1,44 @@
 # Dimraeth — traduzione italiana: stato e prosecuzione
 
-Documento di passaggio fra sessioni. Aggiornato al 2026-10-05.
+Documento di passaggio fra sessioni. Aggiornato al 2026-10-12.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
-sulla build Steam **25684114** (testi identici alla 25535277 del 2026-09-26).
+sulla build Steam **25880827**.
+
+---
+
+## Aggiornamento Steam del 2026-10-12: due righe nuove (v1.3)
+
+Build **25880827**. `content_log.txt`: **62 file aggiornati, 1 cancellato**;
+`sharedassets1.assets` 283.890.104 → 283.945.528 byte, sha originale ora
+`5a9ea79d…`. `patch.py status` ha segnalato il backup obsoleto.
+
+Procedura: `source/` e i due `.bak` spostati in `old-build-2026-10-05/`,
+`extract.py` (English 16 categorie, solito doppio `Attributes`), confronto
+byte per byte delle cinque lingue: cambia **solo `Attributes`**. Per chiave,
+2 righe **nuove** e nessuna modificata o rimossa:
+
+| chiave | italiano |
+|---|---|
+| `EFFECT_CERESBLESSING` | Benedizione di Ceres |
+| `EFFECT_CERESBLESSING_DESC` | Benedizione di Ceres ha aumentato per breve tempo il Danno magico dopo il lancio di un incantesimo di Etere. |
+
+Il nome era già in uso per lo stesso bonus (`EQUIPMENT_SPIRITBOUND_BONUS_5`);
+la frase segue la formula delle voci sorelle (`EFFECT_BLOODINTHEWATER_DESC`…).
+`validate.py` 0 errori e 0 avvisi, `patch.py install --label`, 16/16 slot
+identici a `it/` (confronto col payload paddato, perché `extract.py` non
+riconosce più lo slot come russo), sha installato `ad177c90…`.
+
+**Versione 1.3**: `VERSION`, `GAME_BUILD = "25880827"`, LEGGIMI e README,
+stringhe 20.400 → **20.402** (20.405 traducibili meno le tre «HP»). Provata:
+`--selftest` 16/16 con build 25880827, rimozione che torna a `5a9ea79d…`
+senza backup residuo, installazione da zero a `ad177c90…`. Pacchetto
+`installer/release/Dimraeth-Traduzione-Italiana-1.3.zip`, exe sha256
+`a0212f8181c10463…`.
+
+**Le versioni 1.2.x su questa build** dovrebbero ancora installarsi (i loro CSV
+sono più corti, quindi entrano negli slot; non provato), ma mancano le due
+righe di Benedizione di Ceres: serve la 1.3.
 
 ---
 

@@ -294,6 +294,8 @@ EFFECT_BULWARK_DESC,Baluardo ha conferito Armatura bonus per breve tempo dopo ch
 EFFECT_BURNING,Ustione
 EFFECT_BURNINGRESISTANCE,Resistenza Ustione
 EFFECT_BURNINGRESISTANCE_DESC,"Quando un Effetto ad accumulo di Ustione si applica a un bersaglio con questo effetto attivo, riduci gli accumuli applicati del 50%, arrotondando per eccesso, con un minimo di 1."
+EFFECT_CERESBLESSING,Benedizione di Ceres
+EFFECT_CERESBLESSING_DESC,Benedizione di Ceres ha aumentato per breve tempo il Danno magico dopo il lancio di un incantesimo di Etere.
 EFFECT_CHILL,Gelo
 EFFECT_COLDSCALEDPOWER,Potere Scalato dal Freddo
 EFFECT_COLDSCALEDPOWER_DESC,Potere Scalato dal Freddo ha aumentato il Danno magico in base agli accumuli di Gelo del bersaglio.

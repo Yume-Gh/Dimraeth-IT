@@ -1,7 +1,7 @@
 # Dimraeth — traduzione italiana
 
 Traduzione italiana completa e non ufficiale di **[Dimraeth](https://store.steampowered.com/app/2402680/)**
-(Mudtek). Tutte e sedici le categorie di testo del gioco: **20.400 stringhe**,
+(Mudtek). Tutte e sedici le categorie di testo del gioco: **20.402 stringhe**,
 interfaccia, oggetti, abilità, incantesimi, missioni, codex e i **5.202
 dialoghi** degli NPC.
 
@@ -9,7 +9,7 @@ dialoghi** degli NPC.
 
 **[→ Ultima versione](../../releases/latest)** — un solo file, niente da installare.
 
-Versione attuale: **1.2.2**, per Dimraeth **build Steam 25684114**.
+Versione attuale: **1.3**, per Dimraeth **build Steam 25880827**.
 
 1. Chiudi il gioco.
 2. Avvia `Dimraeth-IT-Setup.exe`.

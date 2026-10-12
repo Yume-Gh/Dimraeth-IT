@@ -29,12 +29,12 @@ TARGET_LANG = "Russian"
 BAK = ".dimraeth-it.bak"
 LABEL_FROM = "Русский".encode("utf-8")            # 14 byte
 LABEL_TO = "Italiano".encode("utf-8") + b" " * 6  # 14 byte, stessa lunghezza
-VERSION = "1.2.2"
+VERSION = "1.3"
 # buildid Steam su cui la traduzione e' stata verificata. Solo informativo: Steam
 # cambia buildid anche senza toccare i file (25535277 -> 25546572 fu un cambio
 # di depot a contenuto identico), quindi la compatibilita' vera la decidono gli
 # slot in install(), non questo numero.
-GAME_BUILD = "25684114"
+GAME_BUILD = "25880827"
 AUTORE = "Yume"
 AUTORE_URL = "https://steamcommunity.com/id/yumexx/"
 GIOCO_URL = "https://store.steampowered.com/app/%s/" % APPID
