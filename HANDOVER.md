@@ -39,7 +39,8 @@ scarta i backup vecchi e arriva a `eb67a5c8…` con backup `493a7651…`,
 rimozione che torna a `493a7651…` senza backup residui, installazione da zero
 di nuovo a `eb67a5c8…`. Pacchetto
 `installer/release/Dimraeth-Traduzione-Italiana-1.3.1.zip`, exe sha256
-`53559053eb6fbaf0…`.
+`53559053eb6fbaf0…`. Pubblicata come release **v1.3.1**; exe e zip
+riscaricati dal link pubblico: sha identici.
 
 **Chi ha la 1.3** deve reinstallare, e conviene con la 1.3.1: la 1.3
 installerebbe correttamente, ma terrebbe il backup vecchio e «Rimuovi»
