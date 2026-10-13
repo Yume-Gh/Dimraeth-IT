@@ -163,6 +163,18 @@ def pad_csv(payload, target):
     return bytes(out)
 
 
+def same_outside_slots(a, b, slots):
+    """True se a e b coincidono ovunque tranne che nei payload degli slot."""
+    a, b, pos = memoryview(a), memoryview(b), 0
+    if len(a) != len(b):
+        return False
+    for s in sorted(slots, key=lambda s: s.payload_off):
+        if a[pos:s.payload_off] != b[pos:s.payload_off]:
+            return False
+        pos = max(pos, s.payload_off + s.size)
+    return a[pos:] == b[pos:]
+
+
 def splice(data, slot, new_payload):
     """Sostituisce il payload di uno slot. Richiede lunghezza identica."""
     if len(new_payload) != slot.size:

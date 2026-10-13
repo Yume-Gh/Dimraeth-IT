@@ -43,7 +43,8 @@ def backup_stale(assets, data=None):
         with open(assets, "rb") as f:
             data = f.read()
     with open(bak, "rb") as f:
-        picked, probs = uf.pick_slots(uf.scan(f.read()), TARGET_LANG)
+        bdata = f.read()
+    picked, probs = uf.pick_slots(uf.scan(bdata), TARGET_LANG)
     if probs:
         return "gli slot del backup non si risolvono piu': " + "; ".join(probs)
     bad = sorted(c for c, sl in picked.items()
@@ -52,6 +53,12 @@ def backup_stale(assets, data=None):
     if bad:
         return ("gli offset del backup non cadono piu' su un CSV: "
                 + ", ".join(bad[:4]) + ("..." if len(bad) > 4 else ""))
+    # Dimensione e offset non bastano: l'aggiornamento del 2026-10-13 ha
+    # riscritto il file lasciandone identici lunghezza e slot. La patch tocca
+    # solo i payload degli slot, quindi fuori da quelli un backup valido
+    # coincide byte per byte col file attuale.
+    if not uf.same_outside_slots(data, bdata, picked.values()):
+        return "il file differisce dal backup anche fuori dalle tabelle di testo"
     return None
 
 

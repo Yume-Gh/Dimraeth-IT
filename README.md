@@ -9,7 +9,7 @@ dialoghi** degli NPC.
 
 **[→ Ultima versione](../../releases/latest)** — un solo file, niente da installare.
 
-Versione attuale: **1.3**, per Dimraeth **build Steam 25880827**.
+Versione attuale: **1.3.1**, per Dimraeth **build Steam 25914187**.
 
 1. Chiudi il gioco.
 2. Avvia `Dimraeth-IT-Setup.exe`.

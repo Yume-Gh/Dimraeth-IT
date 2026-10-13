@@ -29,12 +29,12 @@ TARGET_LANG = "Russian"
 BAK = ".dimraeth-it.bak"
 LABEL_FROM = "Русский".encode("utf-8")            # 14 byte
 LABEL_TO = "Italiano".encode("utf-8") + b" " * 6  # 14 byte, stessa lunghezza
-VERSION = "1.3"
+VERSION = "1.3.1"
 # buildid Steam su cui la traduzione e' stata verificata. Solo informativo: Steam
 # cambia buildid anche senza toccare i file (25535277 -> 25546572 fu un cambio
 # di depot a contenuto identico), quindi la compatibilita' vera la decidono gli
 # slot in install(), non questo numero.
-GAME_BUILD = "25880827"
+GAME_BUILD = "25914187"
 AUTORE = "Yume"
 AUTORE_URL = "https://steamcommunity.com/id/yumexx/"
 GIOCO_URL = "https://store.steampowered.com/app/%s/" % APPID
@@ -181,13 +181,18 @@ def backup_stale(assets, data=None):
         with open(assets, "rb") as f:
             data = f.read()
     with open(bak, "rb") as f:
-        picked, probs = uf.pick_slots(uf.scan(f.read()), TARGET_LANG)
+        bdata = f.read()
+    picked, probs = uf.pick_slots(uf.scan(bdata), TARGET_LANG)
     if probs:
         return "gli slot del backup non si risolvono piu'"
     bad = sorted(c for c, sl in picked.items()
                  if not data[sl.payload_off:sl.payload_off + sl.size].startswith(uf.BOM))
     if bad:
         return "gli offset del backup non corrispondono piu' al file del gioco"
+    # Un aggiornamento puo' lasciare identici dimensione e offset (2026-10-13):
+    # fuori dagli slot un backup valido coincide col file attuale.
+    if not uf.same_outside_slots(data, bdata, picked.values()):
+        return "il file del gioco e' cambiato rispetto al backup"
     return None
 
 

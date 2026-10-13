@@ -1,9 +1,49 @@
 # Dimraeth — traduzione italiana: stato e prosecuzione
 
-Documento di passaggio fra sessioni. Aggiornato al 2026-10-12.
+Documento di passaggio fra sessioni. Aggiornato al 2026-10-13.
 
 **La traduzione è COMPLETA**: 16 categorie su 16, installata e verificata
-sulla build Steam **25880827**.
+sulla build Steam **25914187**.
+
+---
+
+## Aggiornamento Steam del 2026-10-13: testi invariati, guardia più severa (v1.3.1)
+
+Build **25914187**. `content_log.txt`: **69 file aggiornati, 6 cancellati**.
+`sharedassets1.assets` riscritto ma con **la stessa dimensione** di prima
+(283.945.528 byte), sha originale ora `493a7651…`; anche `global-metadata.dat`
+riscritto (22.694.472 → 22.690.648 byte).
+
+**La guardia non se n'è accorta.** `patch.py status` diceva «PATCHATO (0/16)»
+senza segnalare il backup obsoleto: stessa dimensione e offset degli slot
+ancora sui BOM, quindi `backup_stale()` lo dava per buono. Con l'installer 1.3
+lo stato sarebbe risultato «installata» a traduzione sparita, «Installa»
+avrebbe tenuto il backup della build vecchia e un «Rimuovi» successivo
+l'avrebbe ricopiato sopra il gioco nuovo. Corretto in `tools/patch.py` e
+`installer/core.py` con un terzo controllo: **fuori dagli slot il backup deve
+coincidere byte per byte col file attuale** (`unityfile.same_outside_slots`).
+Provato sui quattro casi (patchato/originale × backup nuovo/vecchio): obsoleto
+solo con il backup vecchio, in entrambi gli strumenti.
+
+Procedura: `source/` e i due `.bak` spostati in `old-build-2026-10-12/`,
+`extract.py` (English 16 categorie, solito doppio `Attributes`), confronto
+byte per byte di tutti gli 88 CSV, cinque lingue: **identici**. Nessuna riga
+da tradurre. `validate.py` 0 errori e 0 avvisi, `patch.py install --label`,
+16/16 slot identici a `it/` (payload paddato), sha installato `eb67a5c8…`.
+
+**Versione 1.3.1**: guardia nuova, `VERSION`, `GAME_BUILD = "25914187"`,
+LEGGIMI e README; stringhe invariate (20.402). Provata: `--selftest` 16/16
+con build 25914187; poi con `core.py` il caso di chi ha la 1.3 (file nuovo di
+Steam + backup della build del 12/10): stato «aggiornato», installazione che
+scarta i backup vecchi e arriva a `eb67a5c8…` con backup `493a7651…`,
+rimozione che torna a `493a7651…` senza backup residui, installazione da zero
+di nuovo a `eb67a5c8…`. Pacchetto
+`installer/release/Dimraeth-Traduzione-Italiana-1.3.1.zip`, exe sha256
+`53559053eb6fbaf0…`.
+
+**Chi ha la 1.3** deve reinstallare, e conviene con la 1.3.1: la 1.3
+installerebbe correttamente, ma terrebbe il backup vecchio e «Rimuovi»
+romperebbe il gioco (rimedio: «Verifica integrità dei file» su Steam).
 
 ---
 
